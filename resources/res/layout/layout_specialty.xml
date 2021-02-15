@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:id="@+id/sp_toolbar" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:popupTheme="@style/MedscapeTheme.PopupOverlay"/>
+    </com.google.android.material.appbar.AppBarLayout>
+    <com.medscape.android.view.NoScrollListView android:id="@android:id/list" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="match_parent" android:listSelector="@drawable/default_list_view"/>
+</LinearLayout>

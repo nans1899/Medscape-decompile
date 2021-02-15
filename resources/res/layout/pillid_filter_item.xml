@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@drawable/pillid_round_edge_text_view_shape" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <ImageView android:layout_gravity="top|center_vertical|center_horizontal|center" android:id="@+id/image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="20dp" android:src="@drawable/pill_id_shape_201" android:scaleType="centerInside"/>
+    <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@+id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/pill_identifier_filter_shape_201" android:maxLines="1"/>
+</FrameLayout>

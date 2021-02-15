@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/nav_graph_explore" app:startDestination="@+id/navigation_explore">
+    <fragment android:label="Explore" android:name="com.webmd.medscape.live.explorelivevents.ui.fragments.ExploreFragment" android:id="@+id/navigation_explore">
+        <action android:id="@+id/action_navigation_explore_to_navigation_event" app:destination="@+id/navigation_events"/>
+        <action android:id="@+id/action_explore_to_live_event" app:destination="@+id/navigation_live_event" app:enterAnim="@anim/anim_slide_left" app:popEnterAnim="@anim/anim_slide_right"/>
+        <action android:id="@+id/action_explore_to_events" app:destination="@+id/navigation_events" app:enterAnim="@anim/anim_slide_left" app:popEnterAnim="@anim/anim_slide_right"/>
+        <action android:id="@+id/action_explore_to_filter_selection" app:destination="@+id/navigation_filter_selection" app:enterAnim="@anim/anim_slide_bottom" app:popEnterAnim="@anim/anim_slide_top"/>
+    </fragment>
+    <fragment android:label="Explore" android:name="com.webmd.medscape.live.explorelivevents.ui.fragments.EventsFragment" android:id="@+id/navigation_events">
+        <action android:id="@+id/action_events_to_filter_selection" app:destination="@+id/navigation_filter_selection"/>
+        <action android:id="@+id/action_events_to_live_event" app:destination="@+id/navigation_live_event" app:enterAnim="@anim/anim_slide_left" app:popEnterAnim="@anim/anim_slide_right"/>
+        <action android:id="@+id/action_events_to_explore" app:destination="@+id/navigation_explore"/>
+        <argument android:name="base_url" app:argType="string"/>
+        <argument android:name="title" android:defaultValue="@null" app:argType="string" app:nullable="true"/>
+        <argument android:name="style_manager" android:defaultValue="@null" app:argType="com.webmd.medscape.live.explorelivevents.common.StyleManager" app:nullable="true"/>
+        <argument android:name="start_date" android:defaultValue="@null" app:argType="string" app:nullable="true"/>
+        <argument android:name="end_date" android:defaultValue="@null" app:argType="string" app:nullable="true"/>
+    </fragment>
+    <fragment android:label="Event" android:name="com.webmd.medscape.live.explorelivevents.ui.fragments.LiveEventFragment" android:id="@+id/navigation_live_event">
+        <argument android:name="event_url" app:argType="string"/>
+        <argument android:name="style_manager" android:defaultValue="@null" app:argType="com.webmd.medscape.live.explorelivevents.common.StyleManager" app:nullable="true"/>
+    </fragment>
+    <fragment android:name="com.webmd.medscape.live.explorelivevents.ui.fragments.FilterSelectionFragment" android:id="@+id/navigation_filter_selection">
+        <action android:id="@+id/action_specialty_selection_to_results" app:destination="@+id/navigation_events" app:popUpTo="@+id/navigation_explore" app:popUpToInclusive="false"/>
+        <argument android:name="view_type" android:defaultValue="1" app:argType="integer"/>
+        <argument android:name="is_from_explore" android:defaultValue="false" app:argType="boolean"/>
+        <argument android:name="base_url" app:argType="string"/>
+        <argument android:name="title" android:defaultValue="@null" app:argType="string" app:nullable="true"/>
+        <argument android:name="styleManager" android:defaultValue="@null" app:argType="com.webmd.medscape.live.explorelivevents.common.StyleManager" app:nullable="true"/>
+        <argument android:name="start_date" android:defaultValue="@null" app:argType="string" app:nullable="true"/>
+        <argument android:name="end_date" android:defaultValue="@null" app:argType="string" app:nullable="true"/>
+    </fragment>
+</navigation>

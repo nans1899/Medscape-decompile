@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <include android:id="@+id/find_actionbar_container" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/find_actionbar"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/drug_spinner_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="16sp" android:textColor="@color/white" android:id="@+id/drugGenericName" android:paddingRight="4dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Title" android:fontFamily="sans-serif"/>
+        <Spinner android:layout_gravity="bottom|left|center_vertical|center_horizontal|center" android:id="@+id/toolbar_spinner" android:layout_width="wrap_content" android:layout_height="wrap_content" android:dropDownVerticalOffset="29dp"/>
+    </LinearLayout>
+</LinearLayout>

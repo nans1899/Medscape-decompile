@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.firebase.inappmessaging.display.internal.layout.ModalLayoutPortrait xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:theme="@style/FiamUI" android:id="@+id/modal_content_root" android:background="@drawable/rounded_layout" android:padding="24dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_centerInParent="true" app:maxHeightPct="@dimen/dialogHeightPct" app:maxWidthPct="@dimen/dialogWidthPct" style="@style/FiamUI.Modal">
+    <TextView android:gravity="center" android:layout_gravity="center_horizontal" android:id="@+id/message_title" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/FiamUI.Text.Title"/>
+    <ImageView android:layout_gravity="center_horizontal" android:id="@+id/image_view" android:scaleType="centerInside" android:contentDescription="@string/modal_inner_content_descriptor" style="@style/FiamUI.ModalImageView"/>
+    <ScrollView android:id="@+id/body_scroll" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:gravity="center_horizontal" android:id="@+id/message_body" style="@style/FiamUI.ModalBody"/>
+    </ScrollView>
+    <Button android:layout_gravity="center_horizontal" android:id="@+id/button" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</com.google.firebase.inappmessaging.display.internal.layout.ModalLayoutPortrait>

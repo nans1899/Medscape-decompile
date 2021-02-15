@@ -1,0 +1,29 @@
+{
+    "version" : "1.0",
+    "analytics" : {
+        "rsids" : "webmdp1global",
+        "server" : "ssl.o.medscape.com",
+        "charset" : "UTF-8",
+        "ssl" : true,
+		"offlineEnabled" : false,
+        "lifecycleTimeout" : 300,
+		"referrerTimeout" : 0,
+        "batchLimit" : 0,
+        "privacyDefault" : "optedout",
+		"poi" : []
+    },
+	"target" : {
+		"clientCode" : "",
+		"timeout" : 5
+	},
+	"audienceManager" : {
+		"server" : ""
+	},
+	"acquisition" : {
+		"server" : "",
+		"appid" : ""
+	},
+	"marketingCloud" : {
+		"org": "16AD4362526701720A490D45@AdobeOrg"
+	}
+}

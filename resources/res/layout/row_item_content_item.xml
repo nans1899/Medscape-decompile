@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@drawable/selector_white_background" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <RelativeLayout android:id="@+id/container_view" android:paddingLeft="@dimen/listview_margin_left" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/listview_margin_left">
+        <View android:id="@+id/divider" android:background="@color/list_view_divider_color" android:layout_width="match_parent" android:layout_height="@dimen/listview_divider_height" android:layout_alignParentTop="true"/>
+        <RelativeLayout android:paddingTop="@dimen/list_view_padding_top" android:paddingRight="@dimen/listview_margin_right" android:paddingBottom="@dimen/list_view_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:paddingEnd="@dimen/listview_margin_right" android:layout_alignParentStart="true" android:layout_alignParentEnd="true">
+            <TextView android:gravity="start" android:id="@+id/result_title_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/content_item_text"/>
+            <TextView android:gravity="start" android:id="@+id/description_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/result_title_text_view" style="@style/content_item_description_text"/>
+            <TextView android:gravity="end" android:id="@+id/footer_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_below="@+id/description_text_view" style="@style/content_item_footer_text"/>
+        </RelativeLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/updating_overlay" android:background="#aaffffff" android:paddingLeft="@dimen/listview_margin_left" android:paddingRight="@dimen/listview_margin_right" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="@dimen/listview_margin_left" android:paddingEnd="@dimen/listview_margin_right">
+        <ProgressBar android:id="@+id/progress_bar" android:background="@null" android:layout_width="match_parent" android:layout_height="wrap_content" android:indeterminate="true" android:layout_alignParentBottom="true" style="?android:attr/progressBarStyleHorizontal"/>
+    </RelativeLayout>
+</FrameLayout>

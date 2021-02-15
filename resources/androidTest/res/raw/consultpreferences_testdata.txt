@@ -1,0 +1,5 @@
+pathToTestPreferencesFile=/androidTest/res/raw/valid_consult_preferences.txt
+noOfPreferences=10
+totalPushPreferences=5
+totalEnabledPushPreferences=4
+totalDisabledPushPreferences=1

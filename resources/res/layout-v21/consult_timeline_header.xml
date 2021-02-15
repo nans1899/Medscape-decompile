@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/consult_header" android:background="@color/material_grey_50" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:foreground="?android:attr/selectableItemBackground" android:elevation="@dimen/cardview_default_elevation" app:slm_headerDisplay="11" app:slm_isHeader="true">
+    <include android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/consult_quality_header_layout"/>
+    <include layout="@layout/consult_sponser_header"/>
+    <RelativeLayout android:id="@+id/consult_header_body" android:background="@android:color/white" android:paddingTop="10dp" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@+id/contact_image_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:layout_centerVertical="true" android:layout_marginStart="10dp" android:layout_marginEnd="5dp" android:layout_alignParentStart="true">
+            <com.medscape.android.consult.util.ConsultProfileImageView android:id="@+id/contact_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true"/>
+        </RelativeLayout>
+        <LinearLayout android:orientation="vertical" android:id="@+id/contact_info_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toStartOf="@+id/time_and_partner_logo" android:layout_toEndOf="@+id/contact_image_layout">
+            <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/medscape_blue" android:ellipsize="end" android:id="@+id/contact_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true"/>
+            <TextView android:textSize="14sp" android:textColor="@color/consult_subtitle_text" android:id="@+id/contact_field" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/time_and_partner_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10dp" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+            <ImageView android:id="@+id/consult_partner_logo" android:layout_width="75dp" android:layout_height="50dp" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:scaleType="fitCenter" android:adjustViewBounds="true"/>
+            <TextView android:textSize="12dp" android:textColor="@color/consult_time" android:id="@+id/time_since" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

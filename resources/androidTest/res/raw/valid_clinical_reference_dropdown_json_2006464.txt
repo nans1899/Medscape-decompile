@@ -1,0 +1,41 @@
+{
+    "Localized Disease": [
+        null
+    ],
+    "Adjuvant Chemotherapy, HER2\/neu+ Localized Disease": [
+        null
+    ],
+    "Adjuvant Chemotherapy, HER2\/neu- Localized Disease": [
+        null
+    ],
+    "Adjuvant Endocrine Therapy, ER\/PR+ Localized Disease": [
+        null
+    ],
+    "Locally Advanced Disease": [
+        null
+    ],
+    "Metastatic or Recurrent Disease (Stage IV)": [
+        null
+    ],
+    "Chemotherapy, Recurrent or Metastatic Disease": [
+        null
+    ],
+    "HER2\/neu+ Metastatic Disease": [
+        null
+    ],
+    "HER2\/neu- Metastatic Disease": [
+        null
+    ],
+    "Breast Cancer Surgery": [
+        null
+    ],
+    "Special Considerations": [
+        null
+    ],
+    "Breast Cancer Screening and Workup": [
+        null
+    ],
+    "Contraindications to Treatment": [
+        null
+    ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/ic_action_discard" android:id="@+id/action_remove" android:title="@string/remove" app:showAsAction="always"/>
+    <item android:icon="@drawable/ic_action_new" android:id="@+id/action_add_to_interactions" android:title="@string/add_to_interactions" app:showAsAction="ifRoom"/>
+    <item android:icon="@drawable/ic_action_email" android:id="@+id/action_share_email" android:title="@string/email" app:showAsAction="ifRoom"/>
+    <item android:icon="@drawable/facebook_icon" android:id="@+id/action_share_facebook" android:title="@string/facebook" app:showAsAction="ifRoom"/>
+</menu>

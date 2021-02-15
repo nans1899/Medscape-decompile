@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/container_view" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@+id/image_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" android:contentDescription="@string/accessibility_featured_content_ad"/>
+        <com.wbmd.qxcalculator.views.PassThruView android:id="@+id/image_view_ripple" android:background="?android:attr/selectableItemBackground" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+    <RelativeLayout android:orientation="vertical" android:id="@+id/text_container_view" android:paddingLeft="@dimen/listview_margin_left" android:paddingTop="@dimen/list_view_padding_top" android:paddingRight="@dimen/listview_margin_right" android:paddingBottom="@dimen/list_view_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/listview_margin_left" android:paddingEnd="@dimen/listview_margin_right">
+        <com.wbmd.qxcalculator.views.BetterLinkTextView android:id="@+id/title_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentStart="true" style="@style/featured_content_title_text"/>
+        <com.wbmd.qxcalculator.views.BetterLinkTextView android:id="@+id/body_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/title_text_view" style="@style/featured_content_body_text"/>
+        <com.wbmd.qxcalculator.views.BetterLinkTextView android:id="@+id/disclaimer_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/default_padding" android:layout_below="@+id/body_text_view" style="@style/featured_content_disclaimer_text"/>
+        <com.wbmd.qxcalculator.views.BetterLinkTextView android:gravity="end" android:id="@+id/footer_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_below="@+id/disclaimer_text_view" style="@style/featured_content_footer_text"/>
+    </RelativeLayout>
+</FrameLayout>

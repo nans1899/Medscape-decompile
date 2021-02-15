@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@drawable/s_menu_bg" android:layout_width="match_parent" android:layout_height="match_parent">
+    <Button android:id="@+id/panel_display_horizontal" android:background="@drawable/st_btn_panel_view_mode_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="1dp" android:minHeight="1dp"/>
+    <Button android:id="@+id/panel_display_bilateral" android:background="@drawable/st_btn_panel_view_mode_bilateral" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:minWidth="1dp" android:minHeight="1dp"/>
+    <Button android:id="@+id/panel_display_vertical" android:background="@drawable/st_btn_panel_view_mode_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:minWidth="1dp" android:minHeight="1dp"/>
+    <Button android:id="@+id/panel_display_thumbnail" android:background="@drawable/st_btn_panel_view_mode_thumbnail" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:minWidth="1dp" android:minHeight="1dp"/>
+</LinearLayout>

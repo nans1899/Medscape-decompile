@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:background="@color/activity_toolbar_background" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:elevation="4dp" app:theme="@style/MyToolbars"/>
+    <RelativeLayout android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+        <WebView android:id="@+id/web_view" android:paddingBottom="30dp" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="30dp"/>
+        <ProgressBar android:id="@+id/progress_bar" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" style="@style/progressbarStyle"/>
+        <include android:gravity="center" android:layout_gravity="center" android:id="@+id/noNetworkView" android:background="@android:color/white" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/cme_no_network_view"/>
+    </RelativeLayout>
+</LinearLayout>

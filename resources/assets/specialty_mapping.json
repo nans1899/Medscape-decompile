@@ -1,0 +1,1393 @@
+{
+    "version": 2,
+    "data": {
+        "associated_groups": {
+            "webmd": [
+                {
+                    "id": "1000",
+                    "descr": "Allergists & Clinical Immunologists",
+                    "associated_ids": ["45"],
+                    "all_ids": ["45"]
+                },
+                {
+                    "id": "1100",
+                    "descr": "Cardiologists",
+                    "associated_ids": ["32","59","283","285","317","332", "333","342"],
+                    "all_ids": ["32","59","283","285","317","332", "333","342"]
+                },
+                {
+                    "id": "1200",
+                    "descr": "Critical Care Specialists",
+                    "associated_ids": ["287", "344"],
+                    "all_ids": ["287", "344"]
+                },
+                {
+                    "id": "1300",
+                    "descr": "Dermatologistss",
+                    "associated_ids": ["35"],
+                    "all_ids": ["35"]
+                },
+                {
+                    "id": "1400",
+                    "descr": "Diabetologists & Endocrinologists",
+                    "associated_ids": ["1","2","96","111"],
+                    "all_ids": ["1","2","96","111"]
+                },
+                {
+                    "id": "1500",
+                    "descr": "Gastroenterologists",
+                    "associated_ids": ["39","121"],
+                    "all_ids": ["39", "121"]
+                },
+                {
+                    "id": "1600",
+                    "descr": "Hem/Onc Specialists",
+                    "associated_ids": ["41","51","97","203","213","296","298","299","334","341"],
+                    "all_ids": ["41","51","97","203","213","296","298","299","334","341"]
+                },
+                {
+                    "id": "1700",
+                    "descr": "ID/HIV Specialists",
+                    "associated_ids": ["42","76"],
+                    "all_ids": ["42","76"]
+                },
+                {
+                    "id": "1800",
+                    "descr": "Medical Geneticists",
+                    "associated_ids": ["185","277","293"],
+                    "all_ids": ["185","277","293"]
+                },
+                {
+                    "id": "1810",
+                    "descr": "Pathologists",
+                    "associated_ids": ["57","367"],
+                    "all_ids": ["57","367"]
+                },
+                {
+                    "id": "1900",
+                    "descr": "Neurologists",
+                    "associated_ids": ["47","295"],
+                    "all_ids":["47","295"]
+                },
+                {
+                    "id": "2000",
+                    "descr": "Obstetricians & Gynecologists",
+                    "associated_ids": ["49","294","330"],
+                    "all_ids": ["49","294","330"]
+                },
+                {
+                    "id": "2100",
+                    "descr": "Ophthalmologists",
+                    "associated_ids": ["52"],
+                    "all_ids": ["52"]
+                },
+                {
+                    "id": "2200",
+                    "descr": "Orthopaedists & Orthopaedic Surgeons",
+                    "associated_ids": ["137","207","209","220"],
+                    "all_ids": ["137","207","209","220"]
+                },
+                {
+                    "id": "2300",
+                    "descr": "Pediatricians",
+                    "associated_ids": ["60","284","335","336","337"],
+                    "all_ids": ["60","284","335","336","337"]
+                },
+                {
+                    "id": "2400",
+                    "descr": "Primary Care Physicians",
+                    "associated_ids": ["38","40","43","80","122","166","168","305","354"],
+                    "all_ids": ["38","40","43","80","122","166","168","305","354"]
+                },
+                {
+                    "id": "2421",
+                    "descr": "Nephrologists",
+                    "associated_ids": ["204"],
+                    "all_ids": ["204"]
+                },
+                {
+                    "id": "2500",
+                    "descr": "Public Health & Preventive Medicine Specialists",
+                    "associated_ids": ["14,79,84,288"],
+                    "all_ids": ["14,79,84,288"]
+                },
+                {
+                    "id": "2600",
+                    "descr": "Psychiatrists",
+                    "associated_ids": ["61","270"],
+                    "all_ids": ["61","270"]
+                },
+                {
+                    "id": "2700",
+                    "descr": "Pulmonologists",
+                    "associated_ids": ["306"],
+                    "all_ids": ["306"]
+                },
+                {
+                    "id": "2800",
+                    "descr": "Radiologists",
+                    "associated_ids": ["156","211","314","356"],
+                    "all_ids": ["156","211","314","356"]
+                },
+                {
+                    "id": "2900",
+                    "descr": "Rheumatologists",
+                    "associated_ids": ["65"],
+                    "all_ids": ["65"]
+                },
+                {
+                    "id": "3000",
+                    "descr": "Surgeons",
+                    "associated_ids": ["56","67","94","321","322","323","327","338","357"],
+                    "all_ids": ["56","67","94","321","322","323","327","338","357"]
+                },
+                {
+                    "id": "3100",
+                    "descr": "Transplant Surgeons",
+                    "associated_ids": ["140","324"],
+                    "all_ids": ["140","324"]
+                },
+                {
+                    "id": "3200",
+                    "descr": "Urologists",
+                    "associated_ids": ["70"],
+                    "all_ids": ["70"]
+                },
+                {
+                    "id": "3300",
+                    "descr": "Other Specialists",
+                    "associated_ids": ["0","3","4","5","6","7","10","12","15","16"],
+                    "all_ids": ["0","3","4","5","6","7","10","12","15","16", "18", "26", "34", "53", "77", "146", "160", "162", "174", "192", "194", "195", "198", "205", "208", "229", "263", "275", "292", "301", "339", "340", "343", "349", "350", "351", "352", "353", "355", "358", "359", "360", "361", "362", "363", "364", "365", "366"]
+                },
+                {
+                    "id": "3310",
+                    "descr": "Emergency Medicine Physicians",
+                    "associated_ids": ["36"],
+                    "all_ids": ["36"]
+                },
+                {
+                    "id": "3320",
+                    "descr": "Anesthesiologists",
+                    "associated_ids": ["30","302","348"],
+                    "all_ids": ["30","302","348"]
+                },
+                {
+                    "id": "3400",
+                    "descr": "Plastic Surgery & Aesthetic Medicine",
+                    "associated_ids": ["37","264"],
+                    "all_ids": ["37","264"]
+                }
+            ],
+            "affiliate": []
+        },
+        "direct_mappings": [
+            {
+                "affiliate_item": {
+                    "id": "150",
+                    "title": "Addiction Medicine"
+                },
+                "webmd_item": {
+                    "id": "77"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "104",
+                    "title": "Agronomy & Crop Science"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "16",
+                    "title": "Allergy and Clinical Immunology"
+                },
+                "webmd_item": {
+                    "id": "45"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "17",
+                    "title": "Anesthesiology"
+                },
+                "webmd_item": {
+                    "id": "30"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "105",
+                    "title": "Animal Behavior & Ethology"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "106",
+                    "title": "Animal Husbandry"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "96",
+                    "title": "Audiology & Speech Language Pathology"
+                },
+                "webmd_item": {
+                    "id": "339"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "155",
+                    "title": "Bariatric Surgery"
+                },
+                "webmd_item": {
+                    "id": "338"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "107",
+                    "title": "Biochemistry"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "108",
+                    "title": "Biodiversity & Conservation Biology"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "97",
+                    "title": "Bioethic"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "109",
+                    "title": "Bioinformatics & Computational Biology"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "110",
+                    "title": "Biophysics"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "111",
+                    "title": "Biotechnology"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "113",
+                    "title": "Botany"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "114",
+                    "title": "Cancer Science & Oncogenesis"
+                },
+                "webmd_item": {
+                    "id": "213"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "48",
+                    "title": "Cardiac Surgery"
+                },
+                "webmd_item": {
+                    "id": "317"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "18",
+                    "title": "Cardiology"
+                },
+                "webmd_item": {
+                    "id": "342"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "115",
+                    "title": "Cardiovascular Science"
+                },
+                "webmd_item": {
+                    "id": "32"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "116",
+                    "title": "Cell Biology"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "149",
+                    "title": "Clinical Informatics/Health Informatics"
+                },
+                "webmd_item": {
+                    "id": "351"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "19",
+                    "title": "Critical Care, Intensive Care"
+                },
+                "webmd_item": {
+                    "id": "287"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "21",
+                    "title": "Dentistry"
+                },
+                "webmd_item": {
+                    "id": "366"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "20",
+                    "title": "Dermatology"
+                },
+                "webmd_item": {
+                    "id": "35"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "117",
+                    "title": "Developmental Biology"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "118",
+                    "title": "Ecology"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "22",
+                    "title": "Emergency Medicine"
+                },
+                "webmd_item": {
+                    "id": "36"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "23",
+                    "title": "Endocrinology, Metabolism"
+                },
+                "webmd_item": {
+                    "id": "1"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "119",
+                    "title": "Epidemiology"
+                },
+                "webmd_item": {
+                    "id": "79"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "120",
+                    "title": "Evolutionary Biology"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "24",
+                    "title": "Family Medicine / Primary Care / GP"
+                },
+                "webmd_item": {
+                    "id": "38"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "121",
+                    "title": "Food Science & Technology"
+                },
+                "webmd_item": {
+                    "id": "194"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "25",
+                    "title": "Gastroenterology"
+                },
+                "webmd_item": {
+                    "id": "39"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "122",
+                    "title": "Gastrointestinal Science"
+                },
+                "webmd_item": {
+                    "id": "39"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "98",
+                    "title": "Genetics"
+                },
+                "webmd_item": {
+                    "id": "277"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "26",
+                    "title": "Geriatrics"
+                },
+                "webmd_item": {
+                    "id": "80"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "95",
+                    "title": "Health Policy"
+                },
+                "webmd_item": {
+                    "id": "288"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "27",
+                    "title": "Hematology/Oncology (Hematology Focus)"
+                },
+                "webmd_item": {
+                    "id": "41"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "70",
+                    "title": "Hematology/Oncology (Oncology Focus)"
+                },
+                "webmd_item": {
+                    "id": "213"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "68",
+                    "title": "HIV/AIDS"
+                },
+                "webmd_item": {
+                    "id": "76"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "123",
+                    "title": "Immunology"
+                },
+                "webmd_item": {
+                    "id": "45"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "151",
+                    "title": "Infection Control"
+                },
+                "webmd_item": {
+                    "id": "42"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "28",
+                    "title": "Infectious Disease"
+                },
+                "webmd_item": {
+                    "id": "42"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "124",
+                    "title": "Insects and Athropods"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "29",
+                    "title": "Internal Medicine"
+                },
+                "webmd_item": {
+                    "id": "43"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "125",
+                    "title": "Lipids"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "126",
+                    "title": "Marine Sciences & Fisheries"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "148",
+                    "title": "Medical Education"
+                },
+                "webmd_item": {
+                    "id": "12"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "34",
+                    "title": "Medical Oncology"
+                },
+                "webmd_item": {
+                    "id": "51"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "127",
+                    "title": "Metabolic & Endocrine"
+                },
+                "webmd_item": {
+                    "id": "1"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "128",
+                    "title": "Microbiology"
+                },
+                "webmd_item": {
+                    "id": "339"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "129",
+                    "title": "Microscopy"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "152",
+                    "title": "Midwifery"
+                },
+                "webmd_item": {
+                    "id": "339"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "130",
+                    "title": "Molecular Biology"
+                },
+                "webmd_item": {
+                    "id": "339"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "131",
+                    "title": "Mycology"
+                },
+                "webmd_item": {
+                    "id": "339"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "132",
+                    "title": " Natural Medicines"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "75",
+                    "title": "Neonatal/Perinatal Medicine"
+                },
+                "webmd_item": {
+                    "id": "294"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "30",
+                    "title": "Nephrology"
+                },
+                "webmd_item": {
+                    "id": "204"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "31",
+                    "title": "Neurology"
+                },
+                "webmd_item": {
+                    "id": "47"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "133",
+                    "title": "Neuroscience"
+                },
+                "webmd_item": {
+                    "id": "47"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "32",
+                    "title": "Neurosurgery"
+                },
+                "webmd_item": {
+                    "id": "295"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "0",
+                    "title": "None Indicated"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "74",
+                    "title": "Nuclear Medicine"
+                },
+                "webmd_item": {
+                    "id": "205"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "99",
+                    "title": "Nursing"
+                },
+                "webmd_item": {
+                    "id": "339"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "100",
+                    "title": "Nutrition Science"
+                },
+                "webmd_item": {
+                    "id": "194"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "154",
+                    "title": "Obesity Medicine"
+                },
+                "webmd_item": {
+                    "id": "352"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "33",
+                    "title": "Obstetrics & Gynecology"
+                },
+                "webmd_item": {
+                    "id": "49"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "66",
+                    "title": "Occupational Medicine"
+                },
+                "webmd_item": {
+                    "id": "198"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "35",
+                    "title": "Ophthalmology"
+                },
+                "webmd_item": {
+                    "id": "52"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "36",
+                    "title": "Orthopedics"
+                },
+                "webmd_item": {
+                    "id": "207"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "38",
+                    "title": "Otolaryngology (E.N.T.)"
+                },
+                "webmd_item": {
+                    "id": "56"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "93",
+                    "title": "Pain Management"
+                },
+                "webmd_item": {
+                    "id": "302"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "39",
+                    "title": "Palliative Care"
+                },
+                "webmd_item": {
+                    "id": "122"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "144",
+                    "title": "Parasitology"
+                },
+                "webmd_item": {
+                    "id": "339"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "40",
+                    "title": "Pathology"
+                },
+                "webmd_item": {
+                    "id": "57"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "89",
+                    "title": "Pediatric Allergy and Immunology"
+                },
+                "webmd_item": {
+                    "id": "335"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "90",
+                    "title": "Pediatric Anesthesia"
+                },
+                "webmd_item": {
+                    "id": "30"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "84",
+                    "title": "Pediatric Cardiology"
+                },
+                "webmd_item": {
+                    "id": "336"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "58",
+                    "title": "Pediatric Critical Care"
+                },
+                "webmd_item": {
+                    "id": "344"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "91",
+                    "title": "Pediatric Dermatology"
+                },
+                "webmd_item": {
+                    "id": "35"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "153",
+                    "title": "Pediatric Emergency Medicine"
+                },
+                "webmd_item": {
+                    "id": "36"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "86",
+                    "title": "Pediatric Endocrinology"
+                },
+                "webmd_item": {
+                    "id": "1"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "87",
+                    "title": "Pediatric Gastroenterology"
+                },
+                "webmd_item": {
+                    "id": "39"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "59",
+                    "title": "Pediatric Hematology/Oncology"
+                },
+                "webmd_item": {
+                    "id": "337"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "60",
+                    "title": "Pediatric Infectious Disease"
+                },
+                "webmd_item": {
+                    "id": "42"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "88",
+                    "title": "Pediatric Nephrology"
+                },
+                "webmd_item": {
+                    "id": "204"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "61",
+                    "title": "Pediatric Neurology"
+                },
+                "webmd_item": {
+                    "id": "47"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "63",
+                    "title": "Pediatric Ophthalmology"
+                },
+                "webmd_item": {
+                    "id": "52"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "64",
+                    "title": "Pediatric Otolaryngology"
+                },
+                "webmd_item": {
+                    "id": "56"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "82",
+                    "title": "Pediatric Psychiatry"
+                },
+                "webmd_item": {
+                    "id": "270"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "67",
+                    "title": "Pediatric Respirology"
+                },
+                "webmd_item": {
+                    "id": "306"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "92",
+                    "title": "Pediatric Rheumatology"
+                },
+                "webmd_item": {
+                    "id": "65"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "76",
+                    "title": "Pediatric Surgery"
+                },
+                "webmd_item": {
+                    "id": "338"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "65",
+                    "title": "Pediatric Urology"
+                },
+                "webmd_item": {
+                    "id": "70"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "41",
+                    "title": "Pediatrics"
+                },
+                "webmd_item": {
+                    "id": "60"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "83",
+                    "title": "Pediatrics, Adolescent medicine"
+                },
+                "webmd_item": {
+                    "id": "284"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "85",
+                    "title": "Pediatrics, Developmental-Behavioral"
+                },
+                "webmd_item": {
+                    "id": "60"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "135",
+                    "title": "Pest Control & Pesticides"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "136",
+                    "title": "Pharmacology"
+                },
+                "webmd_item": {
+                    "id": "339"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "45",
+                    "title": "Physiatry, Rehabilitation Medicine"
+                },
+                "webmd_item": {
+                    "id": "209"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "137",
+                    "title": "Physiology"
+                },
+                "webmd_item": {
+                    "id": "339"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "138",
+                    "title": "Plant Science"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "94",
+                    "title": "Podiatry"
+                },
+                "webmd_item": {
+                    "id": "339"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "42",
+                    "title": "Preventive Medicine"
+                },
+                "webmd_item": {
+                    "id": "84"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "139",
+                    "title": "Proteomics, Peptides & Aminoacids"
+                },
+                "webmd_item": {
+                    "id": "339"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "43",
+                    "title": "Psychiatry"
+                },
+                "webmd_item": {
+                    "id": "270"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "140",
+                    "title": "Psychology"
+                },
+                "webmd_item": {
+                    "id": "339"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "101",
+                    "title": "Public Health"
+                },
+                "webmd_item": {
+                    "id": "288"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "69",
+                    "title": "Radiation Oncology"
+                },
+                "webmd_item": {
+                    "id": "298"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "44",
+                    "title": "Radiology"
+                },
+                "webmd_item": {
+                    "id": "156"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "141",
+                    "title": "Renal Science"
+                },
+                "webmd_item": {
+                    "id": "70"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "71",
+                    "title": "Reproductive Health/Infertility"
+                },
+                "webmd_item": {
+                    "id": "2"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "142",
+                    "title": "Respiratory Science"
+                },
+                "webmd_item": {
+                    "id": "306"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "46",
+                    "title": "Respirology"
+                },
+                "webmd_item": {
+                    "id": "306"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "47",
+                    "title": "Rheumatology"
+                },
+                "webmd_item": {
+                    "id": "65"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "72",
+                    "title": "Sleep Medicine"
+                },
+                "webmd_item": {
+                    "id": "166"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "143",
+                    "title": "Soil Science"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "73",
+                    "title": "Sports Medicine"
+                },
+                "webmd_item": {
+                    "id": "168"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "49",
+                    "title": "Surgery - General"
+                },
+                "webmd_item": {
+                    "id": "321"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "50",
+                    "title": "Surgery - Maxillofacial"
+                },
+                "webmd_item": {
+                    "id": "322"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "51",
+                    "title": "Surgery - Plastic"
+                },
+                "webmd_item": {
+                    "id": "264"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "52",
+                    "title": "Surgery - Surgical Oncology"
+                },
+                "webmd_item": {
+                    "id": "299"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "54",
+                    "title": "Surgery - Transplant"
+                },
+                "webmd_item": {
+                    "id": "140"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "53",
+                    "title": "Surgery - Vascular"
+                },
+                "webmd_item": {
+                    "id": "327"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "147",
+                    "title": "Thoracic Surgery"
+                },
+                "webmd_item": {
+                    "id": "317"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "81",
+                    "title": "Transplant, Cardiac"
+                },
+                "webmd_item": {
+                    "id": "140"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "80",
+                    "title": "Transplant, Liver"
+                },
+                "webmd_item": {
+                    "id": "140"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "79",
+                    "title": "Transplant, Lung"
+                },
+                "webmd_item": {
+                    "id": "140"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "78",
+                    "title": "Transplant, Renal"
+                },
+                "webmd_item": {
+                    "id": "140"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "102",
+                    "title": "Tropical Medicine & Parasitology"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "55",
+                    "title": "Urology"
+                },
+                "webmd_item": {
+                    "id": "70"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "103",
+                    "title": "Veterinary Medicine"
+                },
+                "webmd_item": {
+                    "id": "349"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "145",
+                    "title": "Virology"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            },
+            {
+                "affiliate_item": {
+                    "id": "146",
+                    "title": "Zoology"
+                },
+                "webmd_item": {
+                    "id": "340"
+                }
+            }
+        ]
+    }
+}
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/action_save_empty_white_24dp" android:id="@+id/action_save" android:title="@string/save" app:showAsAction="always"/>
+    <item android:icon="@drawable/ic_share_white_24dp" android:id="@+id/action_share" android:title="@string/share" app:showAsAction="ifRoom"/>
+    <item android:icon="@drawable/ic_action_new" android:id="@+id/action_add_to_interactions" android:title="@string/add_to_interactions" app:showAsAction="collapseActionView"/>
+    <item android:id="@+id/action_find" android:title="@string/find" app:showAsAction="collapseActionView"/>
+</menu>

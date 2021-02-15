@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:tag="layout/activity_hub_web_view_0" android:background="@color/adapter_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:id="@+id/appBarLayout" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" app:elevation="0dp">
+        <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" app:layout_scrollFlags="15" app:titleTextColor="@color/white"/>
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <WebView android:id="@+id/web_view" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintHorizontal_bias="0.5" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+        <ProgressBar android:id="@+id/progress_bar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintHorizontal_bias="0.5" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

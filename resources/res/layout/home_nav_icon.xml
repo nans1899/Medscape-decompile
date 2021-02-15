@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_horizontal" android:orientation="vertical" android:id="@+id/drugs" android:background="?android:attr/selectableItemBackground" android:paddingTop="8dp" android:paddingBottom="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ImageView android:id="@+id/home_nav_icon" android:layout_width="24dp" android:layout_height="24dp"/>
+    <RelativeLayout android:gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <View android:id="@+id/home_nav_dot" android:background="@drawable/red_dot_tray" android:visibility="gone" android:layout_width="8dp" android:layout_height="8dp" android:layout_margin="4dp"/>
+        <com.medscape.android.homescreen.home_nav_tray.views.FixedWidthTextView android:textSize="12sp" android:textColor="@color/title_color" android:gravity="center" android:id="@+id/home_nav_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="4sp" android:fontFamily="sans-serif" android:layout_toEndOf="@+id/home_nav_dot"/>
+    </RelativeLayout>
+</LinearLayout>

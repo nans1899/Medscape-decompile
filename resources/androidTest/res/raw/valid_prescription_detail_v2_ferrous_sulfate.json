@@ -1,0 +1,1541 @@
+{"code": 0,
+  "data": {
+    "rxform": {
+      "data": [{
+        "drug": "ferrous sulfate",
+        "forms": [{
+          "form": "tablet",
+          "strengths": [{
+            "strength": "325(65) mg",
+            "GPI": "82300010000332",
+            "Quantity": [{
+              "rank": 1,
+              "value": 90,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "90"
+            }, {
+              "rank": 2,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }, {
+              "rank": 3,
+              "value": 60,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "60"
+            }, {
+              "rank": 4,
+              "value": 100,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "100"
+            }, {
+              "rank": 5,
+              "value": 180,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "180"
+            }, {
+              "rank": 6,
+              "value": 240,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "240"
+            }, {
+              "rank": 7,
+              "value": 15,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "15"
+            }, {
+              "rank": 8,
+              "value": 15,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "15"
+            }, {
+              "rank": 9,
+              "value": 29,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "29"
+            }, {
+              "rank": 10,
+              "value": 360,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "360"
+            }, {
+              "rank": 11,
+              "value": 14,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "14"
+            }, {
+              "rank": 12,
+              "value": 28,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "28"
+            }, {
+              "rank": 13,
+              "value": 1,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "1"
+            }, {
+              "rank": 14,
+              "value": 40,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "40"
+            }, {
+              "rank": 15,
+              "value": 50,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "50"
+            }, {
+              "rank": 16,
+              "value": 8,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "8"
+            }, {
+              "rank": 17,
+              "value": 20,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "20"
+            }, {
+              "rank": 18,
+              "value": 12,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "12"
+            }, {
+              "rank": 19,
+              "value": 59,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "59"
+            }, {
+              "rank": 20,
+              "value": 200,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "200"
+            }, {
+              "rank": 21,
+              "value": 31,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "31"
+            }, {
+              "rank": 22,
+              "value": 84,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "84"
+            }, {
+              "rank": 23,
+              "value": 7,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "7"
+            }, {
+              "rank": 24,
+              "value": 5,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "5"
+            }, {
+              "rank": 25,
+              "value": 67,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "67"
+            }, {
+              "rank": 26,
+              "value": 34,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "34"
+            }, {
+              "rank": 27,
+              "value": 45,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "45"
+            }, {
+              "rank": 28,
+              "value": 240,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "240"
+            }, {
+              "rank": 29,
+              "value": 56,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "56"
+            }, {
+              "rank": 30,
+              "value": 42,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "42"
+            }, {
+              "rank": 31,
+              "value": 1080,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "1080"
+            }],
+            "NDC": ["00536100901", "00603017929"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BLIST PACK",
+            "PackageSize": []
+          }]
+        }, {
+          "form": "tablet dr",
+          "strengths": [{
+            "strength": "324(65)mg",
+            "GPI": "82300010000629",
+            "Quantity": [{
+              "rank": 1,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }, {
+              "rank": 2,
+              "value": 60,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "60"
+            }, {
+              "rank": 3,
+              "value": 90,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "90"
+            }, {
+              "rank": 4,
+              "value": 10,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "10"
+            }, {
+              "rank": 5,
+              "value": 180,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "180"
+            }, {
+              "rank": 6,
+              "value": 20,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "20"
+            }, {
+              "rank": 7,
+              "value": 100,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "100"
+            }, {
+              "rank": 8,
+              "value": 50,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "50"
+            }],
+            "NDC": ["00574060810", "00574060811"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BLIST PACK",
+            "PackageSize": []
+          }, {
+            "strength": "325(65) mg",
+            "GPI": "82300010000630",
+            "Quantity": [{
+              "rank": 1,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }, {
+              "rank": 2,
+              "value": 60,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "60"
+            }, {
+              "rank": 3,
+              "value": 90,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "90"
+            }, {
+              "rank": 4,
+              "value": 100,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "100"
+            }, {
+              "rank": 5,
+              "value": 50,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "50"
+            }, {
+              "rank": 6,
+              "value": 5,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "5"
+            }, {
+              "rank": 7,
+              "value": 270,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "270"
+            }, {
+              "rank": 8,
+              "value": 20,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "20"
+            }, {
+              "rank": 9,
+              "value": 45,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "45"
+            }],
+            "NDC": ["00245010810", "00245010801"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BLIST PACK",
+            "PackageSize": []
+          }]
+        }, {
+          "form": "solution",
+          "strengths": [{
+            "strength": "220 (44)/5",
+            "GPI": "82300010000925",
+            "Quantity": [{
+              "rank": 1,
+              "value": 300,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "300 ML"
+            }, {
+              "rank": 2,
+              "value": 150,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "150 ML"
+            }, {
+              "rank": 3,
+              "value": 473,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "473 ML"
+            }, {
+              "rank": 4,
+              "value": 450,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "450 ML"
+            }, {
+              "rank": 5,
+              "value": 75,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "75 ML"
+            }, {
+              "rank": 6,
+              "value": 240,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "240 ML"
+            }, {
+              "rank": 7,
+              "value": 225,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "225 ML"
+            }, {
+              "rank": 8,
+              "value": 120,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "120 ML"
+            }, {
+              "rank": 9,
+              "value": 180,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "180 ML"
+            }, {
+              "rank": 10,
+              "value": 204,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "204 ML"
+            }, {
+              "rank": 11,
+              "value": 205,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "205 ML"
+            }, {
+              "rank": 12,
+              "value": 45,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "45 ML"
+            }, {
+              "rank": 13,
+              "value": 158,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "158 ML"
+            }, {
+              "rank": 14,
+              "value": 60,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "60 ML"
+            }, {
+              "rank": 15,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "30 ML"
+            }, {
+              "rank": 16,
+              "value": 612,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "612 ML"
+            }, {
+              "rank": 17,
+              "value": 900,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "900 ML"
+            }, {
+              "rank": 18,
+              "value": 310,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "310 ML"
+            }, {
+              "rank": 19,
+              "value": 38,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "38 ML"
+            }, {
+              "rank": 20,
+              "value": 200,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "200 ML"
+            }, {
+              "rank": 21,
+              "value": 210,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "210 ML"
+            }, {
+              "rank": 22,
+              "value": 408,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "408 ML"
+            }, {
+              "rank": 23,
+              "value": 153,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "153 ML"
+            }, {
+              "rank": 24,
+              "value": 90,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "90 ML"
+            }, {
+              "rank": 25,
+              "value": 160,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "160 ML"
+            }, {
+              "rank": 26,
+              "value": 250,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "250 ML"
+            }, {
+              "rank": 27,
+              "value": 105,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "105 ML"
+            }, {
+              "rank": 28,
+              "value": 285,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "285 ML"
+            }, {
+              "rank": 29,
+              "value": 270,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "270 ML"
+            }, {
+              "rank": 30,
+              "value": 480,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "480 ML"
+            }],
+            "NDC": ["00536065085"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BOTTLE",
+            "PackageSize": []
+          }]
+        }, {
+          "form": "liquid",
+          "strengths": [{
+            "strength": "300 mg/5ml",
+            "GPI": "82300010001210",
+            "Quantity": [{
+              "rank": 1,
+              "value": 150,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "150 ML"
+            }, {
+              "rank": 2,
+              "value": 300,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "300 ML"
+            }, {
+              "rank": 3,
+              "value": 500,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "500 ML"
+            }, {
+              "rank": 4,
+              "value": 480,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "480 ML"
+            }, {
+              "rank": 5,
+              "value": 600,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "600 ML"
+            }, {
+              "rank": 6,
+              "value": 450,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "450 ML"
+            }, {
+              "rank": 7,
+              "value": 250,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "250 ML"
+            }, {
+              "rank": 8,
+              "value": 90,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "90 ML"
+            }, {
+              "rank": 9,
+              "value": 400,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "400 ML"
+            }, {
+              "rank": 10,
+              "value": 200,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "200 ML"
+            }, {
+              "rank": 11,
+              "value": 220,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "220 ML"
+            }, {
+              "rank": 12,
+              "value": 420,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "420 ML"
+            }, {
+              "rank": 13,
+              "value": 105,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "105 ML"
+            }, {
+              "rank": 14,
+              "value": 900,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "900 ML"
+            }, {
+              "rank": 15,
+              "value": 100,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "100 ML"
+            }, {
+              "rank": 16,
+              "value": 204,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "204 ML"
+            }],
+            "NDC": ["00121053005"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BLIST PACK",
+            "PackageSize": []
+          }]
+        }, {
+          "form": "tablet er",
+          "strengths": [{
+            "strength": "140(45)mg",
+            "GPI": "82300010000454",
+            "Quantity": [{
+              "rank": 1,
+              "value": 60,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "60"
+            }, {
+              "rank": 2,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }, {
+              "rank": 3,
+              "value": 90,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "90"
+            }],
+            "NDC": ["00536348107"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BLIST PACK",
+            "PackageSize": []
+          }]
+        }, {
+          "form": "elixir",
+          "strengths": [{
+            "strength": "220 (44)/5",
+            "GPI": "82300010001010",
+            "Quantity": [{
+              "rank": 1,
+              "value": 450,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "450 ML"
+            }, {
+              "rank": 2,
+              "value": 300,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "300 ML"
+            }, {
+              "rank": 3,
+              "value": 473,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "473 ML"
+            }, {
+              "rank": 4,
+              "value": 150,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "150 ML"
+            }, {
+              "rank": 5,
+              "value": 445,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "445 ML"
+            }, {
+              "rank": 6,
+              "value": 160,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "160 ML"
+            }, {
+              "rank": 7,
+              "value": 75,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "75 ML"
+            }, {
+              "rank": 8,
+              "value": 240,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "240 ML"
+            }, {
+              "rank": 9,
+              "value": 410,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "410 ML"
+            }, {
+              "rank": 10,
+              "value": 665,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "665 ML"
+            }, {
+              "rank": 11,
+              "value": 60,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "60 ML"
+            }],
+            "NDC": ["00603076358"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BOTTLE",
+            "PackageSize": []
+          }]
+        }, {
+          "form": "drops",
+          "strengths": [{
+            "strength": "15 mg/ml",
+            "GPI": "82300010002003",
+            "Quantity": [{
+              "rank": 1,
+              "value": 50,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "50 ML"
+            }, {
+              "rank": 2,
+              "value": 300,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "300 ML"
+            }, {
+              "rank": 3,
+              "value": 100,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "100 ML"
+            }, {
+              "rank": 4,
+              "value": 120,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "120 ML"
+            }, {
+              "rank": 5,
+              "value": 150,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "150 ML"
+            }],
+            "NDC": ["00904606050"],
+            "is_generic": true,
+            "AutoPackageSelect": false,
+            "PackageDescription": "DROP BTL",
+            "PackageSize": [{
+              "PackageSize": 50,
+              "display": "50 ML",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 DROP BTL"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 DROP BTL"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 DROP BTL"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 DROP BTL"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 DROP BTL"
+              }]
+            }]
+          }]
+        }, {
+          "form": "granules",
+          "strengths": [{
+            "strength": "100 %",
+            "GPI": "82300010002700",
+            "Quantity": [{
+              "rank": 1,
+              "value": 1,
+              "PackageSize": 1,
+              "PackageUnit": "GM",
+              "display": "1 GM"
+            }],
+            "NDC": ["51927137800"],
+            "is_generic": true,
+            "AutoPackageSelect": false,
+            "PackageDescription": "JAR",
+            "PackageSize": [{
+              "PackageSize": 1,
+              "display": "1 GM",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 JAR"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 JAR"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 JAR"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 JAR"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 JAR"
+              }]
+            }]
+          }]
+        }]
+      }, {
+        "drug": "children's ferrous sulfate",
+        "forms": [{
+          "form": "drops",
+          "strengths": [{
+            "strength": "15 mg/ml",
+            "GPI": "82300010002003",
+            "Quantity": [{
+              "rank": 1,
+              "value": 50,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "50 ML"
+            }, {
+              "rank": 2,
+              "value": 100,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "100 ML"
+            }, {
+              "rank": 3,
+              "value": 150,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "150 ML"
+            }, {
+              "rank": 4,
+              "value": 250,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "250 ML"
+            }, {
+              "rank": 5,
+              "value": 200,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "200 ML"
+            }, {
+              "rank": 6,
+              "value": 600,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "600 ML"
+            }, {
+              "rank": 7,
+              "value": 30,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "30 ML"
+            }, {
+              "rank": 8,
+              "value": 90,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "90 ML"
+            }, {
+              "rank": 9,
+              "value": 300,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "300 ML"
+            }, {
+              "rank": 10,
+              "value": 120,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "120 ML"
+            }, {
+              "rank": 11,
+              "value": 450,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "450 ML"
+            }],
+            "NDC": ["50383062750"],
+            "is_generic": true,
+            "AutoPackageSelect": false,
+            "PackageDescription": "DROP BTL",
+            "PackageSize": [{
+              "PackageSize": 50,
+              "display": "50 ML",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 DROP BTL"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 DROP BTL"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 DROP BTL"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 DROP BTL"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 DROP BTL"
+              }]
+            }]
+          }]
+        }]
+      }, {
+        "drug": "iron",
+        "forms": [{
+          "form": "tablet",
+          "strengths": [{
+            "strength": "325(65) mg",
+            "GPI": "82300010000332",
+            "Quantity": [{
+              "rank": 1,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }, {
+              "rank": 2,
+              "value": 60,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "60"
+            }, {
+              "rank": 3,
+              "value": 90,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "90"
+            }, {
+              "rank": 4,
+              "value": 180,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "180"
+            }, {
+              "rank": 5,
+              "value": 36,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "36"
+            }, {
+              "rank": 6,
+              "value": 100,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "100"
+            }, {
+              "rank": 7,
+              "value": 14,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "14"
+            }, {
+              "rank": 8,
+              "value": 270,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "270"
+            }],
+            "NDC": ["50428035980"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BOTTLE",
+            "PackageSize": []
+          }, {
+            "strength": "18 mg",
+            "GPI": "82300010000309",
+            "Quantity": [{
+              "rank": 1,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }],
+            "NDC": ["11845012771"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BOTTLE",
+            "PackageSize": []
+          }]
+        }, {
+          "form": "tablet er",
+          "strengths": [{
+            "strength": "159(45)mg",
+            "GPI": "82300010000455",
+            "Quantity": [{
+              "rank": 1,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }],
+            "NDC": ["87701040776", "46122008365"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BOTTLE",
+            "PackageSize": []
+          }]
+        }]
+      }, {
+        "drug": "slow release iron",
+        "forms": [{
+          "form": "tablet er",
+          "strengths": [{
+            "strength": "143(45) mg",
+            "GPI": "82300010000456",
+            "Quantity": [{
+              "rank": 1,
+              "value": 90,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "90"
+            }, {
+              "rank": 2,
+              "value": 12,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "12"
+            }, {
+              "rank": 3,
+              "value": 100,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "100"
+            }, {
+              "rank": 4,
+              "value": 60,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "60"
+            }],
+            "NDC": ["50428277464", "50428460967"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BLIST PACK",
+            "PackageSize": []
+          }, {
+            "strength": "142(45)mg",
+            "GPI": "82300010000455",
+            "Quantity": [{
+              "rank": 1,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }],
+            "NDC": ["11917011546", "10939054844", "52569013423"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BLIST PACK",
+            "PackageSize": []
+          }, {
+            "strength": "47.5 iron",
+            "GPI": "82300010000457",
+            "Quantity": [{
+              "rank": 1,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }],
+            "NDC": ["11822382900"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BLIST PACK",
+            "PackageSize": []
+          }]
+        }]
+      }, {
+        "drug": "Fer-IN-Sol",
+        "forms": [{
+          "form": "drops",
+          "strengths": [{
+            "strength": "15 mg/ml",
+            "GPI": "82300010002003",
+            "Quantity": [{
+              "rank": 1,
+              "value": 50,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "50 ML"
+            }, {
+              "rank": 2,
+              "value": 150,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "150 ML"
+            }, {
+              "rank": 3,
+              "value": 100,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "100 ML"
+            }, {
+              "rank": 4,
+              "value": 60,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "60 ML"
+            }],
+            "NDC": ["00087074002"],
+            "is_generic": false,
+            "AutoPackageSelect": false,
+            "PackageDescription": "DROP BTL",
+            "PackageSize": [{
+              "PackageSize": 50,
+              "display": "50 ML",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 DROP BTL"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 DROP BTL"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 DROP BTL"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 DROP BTL"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 DROP BTL"
+              }]
+            }]
+          }]
+        }]
+      }, {
+        "drug": "Children's Iron",
+        "forms": [{
+          "form": "drops",
+          "strengths": [{
+            "strength": "15 mg/ml",
+            "GPI": "82300010002003",
+            "Quantity": [{
+              "rank": 1,
+              "value": 100,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "100 ML"
+            }, {
+              "rank": 2,
+              "value": 50,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "50 ML"
+            }, {
+              "rank": 3,
+              "value": 60,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "60 ML"
+            }, {
+              "rank": 4,
+              "value": 105,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "105 ML"
+            }],
+            "NDC": ["39328005750"],
+            "is_generic": false,
+            "AutoPackageSelect": false,
+            "PackageDescription": "DROP BTL",
+            "PackageSize": [{
+              "PackageSize": 50,
+              "display": "50 ML",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 DROP BTL"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 DROP BTL"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 DROP BTL"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 DROP BTL"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 DROP BTL"
+              }]
+            }]
+          }]
+        }]
+      }, {
+        "drug": "ferosul",
+        "forms": [{
+          "form": "tablet",
+          "strengths": [{
+            "strength": "325(65) mg",
+            "GPI": "82300010000332",
+            "Quantity": [{
+              "rank": 1,
+              "value": 60,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "60"
+            }, {
+              "rank": 2,
+              "value": 100,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "100"
+            }, {
+              "rank": 3,
+              "value": 90,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "90"
+            }, {
+              "rank": 4,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }, {
+              "rank": 5,
+              "value": 180,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "180"
+            }],
+            "NDC": ["00904759082", "00904759182"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BOTTLE",
+            "PackageSize": []
+          }]
+        }]
+      }, {
+        "drug": "Ferosul",
+        "forms": [{
+          "form": "elixir",
+          "strengths": [{
+            "strength": "220 (44)/5",
+            "GPI": "82300010001010",
+            "Quantity": [{
+              "rank": 1,
+              "value": 300,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "300 ML"
+            }, {
+              "rank": 2,
+              "value": 150,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "150 ML"
+            }, {
+              "rank": 3,
+              "value": 473,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "473 ML"
+            }, {
+              "rank": 4,
+              "value": 204,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "204 ML"
+            }, {
+              "rank": 5,
+              "value": 160,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "160 ML"
+            }, {
+              "rank": 6,
+              "value": 630,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "630 ML"
+            }, {
+              "rank": 7,
+              "value": 450,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "450 ML"
+            }, {
+              "rank": 8,
+              "value": 225,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "225 ML"
+            }, {
+              "rank": 9,
+              "value": 240,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "240 ML"
+            }, {
+              "rank": 10,
+              "value": 70,
+              "PackageSize": "",
+              "PackageUnit": "ML",
+              "display": "70 ML"
+            }],
+            "NDC": ["00904146516"],
+            "is_generic": false,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BOTTLE",
+            "PackageSize": []
+          }]
+        }]
+      }, {
+        "drug": "fer-iron",
+        "forms": [{
+          "form": "drops",
+          "strengths": [{
+            "strength": "15 mg/ml",
+            "GPI": "82300010002003",
+            "Quantity": [{
+              "rank": 1,
+              "value": 50,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "50 ML"
+            }, {
+              "rank": 2,
+              "value": 100,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "100 ML"
+            }, {
+              "rank": 3,
+              "value": 150,
+              "PackageSize": 50,
+              "PackageUnit": "ML",
+              "display": "150 ML"
+            }],
+            "NDC": ["00536071080"],
+            "is_generic": true,
+            "AutoPackageSelect": false,
+            "PackageDescription": "DROP BTL",
+            "PackageSize": [{
+              "PackageSize": 50,
+              "display": "50 ML",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 DROP BTL"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 DROP BTL"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 DROP BTL"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 DROP BTL"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 DROP BTL"
+              }]
+            }]
+          }]
+        }]
+      }, {
+        "drug": "Slow Release Iron",
+        "forms": [{
+          "form": "tablet er",
+          "strengths": [{
+            "strength": "168(50) mg",
+            "GPI": "82300010000460",
+            "Quantity": [{
+              "rank": 1,
+              "value": 60,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "60"
+            }, {
+              "rank": 2,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }, {
+              "rank": 3,
+              "value": 90,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "90"
+            }],
+            "NDC": ["11845015265"],
+            "is_generic": false,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BOTTLE",
+            "PackageSize": []
+          }]
+        }]
+      }, {
+        "drug": "High Potency Iron",
+        "forms": [{
+          "form": "tablet",
+          "strengths": [{
+            "strength": "134mg",
+            "GPI": "82300010000303",
+            "Quantity": [{
+              "rank": 1,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }],
+            "NDC": ["11822035790"],
+            "is_generic": false,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BOTTLE",
+            "PackageSize": []
+          }]
+        }]
+      }, {
+        "drug": "ferrousul",
+        "forms": [{
+          "form": "tablet",
+          "strengths": [{
+            "strength": "325(65) mg",
+            "GPI": "82300010000332",
+            "Quantity": [{
+              "rank": 1,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }],
+            "NDC": ["62107004401"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BLIST PACK",
+            "PackageSize": []
+          }]
+        }]
+      }, {
+        "drug": "Slow FE",
+        "forms": [{
+          "form": "tablet er",
+          "strengths": [{
+            "strength": "142(45)mg",
+            "GPI": "82300010000455",
+            "Quantity": [{
+              "rank": 1,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }],
+            "NDC": ["86790001930"],
+            "is_generic": false,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BOTTLE",
+            "PackageSize": []
+          }]
+        }]
+      }, {
+        "drug": "ferro-time",
+        "forms": [{
+          "form": "tablet",
+          "strengths": [{
+            "strength": "325(65) mg",
+            "GPI": "82300010000332",
+            "Quantity": [{
+              "rank": 1,
+              "value": 30,
+              "PackageSize": "",
+              "PackageUnit": "EA",
+              "display": "30"
+            }],
+            "NDC": ["49483006301", "49483006401"],
+            "is_generic": true,
+            "AutoPackageSelect": true,
+            "PackageDescription": "BOTTLE",
+            "PackageSize": []
+          }]
+        }]
+      }],
+      "meta": {
+        "VendorResponseTime": 34
+      }
+    }
+  },
+  "status": "ok"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@android:color/white" android:fitsSystemWindows="true" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:theme="@style/AppTheme.AppBarOverlay" android:id="@+id/app_bar" android:background="@color/white" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:background="@color/activity_toolbar_background" android:layout_width="match_parent" android:layout_height="wrap_content" app:popupTheme="@style/AppTheme.PopupOverlay">
+            <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="@dimen/activity_header_text_size" android:textColor="@color/activity_toolbar_text_color" android:gravity="center_horizontal" android:id="@+id/lhd_main_activity_toolbar_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/free_coupon" app:fontName="Roboto-Medium.ttf"/>
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+    <include android:id="@+id/layout_content_coupon" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/app_bar" layout="@layout/content_coupon"/>
+    <ProgressBar android:id="@+id/progress_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true"/>
+</RelativeLayout>

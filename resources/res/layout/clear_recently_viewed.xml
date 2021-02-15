@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layoutDirection="locale">
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="16sp" android:textStyle="bold" android:textColor="#000" android:id="@+id/list_item" android:padding="10dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="6dp" android:text="@string/recently_viewed" android:layout_weight="9"/>
+        <FrameLayout android:layout_gravity="right" android:id="@+id/clearClickArea" android:layout_width="wrap_content" android:layout_height="match_parent" android:foreground="?attr/selectableItemBackground">
+            <ImageView android:id="@+id/cancelRecentlyViewed" android:background="@drawable/white_background_blue_ripple" android:padding="7dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="9dp" android:src="@drawable/ic_action_cancel"/>
+            <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:gravity="center_vertical" android:layout_gravity="right" android:id="@+id/clearRecentlyViewed" android:background="@drawable/white_background_blue_ripple" android:padding="10dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:text="@string/clear"/>
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/chart_image_container" android:paddingLeft="@dimen/listview_margin_left" android:paddingTop="@dimen/list_view_padding_top" android:paddingRight="@dimen/listview_margin_left" android:paddingBottom="@dimen/list_view_padding_bottom" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/listview_margin_left" android:paddingEnd="@dimen/listview_margin_left">
+    <TextView android:gravity="center" android:id="@+id/label_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" style="@style/chart_title"/>
+    <FrameLayout android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@+id/chart_image_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:scaleType="fitCenter" android:adjustViewBounds="true"/>
+        <FrameLayout android:id="@+id/chart_labels_container" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+    <TextView android:gravity="center" android:id="@+id/label_footer" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" style="@style/chart_footer"/>
+</LinearLayout>

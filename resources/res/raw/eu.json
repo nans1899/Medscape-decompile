@@ -1,0 +1,266 @@
+[{
+  "country": "Ascension Island",
+  "edgetwolettercountry": "AC",
+  "edgecountry": "",
+  "edgecountrycode": "0"
+}, {
+  "country": "Canary Islands",
+  "edgetwolettercountry": "IC",
+  "edgecountry": "",
+  "edgecountrycode": "0"
+}, {
+  "country": "Moldova, Republic Of",
+  "edgetwolettercountry": "MD",
+  "edgecountry": "MDA",
+  "edgecountrycode": "498"
+}, {
+  "country": "Faroe Islands",
+  "edgetwolettercountry": "FO",
+  "edgecountry": "FRO",
+  "edgecountrycode": "234"
+}, {
+  "country": "Guernsey",
+  "edgetwolettercountry": "GG",
+  "edgecountry": "GGY",
+  "edgecountrycode": "0"
+}, {
+  "country": "Jersey",
+  "edgetwolettercountry": "JE",
+  "edgecountry": "JEY",
+  "edgecountrycode": "0"
+}, {
+  "country": "Macedonia",
+  "edgetwolettercountry": "MK",
+  "edgecountry": "MKD",
+  "edgecountrycode": "807"
+}, {
+  "country": "Holy See (Vatican City State)",
+  "edgetwolettercountry": "VA",
+  "edgecountry": "VAT",
+  "edgecountrycode": "336"
+}, {
+  "country": "Bulgaria",
+  "edgetwolettercountry": "BG",
+  "edgecountry": "BGR",
+  "edgecountrycode": "100"
+}, {
+  "country": "Belarus",
+  "edgetwolettercountry": "BY",
+  "edgecountry": "BLR",
+  "edgecountrycode": "112"
+}, {
+  "country": "Czech Republic",
+  "edgetwolettercountry": "CZ",
+  "edgecountry": "CZE",
+  "edgecountrycode": "203"
+}, {
+  "country": "Hungary",
+  "edgetwolettercountry": "HU",
+  "edgecountry": "HUN",
+  "edgecountrycode": "348"
+}, {
+  "country": "Poland",
+  "edgetwolettercountry": "PL",
+  "edgecountry": "POL",
+  "edgecountrycode": "616"
+}, {
+  "country": "Romania",
+  "edgetwolettercountry": "RO",
+  "edgecountry": "ROU",
+  "edgecountrycode": "642"
+}, {
+  "country": "Russian Federation",
+  "edgetwolettercountry": "RU",
+  "edgecountry": "RUS",
+  "edgecountrycode": "643"
+}, {
+  "country": "Slovakia",
+  "edgetwolettercountry": "SK",
+  "edgecountry": "SVK",
+  "edgecountrycode": "703"
+}, {
+  "country": "Ukraine",
+  "edgetwolettercountry": "UA",
+  "edgecountry": "UKR",
+  "edgecountrycode": "804"
+}, {
+  "country": "Aland Islands",
+  "edgetwolettercountry": "AX",
+  "edgecountry": "ALA",
+  "edgecountrycode": "248"
+}, {
+  "country": "Denmark",
+  "edgetwolettercountry": "DK",
+  "edgecountry": "DNK",
+  "edgecountrycode": "208"
+}, {
+  "country": "Estonia",
+  "edgetwolettercountry": "EE",
+  "edgecountry": "EST",
+  "edgecountrycode": "233"
+}, {
+  "country": "Finland",
+  "edgetwolettercountry": "FI",
+  "edgecountry": "FIN",
+  "edgecountrycode": "246"
+}, {
+  "country": "United Kingdom",
+  "edgetwolettercountry": "GB",
+  "edgecountry": "GBR",
+  "edgecountrycode": "826"
+}, {
+  "country": "Ireland",
+  "edgetwolettercountry": "IE",
+  "edgecountry": "IRL",
+  "edgecountrycode": "372"
+}, {
+  "country": "Isle of Man",
+  "edgetwolettercountry": "IM",
+  "edgecountry": "IMN",
+  "edgecountrycode": "833"
+}, {
+  "country": "Iceland",
+  "edgetwolettercountry": "IS",
+  "edgecountry": "ISL",
+  "edgecountrycode": "352"
+}, {
+  "country": "Lithuania",
+  "edgetwolettercountry": "LT",
+  "edgecountry": "LTU",
+  "edgecountrycode": "440"
+}, {
+  "country": "Latvia",
+  "edgetwolettercountry": "LV",
+  "edgecountry": "LVA",
+  "edgecountrycode": "428"
+}, {
+  "country": "Norway",
+  "edgetwolettercountry": "NO",
+  "edgecountry": "NOR",
+  "edgecountrycode": "578"
+}, {
+  "country": "Sweden",
+  "edgetwolettercountry": "SE",
+  "edgecountry": "SWE",
+  "edgecountrycode": "752"
+}, {
+  "country": "Andorra",
+  "edgetwolettercountry": "AD",
+  "edgecountry": "AND",
+  "edgecountrycode": "20"
+}, {
+  "country": "Albania",
+  "edgetwolettercountry": "AL",
+  "edgecountry": "ALB",
+  "edgecountrycode": "8"
+}, {
+  "country": "Bosnia and Herzegovina",
+  "edgetwolettercountry": "BA",
+  "edgecountry": "BIH",
+  "edgecountrycode": "70"
+}, {
+  "country": "Spain",
+  "edgetwolettercountry": "ES",
+  "edgecountry": "ESP",
+  "edgecountrycode": "724"
+}, {
+  "country": "Gibraltar",
+  "edgetwolettercountry": "GI",
+  "edgecountry": "GIB",
+  "edgecountrycode": "292"
+}, {
+  "country": "Greece",
+  "edgetwolettercountry": "GR",
+  "edgecountry": "GRC",
+  "edgecountrycode": "300"
+}, {
+  "country": "Croatia",
+  "edgetwolettercountry": "HR",
+  "edgecountry": "HRV",
+  "edgecountrycode": "191"
+}, {
+  "country": "Italy",
+  "edgetwolettercountry": "IT",
+  "edgecountry": "ITA",
+  "edgecountrycode": "380"
+}, {
+  "country": "Montenegro",
+  "edgetwolettercountry": "ME",
+  "edgecountry": "MNE",
+  "edgecountrycode": "499"
+}, {
+  "country": "Malta",
+  "edgetwolettercountry": "MT",
+  "edgecountry": "MLT",
+  "edgecountrycode": "470"
+}, {
+  "country": "Portugal",
+  "edgetwolettercountry": "PT",
+  "edgecountry": "PRT",
+  "edgecountrycode": "620"
+}, {
+  "country": "Serbia",
+  "edgetwolettercountry": "RS",
+  "edgecountry": "SRB",
+  "edgecountrycode": "688"
+}, {
+  "country": "Slovenia",
+  "edgetwolettercountry": "SI",
+  "edgecountry": "SVN",
+  "edgecountrycode": "705"
+}, {
+  "country": "San Marino",
+  "edgetwolettercountry": "SM",
+  "edgecountry": "SMR",
+  "edgecountrycode": "674"
+}, {
+  "country": "Yugoslavia",
+  "edgetwolettercountry": "YU",
+  "edgecountry": "YUG",
+  "edgecountrycode": "890"
+}, {
+  "country": "Austria",
+  "edgetwolettercountry": "AT",
+  "edgecountry": "AUT",
+  "edgecountrycode": "40"
+}, {
+  "country": "Belgium",
+  "edgetwolettercountry": "BE",
+  "edgecountry": "BEL",
+  "edgecountrycode": "56"
+}, {
+  "country": "Switzerland",
+  "edgetwolettercountry": "CH",
+  "edgecountry": "CHE",
+  "edgecountrycode": "756"
+}, {
+  "country": "Germany",
+  "edgetwolettercountry": "DE",
+  "edgecountry": "DEU",
+  "edgecountrycode": "276"
+}, {
+  "country": "France",
+  "edgetwolettercountry": "FR",
+  "edgecountry": "FRA",
+  "edgecountrycode": "250"
+}, {
+  "country": "Liechtenstein",
+  "edgetwolettercountry": "LI",
+  "edgecountry": "LIE",
+  "edgecountrycode": "438"
+}, {
+  "country": "Luxembourg",
+  "edgetwolettercountry": "LU",
+  "edgecountry": "LUX",
+  "edgecountrycode": "442"
+}, {
+  "country": "Monaco",
+  "edgetwolettercountry": "MC",
+  "edgecountry": "MCO",
+  "edgecountrycode": "492"
+}, {
+  "country": "Netherlands",
+  "edgetwolettercountry": "NL",
+  "edgecountry": "NLD",
+  "edgecountrycode": "528"
+}]

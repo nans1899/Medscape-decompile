@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/root_view" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/a_pricing_map_toolbar" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:elevation="4dp" app:popupTheme="@style/AppTheme.PopupOverlay" app:titleTextAppearance="@style/Toolbar.TitleText">
+        <TextView android:textSize="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:text="@string/title_activity_pricing_map"/>
+    </androidx.appcompat.widget.Toolbar>
+    <View android:id="@+id/a_pricing_map_shadow_view" android:background="@drawable/background_for_toolbar_pre_lollipop" android:visibility="gone" android:layout_width="match_parent" android:layout_height="5dp"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/a_pricing_map_layout_header" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/prescription_details_main_text_size" android:textColor="@color/drug_name_color" android:id="@+id/a_pricing_map_text_view_drug_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_marginTop="15dp" android:text="Placeholder"/>
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_marginRight="15dp" android:layout_marginBottom="15dp">
+            <TextView android:textSize="@dimen/prescription_details_secondary_text_size" android:textColor="@color/pricing_activity_gray" android:ellipsize="end" android:id="@+id/a_pricing_map_text_view_drug_details" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="placeholder, number"/>
+        </RelativeLayout>
+    </LinearLayout>
+    <View android:background="@color/separator_color" android:layout_width="match_parent" android:layout_height="1dp"/>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@+id/footer">
+            <fragment android:name="com.google.android.gms.maps.SupportMapFragment" android:id="@+id/a_pharmacy_map" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <Button android:textSize="@dimen/savings_card_text_size_labels" android:textColor="@color/redo_search_button_text_color" android:layout_gravity="bottom|right|center_vertical|center_horizontal|center" android:id="@+id/a_pricing_map_button_redo_search" android:background="@drawable/background_redo_search_button" android:paddingLeft="10dp" android:paddingRight="20dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="5dp" android:text="@string/redo_search_map" android:textAllCaps="false" android:elevation="40dp"/>
+        </FrameLayout>
+        <LinearLayout android:orientation="vertical" android:id="@+id/footer" android:background="@color/backcolor" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <Button android:textSize="16dp" android:textColor="@color/white" android:id="@+id/a_pricing_map_button_savings_card" android:background="@drawable/background_show_my_savings_card_button" android:layout_width="match_parent" android:layout_height="40dp" android:layout_margin="15dp" android:text="@string/pricing_show_savings_card" android:textAllCaps="false"/>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

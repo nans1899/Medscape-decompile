@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/root_view" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content" app:slm_headerDisplay="11" app:slm_isHeader="true" app:slm_section_headerMarginStart="0dp">
+    <com.medscape.android.view.CustomFontTextView android:textSize="24dp" android:textColor="@color/primary_text_default_material_light" android:gravity="start" android:id="@+id/text" android:paddingLeft="16dp" android:paddingTop="7dp" android:paddingRight="16dp" android:paddingBottom="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:textIsSelectable="true" android:textDirection="locale" android:layoutDirection="locale" app:fontName="Roboto-Medium.ttf"/>
+</LinearLayout>

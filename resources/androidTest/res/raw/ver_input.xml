@@ -1,0 +1,59 @@
+<medscapeupdates>
+    <app-ipad>
+        <version>3.0</version>
+        <minversion>2.1</minversion>
+    </app-ipad>
+    <app-iphone>
+        <version>3.0</version>
+        <minversion>2.1</minversion>
+        <optionalmessage />
+        <mandatorymessage />
+    </app-iphone>
+    <app-android>
+        <version>@appversion</version>
+        <minversion>@appminversion</minversion>
+        <optionalmessage>@optionalvermessage</optionalmessage>
+        <mandatorymessage />
+    </app-android>
+    <legal>
+        <version>@legalversion</version>
+        <mandatoryversion>@legalmandatorversion</mandatoryversion>
+        <optionalversion>@legaloptionalversion</optionalversion>
+        <optionalmessage>@optionallegalmessage</optionalmessage>
+    </legal>
+    <adplaceholder>
+        <version>0</version>
+        <url />
+    </adplaceholder>
+    <silentupdate>
+        <drug>
+            <dataversion>1000</dataversion>
+            <update>2</update>
+            <url>http://bi.medscape.com/pi/iphone/medscapeapp/zip-1.zip</url>
+        </drug>
+    </silentupdate>
+    <patientinstructions>
+        <version>1</version>
+        <url>http://bi.medscape.com/pi/iphone/medscapeapp/patientinstructions.zip</url>
+    </patientinstructions>
+    <data>
+        <version>@dataversion</version>
+        <minversion>@dataminversion</minversion>
+        <messageflag>1</messageflag>
+        <optionalmessage> June 2016 Update Contains updates to Drug and Clinical Reference information
+            Typically takes 2-10 minutes to install (depending on connection speed) Medscape 4.1 users: This alert will only appear when your content is more than 3 months out of date</optionalmessage>
+        <marketingurl>http://www.medscape.com/public/mobileapp/install</marketingurl>
+        <majorupdate>
+            <title>Update - June 2016</title>
+            <description> 415 articles updated, including these practice-changing updates:
+                Food Allergies Researchers in the United Kingdom evaluated strategies of peanut consumption and avoidance to determine which strategy is most effective in preventing the development of peanut allergy in infants at high risk for the allergy. Results demonstrated that introducing peanut into the diet of infants at high risk for allergy before age 1 year significantly (by 81%) reduced the prevalence of peanut allergy at age 5 years.
+                Medical Treatment for Acute Sinusitis A study found that sinusitis was responsible for 56 ambulatory antibiotic prescriptions per 1000 population in the United States, the highest rate of such prescriptions for a single diagnosis. Study results indicate the need for outpatient antibiotic stewardship.
+                Cervical Cancer The American Society of Clinical Oncology (ASCO) issued its first clinical practice guideline on invasive cervical cancer. The guideline is "resource-stratified" and gives treatment recommendations that are tailored to the availability of healthcare resources in specific regions.
+                105 drug monographs updated and 6 new FDA approvals added: New drug approvals &amp; descriptions &#8226;Tecentriq (atezolizumab) – Programmed cell death ligand 1 (PDL1) inhibitor for urothelial carcinoma &#8226;Vaxchora (cholera vaccine) – First vaccine approved by the FDA for cholera prevention in travelers &#8226;Zinbryta (daclizumab) – Monoclonal antibody to interleukin-2 for multiple sclerosis &#8226;Ocaliva (obeticholic acid) – Farnesoid X receptor (FXR) agonist for primary biliary cholangitis &#8226;Axumin (fluciclovine F 18) – Diagnostic agent for positron emission tomography (PET) imaging in men with suspected prostate cancer recurrence &#8226;Rayaldee (calcifediol) – Vitamin D-3 prohormone for hyperparathyroidism associated with chronic kidney disease</description>
+            <url>http://bi.medscape.com/pi/iphone/medscapeapp/v996.0.plist</url>
+        </majorupdate>
+        <minorupdates>
+        </minorupdates>
+    </data>
+</medscapeupdates>
+

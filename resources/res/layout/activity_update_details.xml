@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:background="@color/medscape_blue" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:elevation="4dp" app:popupTheme="@style/MedscapeTheme.PopupOverlay"/>
+    </com.google.android.material.appbar.AppBarLayout>
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="16dp">
+            <com.medscape.android.view.CustomFontTextView android:textSize="20sp" android:id="@+id/title_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="8sp" style="@style/TitleText"/>
+            <com.medscape.android.view.CustomFontTextView android:textSize="14sp" android:id="@+id/description_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:lineSpacingExtra="6sp" style="@style/SubTitleText"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="days">
+        <item quantity="one">1 Day</item>
+        <item quantity="other">%d Days</item>
+    </plurals>
+    <plurals name="home_invitation_count">
+        <item quantity="one">%d new invitation</item>
+        <item quantity="other">%d new invitations</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
+    </plurals>
+    <plurals name="newly_downloaded_item_count">
+        <item quantity="one">Downloaded 1 New Item</item>
+        <item quantity="other">Downloaded %d New Items</item>
+    </plurals>
+    <plurals name="not_refreshed_since">
+        <item quantity="one">The app has not been refreshed in over 1 week.\10\10You should refresh the app to ensure all items are up-to-date and to fetch any new items.</item>
+        <item quantity="other">The app has not been refreshed in over %d weeks.\10\10You should refresh the app to ensure all items are up-to-date and to fetch any new items.</item>
+    </plurals>
+    <plurals name="weeks">
+        <item quantity="one">1 Week</item>
+        <item quantity="other">%d Weeks</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/a_pricing_toolbar" android:background="@color/activity_toolbar_background" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:elevation="4dp" app:popupTheme="@style/AppTheme.PopupOverlay">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+            <TextView android:textSize="@dimen/activity_header_text_size" android:textColor="@color/activity_toolbar_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/share_savings_label" android:layout_centerVertical="true"/>
+        </RelativeLayout>
+    </androidx.appcompat.widget.Toolbar>
+    <com.google.android.material.tabs.TabLayout android:id="@+id/share_tabs" android:background="@color/colorPrimary" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1" android:elevation="4dp" app:tabBackground="@drawable/tab_background" app:tabIndicatorColor="@color/medscape_blue"/>
+    <View android:id="@+id/share_screen_shadow_view" android:background="@drawable/background_toolbar_pre_lollipop" android:visibility="gone" android:layout_width="match_parent" android:layout_height="5dp"/>
+    <FrameLayout android:id="@+id/share_tab_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="99"/>
+</LinearLayout>

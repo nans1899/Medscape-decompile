@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:paddingLeft="@dimen/listview_margin_left" android:paddingRight="@dimen/listview_margin_left" android:paddingBottom="@dimen/list_view_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/listview_margin_left" android:paddingEnd="@dimen/listview_margin_left">
+    <View android:id="@+id/padding_view" android:layout_width="1dp" android:layout_height="@dimen/list_view_padding_top"/>
+    <TextView android:gravity="start" android:id="@+id/title_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/list_view_result_note_title"/>
+    <TextView android:gravity="start" android:id="@+id/sub_title_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/list_view_result_note_sub_title"/>
+    <TextView android:gravity="end" android:id="@+id/answer_text_view" android:paddingTop="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/list_view_result_note_answer"/>
+</LinearLayout>

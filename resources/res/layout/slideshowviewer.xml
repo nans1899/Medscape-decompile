@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/root_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:id="@+id/target_view" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <RelativeLayout android:id="@+id/header" android:background="@color/medscape_blue" android:padding="5dp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize">
+        <TextView android:textSize="20dp" android:textColor="@color/white" android:gravity="left|center_vertical|center_horizontal|center" android:id="@+id/close" android:clickable="true" android:layout_width="wrap_content" android:layout_height="40dp" android:text="" android:singleLine="true" android:onClick="onCloseClicked"/>
+        <TextView android:textSize="20dp" android:textColor="@color/white" android:gravity="center" android:id="@+id/count" android:layout_width="wrap_content" android:layout_height="40dp" android:text="" android:singleLine="true" android:layout_centerInParent="true"/>
+        <ImageButton android:id="@+id/action_share" android:background="@drawable/share" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@+id/count" android:layout_alignParentRight="true" android:onClick="onShareClicked" android:backgroundTint="@color/white"/>
+        <ImageButton android:id="@+id/action_chapters" android:background="@drawable/ic_action_chapters" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginRight="22dp" android:layout_toLeftOf="@+id/action_audio" android:layout_alignTop="@+id/action_share" android:onClick="onShowChaptersClicked" android:backgroundTint="@color/white"/>
+        <ImageButton android:id="@+id/action_audio" android:background="@drawable/ic_action_play" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:layout_marginRight="18dp" android:layout_toLeftOf="@+id/action_notes" android:layout_alignTop="@+id/action_share" android:backgroundTint="@color/white"/>
+        <ImageButton android:id="@+id/action_notes" android:background="@drawable/ic_action_about" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:layout_marginRight="18dp" android:layout_toLeftOf="@+id/action_share" android:layout_alignTop="@+id/action_share" android:backgroundTint="@color/white"/>
+    </RelativeLayout>
+    <View android:background="#aaa" android:layout_width="match_parent" android:layout_height="1dp"/>
+    <com.medscape.android.view.CustomWebView android:id="@+id/roadBlockWebview" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.medscape.android.view.CustomWebView android:id="@+id/resumeShowWebview" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+            <com.medscape.android.view.ViewPagerWSwipeToggle android:id="@+id/pager" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@+id/ad"/>
+            <include android:id="@+id/ad" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/ad_layout"/>
+        </RelativeLayout>
+        <FrameLayout android:layout_gravity="top|right|center_vertical|center_horizontal|center" android:id="@+id/callout_chapters" android:visibility="gone" android:layout_width="87dp" android:layout_height="wrap_content" android:layout_marginRight="72dp">
+            <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:textStyle="normal" android:textColor="#005982" android:gravity="center" android:id="@+id/chapters_tip" android:padding="3dp" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+        <FrameLayout android:layout_gravity="top|right|center_vertical|center_horizontal|center" android:id="@+id/callout_notes" android:visibility="gone" android:layout_width="90dp" android:layout_height="wrap_content" android:layout_marginRight="22dp">
+            <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:textStyle="normal" android:textColor="#005982" android:gravity="center" android:id="@+id/notes_tip" android:padding="3dp" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </FrameLayout>
+    </FrameLayout>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="@+id/fullscreen_custom_content" android:background="@color/black" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:orientation="vertical" android:id="@+id/error_console" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <FrameLayout android:id="@+id/main_content" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

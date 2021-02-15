@@ -1,0 +1,5 @@
+package org.mockito.internal.listeners;
+
+public interface AutoCleanableListener {
+    boolean isListenerDirty();
+}

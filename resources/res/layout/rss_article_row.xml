@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@drawable/default_list_view" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <RelativeLayout android:id="@+id/no_results" android:padding="2dp" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="?android:attr/textColorSecondary" android:id="@+id/no_results_message" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="18sp" android:layout_alignParentLeft="true" android:layout_centerVertical="true"/>
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/spelling_suggestion" android:padding="2dp" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="?android:attr/textColorSecondary" android:id="@+id/didyoumean" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10dp" android:text="@string/search_did_you_mean"/>
+        <TextView android:textColor="?android:attr/textColorPrimary" android:id="@+id/suggestion" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10dp" android:text="18sp" android:layout_toRightOf="@+id/didyoumean"/>
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/header" android:background="#8a8a8a" android:padding="2dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="?android:attr/textColorSecondary" android:id="@+id/rowTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="14sp" android:layout_alignParentLeft="true" android:layout_centerVertical="true"/>
+    </RelativeLayout>
+    <View android:id="@+id/divider" android:background="#999" android:layout_width="match_parent" android:layout_height="1dp"/>
+    <RelativeLayout android:id="@+id/content" android:padding="5dp" android:focusable="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.medscape.android.view.CacheImageView android:id="@+id/logo" android:layout_width="100dp" android:layout_height="80dp" android:layout_marginRight="10dp" android:layout_centerVertical="true"/>
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@+id/arrow" android:layout_toRightOf="@+id/logo" android:layout_centerVertical="true">
+            <TextView android:textSize="15dp" android:textColor="#000" android:id="@+id/articleTitle" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <TextView android:textSize="13dp" android:textColor="#898989" android:id="@+id/articlePubDate" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <TextView android:textSize="13dp" android:textColor="#898989" android:id="@+id/articleJobCode" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <ImageView android:id="@+id/arrow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10dp" android:src="@drawable/table_row_arrow" android:layout_alignParentRight="true" android:layout_centerVertical="true"/>
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/sharethrough_layout" android:background="@android:color/white" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="80dp">
+        <ProgressBar android:id="@+id/progress_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true"/>
+        <FrameLayout android:id="@+id/ad_root_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</LinearLayout>

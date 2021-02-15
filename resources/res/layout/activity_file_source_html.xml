@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="?attr/actionBarSize">
+        <androidx.appcompat.widget.Toolbar android:theme="@style/ToolbarLight" android:id="@+id/toolbar" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize"/>
+        <ProgressBar android:id="@+id/progress_bar" android:background="@null" android:layout_width="match_parent" android:layout_height="3dp" android:indeterminate="false" android:progressDrawable="@drawable/custom_progress_bar" android:layout_alignParentBottom="true" style="?android:attr/progressBarStyleHorizontal"/>
+    </RelativeLayout>
+    <WebView android:orientation="vertical" android:id="@+id/webview" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</LinearLayout>

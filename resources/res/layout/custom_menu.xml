@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="#00000000" android:padding="0dp" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:background="#60656f" android:padding="0dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TableLayout android:id="@+id/custom_menu_table" android:padding="5dp" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:stretchColumns="*"/>
+    </LinearLayout>
+</LinearLayout>

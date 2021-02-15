@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/rowLayout" android:background="@drawable/default_list_view" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ImageView android:id="@+id/rowImage" android:layout_width="25dp" android:layout_height="wrap_content" android:layout_margin="5dp" android:layout_alignParentRight="true" android:layout_centerVertical="true"/>
+    <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:textSize="14sp" android:textColor="#000" android:id="@+id/rowTitle" android:background="@android:color/transparent" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@+id/rowImage" android:layout_alignParentLeft="true" android:layout_centerVertical="true"/>
+    <View android:id="@+id/itemDivider" android:background="#f4f4f4" android:layout_width="match_parent" android:layout_height="1dp" android:layout_below="@+id/rowTitle"/>
+</RelativeLayout>

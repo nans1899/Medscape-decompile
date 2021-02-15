@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/ic_menu_alert" android:id="@+id/alert" android:orderInCategory="0" android:title="@string/menu_alert" app:showAsAction="always"/>
+</menu>

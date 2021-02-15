@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "680150978556",
+    "firebase_url": "https://medscape-android.firebaseio.com",
+    "project_id": "medscape-android",
+    "storage_bucket": "medscape-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680150978556:android:88045fabf1ee844f",
+        "android_client_info": {
+          "package_name": "com.medscape.android.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680150978556-pijhvd8a66f6lub03rm3dsmetmnh5098.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "680150978556.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH3I5Qoj2HGqUk7yMeoQ5tbQtlvKZtX4o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

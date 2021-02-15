@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.medscape.android.view.CustomFontTextView android:textSize="14sp" android:textColor="#de000000" android:id="@+id/header_name" android:paddingTop="10dp" android:paddingBottom="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:textAllCaps="false" android:paddingStart="16dp" app:fontName="Roboto-Medium.ttf"/>
+    <RelativeLayout android:id="@+id/saved_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/header_name">
+        <TextView android:textSize="16sp" android:textColor="#de000000" android:id="@+id/item_name" android:paddingTop="10dp" android:paddingBottom="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="16dp" android:layout_marginEnd="5dp" android:layout_toStartOf="@+id/delete_saved"/>
+        <ImageView android:id="@+id/delete_saved" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_save_fill" android:layout_centerVertical="true" android:paddingEnd="16dp" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+    <View android:id="@+id/view_layout" android:background="@color/hint_color" android:layout_width="match_parent" android:layout_height="1dp" android:layout_margin="16dp" android:layout_below="@+id/saved_layout"/>
+    <RelativeLayout android:id="@+id/news_saved_layout" android:paddingTop="10dp" android:paddingBottom="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/view_layout" android:layout_marginStart="16dp" android:layout_marginEnd="16dp">
+        <FrameLayout android:id="@+id/image_frame" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:id="@+id/news_logo" android:layout_width="100dp" android:layout_height="55dp" android:src="@drawable/news_logo"/>
+            <ImageView android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/frame"/>
+        </FrameLayout>
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="10dp" android:layout_toEndOf="@+id/image_frame">
+            <LinearLayout android:orientation="vertical" android:id="@+id/info_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginEnd="10dp" android:layout_toStartOf="@+id/delete_news_saved">
+                <TextView android:textSize="16sp" android:textColor="#de000000" android:ellipsize="end" android:id="@+id/news_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:lines="1"/>
+                <TextView android:textSize="13sp" android:textColor="#99000000" android:id="@+id/news_date" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <TextView android:textSize="13sp" android:textColor="#99000000" android:id="@+id/news_info" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="3dp"/>
+            </LinearLayout>
+            <ImageView android:id="@+id/delete_news_saved" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_save_fill" android:layout_alignParentEnd="true"/>
+            <View android:background="@color/hint_color" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="5dp" android:layout_below="@+id/info_layout"/>
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/login_root_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/log_in_toolbar" android:background="@color/activity_toolbar_background" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:elevation="4dp" app:theme="@style/MyToolbar"/>
+    <LinearLayout android:orientation="vertical" android:background="@color/auth_background_white" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="@+id/log_in_toolbar">
+        <LinearLayout android:orientation="vertical" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginTop="28dp" android:layout_marginRight="16dp" android:layout_marginBottom="16dp">
+            <com.google.android.material.textfield.TextInputLayout android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/sing_in_email_header">
+                <EditText android:textSize="16dp" android:textColor="@android:color/black" android:id="@+id/edit_text_user_name" android:nextFocusRight="@+id/edit_text_password" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:inputType="textEmailAddress" android:imeOptions="actionNext" android:nextFocusForward="@+id/edit_text_password" android:importantForAutofill="8"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <com.google.android.material.textfield.TextInputLayout android:layout_gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/sign_in_password_label">
+                <EditText android:textSize="16dp" android:textColor="@android:color/black" android:id="@+id/edit_text_password" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:inputType="textPassword" android:imeOptions="actionGo" android:fontFamily="sans-serif" android:importantForAutofill="8"/>
+            </com.google.android.material.textfield.TextInputLayout>
+        </LinearLayout>
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginRight="8dp">
+            <Button android:textSize="16dp" android:textColor="@android:color/white" android:id="@+id/button_login" android:background="@drawable/registration_rectangular_ripple" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/sign_in_button_label" android:shadowRadius="2" android:textAllCaps="false" android:elevation="2dp"/>
+            <ProgressBar android:id="@+id/white_inline_progress_bar" android:paddingRight="5dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" android:elevation="2dp" style="?android:attr/progressBarStyleSmall"/>
+        </RelativeLayout>
+        <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16dp">
+            <TextView android:textSize="14dp" android:textStyle="normal" android:textColor="@color/app_accent_color" android:id="@+id/sign_in_forgot_password" android:padding="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/forgot_password_link" android:fontFamily="sans-serif"/>
+            <TextView android:textSize="12dp" android:textStyle="normal" android:textColor="@android:color/black" android:id="@+id/log_in_same_as_medscape" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:text="@string/sign_in_same_as_medscape" android:fontFamily="sans-serif"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16dp" android:layout_alignParentBottom="true">
+        <TextView android:textSize="12dp" android:textStyle="normal" android:textColor="@android:color/black" android:id="@+id/login_need_help" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="6dp" android:text="@string/sign_in_need_help" android:fontFamily="sans-serif"/>
+        <TextView android:textSize="12dp" android:textStyle="normal" android:textColor="@color/app_accent_color" android:id="@+id/sign_in_support_email" android:padding="2dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sign_in_support_email" android:fontFamily="sans-serif"/>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/action_search" android:id="@+id/action_search" android:title="@string/search_hint_reference" app:showAsAction="always"/>
+    <item android:icon="@drawable/action_save_full" android:id="@+id/action_save" android:title="@string/saved" app:showAsAction="ifRoom"/>
+    <item android:icon="@drawable/ic_profile" android:id="@+id/action_profile" android:title="Profile" app:actionLayout="@layout/profile_with_badge" app:showAsAction="always"/>
+</menu>

@@ -1,0 +1,481 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "medscape_id": "body-mass-index-bmi",
+            "qx_calc": {
+                "id": "calculator_28",
+                "title": "BMI and BSA (Mosteller)"
+            }
+        },
+        {
+            "medscape_id": "meld-score-end-stage-liver-disease",
+            "qx_calc": {
+                "id": "calculator_359",
+                "title": "MELD Score - Age above 12 years"
+            }
+        },
+        {
+            "medscape_id": "creatinine-clearance-cockcroft-gault",
+            "qx_calc": {
+                "id": "calculator_51",
+                "title": "CrCl Cockroft-Gault"
+            }
+        },
+        {
+            "medscape_id": "estimated-delivery-date-pregnancy",
+            "qx_calc": {
+                "id": "calculator_240",
+                "title": "Due Date by LMP"
+            }
+        },
+        {
+            "medscape_id": "maintenance-fluid-calculation-child",
+            "qx_calc": {
+                "id": "calculator_526",
+                "title": "Maintenance Fluid Calculations"
+            }
+        },
+        {
+            "medscape_id": "anion-gap",
+            "qx_calc": {
+                "id": "calculator_11",
+                "title": "Anion Gap"
+            }
+        },
+        {
+            "medscape_id": "gestational-age-est-delivery-date",
+            "qx_calc": {
+                "id": "calculator_244",
+                "title": "Gestational Age"
+            }
+        },
+        {
+            "medscape_id": "sodium-correction-hyperglycemia",
+            "qx_calc": {
+                "id": "calculator_360",
+                "title": "Corrected Sodium in Hyperglycemia"
+            }
+        },
+        {
+            "medscape_id": "aac-aha-cardiovascular-risk-ascvd",
+            "qx_calc": {
+                "id": "calculator_37",
+                "title": "ACC/AHA CV Risk Calculator (2013)"
+            }
+        },
+        {
+            "medscape_id": "chads-vasc-af-stroke",
+            "qx_calc": {
+                "id": "calculator_41",
+                "title": "CHA2DS2-VASc Score for AF"
+            }
+        },
+        {
+            "medscape_id": "wells-score-pe",
+            "qx_calc": {
+                "id": "calculator_178",
+                "title": "PE Clinical Probability"
+            }
+        },
+        {
+            "medscape_id": "fractional-excretion-sodium",
+            "qx_calc": {
+                "id": "calculator_96",
+                "title": "Fractional Excretion of Sodium"
+            }
+        },
+        {
+            "medscape_id": "a-a-gradient",
+            "qx_calc": {
+                "id": "calculator_5",
+                "title": "A-a Gradient"
+            }
+        },
+        {
+            "medscape_id": "qt-interval-correction-ekg",
+            "qx_calc": {
+                "id": "calculator_48",
+                "title": "ECG: Corrected QT"
+            }
+        },
+        {
+            "medscape_id": "dvt-probability-wells-score",
+            "qx_calc": {
+                "id": "calculator_69",
+                "title": "DVT Clinical Probability (Well's)"
+            }
+        },
+        {
+            "medscape_id": "creatinine-clearance-measured",
+            "qx_calc": {
+                "id": "calculator_52",
+                "title": "CrCl from 24h Urine"
+            }
+        },
+        {
+            "medscape_id": "curb-65-pneumonia-severity-score",
+            "qx_calc": {
+                "id": "calculator_188",
+                "title": "Pneumonia risk (CURB-65)"
+            }
+        },
+        {
+            "medscape_id": "glasgow-coma-scale",
+            "qx_calc": {
+                "id": "calculator_101",
+                "title": "Glasgow Coma Scale (GCS)"
+            }
+        },
+        {
+            "medscape_id": "framingham-cardiovascular-disease-risk",
+            "qx_calc": {
+                "id": "calculator_252",
+                "title": "Framingham Risk Score (2008)"
+            }
+        },
+        {
+            "medscape_id": "endocarditis-diagnostic-criteria-duke",
+            "qx_calc": {
+                "id": "calculator_67",
+                "title": "Duke Criteria for Endocarditis"
+            }
+        },
+        {
+            "medscape_id": "nih-stroke-score",
+            "qx_calc": {
+                "id": "calculator_273",
+                "title": "NIH Stroke Scale/Score (NIHSS)"
+            }
+        },
+        {
+            "medscape_id": "jones-criteria-diagnosis-rheumatic",
+            "qx_calc": {
+                "id": "calculator_278",
+                "title": "Jones Criteria for Diagnosis of Rheumatic Fever"
+            }
+        },
+        {
+            "medscape_id": "apache-ii-scoring-system",
+            "qx_calc": {
+                "id": "calculator_12",
+                "title": "APACHE II"
+            }
+        },
+        {
+            "medscape_id": "chads-2-af-stroke",
+            "qx_calc": {
+                "id": "calculator_40",
+                "title": "CHADS2 Score for AF"
+            }
+        },
+        {
+            "medscape_id": "carboplatin-auc-dose-calvert",
+            "qx_calc": {
+                "id": "calculator_169",
+                "title": "Carboplatin AUC Dosing (Calvert)"
+            }
+        },
+        {
+            "medscape_id": "solitary-pulmonary-nodule-risk",
+            "qx_calc": {
+                "id": "calculator_4",
+                "title": "Solitary Pulmonary Nodule Malignancy Risk"
+            }
+        },
+        {
+            "medscape_id": "osmolal-gap",
+            "qx_calc": {
+                "id": "calculator_171",
+                "title": "Osmolal Gap"
+            }
+        },
+        {
+            "medscape_id": "bsa-dosing",
+            "qx_calc": {
+                "id": "calculator_692",
+                "title": "Body Surface Area Based Dosing"
+            }
+        },
+        {
+            "medscape_id": "apgar-score",
+            "qx_calc": {
+                "id": "calculator_13",
+                "title": "APGAR"
+            }
+        },
+        {
+            "medscape_id": "bode-index-copd",
+            "qx_calc": {
+                "id": "calculator_29",
+                "title": "BODE Index for COPD"
+            }
+        },
+        {
+            "medscape_id": "pneumonia-severity-index-psid",
+            "qx_calc": {
+                "id": "calculator_248",
+                "title": "Pneumonia Severity Index (PORT Score)"
+            }
+        },
+        {
+            "medscape_id": "pancreatitis-prognosis-criteria",
+            "qx_calc": {
+                "id": "calculator_190",
+                "title": "Ranson's Criteria"
+            }
+        },
+        {
+            "medscape_id": "cardiac-output",
+            "qx_calc": {
+                "id": "calculator_111",
+                "title": "Cardiac Output - Fick"
+            }
+        },
+        {
+            "medscape_id": "ascites-albumin-gradient",
+            "qx_calc": {
+                "id": "calculator_249",
+                "title": "Serum Ascites to Albumin Gradient (SAAG)"
+            }
+        },
+        {
+            "medscape_id": "burn-injury-fluid-parkland",
+            "qx_calc": {
+                "id": "calculator_175",
+                "title": "Parkland Formula"
+            }
+        },
+        {
+            "medscape_id": "peak-expiratory-flow",
+            "qx_calc": {
+                "id": "calculator_179",
+                "title": "Peak Expiratory Flow Prediction"
+            }
+        },
+        {
+            "medscape_id": "thrombolysis-myocardial-infarction-timi-st",
+            "qx_calc": {
+                "id": "calculator_208",
+                "title": "TIMI Risk Score (STEMI)"
+            }
+        },
+        {
+            "medscape_id": "thrombolysis-myocardial-infarction-timi-unstable",
+            "qx_calc": {
+                "id": "calculator_168",
+                "title": "TIMI Risk Score (NSTEMI)"
+            }
+        },
+        {
+            "medscape_id": "framingham-coronary-risk-cholesterol",
+            "qx_calc": {
+                "id": "calculator_98",
+                "title": "Lipid Lowering Guidelines using Framingham (2008)"
+            }
+        },
+        {
+            "medscape_id": "corticosteroid-dosing-glucocorticoid",
+            "qx_calc": {
+                "id": "calculator_49",
+                "title": "Corticosteroid Equivalence"
+            }
+        },
+        {
+            "medscape_id": "ottawa-ankle-rule",
+            "qx_calc": {
+                "id": "calculator_172",
+                "title": "Ottawa Ankle Rules"
+            }
+        },
+        {
+            "medscape_id": "peld-score-end-stage-liver-disease",
+            "qx_calc": {
+                "id": "calculator_183",
+                "title": "PELD Score - Age Younger Than 12 years"
+            }
+        },
+        {
+            "medscape_id": "ottawa-knee-rule-xray",
+            "qx_calc": {
+                "id": "calculator_173",
+                "title": "Ottawa Knee Rules"
+            }
+        },
+        {
+            "medscape_id": "bleeding-risk-index-warfarin",
+            "qx_calc": {
+                "id": "calculator_222",
+                "title": "Warfarin Bleeding Risk - Elderly"
+            }
+        },
+        {
+            "medscape_id": "myelodysplastic-syndrome-ipss",
+            "qx_calc": {
+                "id": "calculator_123",
+                "title": "MDS Intnl Prognostic Scoring Sys (IPSS)"
+            }
+        },
+        {
+            "medscape_id": "pulmonary-vascular-resistance",
+            "qx_calc": {
+                "id": "calculator_189",
+                "title": "Pulmonary Resistance"
+            }
+        },
+        {
+            "medscape_id": "weight-dosing",
+            "qx_calc": {
+                "id": "calculator_650",
+                "title": "Weight-based medication dosing"
+            }
+        },
+        {
+            "medscape_id": "sore-throat-pharyngitis-strep",
+            "qx_calc": {
+                "id": "calculator_639",
+                "title": "Attia Criteria for Evaluation of Pharyngitis"
+            }
+        },
+        {
+            "medscape_id": "hyponatremia-correction-infusate-rate",
+            "qx_calc": {
+                "id": "calculator_643",
+                "title": "Sodium Correction Rate for Hyponatremia"
+            }
+        },
+        {
+            "medscape_id": "absolute-neutrophil-count",
+            "qx_calc": {
+                "id": "calculator_641",
+                "title": "Absolute Neutrophil Count (ANC)"
+            }
+        },
+        {
+            "medscape_id": "height-age-percentile-boys",
+            "qx_calc": {
+                "id": "calculator_653",
+                "title": "CDC Height for Age Percentiles for Boys (2 - 20 years)"
+            }
+        },
+        {
+            "medscape_id": "csf-wbc-blood-correction",
+            "qx_calc": {
+                "id": "calculator_642",
+                "title": "CSF WBC Correction In Blood Contaminated CSF"
+            }
+        },
+        {
+            "medscape_id": "iv-drip-dosing",
+            "qx_calc": {
+                "id": "calculator_644",
+                "title": "IV Drip Rate Calculator"
+            }
+        },
+        {
+            "medscape_id": "estimated-blood-volume",
+            "qx_calc": {
+                "id": "calculator_648",
+                "title": "Estimated Blood Volume"
+            }
+        },
+        {
+            "medscape_id": "dic-score",
+            "qx_calc": {
+                "id": "calculator_649",
+                "title": "DIC Score"
+            }
+        },
+        {
+            "medscape_id": "height-age-percentile-girls",
+            "qx_calc": {
+                "id": "calculator_655",
+                "title": "CDC Height for Age Percentiles for Girls (2 - 20 years)"
+            }
+        },
+        {
+            "medscape_id": "sodium-deficit-hyponatremia",
+            "qx_calc": {
+                "id": "calculator_652",
+                "title": "Sodium Deficit in Hyponatremia"
+            }
+        },
+        {
+            "medscape_id": "weight-age-percentile-boys",
+            "qx_calc": {
+                "id": "calculator_658",
+                "title": "CDC Weight for Age Percentiles for Boys (2-20 years)"
+            }
+        },
+        {
+            "medscape_id": "infant-weight-age-percentile",
+            "qx_calc": {
+                "id": "calculator_661",
+                "title": "CDC/NCHS Infant Weight for Age Percentiles (<36 months)"
+            }
+        },
+        {
+            "medscape_id": "diabetes-risk-score-type-2",
+            "qx_calc": {
+                "id": "calculator_675",
+                "title": "Diabetes Risk Score (Type 2)"
+            }
+        },
+        {
+            "medscape_id": "weight-age-percentile-girls",
+            "qx_calc": {
+                "id": "calculator_659",
+                "title": "CDC Weight for Age Percentiles for Girls (2 - 20 years)"
+            }
+        },
+        {
+            "medscape_id": "infant-head-circumference",
+            "qx_calc": {
+                "id": "calculator_673",
+                "title": "CDC/NCHS Infant Head Circumference for Age Percentiles (<36 months)"
+            }
+        },
+        {
+            "medscape_id": "infant-length-age-percentile",
+            "qx_calc": {
+                "id": "calculator_671",
+                "title": "CDC/NCHS Infant Length for Age Percentiles (<36 months)"
+            }
+        },
+        {
+            "medscape_id": "curb-pneumonia-severity-score",
+            "qx_calc": {
+                "id": "calculator_188",
+                "title": "Pneumonia risk (CURB-65)"
+            }
+        },
+        {
+            "medscape_id": "infant-weight-length-percentile",
+            "qx_calc": {
+                "id": "calculator_672",
+                "title": "CDC/NCHS Infant Weight for Length Percentiles (< 36 months)"
+            }
+        },
+        {
+            "medscape_id": "weight-height-percentile-girls",
+            "qx_calc": {
+                "id": "calculator_660",
+                "title": "CDC/NCHS Infant Weight for Length Percentiles (< 36 months)"
+            }
+        },
+        {
+            "medscape_id": "weight-height-percentile-boys",
+            "qx_calc": {
+                "id": "calculator_669",
+                "title": "CDC/NCHS Infant Weight for Length Percentiles (< 36 months)"
+            }
+        },
+        {
+            "medscape_id": "bleeding-risk-warfarin-major",
+            "qx_calc": {
+                "id": "calculator_222",
+                "title": "CDC/NCHS Infant Weight for Length Percentiles (< 36 months)"
+            }
+        }
+    ]
+}

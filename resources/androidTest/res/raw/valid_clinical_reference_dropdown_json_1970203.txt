@@ -1,0 +1,34 @@
+{
+    "Overview": [
+        "Background",
+        "Indications",
+        "Contraindications",
+        "Technical Considerations"
+    ],
+    "Periprocedural Care": [
+        "Patient Education & Consent",
+        "Pre-Procedure Planning",
+        "Equipment",
+        "Patient Preparation",
+        "Monitoring & Follow-up"
+    ],
+    "Technique": [
+        "Approach Considerations",
+        "Minimally Invasive Repair of Pectus Excavatum (MIRPE) Technique",
+        "Special Considerations"
+    ],
+    "Medication": [
+        "Medication Summary",
+        "Opioid Analgesics",
+        "Nonsteroidal Anti-inflammatory Drugs"
+    ],
+    "Lab Tests": [
+        "Laboratory Medicine Summary"
+    ],
+    "Recommendations": [
+        "Warning, not actual medical advice"
+    ],
+    "Media Gallery": [
+        null
+    ]
+}

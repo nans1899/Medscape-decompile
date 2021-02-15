@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<article xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="1355567" pubid="1331339" template="Pediatrics: Cardiac Disease and Critical Care Medicine" template-name="MEDICAL">
+	<site-meta>
+		<article-name>Benign Neonatal Sleep Myoclonus</article-name>
+		<title>
+			<page-info id="overview">Benign Neonatal Sleep Myoclonus</page-info>
+			<page-info id="clinical">Benign Neonatal Sleep Myoclonus Clinical Presentation</page-info>
+			<page-info id="differential">Benign Neonatal Sleep Myoclonus Differential Diagnoses</page-info>
+			<page-info id="workup">Benign Neonatal Sleep Myoclonus Workup</page-info>
+			<page-info id="treatment">Benign Neonatal Sleep Myoclonus Treatment &amp; Management</page-info>
+			<page-info id="medication">Benign Neonatal Sleep Myoclonus Medication</page-info>
+			<page-info id="followup">Benign Neonatal Sleep Myoclonus Follow-up</page-info>
+			<page-info id="miscellaneous">Benign Neonatal Sleep Myoclonus Miscellaneous</page-info>
+		</title>
+		<browser-title>
+			<page-info id="overview">Benign Neonatal Sleep Myoclonus</page-info>
+			<page-info id="clinical">Benign Neonatal Sleep Myoclonus Clinical Presentation</page-info>
+			<page-info id="differential">Benign Neonatal Sleep Myoclonus Differential Diagnoses</page-info>
+			<page-info id="workup">Benign Neonatal Sleep Myoclonus Workup</page-info>
+			<page-info id="treatment">Benign Neonatal Sleep Myoclonus Treatment &amp; Management</page-info>
+			<page-info id="medication">Benign Neonatal Sleep Myoclonus Medication</page-info>
+			<page-info id="followup">Benign Neonatal Sleep Myoclonus Follow-up</page-info>
+			<page-info id="miscellaneous">Benign Neonatal Sleep Myoclonus Miscellaneous</page-info>
+		</browser-title>
+		<section-title>
+			<section-page-info id="overview">Overview<section-info id="a0101">Background</section-info>
+			<section-info id="a0104">Pathophysiology</section-info>
+			<section-info id="a0199">Epidemiology</section-info>
+			</section-page-info>
+			<section-page-info id="clinical">Presentation<section-info id="a0216">History</section-info>
+			<section-info id="a0217">Physical</section-info>
+			<section-info id="a0218">Causes</section-info>
+			</section-page-info>
+			<section-page-info id="differential">DDx</section-page-info>
+			<section-page-info id="workup">Workup<section-info id="a0719">Laboratory Studies</section-info>
+			<section-info id="a0720">Imaging Studies</section-info>
+			<section-info id="a0721">Other Tests</section-info>
+			</section-page-info>
+			<section-page-info id="treatment">Treatment<section-info id="a1127">Medical Care</section-info>
+			<section-info id="a1129">Consultations</section-info>
+			</section-page-info>
+			<section-page-info id="medication">Medication</section-page-info>
+			<section-page-info id="followup">Follow-up<section-info id="a2644">Further Inpatient Care</section-info>
+			<section-info id="a2645">Further Outpatient Care</section-info>
+			<section-info id="a2646">Inpatient &amp; Outpatient Medications</section-info>
+			<section-info id="a2647">Transfer</section-info>
+			<section-info id="a2649">Complications</section-info>
+			<section-info id="a2650">Prognosis</section-info>
+			</section-page-info>
+		</section-title>
+		<meta-keywords>
+			<page-info id="overview">Benign Neonatal Sleep Myoclonus information, Benign Neonatal Sleep Myoclonus articles</page-info>
+			<page-info id="clinical">Benign Neonatal Sleep Myoclonus Clinical Presentation</page-info>
+			<page-info id="differential">Benign Neonatal Sleep Myoclonus Differential Diagnoses</page-info>
+			<page-info id="workup">Benign Neonatal Sleep Myoclonus Workup</page-info>
+			<page-info id="treatment">Benign Neonatal Sleep Myoclonus Treatment &amp; Management</page-info>
+			<page-info id="medication">Benign Neonatal Sleep Myoclonus Medication</page-info>
+			<page-info id="followup">Benign Neonatal Sleep Myoclonus Follow-up</page-info>
+			<page-info id="miscellaneous">Benign Neonatal Sleep Myoclonus Miscellaneous</page-info>
+		</meta-keywords>
+		<uri>1355567-overview</uri>
+		<meta-description>
+			<page-info id="overview">Benign Neonatal Sleep Myoclonus. Seizures are the most common manifestation of neurologic compromise in the newborn period and often portend serious neurologic injury or dysfunction.</page-info>
+			<page-info id="clinical">Clinical Presentation: Benign Neonatal Sleep Myoclonus. Seizures are the most common manifestation of neurologic compromise in the newborn period and often portend serious neurologic injury or dysfunction.</page-info>
+			<page-info id="differential">Differential Diagnoses: Benign Neonatal Sleep Myoclonus. Seizures are the most common manifestation of neurologic compromise in the newborn period and often portend serious neurologic injury or dysfunction.</page-info>
+			<page-info id="workup">Workup: Benign Neonatal Sleep Myoclonus. Seizures are the most common manifestation of neurologic compromise in the newborn period and often portend serious neurologic injury or dysfunction.</page-info>
+			<page-info id="treatment">Treatment &amp; Management: Benign Neonatal Sleep Myoclonus. Seizures are the most common manifestation of neurologic compromise in the newborn period and often portend serious neurologic injury or dysfunction.</page-info>
+			<page-info id="medication">Medication: Benign Neonatal Sleep Myoclonus. Seizures are the most common manifestation of neurologic compromise in the newborn period and often portend serious neurologic injury or dysfunction.</page-info>
+			<page-info id="followup">Follow-up: Benign Neonatal Sleep Myoclonus. Seizures are the most common manifestation of neurologic compromise in the newborn period and often portend serious neurologic injury or dysfunction.</page-info>
+			<page-info id="miscellaneous">Miscellaneous: Benign Neonatal Sleep Myoclonus. Seizures are the most common manifestation of neurologic compromise in the newborn period and often portend serious neurologic injury or dysfunction.</page-info>
+		</meta-description>
+		<search-keywords>benign neonatal sleep myoclonus, seizures, BNSM,
+  epilepsy, cortical hyperexcitability, encephalopathy, seizurelike
+  jerks, colonic movements, myoclonic-astatic epilepsy,
+  hyperirritability, hypoxia, pathologic myoclonus, hypoglycemia,
+  tetany, jitteriness, repetitive myoclonic jerks
+					, Benign Neonatal Sleep Myoclonus Introduction
+					, Benign Neonatal Sleep Myoclonus Clinical Presentation
+					, Benign Neonatal Sleep Myoclonus Differential Diagnoses
+					, Benign Neonatal Sleep Myoclonus Workup
+					, Benign Neonatal Sleep Myoclonus Treatment &amp; Management
+					, Benign Neonatal Sleep Myoclonus Medication
+					, Benign Neonatal Sleep Myoclonus Follow-up
+					, Benign Neonatal Sleep Myoclonus Miscellaneous</search-keywords>
+		<alt-image-text>
+			<page-info id="overview">Benign Neonatal Sleep Myoclonus information, Benign Neonatal Sleep Myoclonus articles</page-info>
+			<page-info id="clinical">Benign Neonatal Sleep Myoclonus Clinical Presentation</page-info>
+			<page-info id="differential">Benign Neonatal Sleep Myoclonus Differential Diagnoses</page-info>
+			<page-info id="workup">Benign Neonatal Sleep Myoclonus Workup</page-info>
+			<page-info id="treatment">Benign Neonatal Sleep Myoclonus Treatment &amp; Management</page-info>
+			<page-info id="medication">Benign Neonatal Sleep Myoclonus Medication</page-info>
+			<page-info id="followup">Benign Neonatal Sleep Myoclonus Follow-up</page-info>
+			<page-info id="miscellaneous">Benign Neonatal Sleep Myoclonus Miscellaneous</page-info>
+		</alt-image-text>
+		<posting-date>Jan 2, 2015</posting-date>
+		<last-generated>2015-01-02-05:00</last-generated>
+		<single-page>0</single-page>
+		<pub-name>Pediatrics: Cardiac Disease and Critical Care Medicine</pub-name>
+		<pub-id>1331339</pub-id>
+		<siteon>2002</siteon>
+		<content-group ID="502">Conditions</content-group>
+		<content-type ID="10418">Condition</content-type>
+		<ads-support>
+			<site>1</site>
+			<affiliate>2</affiliate>
+			<pclass>content</pclass>
+			<artid>1355567</artid>
+			<cg>502</cg>
+			<scg xsi:nil="true"/>
+			<ssp xsi:nil="true">9</ssp>
+			<bc xsi:nil="true">e162_l93_age1_age12</bc>
+		</ads-support>
+		<other/>
+	</site-meta>
+	<metadata>
+		<last_updated xmlns:xs="http://www.w3.org/2001/XMLSchema">Jan 2, 2015</last_updated>
+		<publication xmlns:xs="http://www.w3.org/2001/XMLSchema">
+			<id>1331339</id>
+			<name>Pediatrics: Cardiac Disease and Critical Care
+    Medicine</name>
+			<folder_name>pediatrics_cardiac</folder_name>
+			<template-name>MEDICAL</template-name>
+		</publication>
+		<publication_section xmlns:xs="http://www.w3.org/2001/XMLSchema">
+			<id>269</id>
+			<name>Neonatology</name>
+		</publication_section>
+		<meta_keywords xmlns:xs="http://www.w3.org/2001/XMLSchema">benign neonatal sleep myoclonus, seizures, BNSM,
+  epilepsy, cortical hyperexcitability, encephalopathy, seizurelike
+  jerks, colonic movements, myoclonic-astatic epilepsy,
+  hyperirritability, hypoxia, pathologic myoclonus, hypoglycemia,
+  tetany, jitteriness, repetitive myoclonic jerks</meta_keywords>
+		<meta_description xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  &lt;a name="IntroductionBackground" id="IntroductionBackground"&gt;&amp;nbsp;&lt;/a&gt; Seizures are the most common manifestation of neurologic compromise in the newborn period and often portend serious neurologic injury or dysfunction.&amp;nbsp;Understandably, movements that mimic seizures during this period cause significant concern for parents and physicians alike and often </meta_description>
+		<pediatric-article>1</pediatric-article>
+	</metadata>
+	<title xmlns:xs="http://www.w3.org/2001/XMLSchema">Benign Neonatal Sleep Myoclonus</title>
+	<sect1 id="a01">
+		<title xmlns:xs="http://www.w3.org/2001/XMLSchema">Introduction</title>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a0101" std="Y">
+			<title>Background</title>
+			<pgroup>
+				<para>Seizures are the most common manifestation of neurologic compromise in the newborn period and often portend serious neurologic injury or dysfunction. Understandably, movements that mimic seizures during this period cause significant concern for parents and physicians alike and often prompt extensive diagnostic evaluation. </para>
+				<para>Benign neonatal sleep myoclonus (BNSM), first described in 1982 by Coulter and Allen,<sup>[<ref_inline id="refsrc1" name="refsrc1"/>1] </sup>is a disorder commonly mistaken for seizures during the newborn period. Benign neonatal sleep myoclonus is characterized by myoclonic "lightninglike" jerks of the extremities that exclusively occur during sleep; it is not correlated with <a href="http://www.medscape.com/resource/epilepsy">epilepsy</a>.<sup>[<ref_inline id="refsrc2" name="refsrc2"/>2] </sup>However, because this condition so closely mimics seizures, it often prompts hospital admission and extensive diagnostic testing, including neurophysiologic studies, brain imaging, and screening for infection. A thorough understanding of the phenomenon is crucial to avoid unnecessary testing. </para>
+			</pgroup>
+		</sect2>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a0104" std="Y">
+			<title>Pathophysiology</title>
+			<pgroup>
+				<para>Myoclonus has various potential causes and may arise from a wide array of sites in the peripheral nervous system and CNS.<sup>[<ref_inline id="refsrc3" name="refsrc3"/>3, <ref_inline id="refsrc4" name="refsrc4"/>4] </sup>Although dysfunctional serotonin neurotransmission is a potential cause, it does not appear to be the cause in all cases, and data are somewhat contradictory.<sup>[<ref_inline id="refsrc5" name="refsrc5"/>5] </sup>Although some types of myoclonus are relatively well understood from a physiologic basis, the underlying etiology of benign neonatal sleep myoclonus remains unknown.</para>
+				<para>Although the first report postulated an abnormality of the reticular activating system, this was speculative and was based solely on the clinical association with sleep.<sup>[1] </sup>The close association with sleep, specifically quiet sleep, may indicate an association with structures or pathways that subserve sleep.<sup>[<ref_inline id="refsrc6" name="refsrc6"/>6] </sup>This may explain the apparent decrease in frequency and severity throughout infancy because sleep states transition into a mature pattern, with less quiet sleep during the latter portion of infancy.<sup>[<ref_inline id="refsrc7" name="refsrc7"/>7] </sup>
+</para>
+				<para>The source of the myoclonic stimulus itself is unknown, and the brain cortex appears to be quiet during the movements without a consistent EEG correlate.<sup>[6, <ref_inline id="refsrc8" name="refsrc8"/>8, <ref_inline id="refsrc9" name="refsrc9"/>9, <ref_inline id="refsrc10" name="refsrc10"/>10] </sup>Although occasional sharp activity in the temporal and central regions has been previously reported, epilepsy or cortical hyperexcitability does not seem to underlie the condition.<sup>[<ref_inline id="refsrc11" name="refsrc11"/>11, <ref_inline id="refsrc12" name="refsrc12"/>12] </sup>There is, however, a case series report of five US children with excessive myoclonus during sleep in which one third of the events had an EEG epileptiform correlate; the investigators suggested their findings may indicate a variant of benign myoclonic epilepsy of infancty.<sup>[<ref_inline id="refsrc13" name="refsrc13"/>13] </sup>
+</para>
+				<para>Myoclonus itself can arise from various locations within the CNS and even the peripheral nervous system.<sup>[3] </sup>It is described as brief, rapid, lightninglike movements of truncal, bulbar, or appendicular musculature. It can be further characterized as positive (associated with muscle activation) or negative (brief loss of muscle tone), isolated or repetitive, and rhythmic or nonrhythmic.</para>
+				<para>A retrospective study (1996-2011) of 15 consecutive Japanese infants with benign neonatal sleep myoclonus, including 3 paired familial cases, suggests there may be an association with migraine.<sup>[<ref_inline id="refsrc14" name="refsrc14"/>14] </sup>The investigators reported 5 of 12 parents (41.7%) had a history of migraines; 3 of the 15 infants (20%) developed migraine after age 5 years, and one child developed cyclic vomiting syndrome, a precursor of migraine, before age 1 year and remained under follow-up. None of the children developed epilepsy.<sup>[14] </sup>
+</para>
+				<para>Pathologic myoclonus in the newborn is typically associated with manifestations of encephalopathy, seizures, or both.<sup>[<ref_inline id="refsrc15" name="refsrc15"/>15] </sup>However, benign neonatal sleep myoclonus is generally reported in otherwise healthy newborns without signs of neurologic compromise. The myoclonic activity is positive and semirhythmic and can be stimulus sensitive, with more prominent activity in response to loud sounds, touch, or attempts at passive restraint.<sup>[11] </sup>
+</para>
+				<para>Although initially described by Coulter and Allen as "bilateral, synchronous, and repetitive, located primarily in the distal parts of the upper extremities,"<sup>[1] </sup>the condition can cause unilateral, isolated, myoclonic limb movements that transition from one limb to another. The defining characteristic of this condition is resolution with waking and occurrence only during sleep. Infants are otherwise normal. Although some reports indicated an "offset" within the neonatal period, other larger retrospective series indicate that benign neonatal sleep myoclonus can extend later into infancy.<sup>[11] </sup>In fact, some suggest that this condition may persist beyond early infancy; most children sleep through the night during the latter part of the first year away from their parents, who are potentially unaware of the occurrence of this condition.</para>
+				<para>Indeed, parents often report that their older children jerk during sleep, although these are not typically described as repetitive as is seen in benign neonatal sleep myoclonus. Nocturnal myoclonus may represent a continuum; benign neonatal sleep myoclonus may be the most obvious and readily recognized manifestation, with diminished signs as the CNS matures, although this remains to be demonstrated. A genetic etiology is suspected, with reports of occurrence in multiple family members.<sup>[<ref_inline id="refsrc16" name="refsrc16"/>16, <ref_inline id="refsrc17" name="refsrc17"/>17] </sup>
+</para>
+				<para>Attempts at treatment with anticonvulsants have been reported after movements were mistakenly attributed to epilepsy. Movements appeared to be exacerbated in 2 reports after benzodiazepine administration, perhaps invoking a GABA-mediated substrate.<sup>[8, <ref_inline id="refsrc18" name="refsrc18"/>18] </sup>Apparent GABA-mediated, experimentally induced myoclonus has been reported.<sup>[<ref_inline id="refsrc19" name="refsrc19"/>19] </sup>Additionally, a preponderance of neuronal excitatory activity has been demonstrated in newborns, partially due to an excitatory effect of GABA in the immature brain.<sup>[<ref_inline id="refsrc20" name="refsrc20"/>20] </sup>This is in contrast with older individuals, in whom GABA activation typically exerts an inhibitory effect. Therefore, an overall excess of excitation occurs in the newborn and may explain the tendency for worsening with touch or sound stimulus in certain infants with benign neonatal sleep myoclonus.</para>
+				<para>Taking advantage of this reflex component has helped provide diagnostic clues as to the etiology of the movements. Provocative maneuvers have been identified in some infants. Rocking infants in a crib at a low frequency (1 Hz) in a head-to-toe direction and repetitive sound stimuli have been used to provoke the condition.<sup>[<ref_inline id="refsrc21" name="refsrc21"/>21] </sup>Several case series report that parents themselves have identified these maneuvers.<sup>[11] </sup>
+</para>
+			</pgroup>
+		</sect2>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a0199" std="Y">
+			<title>Epidemiology</title>
+			<sect3 id="a0105" std="Y">
+				<title>Frequency</title>
+				<pgroup>
+					<title>United States</title>
+					<para>Although the true incidence is unknown, benign neonatal sleep myoclonus is likely underrecognized.<sup>[<ref_inline id="refsrc22" name="refsrc22"/>22] </sup>Although the condition is benign by definition, this condition often prompts extensive neurodiagnostic testing. Therefore, a broader understanding of its frequency and benign nature is important to establish among primary care providers to prevent complex, expensive, and largely unnecessary testing. </para>
+				</pgroup>
+			</sect3>
+			<sect3 id="a0108" std="Y">
+				<title>Mortality/Morbidity</title>
+				<pgroup>
+					<para>By definition, benign neonatal sleep myoclonus is not due to serious neurologic injuries or abnormalities; as such, it resolves without residua. Parents should be reassured and should also understand the natural history of the condition to prevent undue worry and concern. Indeed, if neurologic comorbidity becomes evident in an affected child, a reconsideration of the diagnosis is indicated. </para>
+				</pgroup>
+			</sect3>
+			<sect3 id="a0109" std="Y">
+				<title>Race</title>
+				<pgroup>
+					<para>No race or sex predilection has been identified, and reports from around the world appear to support the ubiquitous nature of the condition. </para>
+				</pgroup>
+			</sect3>
+			<sect3 id="a0111" std="Y">
+				<title>Age</title>
+				<pgroup>
+					<para>Onset is in the neonatal period. In one of the larger studies, a retrospective analysis of 38 children older than 4 years, onset in the first 16 days of life was reported in all children; most children presented in the first 4 days of life.<sup>[11] </sup>In this same series, resolution occurred over the next several months, although 22 of the children had resolution by age 2 months. As has been mentioned in the literature, a study of the natural history of benign neonatal sleep myoclonus has not been performed, and the use of parental reports only may underreport the condition in older children, who often sleep away from their parents. </para>
+				</pgroup>
+			</sect3>
+		</sect2>
+	</sect1>
+	<sect1 id="a02">
+		<title xmlns:xs="http://www.w3.org/2001/XMLSchema">Clinical Presentation</title>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a0216" std="Y">
+			<title>History</title>
+			<pgroup>
+				<para>Although children are sometimes identified with abnormal movements within the first several hours of birth while still in the hospital, parents are often the first to witness the movements in children who were discharged early. These movements are often characterized as jerking of a limb during sleep. This may be repetitive and rhythmic and, thus, may prompt concerns regarding seizure. Unless the movements are previously videotaped or witnessed in the outpatient setting, patients are generally admitted for observation and workup, depending on the clinical concern for seizures.</para>
+				<para>Caretakers should be aware of the clinical characteristics of benign neonatal sleep myoclonus (BNSM), which are delineated in the <em>International Classification of Sleep Disorders, revised: Diagnostic and Coding Manual (2nd and 3rd editions) (ICSD-2, ICSD-3),</em> as follows<sup>[<ref_inline id="refsrc23" name="refsrc23"/>23, <ref_inline id="refsrc24" name="refsrc24"/>24] </sup>:</para>
+				<itemizedlist>
+					<listitem>
+						<para>Repetitive myoclonic jerks that involve the whole body, trunk, or limbs</para>
+					</listitem>
+					<listitem>
+						<para>Movements that occur in early infancy, typically from birth to age 6 months</para>
+					</listitem>
+					<listitem>
+						<para>Movements that occur only during sleep</para>
+					</listitem>
+					<listitem>
+						<para>Movements that stop abruptly and consistently when the child is aroused</para>
+					</listitem>
+					<listitem>
+						<para>A disorder that is not better explained by another sleep disorder, by a medical or neurologic disorder, or by medication use</para>
+					</listitem>
+				</itemizedlist>
+				<para>An association with sleep is important because clinically evident seizures are often associated with eye opening. Gentle restraint has been reported to possibly worsen the manifestations. Provocative maneuvers include sound stimulus and, in one report, repetitive head-to-toe rocking of the infant.<sup>[21] </sup>In this report, increased rocking frequency seemed to be associated with increased clinical manifestations. Passive restraint of the child did not ameliorate the signs.</para>
+				<para>The most important maneuver is waking the child, which should entirely eliminate the symptoms. Movements are often superimposed on normal, purposeless movements of the infant and do not appear to occur in isolation, as is the case in the clonic movements of a seizure. One study reported an infant with benign neonatal sleep myoclonus who developed a pathologic form of myoclonus (ie, myoclonic-astatic epilepsy).<sup>[<ref_inline id="refsrc25" name="refsrc25"/>25] </sup>This association is likely incidental, and no clear evidence suggests that benign neonatal sleep myoclonus occurs in a continuum with other, more consequential forms of myoclonus. </para>
+			</pgroup>
+		</sect2>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a0217" std="Y">
+			<title>Physical</title>
+			<pgroup>
+				<para>Physical examination findings of benign neonatal sleep myoclonus are normal, except for the movements themselves. Children are generally otherwise well; however, in one report, neurologic findings were reported.<sup>[11] </sup>These were described as mild and included hyperirritability and hypoxia. The authors believed these findings were incidental and not causative; long-term follow-up of these same children indicated only tonal abnormalities. Whether these children had presenting neurologic abnormalities and the degree to which their tone was abnormal is unclear. </para>
+				<para>Most other reports emphasize the normal aspects of the physical examination findings. In the author's experience, children have normal examination findings and no long-term residua. In fact, a paucity of neurologic findings is, in itself, an aspect of the diagnostic criteria. Additional neurologic findings should prompt more extensive diagnostic testing for possible causes of pathologic myoclonus in infants. </para>
+			</pgroup>
+		</sect2>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a0218" std="Y">
+			<title>Causes</title>
+			<pgroup>
+				<para>The cause of benign neonatal sleep myoclonus is unknown. However, 2 reports indicate a probable genetic contribution, with several individuals affected within 2 pedigrees.<sup>[16, 17] </sup>
+</para>
+			</pgroup>
+		</sect2>
+	</sect1>
+	<ddsect xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a06">
+		<title>Differential Diagnoses</title>
+		<ddlist>
+			<dditem ref="">Benign neonatal convulsions</dditem>
+			<dditem ref="">Electrolyte disturbance</dditem>
+			<dditem ref="">Epilepsy</dditem>
+			<dditem ref="">Fifth-day fits</dditem>
+			<dditem ref="">Hyperekplexia</dditem>
+			<dditem ref="972179">Meningitis, Aseptic</dditem>
+			<dditem ref="961497">Meningitis, Bacterial</dditem>
+			<dditem ref="">Neonatal jitteriness</dditem>
+			<dditem ref="">Pathologic myoclonus</dditem>
+		</ddlist>
+		<oplist>
+			<title>Other Problems to Be Considered</title>
+			<para>Numerous conditions are similar to benign neonatal sleep myoclonus (BNSM), including nocturnal myoclonus,<sup>[<ref_inline id="refsrc26" name="refsrc26"/>26] </sup>and the brief, isolated jerks (ie, hypnic jerks) that often occur in healthy individuals into adulthood upon initiation of sleep.<sup>[<ref_inline id="refsrc27" name="refsrc27"/>27] </sup>Benign neonatal essential myoclonus is typically noted in older infants and generally not during sleep, which is an important distinction. </para>
+		</oplist>
+	</ddsect>
+	<sect1 id="a07">
+		<title xmlns:xs="http://www.w3.org/2001/XMLSchema">Workup</title>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a0719" std="Y">
+			<title>Laboratory Studies</title>
+			<pgroup>
+				<para>If jitteriness or tetany remain in the differential diagnosis, screening for <a href="http://emedicine.medscape.com/article/921936-overview">hypoglycemia</a> and electrolyte disturbances is indicated.</para>
+			</pgroup>
+		</sect2>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a0720" std="Y">
+			<title>Imaging Studies</title>
+			<pgroup>
+				<para>Once benign neonatal sleep myoclonus (BNSM) is identified, no imaging studies are indicated. If epilepsy or seizures remain a concern, MRI is the study of choice in infants. </para>
+			</pgroup>
+		</sect2>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a0721" std="Y">
+			<title>Other Tests</title>
+			<pgroup>
+				<para>If seizures remain a consideration, performing EEG is appropriate. Prolonged EEG monitoring, during multiple sleep/wake cycles potentially allows for time-locked data collection during episodes, making this the optimal study for infants in whom diagnostic confusion remains. </para>
+			</pgroup>
+		</sect2>
+	</sect1>
+	<sect1 id="a11">
+		<title xmlns:xs="http://www.w3.org/2001/XMLSchema">Treatment &amp; Management</title>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a1127" std="Y">
+			<title>Medical Care</title>
+			<pgroup>
+				<para>Medical care of benign neonatal sleep myoclonus (BNSM) consists of making a timely diagnosis. Delayed recognition often results in extensive diagnostic testing, including screening for infectious causes of seizures (eg, spinal tap, blood cultures, empiric antibiotics) and neurodiagnostics (eg, electroencephalography, brain imaging, brain monitoring). This process almost invariably results in admission to the hospital and a great deal of family distress. </para>
+				<para>Early recognition can be facilitated by the use of home-video monitoring by parents, especially if the episodes are frequent. If the child is otherwise clinically well, ask the parents to obtain video footage while their child undergoes medical evaluation. Once a provider is experienced in the clinical manifestations, this can be invaluable in the diagnosis of benign neonatal sleep myoclonus. At that point, parents are reassured regarding the benign nature of the condition and educated regarding the prognosis. If clinical concern for possible seizure remains but the child is otherwise clinically stable (eg, without concerning pregnancy-related risk factors or abnormal findings on examination), admission to the hospital for a short stay to facilitate monitoring and observation by trained professionals is prudent. </para>
+			</pgroup>
+		</sect2>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a1129" std="Y">
+			<title>Consultations</title>
+			<pgroup>
+				<para>If clinical confusion remains, a pediatric neurologist should be consulted to observe video footage and to perform an extended neurologic examination. Further diagnostic testing could be ordered based on their assessment and based on concern regarding possible seizures or other more ominous causes of myoclonus in children. This would be especially pertinent in patients with late-onset manifestations or with other concerning neurologic findings. </para>
+			</pgroup>
+		</sect2>
+	</sect1>
+	<msect xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a18">
+		<title>Medication</title>
+		<intro>
+			<title>Medication Summary</title>
+			<para>No medication is necessary in benign neonatal sleep myoclonus.</para>
+		</intro>
+	</msect>
+	<sect1 id="a26">
+		<title xmlns:xs="http://www.w3.org/2001/XMLSchema">Follow-up</title>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a2644" std="Y">
+			<title>Further Inpatient Care</title>
+			<pgroup>
+				<para>Further inpatient care is warranted in patients with benign neonatal sleep myoclonus (BNSM) only if other risk factors for neurologic disease are evident, such as developmental concerns, deficits or abnormalities upon examination, or signs of metabolic or infectious disease. However, as mentioned above, inpatient care should be strongly considered if the movements have not been clearly identified as benign in nature by a medical provider. </para>
+			</pgroup>
+		</sect2>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a2645" std="Y">
+			<title>Further Outpatient Care</title>
+			<pgroup>
+				<para>Outpatient care of the child with a clear history of benign neonatal sleep myoclonus is within the purview of a general pediatrician. Monitoring for other neurologic or developmental concerns is included in the standard recommendations for pediatric care in the first year of life. </para>
+			</pgroup>
+		</sect2>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a2646" std="Y">
+			<title>Inpatient &amp; Outpatient Medications</title>
+			<pgroup>
+				<para>No medications are indicated; in fact, treatment with benzodiazepines and other anticonvulsants may worsen the movements because they may cause sedation and sleep. </para>
+			</pgroup>
+		</sect2>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a2647" std="Y">
+			<title>Transfer</title>
+			<pgroup>
+				<para>If clinical concern remains regarding the diagnosis, transfer the patient to a location where further neurodiagnostic testing and expertise can support the evaluation. </para>
+			</pgroup>
+		</sect2>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a2649" std="Y">
+			<title>Complications</title>
+			<pgroup>
+				<para>No long-term complications of benign neonatal sleep myoclonus are known. However, relatively small populations have been reported, and follow-up beyond 1 year has not been reported. </para>
+			</pgroup>
+		</sect2>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a2650" std="Y">
+			<title>Prognosis</title>
+			<pgroup>
+				<para>The prognosis is good, and no long-term residual sleep or neurobehavioral difficulties have been identified. Parents should be reassured that their child is normal and that no long-term implications are known. However, studies with follow-up longer than 1 year remain to be completed. </para>
+			</pgroup>
+		</sect2>
+	</sect1>
+	<sect1 id="a27">
+		<title xmlns:xs="http://www.w3.org/2001/XMLSchema">Miscellaneous</title>
+		<sect2 xmlns:xs="http://www.w3.org/2001/XMLSchema" id="a2752" std="Y">
+			<title>Medicolegal Pitfalls</title>
+			<pgroup>
+				<para>If benign neonatal sleep myoclonus (BNSM) is misidentified as epilepsy, treatment could result in a medicolegal challenge, especially because the medication-related side effects of anticonvulsants have become better recognized. Therefore, careful screening for epilepsy and consultation with a pediatric neurologist is recommended if treatment is to be started or continued. Likewise, if benign neonatal sleep myoclonus is considered, one must ensure that no other risk factors for epilepsy are present and that an experienced provider makes this diagnosis. A missed diagnosis of epilepsy is a clear medicolegal risk; therefore, this must be screened for carefully. </para>
+			</pgroup>
+		</sect2>
+	</sect1>
+	<authors xmlns:xs="http://www.w3.org/2001/XMLSchema">
+		<contrbtr_group>
+			<contrbtr_type_lbl>Author</contrbtr_type_lbl>
+			<contrbtr_element>
+				<contrbtr_nm>Marc P DiFazio, MD</contrbtr_nm>
+				<contrbtr_title> Associate Professor, Department of Neurology, Uniformed Services University of the Health Sciences; Director, Pediatric Subspecialty Services, Shady Grove Adventist Hospital for Children </contrbtr_title>
+				<contrbtr_bio>Marc P DiFazio, MD is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, American Academy of Cerebral Palsy and Developmental Medicine, <a href="http://www.aan.com/professionals/">American Academy of Neurology</a>, <a href="http://www.childneurologysociety.org/">Child Neurology Society</a>, and <a href="http://www.movementdisorders.org/">Movement Disorders Society</a>
+</contrbtr_bio>
+				<contrbtr_disclsr>Disclosure: Nothing to disclose. </contrbtr_disclsr>
+			</contrbtr_element>
+		</contrbtr_group>
+		<contrbtr_group>
+			<contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+			<contrbtr_element>
+				<contrbtr_nm>Dalila W Lewis, MD</contrbtr_nm>
+				<contrbtr_title> Pediatric Neurology Fellow, Walter Reed Army Medical Center </contrbtr_title>
+				<contrbtr_bio>Dalila W Lewis, MD is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://www.aan.com/professionals/">American Academy of Neurology</a>, and <a href="http://www.aap.org/">American Academy of Pediatrics</a>
+</contrbtr_bio>
+				<contrbtr_disclsr>Disclosure: Nothing to disclose. </contrbtr_disclsr>
+			</contrbtr_element>
+			<contrbtr_element>
+				<contrbtr_nm>Ayne Kimberly Iafolla, MD</contrbtr_nm>
+				<contrbtr_title> Corporate Medical Director, Pediatrix of Maryland; Medical Director of Neonatal Intensive Care Unit, Active Staff, Departments of Neonatology and Genetics, Southern Maryland Hospital; Active Staff, Department of Neonatology, Washington County Hospital, Western Maryland Health System, and Shady Grove Adventist Hospital; Associate Staff, Departments of Neonatology and Genetics, Washington Adventist Hospital </contrbtr_title>
+				<contrbtr_bio>Ayne Kimberly Iafolla, MD is a member of the following medical societies: <a href="http://www.aap.org/">American Academy of Pediatrics</a>, <a href="http://www.acmg.net/">American College of Medical Genetics</a>, <a href="http://www.ama-assn.org/">American Medical Association</a>, <a href="http://www.nutritioncare.org/">American Society for Parenteral and Enteral Nutrition</a>, <a href="http://www.ashg.org/">American Society of Human Genetics</a>, <a href="http://www.pbk.org/">Phi Beta Kappa</a>, and <a href="http://www.sigmaxi.org/">Sigma Xi</a>
+</contrbtr_bio>
+				<contrbtr_disclsr>Disclosure: Nothing to disclose. </contrbtr_disclsr>
+			</contrbtr_element>
+		</contrbtr_group>
+		<contrbtr_group>
+			<contrbtr_type_lbl>Medical Editor</contrbtr_type_lbl>
+			<contrbtr_element>
+				<contrbtr_nm>Scott S MacGilvray, MD</contrbtr_nm>
+				<contrbtr_title> Clinical Professor, Department of Pediatrics, Division of Neonatology, The Brody School of Medicine at East Carolina University </contrbtr_title>
+				<contrbtr_bio>Scott S MacGilvray, MD is a member of the following medical societies: <a href="http://www.aap.org/">American Academy of Pediatrics</a>
+</contrbtr_bio>
+				<contrbtr_disclsr>Disclosure: Nothing to disclose. </contrbtr_disclsr>
+			</contrbtr_element>
+		</contrbtr_group>
+		<contrbtr_group>
+			<contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+			<contrbtr_element>
+				<contrbtr_nm>Mary L Windle, PharmD</contrbtr_nm>
+				<contrbtr_title> Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference </contrbtr_title>
+				<contrbtr_disclsr>Disclosure: Nothing to disclose. </contrbtr_disclsr>
+			</contrbtr_element>
+		</contrbtr_group>
+		<contrbtr_group>
+			<contrbtr_type_lbl>CME Editor</contrbtr_type_lbl>
+			<contrbtr_element>
+				<contrbtr_nm>Carol L Wagner, MD</contrbtr_nm>
+				<contrbtr_title> Professor of Pediatrics, Medical University of South Carolina </contrbtr_title>
+				<contrbtr_bio>Carol L Wagner, MD is a member of the following medical societies: <a href="http://www.aap.org/">American Academy of Pediatrics</a>, <a href="http://www.acs.org/">American Chemical Society</a>, <a href="http://www.amwa-doc.org/">American Medical Women's Association</a>, <a href="http://www.apha.org/">American Public Health Association</a>, <a href="http://www.asbmr.org/">American Society for Bone and Mineral Research</a>, <a href="http://www.ascn.org/">American Society for Clinical Nutrition</a>, <a href="http://www.massmed.org/AM/Template.cfm?Section=Home">Massachusetts Medical Society</a>, <a href="http://www.nationalperinatal.org/">National Perinatal Association</a>, and <a href="http://www.aps-spr.org/">Society for Pediatric Research</a>
+</contrbtr_bio>
+				<contrbtr_disclsr>Disclosure: Nothing to disclose. </contrbtr_disclsr>
+			</contrbtr_element>
+		</contrbtr_group>
+		<contrbtr_group>
+			<contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+			<contrbtr_element>
+				<contrbtr_nm>Ted Rosenkrantz, MD</contrbtr_nm>
+				<contrbtr_title> Professor, Departments of Pediatrics and Obstetrics/Gynecology, Division of Neonatal-Perinatal Medicine, University of Connecticut School of Medicine </contrbtr_title>
+				<contrbtr_bio>Ted Rosenkrantz, MD is a member of the following medical societies: <a href="http://www.aap.org/">American Academy of Pediatrics</a>, <a href="http://www.ama-assn.org/">American Medical Association</a>, <a href="http://www.aps-spr.org/">American Pediatric Society</a>, <a href="http://www.csms.org/">Connecticut State Medical Society</a>, Eastern Society for Pediatric Research, and <a href="http://www.aps-spr.org/">Society for Pediatric Research</a>
+</contrbtr_bio>
+				<contrbtr_disclsr>Disclosure: Nothing to disclose. </contrbtr_disclsr>
+			</contrbtr_element>
+		</contrbtr_group>
+	</authors>
+	<refgrp xmlns:xs="http://www.w3.org/2001/XMLSchema">
+		<ritem ref="http://reference.medscape.com/medline/abstract/7065938">
+			<para>Coulter DL, Allen RJ. Benign neonatal sleep myoclonus. <em>Arch Neurol</em>. Mar 1982;39(3):191-2. <a href="http://reference.medscape.com/medline/abstract/7065938">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/8474488">
+			<para>Di Capua M, Fusco L, Ricci S, et al. Benign neonatal sleep myoclonus: clinical features and video-polygraphic recordings. <em>Mov Disord</em>. Apr 1993;8(2):191-4. <a href="http://reference.medscape.com/medline/abstract/8474488">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/15380156">
+			<para>Caviness JN, Brown P. Myoclonus: current concepts and recent advances. <em>Lancet Neurol</em>. Oct 2004;3(10):598-607. <a href="http://reference.medscape.com/medline/abstract/15380156">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/20351003">
+			<para>Maurer VO, Rizzi M, Bianchetti MG, Ramelli GP. Benign neonatal sleep myoclonus: a review of the literature. <em>Pediatrics</em>. Apr 2010;125(4):e919-24. <a href="http://reference.medscape.com/medline/abstract/20351003">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/11968457">
+			<para>Welsh JP, Placantonakis DG, Warsetsky SI, et al. The serotonin hypothesis of myoclonus from the perspective of neuronal rhythmicity. <em>Adv Neurol</em>. 2002;89:307-29. <a href="http://reference.medscape.com/medline/abstract/11968457">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/3080981">
+			<para>Resnick TJ, Moshe SL, Perotta L, et al. Benign neonatal sleep myoclonus. Relationship to sleep states. <em>Arch Neurol</em>. Mar 1986;43(3):266-8. <a href="http://reference.medscape.com/medline/abstract/3080981">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/5391954">
+			<para>Parmelee AH Jr. Sleep cycles in infants. <em>Dev Med Child Neurol</em>. Dec 1969;11(6):794-5. <a href="http://reference.medscape.com/medline/abstract/5391954">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/1415056">
+			<para>Daoust-Roy J, Seshia SS. Benign neonatal sleep myoclonus. A differential diagnosis of neonatal seizures. <em>Am J Dis Child</em>. Oct 1992;146(10):1236-41. <a href="http://reference.medscape.com/medline/abstract/1415056">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/12727774">
+			<para>Egger J, Grossmann G, Auchterlonie IA. Benign sleep myoclonus in infancy mistaken for epilepsy. <em>BMJ</em>. May 3 2003;326(7396):975-6. <a href="http://reference.medscape.com/medline/abstract/12727774">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/16188822">
+			<para>Ramelli GP, Sozzo AB, Vella S, et al. Benign neonatal sleep myoclonus: an under-recognized, non-epileptic condition. <em>Acta Paediatr</em>. Jul 2005;94(7):962-3. <a href="http://reference.medscape.com/medline/abstract/16188822">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/17574462">
+			<para>Paro-Panjan D, Neubauer D. Benign neonatal sleep myoclonus: experience from the study of 38 infants. <em>Eur J Paediatr Neurol</em>. Jan 2008;12(1):14-8. <a href="http://reference.medscape.com/medline/abstract/17574462">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/22136898">
+			<para>Tinuper P, Bisulli F, Provini F, Montagna P, Lugaresi E. Nocturnal Frontal Lobe Epilepsy: new pathophysiological interpretations. <em>Sleep Med</em>. Dec 2011;12 Suppl 2:S39-42. <a href="http://reference.medscape.com/medline/abstract/22136898">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/24691296">
+			<para>Prabhu AM, Pathak S, Khurana D, Legido A, Carvalho K, Valencia I. Nocturnal variant of benign myoclonic epilepsy of infancy: a case series. <em>Epileptic Disord</em>. Mar 2014;16(1):45-9. <a href="http://reference.medscape.com/medline/abstract/24691296">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/24750849">
+			<para>Suzuki Y, Toshikawa H, Kimizu T, et al. Benign neonatal sleep myoclonus: Our experience of 15 Japanese cases. <em>Brain Dev</em>. Jan 2015;37(1):71-5. <a href="http://reference.medscape.com/medline/abstract/24750849">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/3939749">
+			<para>Scher MS. Pathologic myoclonus of the newborn: electrographic and clinical correlations. <em>Pediatr Neurol</em>. Nov-Dec 1985;1(6):342-8. <a href="http://reference.medscape.com/medline/abstract/3939749">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/17509467">
+			<para>Cohen R, Shuper A, Straussberg R. Familial benign neonatal sleep myoclonus. <em>Pediatr Neurol</em>. May 2007;36(5):334-7. <a href="http://reference.medscape.com/medline/abstract/17509467">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/12515447">
+			<para>Vaccario ML, Valenti MA, Carullo A, et al. Benign neonatal sleep myoclonus: case report and follow-up of four members of an affected family. <em>Clin Electroencephalogr</em>. Jan 2003;34(1):15-7. <a href="http://reference.medscape.com/medline/abstract/12515447">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/15032388">
+			<para>Turanli G, Senbil N, Altunbasak S, et al. Benign neonatal sleep myoclonus mimicking status epilepticus. <em>J Child Neurol</em>. Jan 2004;19(1):62-3. <a href="http://reference.medscape.com/medline/abstract/15032388">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/6722517">
+			<para>Crossman AR, Sambrook MA, Jackson A. Experimental hemichorea/hemiballismus in the monkey. Studies on the intracerebral site of action in a drug-induced dyskinesia. <em>Brain</em>. Jun 1984;107 (Pt 2):579-96. <a href="http://reference.medscape.com/medline/abstract/6722517">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/11380563">
+			<para>Sanchez RM, Jensen FE. Maturational aspects of epilepsy mechanisms and consequences for the immature brain. <em>Epilepsia</em>. May 2001;42(5):577-85. <a href="http://reference.medscape.com/medline/abstract/11380563">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/7491244">
+			<para>Alfonso I, Papazian O, Aicardi J, et al. A simple maneuver to provoke benign neonatal sleep myoclonus. <em>Pediatrics</em>. Dec 1995;96(6):1161-3. <a href="http://reference.medscape.com/medline/abstract/7491244">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/16188822">
+			<para>Ramelli GP, Sozzo AB, Vella S, et al. Benign neonatal sleep myoclonus: an under-recognized, non-epileptic condition. <em>Acta Paediatr</em>. Jul 2005;94(7):962-3. <a href="http://reference.medscape.com/medline/abstract/16188822">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="">
+			<para>American Academy of Sleep Medicine. American Academy of Sleep Medicine. <em>International Classification of Sleep Disorders, revised: Diagnostic and Coding Manual</em>. 2<sup>nd</sup> ed. Chicago, IL: 2001:211-2. </para>
+		</ritem>
+		<ritem ref="">
+			<para>American Academy of Sleep Medicine. Sleep disorders. In: <em>International Classification of Sleep Disorders – Third Edition (ICSD-3)</em>. Darien, Ill: American Academy of Sleep Medicine; February 2014:chapter 2. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/2512119">
+			<para>Nolte R. Neonatal sleep myoclonus followed by myoclonic-astatic epilepsy: a case report. <em>Epilepsia</em>. Nov-Dec 1989;30(6):844-50. <a href="http://reference.medscape.com/medline/abstract/2512119">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/13085198">
+			<para>Symonds CP. Nocturnal myoclonus. <em>J Neurol Neurosurg Psychiatry</em>. Aug 1953;16(3):166-71. <a href="http://reference.medscape.com/medline/abstract/13085198">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/13651496">
+			<para>Oswald I. Sudden bodily jerks on falling asleep. <em>Brain</em>. Mar 1959;82(1):92-103. <a href="http://reference.medscape.com/medline/abstract/13651496">[Medline]</a>. </para>
+		</ritem>
+		<ritem ref="http://reference.medscape.com/medline/abstract/25367475">
+			<para>Sateia MJ. International classification of sleep disorders-third edition: highlights and modifications. <em>Chest</em>. Nov 2014;146(5):1387-94. <a href="http://reference.medscape.com/medline/abstract/25367475">[Medline]</a>. </para>
+		</ritem>
+	</refgrp>
+
+</article>

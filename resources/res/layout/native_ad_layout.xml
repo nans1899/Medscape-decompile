@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/native_ad_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:background="@drawable/gray_reactangle_text_ad_border" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@+id/text_ad" android:padding="15dp" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1">
+            <TextView android:textSize="11sp" android:textColor="@color/rx_label_color" android:id="@+id/label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Label" android:fontFamily="sans-serif" android:letterSpacing="-0.01"/>
+            <TextView android:textSize="14sp" android:textColor="@color/text_main_group" android:id="@+id/content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Title" android:lineSpacingExtra="2sp" android:fontFamily="sans-serif" android:paddingEnd="5dp"/>
+            <TextView android:textSize="12sp" android:id="@+id/references" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:layout_marginBottom="3dp"/>
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="11sp" android:textStyle="normal" android:textColor="@color/link_blue" android:id="@+id/additional_link1_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="sans-serif" android:layout_marginEnd="16dp" android:letterSpacing="-0.01"/>
+                <TextView android:textSize="11sp" android:textStyle="normal" android:textColor="@color/link_blue" android:id="@+id/additional_link2_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="sans-serif" android:letterSpacing="-0.01"/>
+            </LinearLayout>
+            <TextView android:textSize="11sp" android:textStyle="normal" android:textColor="@color/rx_label_color" android:id="@+id/job_code" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:fontFamily="sans-serif" android:letterSpacing="-0.01"/>
+        </LinearLayout>
+        <ImageView android:layout_gravity="center" android:id="@+id/next_arrow" android:padding="5dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_keyboard_arrow_right_black_24dp" android:alpha="0.54"/>
+    </LinearLayout>
+    <include android:id="@+id/graphic_driver_ad_banner" android:visibility="gone" layout="@layout/native_ad_graphic_driver_320x50"/>
+    <include android:id="@+id/graphic_driver_ad_inline" android:visibility="gone" layout="@layout/native_ad_graphic_driver_300x250"/>
+</LinearLayout>

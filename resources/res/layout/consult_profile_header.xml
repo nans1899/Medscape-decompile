@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <RelativeLayout android:layout_gravity="center_horizontal" android:id="@+id/image_profile_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@+id/profile_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:layout_centerInParent="true"/>
+        <ImageView android:id="@+id/profile_camera" android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/consult_camera" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true"/>
+        <ProgressBar android:id="@+id/loading_progress" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/progress" android:layout_centerInParent="true" style="?android:attr/progressBarStyleSmall"/>
+    </RelativeLayout>
+    <com.medscape.android.view.CustomFontTextView android:textSize="16sp" android:textColor="#de000000" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@+id/specialty" android:paddingLeft="5dp" android:paddingRight="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="5dp" app:fontName="Roboto-Regular.ttf"/>
+    <com.medscape.android.view.CustomFontTextView android:textSize="14sp" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@+id/bio" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3dp" app:fontName="Roboto-Regular.ttf"/>
+    <com.medscape.android.view.CustomFontTextView android:textSize="14sp" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@+id/userRole" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" app:fontName="Roboto-Regular.ttf"/>
+    <com.medscape.android.view.CustomFontTextView android:textSize="14sp" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@+id/professionalTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp" app:fontName="Roboto-Medium.ttf"/>
+    <com.medscape.android.view.CustomFontTextView android:textSize="12sp" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@+id/institution" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp" app:fontName="Roboto-Regular.ttf"/>
+    <ImageView android:layout_gravity="center_horizontal" android:id="@+id/institution_image" android:paddingTop="20dp" android:paddingBottom="13dp" android:visibility="gone" android:layout_width="160dp" android:layout_height="wrap_content"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="13dp" android:layout_marginBottom="10dp">
+        <View android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+        <RelativeLayout android:layout_width="0dp" android:layout_height="40dp" android:layout_weight="3.5">
+            <Button android:textColor="@color/medscape_blue" android:id="@+id/action_button" android:background="@drawable/white_rectangular_ripple" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <ProgressBar android:id="@+id/follow_progress" android:paddingRight="5dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" android:elevation="2dp" style="?android:attr/progressBarStyleSmall"/>
+            <ImageView android:id="@+id/checkmark" android:paddingRight="5dp" android:visibility="gone" android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/consult_check" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" android:elevation="2dp"/>
+        </RelativeLayout>
+        <View android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true">
+    <TextView android:textSize="16sp" android:textColor="@color/black" android:id="@+id/drug_detail_interaction_name" android:background="?android:attr/selectableItemBackground" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Text Line Item"/>
+    <TextView android:textSize="14sp" android:textColor="#000" android:id="@+id/drug_detail_interaction_details" android:padding="10dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="20dp" android:text="Text Line Item Details" android:textIsSelectable="true"/>
+    <View android:background="#f4f4f4" android:layout_width="match_parent" android:layout_height="1dp" android:layout_alignParentBottom="true"/>
+</LinearLayout>

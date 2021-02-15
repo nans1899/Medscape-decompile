@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/test" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <FrameLayout android:id="@+id/target_view" android:background="@color/black" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/slide" android:layout_width="match_parent" android:layout_height="match_parent">
+        <RelativeLayout android:id="@+id/topView" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1">
+            <WebView android:id="@+id/topWebview" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <ImageView android:id="@+id/topZoomin" android:padding="10dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_zoomin" android:layout_alignParentTop="true" android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+        <View android:id="@+id/divider" android:background="@android:color/black" android:visibility="gone" android:layout_width="match_parent" android:layout_height="1dp"/>
+        <RelativeLayout android:id="@+id/bottomView" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1">
+            <WebView android:id="@+id/bottomWebview" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <ImageView android:id="@+id/bottomZoomin" android:padding="10dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/icon_zoomin" android:layout_alignParentTop="true" android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

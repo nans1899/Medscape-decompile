@@ -1,0 +1,246 @@
+{
+	"status": 1,
+	"cookiename": ["medpermauth", "mednet", "biauth", "isapp"],
+	"patientInstructionsStatus": "disabled",
+	"profile": {
+		"dispnm": "",
+		"gradyr": "2008",
+		"marketcd": "medscapeapp-android",
+		"domains": [{
+			"mbrdmn": "en_us"
+		}],
+		"npi": "0",
+		"slt": "",
+		"hintid": "1",
+		"newsletterinfo": {
+			"conceptids": [],
+			"nlids": []
+		},
+		"hpdesc": "Multispecialty",
+		"hhusid": "",
+		"stlic": "",
+		"hasinv": 0,
+		"pstate": "1",
+		"accstat": "1",
+		"profid": "10",
+		"islic": "",
+		"intldeg": "",
+		"fn": "Nick",
+		"puid": "",
+		"ttldesc": "",
+		"spid": "32",
+		"status": 0,
+		"valstatus": "0",
+		"lastlogin": "2016-02-04 13:38:00",
+		"practnm": "",
+		"mailformid": "1",
+		"professions": [{
+			"gradyr": "2008",
+			"dispnm": "",
+			"efn": "",
+			"pracid": "",
+			"degid": "3",
+			"locale": "en_us",
+			"degip": "MD",
+			"instituteCity": "",
+			"profid": "10",
+			"prvdrid": "",
+			"lanr": "",
+			"medschlid": "5502",
+			"institution": "",
+			"occdesc": "",
+			"occid": "",
+			"ttldesc": "",
+			"spid": "32",
+			"pracdesc": "",
+			"practnm": "",
+			"rpps": "",
+			"lbb": "",
+			"medschldesc": "Marshall University Edwards School of Medicine",
+			"guid": "17046208",
+			"profdesc": "Physician",
+			"degdesc": "MD",
+			"spdesc": "Cardiology, General",
+			"ttlid": "",
+			"nabpid": ""
+		}],
+		"affiliates": [],
+		"email": "nick.bhatia@gmail.com",
+		"licid": "",
+		"ln": "Bhatia",
+		"valdt": "2015-03-31 11:10:33",
+		"degid": "3",
+		"pracid": "",
+		"hasdebacc": 0,
+		"degip": "MD",
+		"isvalidemail": "1",
+		"loginnm": "nicardob",
+		"rgtron": "en_us",
+		"contact": [{
+			"codesc": "Algeria",
+			"cntctypeid": "1",
+			"s2": "",
+			"COUNTY": "Monmouth",
+			"co": "dz",
+			"s1": "",
+			"fax": "",
+			"zc": "07746",
+			"stdesc": "New Jersey",
+			"st": "NJ",
+			"ph": "",
+			"city": ""
+		}, {
+			"codesc": "United States",
+			"cntctypeid": "2",
+			"s2": "",
+			"COUNTY": "Monmouth",
+			"co": "us",
+			"s1": "",
+			"fax": "",
+			"zc": "07746",
+			"stdesc": "New Jersey",
+			"st": "NJ",
+			"ph": "",
+			"city": ""
+		}],
+		"dea": "",
+		"me": "",
+		"valmode": "",
+		"medschlid": "5502",
+		"campaign": [{
+			"siteon": [{
+				"id": "2001"
+			}, {
+				"id": "2002"
+			}, {
+				"id": "2005"
+			}, {
+				"id": "2010"
+			}],
+			"adid": "0",
+			"expdt": "2016-02-15 00:00:00",
+			"prty": "2",
+			"clienttype": [{
+				"id": "2"
+			}],
+			"showad": "1",
+			"segid": "1",
+			"reldt": "2016-01-07 00:00:00",
+			"cid": "3975",
+			"showa": "0",
+			"showt": "0"
+		}],
+		"mscpmailid": "",
+		"mi": "",
+		"occdesc": "",
+		"occid": "",
+		"professionStatus": [{
+			"guid": "17046208",
+			"valstatus": "0",
+			"valdt": "2015-03-31 11:10:33",
+			"locale": "en_us",
+			"npi": "0",
+			"accesstoboards": "0",
+			"valattempts": "",
+			"valmode": "",
+			"puid": ""
+		}],
+		"intlcd": "",
+		"pracdesc": "",
+		"accesstoboards": "0",
+		"newslpref": "2",
+		"hpid": "17",
+		"polmailid": "",
+		"lbb": "",
+		"medschldesc": "Marshall University Edwards School of Medicine",
+		"guid": "17046208",
+		"profdesc": "Physician",
+		"spdesc": "Cardiology, General",
+		"degdesc": "MD",
+		"dob": "1983-01-01 00:00:00",
+		"valattempts": "",
+		"hintans": "buttonwood",
+		"uac": "170462MK",
+		"ttlid": "",
+		"attributes": [{
+			"val": "med",
+			"attrid": "cobrandreg"
+		}]
+	},
+	"profilesegvar": "pf=10;usp=32;occ=0;ct=dz;st=nj;tcid=10865_11329_11297_17128_10846_18976_10821_16659_10822_17802_11337_11321_10847_10842_18509_10824_18905_10845_16974_10882_10841_13287_10862_10861_10844_13290_10866_18555_10863_",
+	"profilesegvardfp": "ct=dz;occ=0;pf=10;st=nj;usp=32;val=0;tc=13290,18976,18905,17128,16974,18555,18509,17802,16659,11297,11296,11321,11329,11337,13267,13287,10824,10823,10822,10821,10842,10867,10866,10865,10863,10862,10861,10881,10847,10846,10845,10844,10841,10882;sa=0;",
+	"adTargeting": [{
+		"siteOn": "4910",
+		"tid": ""
+	}, {
+		"siteOn": "2013",
+		"tid": ""
+	}, {
+		"siteOn": "2002",
+		"tid": ""
+	}, {
+		"siteOn": "590010",
+		"tid": ""
+	}, {
+		"siteOn": "2003",
+		"tid": ""
+	}, {
+		"siteOn": "330010",
+		"tid": ""
+	}, {
+		"siteOn": "2010",
+		"tid": ""
+	}, {
+		"siteOn": "2001",
+		"tid": ""
+	}],
+	"adTargetingDfp": [{
+		"siteOn": "4910",
+		"tid": ""
+	}, {
+		"siteOn": "2013",
+		"tid": ""
+	}, {
+		"siteOn": "2002",
+		"tid": ""
+	}, {
+		"siteOn": "590010",
+		"tid": ""
+	}, {
+		"siteOn": "2003",
+		"tid": ""
+	}, {
+		"siteOn": "330010",
+		"tid": ""
+	}, {
+		"siteOn": "2010",
+		"tid": ""
+	}, {
+		"siteOn": "2001",
+		"tid": ""
+	}],
+	"tcids": "18509,11337,10841,18905,10824,10823,11297,10882,17802,17128,11321,11329,10862,18555,11296,10866,10821,10844,10822,10842,10863,10881,13290,10845,10847,10867,13287,13267,10865",
+	"cme": [{
+		"type": "CME",
+		"year": 2016,
+		"total": ".25"
+	}, {
+		"type": "CME",
+		"year": 2015,
+		"total": "5.25"
+	}],
+	"livefyreUsers": [{
+		"displayName": "Dr. Nick Bhatia",
+		"authToken": "eyJhbGciOiJIUzI1NiJ9.eyJ0YWdzIjpbIjMyIHNwZWMgMTAiXSwiZGlzcGxheV9uYW1lIjoiRHIuIE5pY2sgQmhhdGlhIiwiZXhwaXJlcyI6MTU0MjgyODUyMywiZW1haWwiOiJBQUJCNHZ0WW15OTBrekJiRDBJSHRUZ1RiUT09QGxmbWFpbC5tZWRzY2FwZS5jb20iLCJkb21haW4iOiJtZWRzY2FwZS5meXJlLmNvIiwidXNlcl9pZCI6Ii9Oc2V1UytxRFpySGQwS3FNekQxMEE9PSIsImVtYWlsX25vdGlmaWNhdGlvbnMiOnsicmVwbGllcyI6ImltbWVkaWF0ZWx5IiwibGlrZXMiOiJpbW1lZGlhdGVseSIsIm1vZGVyYXRvcl9mbGFncyI6ImltbWVkaWF0ZWx5IiwibW9kZXJhdG9yX2NvbW1lbnRzIjoiaW1tZWRpYXRlbHkiLCJjb21tZW50cyI6ImltbWVkaWF0ZWx5In19.hLYaxDQyafTadjXaeAQD-eElj2nlTTaEiy4XiUC_PWA"
+	}, {
+		"displayName": "Dr. N B",
+		"authToken": "eyJhbGciOiJIUzI1NiJ9.eyJ0YWdzIjpbIjMyIHNwZWMgMTAiXSwiZGlzcGxheV9uYW1lIjoiRHIuIE4gQiIsImV4cGlyZXMiOjE1NDI4Mjg1MjMsImVtYWlsIjoiQUFCQjR2dFlteTkwa3pCYkQwSUh0VGdUYlE9PUBsZm1haWwubWVkc2NhcGUuY29tIiwiZG9tYWluIjoibWVkc2NhcGUuZnlyZS5jbyIsInVzZXJfaWQiOiJDa3JLa2pXSG9WcmpyMWhBN3RRWU9RPT0iLCJlbWFpbF9ub3RpZmljYXRpb25zIjp7InJlcGxpZXMiOiJpbW1lZGlhdGVseSIsImxpa2VzIjoiaW1tZWRpYXRlbHkiLCJtb2RlcmF0b3JfZmxhZ3MiOiJpbW1lZGlhdGVseSIsIm1vZGVyYXRvcl9jb21tZW50cyI6ImltbWVkaWF0ZWx5IiwiY29tbWVudHMiOiJpbW1lZGlhdGVseSJ9fQ.rj-5juoykvO09N3UPqTw70_ydf2UrwXhvjaTuTgv8n8"
+	}, {
+		"displayName": "Dr. Nick B",
+		"authToken": "eyJhbGciOiJIUzI1NiJ9.eyJ0YWdzIjpbIjMyIHNwZWMgMTAiXSwiZGlzcGxheV9uYW1lIjoiRHIuIE5pY2sgQiIsImV4cGlyZXMiOjE1NDI4Mjg1MjMsImVtYWlsIjoiQUFCQjR2dFlteTkwa3pCYkQwSUh0VGdUYlE9PUBsZm1haWwubWVkc2NhcGUuY29tIiwiZG9tYWluIjoibWVkc2NhcGUuZnlyZS5jbyIsInVzZXJfaWQiOiJ0eG1UL3pSL2R5YlNmcXhJdDFHUC93PT0iLCJlbWFpbF9ub3RpZmljYXRpb25zIjp7InJlcGxpZXMiOiJpbW1lZGlhdGVseSIsImxpa2VzIjoiaW1tZWRpYXRlbHkiLCJtb2RlcmF0b3JfZmxhZ3MiOiJpbW1lZGlhdGVseSIsIm1vZGVyYXRvcl9jb21tZW50cyI6ImltbWVkaWF0ZWx5IiwiY29tbWVudHMiOiJpbW1lZGlhdGVseSJ9fQ._6RUGdtJq5tFBhtCVqLCozXVa8kXB-P4MqZU8rKmkc8"
+	}],
+	"accessToken": "8MyA15+a+brTxTF1xjaDHtxVjylUncJDjOxgejICra7Gry/Q",
+	"refreshToken": "otUM2A9wv9oGgZTpXfJf7zh8gncjpCR78SCcTs6Xrblx4tn+",
+	"token": "ivks4lhDuEtSDZde0YmC7A==",
+	"maskedGuid": "dgnOzeoBqUq+4SzRIeTZJQ=="
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.firebase.inappmessaging.display.internal.layout.FiamRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="center" android:id="@+id/modal_root" android:padding="24dp" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.google.firebase.inappmessaging.display.internal.layout.ModalLayoutLandscape android:id="@+id/modal_content_root" android:background="@drawable/rounded_layout" android:padding="24dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerInParent="true" app:maxHeightPct="0.8" app:maxWidthPct="0.85" style="@style/FiamUI.Modal">
+        <ImageView android:id="@+id/image_view" android:layout_width="wrap_content" android:layout_height="match_parent" android:adjustViewBounds="true" android:contentDescription="@string/modal_content_descriptor" style="@style/FiamUI.ResizableImageView"/>
+        <TextView android:id="@+id/message_title" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/FiamUI.Text.Title"/>
+        <ScrollView android:id="@+id/body_scroll" android:padding="0dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:id="@+id/message_body" android:layout_width="match_parent" android:layout_margin="0dp" style="@style/FiamUI.ModalBody"/>
+        </ScrollView>
+        <Button android:id="@+id/button" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </com.google.firebase.inappmessaging.display.internal.layout.ModalLayoutLandscape>
+    <Button android:id="@+id/collapse_button" android:layout_alignTop="@+id/modal_content_root" android:layout_alignRight="@+id/modal_content_root" android:layout_alignEnd="@+id/modal_content_root" style="@style/FiamUI.CollapseButton"/>
+</com.google.firebase.inappmessaging.display.internal.layout.FiamRelativeLayout>

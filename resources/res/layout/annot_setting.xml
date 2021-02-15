@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="#b4848484" android:padding="20dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <TextView android:textSize="20sp" android:textColor="#ff2e2e2e" android:id="@+id/annot_line_color_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/text_color"/>
+    <Spinner android:entries="@array/annot_line_colors" android:id="@+id/annot_line_color_value" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <TextView android:textSize="20sp" android:textColor="#ff2e2e2e" android:id="@+id/annot_fill_color_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/text_fill_color"/>
+    <Spinner android:entries="@array/annot_line_colors" android:id="@+id/annot_fill_color_value" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="20sp" android:textColor="#ff2e2e2e" android:id="@+id/annot_opacity_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/text_opacity"/>
+        <TextView android:textSize="20sp" android:textColor="#ff2e2e2e" android:id="@+id/annot_opacity_value_display" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3dp"/>
+    </LinearLayout>
+    <SeekBar android:id="@+id/annot_opacity_value" android:layout_width="200dp" android:layout_height="30dp" android:max="255" android:progress="255"/>
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="20sp" android:textColor="#ff2e2e2e" android:id="@+id/annot_line_width_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/text_width"/>
+        <TextView android:textSize="20sp" android:textColor="#ff2e2e2e" android:id="@+id/annot_line_width_value_display" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3dp"/>
+    </LinearLayout>
+    <SeekBar android:id="@+id/annot_line_width_value" android:layout_width="200dp" android:layout_height="30dp" android:max="32" android:progress="32"/>
+    <CheckBox android:textColor="#ff2e2e2e" android:id="@+id/annot_line_straight" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/text_straight"/>
+    <CheckBox android:textColor="#ff2e2e2e" android:id="@+id/annot_line_squiggly" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/text_squiggly"/>
+</LinearLayout>

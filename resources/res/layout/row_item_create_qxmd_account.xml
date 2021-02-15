@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="?android:attr/selectableItemBackground" android:paddingLeft="@dimen/default_padding_start" android:paddingTop="@dimen/default_padding_top" android:paddingRight="@dimen/default_padding_end" android:paddingBottom="@dimen/default_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/default_padding_start" android:paddingEnd="@dimen/default_padding_end">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/prompt_register_account_tile" style="@style/create_qxmd_account_title"/>
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/prompt_register_account_body" style="@style/create_qxmd_account_body"/>
+</LinearLayout>

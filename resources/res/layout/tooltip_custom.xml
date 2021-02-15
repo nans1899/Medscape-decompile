@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@drawable/bg_tooltip" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:textSize="17dp" android:textColor="@android:color/white" android:gravity="center" android:id="@+id/tooltip_textview" android:paddingLeft="60dp" android:paddingTop="11dp" android:paddingRight="60dp" android:paddingBottom="11dp" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/bubble_text_email" android:lineSpacingExtra="5dp"/>
+</LinearLayout>

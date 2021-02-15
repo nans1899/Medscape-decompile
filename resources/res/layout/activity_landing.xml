@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/landing_activity_root_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/landing_toolbar" android:background="@color/activity_toolbar_background" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:elevation="4dp" app:theme="@style/MyToolbar">
+        <TextView android:textSize="16sp" android:textColor="@color/white" android:gravity="center" android:id="@+id/text_view_welcome_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/registration_welcome_title" android:textAlignment="center"/>
+        <LinearLayout android:orientation="horizontal" android:id="@+id/toolbar_image_wrapper" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/welcome_logo_lite"/>
+        </LinearLayout>
+    </androidx.appcompat.widget.Toolbar>
+    <LinearLayout android:orientation="vertical" android:background="@color/auth_background_white" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:id="@+id/non_keychain_views_wrapper" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="50dp">
+            <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="16dp" android:textColor="@color/auth_component_black" android:gravity="center_vertical" android:id="@+id/btnSignIn" android:background="@drawable/rectangular_ripple" android:paddingLeft="26dp" android:paddingTop="10dp" android:paddingRight="10dp" android:paddingBottom="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/sign_in_button_text"/>
+            </RelativeLayout>
+            <View android:background="#eee" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="16dp" android:textColor="@color/auth_component_black" android:gravity="center_vertical" android:id="@+id/btnSignUp" android:background="@drawable/rectangular_ripple" android:paddingLeft="26dp" android:paddingTop="10dp" android:paddingRight="10dp" android:paddingBottom="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/sign_up_button_text"/>
+                <ProgressBar android:id="@+id/signupProgress" android:paddingRight="5dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" android:elevation="2dp" style="?android:attr/progressBarStyleSmall"/>
+            </RelativeLayout>
+            <View android:background="#eee" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="16dp" android:textColor="@color/auth_component_black" android:gravity="center_vertical" android:id="@+id/landing_debug" android:background="@drawable/rectangular_ripple" android:paddingLeft="26dp" android:paddingTop="10dp" android:paddingRight="10dp" android:paddingBottom="10dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/debug_settings"/>
+            </RelativeLayout>
+            <View android:background="#eee" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:layout_marginRight="10dp">
+                <TextView android:textSize="12dp" android:textColor="@color/colorTextLight" android:id="@+id/landing_activity_description" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" android:text="@string/landing_activity_description" android:lineSpacingExtra="2dp"/>
+                <TextView android:textSize="12dp" android:textColor="@color/colorTextLight" android:id="@+id/landing_activity_free" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/landing_activity_free" android:lineSpacingExtra="2dp"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@+id/landing_activity_continue_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+                <ImageView android:layout_gravity="center" android:id="@+id/welcome_logo_image" android:layout_width="wrap_content" android:layout_height="0dp" android:src="@drawable/welcome_logo" android:layout_weight="1"/>
+                <TextView android:textSize="12sp" android:textColor="@color/colorTextLight" android:gravity="center" android:id="@+id/text_view_keychain_message" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="15dp" android:text=""/>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_marginBottom="15dp" android:layout_weight="1">
+                <RelativeLayout android:gravity="center_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="24dp" android:layout_marginRight="24dp">
+                    <Button android:textSize="16dp" android:textColor="@android:color/white" android:id="@+id/landing_activity_continue_button" android:background="@drawable/blue_rectangular_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/landing_activity_continue" android:textAllCaps="false"/>
+                    <ProgressBar android:id="@+id/continue_progress" android:paddingRight="5dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" android:elevation="2dp" style="?android:attr/progressBarStyleSmall"/>
+                </RelativeLayout>
+                <TextView android:textSize="12sp" android:textColor="@color/colorTextLight" android:layout_gravity="center" android:id="@+id/text_view_keychain_not_you" android:padding="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10dp" android:text="@string/landing_activity_not_you"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <Button android:gravity="center_vertical" android:id="@+id/debug" android:background="@drawable/rectangular_ripple" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Debug" style="@style/landingScreenButtons"/>
+</LinearLayout>

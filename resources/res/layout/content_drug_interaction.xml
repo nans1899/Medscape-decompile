@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@color/drug_interaction_background" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+    <LinearLayout android:orientation="vertical" android:id="@+id/drug_interaction_list_layout" android:paddingBottom="100dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:textStyle="normal" android:textColor="#8b000000" android:layout_gravity="right" android:id="@+id/drug_interaction_clear_all" android:padding="16dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drug_interaction_clear_all" android:contentDescription="@string/drug_interaction_clear_all_content_desc" android:fontFamily="sans-serif-medium"/>
+        <TextView android:textSize="14dp" android:textStyle="normal" android:textColor="@color/black" android:ellipsize="end" android:id="@+id/drug_interaction_list_name" android:padding="16dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:fontFamily="sans-serif-medium"/>
+        <ProgressBar android:layout_gravity="center" android:id="@+id/drug_interaction_loading" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/interaction_main_drug_list" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <TextView android:textSize="14dp" android:gravity="center" android:id="@+id/drug_interaction_use_search_field" android:padding="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/drug_interaction_use_search_above"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/drug_interaction_button_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="14dp" android:textColor="@android:color/black" android:gravity="center" android:id="@+id/drug_interaction_interaction_message" android:padding="10dp" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:text=""/>
+            <ProgressBar android:id="@+id/progress_bar" android:padding="3dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true"/>
+        </RelativeLayout>
+        <Button android:textSize="18dp" android:textColor="@android:color/white" android:gravity="center" android:id="@+id/drug_interaction_view_interactions_button" android:background="@drawable/round_cornered_rectangle_blue" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:layout_marginBottom="12dp" android:text="@string/drug_interaction_view_interactions" android:textAllCaps="false"/>
+    </LinearLayout>
+    <RelativeLayout android:id="@+id/drug_interaction_search_layout" android:background="@android:color/white" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/drug_interaction_search_list" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <TextView android:textSize="14dp" android:textColor="@color/black" android:id="@+id/drug_interaction_no_result" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/drug_interaction_view_no_results" android:layout_centerHorizontal="true"/>
+    </RelativeLayout>
+</RelativeLayout>

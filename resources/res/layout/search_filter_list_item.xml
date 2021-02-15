@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/search_popup" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="3dp">
+    <ImageView android:layout_gravity="right" android:id="@+id/arrow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/filter_bg_top"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/menu_baby_info" android:background="@drawable/filter_bg_bottom" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:background="@drawable/search_filter_white_rounded_background" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginTop="32dp" android:layout_marginRight="8dp" android:layout_marginBottom="8dp">
+            <RelativeLayout android:id="@+id/news" android:tag="0" android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="45dp" android:onClick="onSearchFilterClick">
+                <ImageView android:gravity="center" android:id="@+id/check" android:visibility="gone" android:layout_width="15dp" android:layout_height="match_parent" android:layout_margin="5dp" android:src="@drawable/search_fiter_check" android:layout_alignParentRight="true"/>
+                <TextView android:text="News &amp; Perspectives" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" style="@style/search_filter_item"/>
+            </RelativeLayout>
+            <View android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <RelativeLayout android:id="@+id/reference" android:tag="1" android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="45dp" android:onClick="onSearchFilterClick">
+                <ImageView android:gravity="center" android:id="@+id/check" android:focusable="false" android:focusableInTouchMode="false" android:visibility="gone" android:layout_width="15dp" android:layout_height="match_parent" android:layout_margin="5dp" android:src="@drawable/search_fiter_check" android:layout_alignParentRight="true"/>
+                <TextView android:text="Reference" android:layout_toLeftOf="@+id/check" style="@style/search_filter_item"/>
+            </RelativeLayout>
+            <View android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <RelativeLayout android:id="@+id/education" android:tag="2" android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="45dp" android:onClick="onSearchFilterClick">
+                <ImageView android:gravity="center" android:id="@+id/check" android:visibility="gone" android:layout_width="15dp" android:layout_height="match_parent" android:layout_margin="5dp" android:src="@drawable/search_fiter_check" android:layout_alignParentRight="true"/>
+                <TextView android:text="Education &amp; Training" android:layout_toLeftOf="@+id/check" style="@style/search_filter_item"/>
+            </RelativeLayout>
+            <View android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <RelativeLayout android:id="@+id/medline" android:tag="3" android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="45dp" android:onClick="onSearchFilterClick">
+                <ImageView android:layout_gravity="center" android:id="@+id/check" android:visibility="gone" android:layout_width="15dp" android:layout_height="match_parent" android:layout_margin="5dp" android:src="@drawable/search_fiter_check" android:layout_alignParentRight="true"/>
+                <TextView android:text="MEDLINE" android:layout_toLeftOf="@+id/check" style="@style/search_filter_item"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

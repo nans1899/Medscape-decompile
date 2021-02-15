@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" app:slm_headerDisplay="11" app:slm_isHeader="false" app:slm_section_headerMarginStart="0dp">
+    <FrameLayout android:id="@+id/progress_layout" android:background="@color/white" android:layout_width="match_parent" android:layout_height="80dp">
+        <ProgressBar android:layout_gravity="center" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="30dp" android:progressBarStyleInverse="?android:attr/progressBarStyleInverse"/>
+    </FrameLayout>
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@+id/native_ad_layout" android:background="@android:color/background_light" android:paddingTop="@dimen/default_margin_top_bottom" android:paddingBottom="@dimen/default_margin_top_bottom" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/default_padding_start">
+        <TextView android:textColor="@color/grey_9F" android:id="@+id/native_label" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:letterSpacing="-0.01" style="@style/native_ads_label"/>
+        <TextView android:textColor="@color/green_text" android:id="@+id/native_title" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/native_ads_title"/>
+        <TextView android:textColor="@color/blue_text" android:id="@+id/native_sub_title" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/native_ads_subtitle"/>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@+id/drugMonographManufacturersLayout" android:background="@android:color/background_light" android:paddingTop="@dimen/default_margin_top_bottom" android:paddingBottom="@dimen/default_margin_top_bottom" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/default_padding_start" android:elevation="1dp">
+        <TextView android:id="@+id/drugMonographManufacturersTitle" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/native_ads_title"/>
+        <TextView android:id="@+id/drugMonographManufacturersSubTitle" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/native_ads_subtitle"/>
+    </LinearLayout>
+    <FrameLayout android:orientation="vertical" android:id="@+id/dfp_adLayout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <include android:id="@+id/sharethrough_fallback" android:visibility="gone" layout="@layout/sharethrough_fallback"/>
+    <View android:id="@+id/divider" android:background="@color/backcolor" android:layout_width="match_parent" android:layout_height="10dp"/>
+</LinearLayout>

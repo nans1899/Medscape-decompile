@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">wp.medscape.com
+        </domain>
+        <domain includeSubdomains="true">img.medscapestatic.com
+        </domain>
+        <domain includeSubdomains="true">img.medscape.com
+        </domain>
+        <domain includeSubdomains="true">std.o.medscape.com
+        </domain>
+        <domain includeSubdomains="true">webmd-vh.akamaihd.net
+        </domain>
+        <domain includeSubdomains="true">api.medscape.com
+        </domain>
+        <domain includeSubdomains="true">amp.akamaized.net
+        </domain>
+        <domain includeSubdomains="true">cdn.dashjs.org
+        </domain>
+        <domain includeSubdomains="true">webmd.hb.omtrdc.net
+        </domain>
+        <domain includeSubdomains="true">consent.trustarc.com
+        </domain>
+        <domain includeSubdomains="true">dpm.demdex.net
+        </domain>
+        <domain includeSubdomains="true">login.medscape.com
+        </domain>
+    </domain-config>
+</network-security-config>

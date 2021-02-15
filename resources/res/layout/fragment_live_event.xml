@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:theme="@style/AppTheme.AppBarOverlay" android:id="@+id/actionBar" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="0dp" app:elevation="0dp">
+        <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:popupTheme="@style/AppTheme.AppBarOverlay"/>
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="?attr/actionBarSize">
+        <RelativeLayout android:id="@+id/lyt_loader" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+            <ProgressBar android:id="@+id/progress_bar" android:layout_width="@dimen/dimen_60dp" android:layout_height="@dimen/dimen_60dp" android:layout_centerHorizontal="true"/>
+        </RelativeLayout>
+        <WebView android:id="@+id/wv_events" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <include android:id="@+id/lyt_error" android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/not_found_error_view"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

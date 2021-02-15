@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="com_appboy_push_small_notification_icon">@drawable/ic_medscape_push</drawable>
+    <drawable name="notification_template_icon_bg">#3333b5e5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <drawable name="white">#ffffff</drawable>
+</resources>

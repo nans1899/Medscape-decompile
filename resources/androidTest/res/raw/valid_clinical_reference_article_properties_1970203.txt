@@ -1,0 +1,8 @@
+id=1970203
+title=Nuss Procedure for Pectus Excavatum
+localXMLPath=/storage/emulated/0/Medscape/1970203.xml
+noOfSections=5
+noOfSubsections=16
+noOfPGroups=42
+version=MEDS
+downloadUrl=http://img.medscape.com/pi/iphone/medscapeapp/XML/1970203.xml

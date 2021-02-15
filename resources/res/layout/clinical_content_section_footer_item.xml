@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="vertical" android:id="@+id/root_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layoutDirection="locale">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="10">
+        <TextView android:textSize="16sp" android:textColor="@color/primary_text_default_material_light" android:id="@+id/text" android:padding="5dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_weight="9"/>
+        <ImageView android:id="@+id/crossLinkIcon" android:padding="10dp" android:visibility="visible" android:layout_width="0dp" android:layout_height="wrap_content" android:src="@drawable/ic_keyboard_arrow_right_black_24dp" android:layout_weight="1"/>
+    </LinearLayout>
+    <View android:background="@color/background_grey2" android:layout_width="match_parent" android:layout_height="1dp" android:layout_alignParentBottom="true"/>
+</LinearLayout>

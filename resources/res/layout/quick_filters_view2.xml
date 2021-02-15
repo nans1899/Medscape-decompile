@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:tag="layout/quick_filters_view2_0" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.cardview.widget.CardView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/dimen_15dp" android:layout_marginStart="@dimen/dimen_15dp" android:layout_marginEnd="@dimen/dimen_15dp" app:cardCornerRadius="10dp" app:cardElevation="10dp" app:contentPadding="0dp">
+        <RelativeLayout android:gravity="center" android:layout_gravity="center_vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/dimen_14sp" android:textStyle="bold" android:gravity="center_horizontal" android:id="@+id/tv_heading" android:tag="binding_1" android:padding="@dimen/dimen_10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Filter by:" android:layout_centerHorizontal="true" android:lineSpacingExtra="10sp" android:textAllCaps="true"/>
+            <View android:id="@+id/divider" android:tag="binding_2" android:layout_width="match_parent" android:layout_height="1dp" android:layout_below="@+id/tv_heading"/>
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/rv_filters" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/divider"/>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

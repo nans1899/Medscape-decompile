@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/post_test_content_frame" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:background="@color/activity_toolbar_background" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:elevation="4dp" app:theme="@style/MyToolbars"/>
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@+id/questions_remaining_continue" android:layout_below="@+id/toolbar">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="15dp" android:layout_marginTop="15dp" android:layout_marginRight="15dp" android:layout_marginBottom="10dp">
+            <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="18dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" android:text="@string/post_test_header" app:fontName="Roboto-Bold.ttf" style="@style/redTextView"/>
+            <View android:background="@color/black" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="20dp" android:layout_marginBottom="20dp"/>
+            <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="16dp" android:textColor="@color/black" android:id="@+id/article_title_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="20dp" app:fontName="Roboto-Medium.ttf"/>
+            <com.webmd.wbmdcmepulse.customviews.ArticleCopyTextView android:id="@+id/score_statement_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" android:text="@string/post_test_score_statement"/>
+            <FrameLayout android:id="@+id/content_frame" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </LinearLayout>
+    </ScrollView>
+    <Button android:textColor="@color/app_accent_color" android:gravity="center" android:id="@+id/questions_remaining_continue" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Questions Remaining" android:layout_alignParentBottom="true" android:textAlignment="center"/>
+    <ProgressBar android:id="@+id/progress_bar" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" android:progressBarStyleInverse="?android:attr/progressBarStyleInverse"/>
+</RelativeLayout>

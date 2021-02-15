@@ -1,0 +1,308 @@
+{
+  "version": 2,
+  "data": {
+    "associated_groups": {
+      "webmd": [],
+      "affiliate": []
+    },
+    "direct_mappings": [
+      {
+        "affiliate_item": {
+          "id": "28",
+          "title": "Chiropractor"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "25",
+          "title": "Dental Surgeon"
+        },
+        "webmd_item": {
+          "id": "20"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "24",
+          "title": "Dentist"
+        },
+        "webmd_item": {
+          "id": "20"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "1",
+          "title": "Dietician"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "2",
+          "title": "EMT, Paramedic"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "35",
+          "title": "Health Advisor"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "32",
+          "title": "Healthcare Administrator"
+        },
+        "webmd_item": {
+          "id": "13"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "33",
+          "title": "Informatician"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "31",
+          "title": "Librarian"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "3",
+          "title": "Medical Student"
+        },
+        "webmd_item": {
+          "id": "16"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "34",
+          "title": "Midwife"
+        },
+        "webmd_item": {
+          "id": "12"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "20",
+          "title": "Non-MD, Clinician Scientist"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "12",
+          "title": "Non-medical Person"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "0",
+          "title": "None Indicated"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "4",
+          "title": "Nurse"
+        },
+        "webmd_item": {
+          "id": "12"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "22",
+          "title": "Nurse Practitioner"
+        },
+        "webmd_item": {
+          "id": "12"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "5",
+          "title": "Occupational Therapist"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "27",
+          "title": "Optometrist"
+        },
+        "webmd_item": {
+          "id": "22"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "15",
+          "title": "Other"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "13",
+          "title": "Other Health Care Professional"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "14",
+          "title": "Other Student"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "6",
+          "title": "Pharmacist"
+        },
+        "webmd_item": {
+          "id": "8"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "30",
+          "title": "Physical Therapy"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "17",
+          "title": "Physician Assistant"
+        },
+        "webmd_item": {
+          "id": "11"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "23",
+          "title": "Physician D.O."
+        },
+        "webmd_item": {
+          "id": "10"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "7",
+          "title": "Physician M.D. / Surgeon"
+        },
+        "webmd_item": {
+          "id": "10"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "19",
+          "title": "Physician, Clinician Scientist"
+        },
+        "webmd_item": {
+          "id": "10"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "8",
+          "title": "Physiotherapist"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "26",
+          "title": "Podiatrist"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "9",
+          "title": "Resident"
+        },
+        "webmd_item": {
+          "id": "10"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "10",
+          "title": "Respiratory Therapist"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "18",
+          "title": "Scientist/Researcher"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "11",
+          "title": "Social Worker"
+        },
+        "webmd_item": {
+          "id": "15"
+        }
+      }
+    ]
+  }
+}

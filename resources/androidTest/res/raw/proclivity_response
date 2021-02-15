@@ -1,0 +1,43 @@
+{
+	"status": {
+		"code": 200,
+		"description": "",
+		"remote": null,
+		"stackTrace": null,
+		"exceptionClassName": null
+	},
+	"data": {
+		"userSegVars": {
+			"pbs": "",
+			"pbr": [
+			{
+			  "p":1
+			  "w":300
+			  "h":50
+			  "a": "ab123"
+			},
+			{
+			  "p":1
+			  "w":300
+			  "h":50
+			  "a": "ab1234"
+			},
+			{
+			  "p":1
+			  "w":300
+			  "h":50
+			  "a": "ab12345"
+			}
+
+			],
+			"pb": "0",
+			"pdi": "0",
+			"masid": "0",
+			"pdp": "",
+			"pds": "",
+			"pbp": ""
+		}
+	},
+	"debug": {},
+	"refresh": ["pb"]
+}

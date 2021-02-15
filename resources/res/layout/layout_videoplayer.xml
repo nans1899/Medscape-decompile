@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="#000000" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:background="#000000" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ProgressBar android:layout_gravity="center" android:id="@+id/progress" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" progressBarStyleInverse="?android:attr/progressBarStyleInverse"/>
+    </LinearLayout>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <VideoView android:id="@+id/surface" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_centerHorizontal="true"/>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/bottom_panel" android:background="@drawable/home_scr_tab_bg_default" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <ImageButton android:id="@+id/play" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/play"/>
+            <ImageButton android:id="@+id/pause" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/pause"/>
+            <ImageButton android:id="@+id/reset" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/reset"/>
+            <ImageButton android:id="@+id/stop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/stop"/>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

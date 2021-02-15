@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/container_view" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/container" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.appcompat.widget.Toolbar android:theme="@style/ToolbarLight" android:id="@+id/toolbar" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize"/>
+        <FrameLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <com.qxmd.qxrecyclerview.QxRecyclerView android:id="@+id/recycler_view" android:layout_width="match_parent" android:layout_height="match_parent"/>
+            <com.wbmd.qxcalculator.views.ArrowView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:id="@+id/arrow_view" android:layout_width="15dp" android:layout_height="20dp" android:layout_margin="@dimen/listview_margin_right" android:rotation="90" app:arrow_color="#26000000"/>
+        </FrameLayout>
+        <FrameLayout android:background="@color/keyboard_bkg_unselected" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.google.android.gms.ads.doubleclick.PublisherAdView android:layout_gravity="center" android:id="@+id/adView" android:layout_width="wrap_content" android:layout_height="wrap_content" app:adSize="BANNER" app:adUnitId="@string/banner_ad_unit_id"/>
+        </FrameLayout>
+    </LinearLayout>
+    <View android:id="@+id/grey_overlay" android:background="@color/calculator_disable_overlay" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</RelativeLayout>

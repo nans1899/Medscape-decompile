@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/not_found_lyt" android:tag="layout/not_found_error_view_0" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/id_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="30dp" android:src="@drawable/logo_color" android:layout_above="@+id/iv_shutterstock" android:layout_centerHorizontal="true" android:contentDescription="medscape_logo"/>
+    <ImageView android:id="@+id/iv_shutterstock" android:tag="binding_1" android:layout_width="250dp" android:layout_height="250dp" android:layout_centerInParent="true" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:contentDescription="404_error"/>
+    <TextView android:textSize="21sp" android:textStyle="normal" android:textColor="@color/shades" android:gravity="center_horizontal" android:tag="binding_2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:layout_below="@+id/iv_shutterstock" android:layout_centerHorizontal="true"/>
+</RelativeLayout>

@@ -1,0 +1,238 @@
+{
+	"status": 1,
+	"cookiename": ["medpermauth", "mednet", "biauth", "isapp"],
+	"patientInstructionsStatus": "disabled",
+	"profile": {
+		"dispnm": "",
+		"gradyr": "2012",
+		"profileAttributes": [],
+		"marketcd": "medscapeapp-android",
+		"npi": "0",
+		"domains": [{
+			"mbrdmn": "en_us"
+		}],
+		"slt": "",
+		"hintid": "",
+		"newsletterinfo": {
+			"conceptids": [],
+			"nlids": []
+		},
+		"hpdesc": "Internal Medicine",
+		"hhusid": "",
+		"stlic": "",
+		"hasinv": 0,
+		"pstate": "1",
+		"accstat": "1",
+		"profid": "10",
+		"islic": "",
+		"intldeg": "",
+		"fn": "Shyam",
+		"puid": "",
+		"ttldesc": "",
+		"spid": "43",
+		"status": 0,
+		"valstatus": "0",
+		"lastlogin": "2018-07-31 11:29:14.0",
+		"practnm": "",
+		"mailformid": "1",
+		"professions": [{
+			"gradyr": "2012",
+			"dispnm": "",
+			"ABIM_ID": "",
+			"efn": "",
+			"pracid": "",
+			"degid": "3",
+			"locale": "en_us",
+			"degip": "MD",
+			"instituteCity": "",
+			"profid": "10",
+			"prvdrid": "",
+			"lanr": "",
+			"medschlid": "1104",
+			"institution": "",
+			"occdesc": "",
+			"occid": "",
+			"ttldesc": "",
+			"spid": "43",
+			"pracdesc": "",
+			"practnm": "",
+			"rpps": "",
+			"lbb": "",
+			"medschldesc": "University of South Florida College of Medicine at Tampa",
+			"guid": "30534609",
+			"profdesc": "Physician",
+			"degdesc": "MD",
+			"spdesc": "Internal Medicine",
+			"ttlid": "",
+			"nabpid": ""
+		}],
+		"affiliates": [],
+		"email": "samconsult@test.com",
+		"licid": "",
+		"ln": "Sunder",
+		"valdt": "",
+		"degid": "3",
+		"pracid": "",
+		"hasdebacc": 0,
+		"degip": "MD",
+		"isvalidemail": "1",
+		"loginnm": "samconsult@test.com",
+		"rgtron": "en_us",
+		"contact": [{
+			"codesc": "United States",
+			"cntctypeid": "1",
+			"s2": "",
+			"COUNTY": "Bergen",
+			"co": "us",
+			"s1": "",
+			"fax": "",
+			"zc": "07071",
+			"stdesc": "New Jersey",
+			"st": "NJ",
+			"ph": "",
+			"city": ""
+		}, {
+			"codesc": "United States",
+			"cntctypeid": "2",
+			"s2": "",
+			"COUNTY": "Bergen",
+			"co": "us",
+			"s1": "",
+			"fax": "",
+			"zc": "07071",
+			"stdesc": "New Jersey",
+			"st": "NJ",
+			"ph": "",
+			"city": ""
+		}],
+		"dea": "",
+		"me": "",
+		"valmode": "",
+		"medschlid": "1104",
+		"campaign": [],
+		"mscpmailid": "",
+		"mi": "",
+		"occdesc": "",
+		"occid": "",
+		"professionStatus": [{
+			"guid": "30534609",
+			"valstatus": "0",
+			"valdt": "",
+			"locale": "en_us",
+			"npi": "0",
+			"accesstoboards": "0",
+			"valattempts": "",
+			"valmode": "",
+			"puid": ""
+		}],
+		"intlcd": "",
+		"pracdesc": "",
+		"accesstoboards": "0",
+		"newslpref": "2",
+		"hpid": "18",
+		"polmailid": "",
+		"lbb": "",
+		"medschldesc": "University of South Florida College of Medicine at Tampa",
+		"guid": "30534609",
+		"profdesc": "Physician",
+		"spdesc": "Internal Medicine",
+		"degdesc": "MD",
+		"dob": "",
+		"valattempts": "",
+		"hintans": "",
+		"uac": "305346MJ",
+		"ttlid": "",
+		"attributes": [{
+			"val": "med",
+			"attrid": "cobrandreg"
+		}, {
+			"val": "1",
+			"attrid": "consultMedStudentNotification"
+		}, {
+			"val": "1",
+			"attrid": "consultMedStudentShow"
+		}]
+	},
+	"profilesegvar": "pf=10;usp=43;occ=0;ct=us;st=nj;tcid=14985_21771_24984_29356_30320_32667_32625_32611_32612_32668_32669_32670_32614_32671_32672_32785_32766_32708_32709_32768_32769_32786_32770_32710_32771_32767_35489_",
+	"profilesegvardfp": "val=0;vit=;ct=us;st=nj;usp=43;pf=10;gd=824434443;occ=0;sa=0;tc=14985,21771,24984,29356,30320,32667,32625,32611,32612,32668,32669,32670,32614,32671,32672,32785,32766,32708,32709,32768,32769,32786,32770,32710,32771,32767,35489;",
+	"adTargeting": [{
+		"siteOn": "2001",
+		"tid": ""
+	}, {
+		"siteOn": "2002",
+		"tid": ""
+	}, {
+		"siteOn": "2003",
+		"tid": ""
+	}, {
+		"siteOn": "590010",
+		"tid": ""
+	}, {
+		"siteOn": "650010",
+		"tid": ""
+	}, {
+		"siteOn": "2010",
+		"tid": ""
+	}, {
+		"siteOn": "2013",
+		"tid": ""
+	}, {
+		"siteOn": "4910",
+		"tid": ""
+	}, {
+		"siteOn": "330010",
+		"tid": ""
+	}],
+	"adTargetingDfp": [{
+		"siteOn": "2001",
+		"tid": ""
+	}, {
+		"siteOn": "2002",
+		"tid": ""
+	}, {
+		"siteOn": "2010",
+		"tid": ""
+	}, {
+		"siteOn": "4910",
+		"tid": ""
+	}, {
+		"siteOn": "330010",
+		"tid": ""
+	}, {
+		"siteOn": "2003",
+		"tid": ""
+	}, {
+		"siteOn": "2013",
+		"tid": ""
+	}, {
+		"siteOn": "590010",
+		"tid": ""
+	}, {
+		"siteOn": "650010",
+		"tid": ""
+	}],
+	"tcids": "14985,21771,24984,29356,30320,32667,32625,32611,32612,32668,32669,32670,32614,32671,32672,32785,32766,32708,32709,32768,32769,32786,32770,32710,32771,32767,35489,14985,21771,24984,29356,30320,32667,32625,32611,32612,32668,32669,32670,32614,32671,32672,32785,32766,32708,32709,32768,32769,32786,32770,32710,32771,32767,35489",
+	"cme": [{
+		"type": "CME",
+		"year": 2017,
+		"total": "0"
+	}, {
+		"type": "CME",
+		"year": 2018,
+		"total": "0"
+	}],
+	"livefyreUsers": [{
+		"displayName": "Dr. Shyam S",
+		"authToken": "eyJhbGciOiJIUzI1NiJ9.eyJ0YWdzIjpbIjQzIHNwZWMgMTAiXSwiZGlzcGxheV9uYW1lIjoiRHIuIFNoeWFtIFMiLCJleHBpcmVzIjoxNjE5NjI5ODU2LCJlbWFpbCI6IkFBQkJiRVRyYlY5TFNIZHg5TG5SYWZOQkpRPT1AbGZtYWlsLm1lZHNjYXBlLmNvbSIsImRvbWFpbiI6Im1lZHNjYXBlLmZ5cmUuY28iLCJ1c2VyX2lkIjoiYkptY3hTUm8rTnYwdWZYcG9ieU1TQT09IiwiZW1haWxfbm90aWZpY2F0aW9ucyI6eyJyZXBsaWVzIjoiaW1tZWRpYXRlbHkiLCJsaWtlcyI6ImltbWVkaWF0ZWx5IiwibW9kZXJhdG9yX2ZsYWdzIjoiaW1tZWRpYXRlbHkiLCJtb2RlcmF0b3JfY29tbWVudHMiOiJpbW1lZGlhdGVseSIsImNvbW1lbnRzIjoiaW1tZWRpYXRlbHkifX0.Hu8WOM78mBJgRVo5iaMt8_bpysrX1YuLGgIPLwQAa_E"
+	}, {
+		"displayName": "Dr. Shyam Sunder",
+		"authToken": "eyJhbGciOiJIUzI1NiJ9.eyJ0YWdzIjpbIjQzIHNwZWMgMTAiXSwiZGlzcGxheV9uYW1lIjoiRHIuIFNoeWFtIFN1bmRlciIsImV4cGlyZXMiOjE2MTk2Mjk4NTYsImVtYWlsIjoiQUFCQmJFVHJiVjlMU0hkeDlMblJhZk5CSlE9PUBsZm1haWwubWVkc2NhcGUuY29tIiwiZG9tYWluIjoibWVkc2NhcGUuZnlyZS5jbyIsInVzZXJfaWQiOiJmTmxZTi9pWUhQUjd5N08rVDBTWHVnPT0iLCJlbWFpbF9ub3RpZmljYXRpb25zIjp7InJlcGxpZXMiOiJpbW1lZGlhdGVseSIsImxpa2VzIjoiaW1tZWRpYXRlbHkiLCJtb2RlcmF0b3JfZmxhZ3MiOiJpbW1lZGlhdGVseSIsIm1vZGVyYXRvcl9jb21tZW50cyI6ImltbWVkaWF0ZWx5IiwiY29tbWVudHMiOiJpbW1lZGlhdGVseSJ9fQ.oYV6ETsj-V_viOxtQ7Wr8dom1Znvd3MMDXtNuUMoYx4"
+	}, {
+		"displayName": "Dr. S S",
+		"authToken": "eyJhbGciOiJIUzI1NiJ9.eyJ0YWdzIjpbIjQzIHNwZWMgMTAiXSwiZGlzcGxheV9uYW1lIjoiRHIuIFMgUyIsImV4cGlyZXMiOjE2MTk2Mjk4NTYsImVtYWlsIjoiQUFCQmJFVHJiVjlMU0hkeDlMblJhZk5CSlE9PUBsZm1haWwubWVkc2NhcGUuY29tIiwiZG9tYWluIjoibWVkc2NhcGUuZnlyZS5jbyIsInVzZXJfaWQiOiJHcjlPc3pmRXNhaXJoSTU1ZkwyWjlnPT0iLCJlbWFpbF9ub3RpZmljYXRpb25zIjp7InJlcGxpZXMiOiJpbW1lZGlhdGVseSIsImxpa2VzIjoiaW1tZWRpYXRlbHkiLCJtb2RlcmF0b3JfZmxhZ3MiOiJpbW1lZGlhdGVseSIsIm1vZGVyYXRvcl9jb21tZW50cyI6ImltbWVkaWF0ZWx5IiwiY29tbWVudHMiOiJpbW1lZGlhdGVseSJ9fQ.dKL_oBnZTR3IdJ4Hu2uUIoj2aaIZqgIcY5EkhU2ypLw"
+	}],
+	"accessToken": "eSdHMc5vXj3I+vsuk9zNR/K2UYp5h9SwSZtUa09eBlU5vLMJ",
+	"refreshToken": "X3iy5pVeUrIsLRYMimjyLLEdbRLv6JZs0WP+0lPAQ1xji9Nj",
+	"token": "kRBmHSXRScxLtFrVEh3iKA==",
+	"maskedGuid": "MUs4dgqR83G++YUUhZ5I3w=="
+}

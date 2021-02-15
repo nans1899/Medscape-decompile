@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:textSize="16dp" android:textColor="@color/black" android:gravity="center_vertical" android:id="@+id/c_dialog_text_view" android:paddingLeft="25dp" android:paddingTop="16dp" android:paddingRight="16dp" android:paddingBottom="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:checkMark="@drawable/check_mark_choice"/>

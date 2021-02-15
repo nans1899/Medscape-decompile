@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:background="#cccccc" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="22dp" android:textColor="#000" android:ellipsize="end" android:id="@+id/title" android:paddingLeft="10dp" android:paddingTop="5dp" android:paddingRight="10dp" android:paddingBottom="5dp" android:layout_width="0dp" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1"/>
+        <ImageView android:id="@+id/bttn_share" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="7dp" android:src="@drawable/ic_action_share" android:scaleType="fitCenter" android:onClick="onShareClicked"/>
+    </LinearLayout>
+    <com.medscape.android.view.CustomWebView android:id="@+id/webview" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+    <include android:id="@+id/ad" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/ad_layout"/>
+</LinearLayout>

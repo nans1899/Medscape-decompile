@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:layout_marginStart="12dp" android:layout_marginEnd="12dp" app:cardBackgroundColor="@color/white" app:cardCornerRadius="4dp" app:cardElevation="4dp" app:cardUseCompatPadding="true">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="12dp">
+        <View android:id="@+id/view1" android:background="@drawable/background_round_shape_shimmer" android:layout_width="120dp" android:layout_height="@dimen/placeholder_text_height"/>
+        <View android:id="@+id/view2" android:background="@drawable/background_round_shape_shimmer" android:layout_width="100dp" android:layout_height="@dimen/placeholder_text_height" android:layout_marginTop="12dp" android:layout_below="@+id/view1"/>
+        <View android:id="@+id/view3" android:background="@drawable/background_round_shape_shimmer" android:layout_width="60dp" android:layout_height="@dimen/placeholder_text_height" android:layout_marginTop="12dp" android:layout_below="@+id/view2"/>
+        <View android:id="@+id/view4" android:background="@drawable/background_round_shape_shimmer" android:layout_width="70dp" android:layout_height="@dimen/placeholder_text_height" android:layout_alignParentEnd="true"/>
+        <View android:id="@+id/view5" android:background="@drawable/background_large_round_shape_shimmer" android:layout_width="136dp" android:layout_height="wrap_content" android:layout_below="@+id/view4" android:layout_alignTop="@+id/view2" android:layout_alignBottom="@+id/view3" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

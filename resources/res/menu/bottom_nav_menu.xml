@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/ic_bottom_nav_home_3x" android:id="@+id/navigation_home" android:title="Home"/>
+    <item android:icon="@drawable/ic_bottom_nav_mymed_2x" android:id="@+id/navigation_my_meds" android:title="My Meds"/>
+    <item android:icon="@drawable/ic_bottom_nav_pillid_2x" android:id="@+id/navigation_pillid" android:title="Pill Identifier"/>
+    <item android:icon="@drawable/ic_bottom_nav_interaction_2x" android:id="@+id/navigation_interactions" android:title="Interactions"/>
+    <item android:icon="@drawable/ic_bottom_nav_setting_2x" android:id="@+id/navigation_settings" android:title="Settings"/>
+</menu>

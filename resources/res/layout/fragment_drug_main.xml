@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/backcolor" android:layout_width="match_parent" android:layout_height="match_parent">
+    <View android:background="@color/backcolor" android:layout_width="match_parent" android:layout_height="10dp"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/drugMonographHeaderLayout" android:background="@android:color/background_light" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:onClick="drugHeaderClicked" android:elevation="1dp">
+        <com.medscape.android.view.CustomFontTextView android:textSize="26sp" android:textColor="@color/black" android:id="@+id/drugGenericName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" app:fontName="Roboto-Medium.ttf"/>
+        <TextView android:id="@+id/drugBrandNames" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true"/>
+        <TextView android:id="@+id/drugClasses" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true"/>
+    </LinearLayout>
+    <View android:background="@color/backcolor" android:layout_width="match_parent" android:layout_height="10dp"/>
+    <androidx.recyclerview.widget.RecyclerView android:id="@+id/drugMonographSections" android:background="@android:color/background_light" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

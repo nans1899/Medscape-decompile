@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:id="@+id/root" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="44dp" android:layout_marginBottom="10dp" android:foreground="?android:attr/selectableItemBackground" app:cardElevation="0dp" app:cardUseCompatPadding="true">
+    <View android:background="@color/text_accent" android:layout_width="5dp" android:layout_height="match_parent"/>
+    <TextView android:textSize="16sp" android:textColor="@android:color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:text="@string/consult_earn_cme" android:layout_centerVertical="true"/>
+    <TextView android:textSize="16sp" android:id="@+id/total_credits" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@+id/icon" android:layout_centerVertical="true"/>
+    <ImageView android:id="@+id/icon" android:paddingTop="1dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_keyboard_arrow_right_black_24dp" android:tint="@color/separator_color" android:layout_alignParentRight="true" android:layout_centerVertical="true"/>
+</RelativeLayout>

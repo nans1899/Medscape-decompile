@@ -1,0 +1,42 @@
+package com.wbmd.wbmddrugscommons.constants;
+
+public class Constants {
+    public static String LANGUAGE_LOCALE = "en";
+    public static final String WBMDDrugKeyDispensableDrugId = "dispensable_drug_id";
+    public static final String WBMDDrugKeyDispensableDrugStatus = "dispensable_drug_status_code";
+    public static final String WBMDDrugKeyDosageForms = "dose_forms";
+    public static final String WBMDDrugKeyMedStrength = "med_strength";
+    public static final String WBMDDrugKeyMedUnit = "med_unit";
+    public static final String WBMDDrugKeyName = "name";
+    public static final String WBMDDrugKeyRoute = "route";
+    public static final String WBMDDrugKeyTag = "tag";
+    public static final String WBMDDrugKeyType = "type";
+    public static final String WBMDDrugResponseKeyAZDrugId = "drug_id_s";
+    public static final String WBMDDrugResponseKeyAZDrugMonoId = "mono_id_s";
+    public static final String WBMDDrugResponseKeyAZDrugName = "title";
+    public static final String WBMDDrugResponseKeyAZIsTop = "istop_s";
+    public static final String WBMDDrugResponseKeyAZStatusCode = "status_code_s";
+    public static final String WBMDDrugResponseKeyAZUrlSuffix = "url_s";
+    public static final String WBMDDrugResponseKeyDrugBrands = "other_brand_names";
+    public static final String WBMDDrugResponseKeyDrugDescription = "description";
+    public static final String WBMDDrugResponseKeyDrugDosages = "dosage_forms";
+    public static final String WBMDDrugResponseKeyDrugFDBId = "id";
+    public static final String WBMDDrugResponseKeyDrugGP10 = "gp10_s";
+    public static final String WBMDDrugResponseKeyDrugGP14 = "gp14_s";
+    public static final String WBMDDrugResponseKeyDrugGenericIds = "generic_ids";
+    public static final String WBMDDrugResponseKeyDrugGenericNames = "generic_names";
+    public static final String WBMDDrugResponseKeyDrugImages = "images";
+    public static final String WBMDDrugResponseKeyDrugMonograph = "monograph";
+    public static final String WBMDDrugResponseKeyDrugMonographIds = "monograph_ids";
+    public static final String WBMDDrugResponseKeyDrugNDC = "ndc";
+    public static final String WBMDDrugResponseKeyDrugName = "drug_name";
+    public static final String WBMDDrugResponseKeyDrugTopicId = "primary_topic_id";
+    public static final String WBMDTugStringAssetID = "assetid";
+    public static final String WBMDTugStringEndDate = "enddate";
+    public static final String WBMDTugStringID = "ID";
+    public static final String WBMDTugStringPackageType = "packagetype";
+    public static final String WBMDTugStringProgram = "program";
+    public static final String WBMDTugStringStartDate = "startdate";
+    public static final String WBMDTugStringTarget = "target";
+    public static final String WBMDTugStringTug = "tug";
+}

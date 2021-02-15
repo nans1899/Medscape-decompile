@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="#e7e8e9" android:layout_width="match_parent" android:layout_height="match_parent">
+    <GridView android:scrollbarStyle="outsideOverlay" android:gravity="center" android:id="@+id/gridView1" android:padding="20dp" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent" android:scrollingCache="true" android:horizontalSpacing="20dp" android:verticalSpacing="10dp" android:stretchMode="columnWidth" android:columnWidth="100dp" android:numColumns="2" android:smoothScrollbar="true"/>
+</RelativeLayout>

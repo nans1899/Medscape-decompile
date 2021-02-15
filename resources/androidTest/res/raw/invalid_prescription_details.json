@@ -1,0 +1,116 @@
+{
+	"code": 0,
+	"data": {
+		"rxform": {
+			"data": [{
+				"id": "10147092103",
+				"value: "haloperidol decanoate",
+				"form": "ampul",
+				"Strength": "50 mg/ml",
+				"is_generic": true,
+				"AutoPackageSelect": false,
+				"GPI": "59100010302010",
+				"Quantity": [{
+					"Quantity": 1,
+					"Rank": 1
+				}, {
+					"Quantity": 2,
+					"Rank": 2
+				}, {
+					"Quantity": 3,
+					"Rank": 3
+				}],
+				"PackageDesc": "AMPUL",
+				"PackageUnit": "ML"
+			}, {
+				"id": "10147092205",
+				"value": "haloperidol decanoate 100",
+				"form": "ampul",
+				"Strength": "100 mg/ml",
+				"is_generic": true,
+				"AutoPackageSelect": false,
+				"GPI": "59100010302020",
+				"Quantity": [{
+					"Quantity": 1,
+					"Rank": 1
+				}],
+				"PackageDesc": "AMPUL",
+				"PackageUnit": "ML"
+			}, {
+				"id": "63323046901",
+				"value": "haloperidol decanoate",
+				"form": "vial",
+				"Strength": "50 mg/ml",
+				"is_generic": true,
+				"AutoPackageSelect": true,
+				"GPI": "59100010302010",
+				"Quantity": [{
+					"Quantity": 1,
+					"Rank": 1
+				}],
+				"PackageDesc": "VIAL",
+				"PackageUnit": "ML"
+			}, {
+				"id": "63323047101",
+				"value": "haloperidol decanoate",
+				"form": "vial",
+				"Strength": "100 mg/ml",
+				"is_generic": true,
+				"AutoPackageSelect": true,
+				"GPI": "59100010302020",
+				"Quantity": [{
+					"Quantity": 1,
+					"Rank": 1
+				}],
+				"PackageDesc": "VIAL",
+				"PackageUnit": "ML"
+			}, {
+				"id": "63323046905",
+				"value": "haloperidol decanoate",
+				"form": "vial",
+				"Strength": "50 mg/ml",
+				"is_generic": true,
+				"AutoPackageSelect": true,
+				"GPI": "59100010302010",
+				"Quantity": [{
+					"Quantity": 5,
+					"Rank": 2
+				}],
+				"PackageDesc": "VIAL",
+				"PackageUnit": "ML"
+			}, {
+				"id": "50458025414",
+				"value": "Haldol Decanoate 100",
+				"form": "ampul",
+				"Strength": "100 mg/ml",
+				"is_generic": false,
+				"AutoPackageSelect": false,
+				"GPI": "59100010302020",
+				"Quantity": [{
+					"Quantity": 1,
+					"Rank": 1
+				}],
+				"PackageDesc": "AMPUL",
+				"PackageUnit": "ML"
+			}, {
+				"id": "50458025303",
+				"value": "Haldol Decanoate 50",
+				"form": "ampul",
+				"Strength": "50 mg/ml",
+				"is_generic": false,
+				"AutoPackageSelect": false,
+				"GPI": "59100010302010",
+				"Quantity": [{
+					"Quantity": 1,
+					"Rank": 1
+				}],
+				"PackageDesc": "AMPUL",
+				"PackageUnit": "ML"
+			}],
+			"meta": {
+				"VendorResponseTime": 309
+			}
+		}
+	},
+	"status": "ok"
+}

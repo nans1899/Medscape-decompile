@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <include android:id="@+id/question_header" layout="@layout/header_default_row_item"/>
+            <include layout="@layout/row_item_question_title"/>
+            <View android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="20dp"/>
+            <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/min_row_height_numeric_input">
+                <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:padding="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:padding="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/weeks" style="@style/calculator_question_days_picker_title"/>
+                    <NumberPicker android:id="@+id/picker_weeks" android:descendantFocusability="blocksDescendants" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                </LinearLayout>
+                <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:padding="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:padding="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/days" style="@style/calculator_question_days_picker_title"/>
+                    <NumberPicker android:id="@+id/picker_days" android:descendantFocusability="blocksDescendants" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <include layout="@layout/view_save_button"/>
+</LinearLayout>

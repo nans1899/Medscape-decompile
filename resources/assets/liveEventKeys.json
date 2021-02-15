@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "liveeventid": "hiv"
+    },
+    {
+        "id": 2,
+        "liveeventid": "cardiology"
+    },
+    {
+        "id": 3,
+        "liveeventid": "infectiousdiseases"
+    },
+    {
+        "id": 7,
+        "liveeventid": "oncology"
+    },
+    {
+        "id": 8,
+        "liveeventid": "orthopedics"
+    },
+    {
+        "id": 9,
+        "liveeventid": "pediatrics"
+    },
+    {
+        "id": 12,
+        "liveeventid": "psychiatry"
+    },
+    {
+        "id": 13,
+        "liveeventid": "pulmonarymedicine"
+    },
+    {
+        "id": 14,
+        "liveeventid": "generalsurgery"
+    },
+    {
+        "id": 15,
+        "liveeventid": "urology"
+    },
+    {
+        "id": 16,
+        "liveeventid": "womenshealth"
+    },
+    {
+        "id": 17,
+        "liveeventid": "today"
+    },
+    {
+        "id": 18,
+        "liveeventid": "internalmedicine"
+    },
+    {
+        "id": 20,
+        "liveeventid": "gastroenterology"
+    },
+    {
+        "id": 21,
+        "liveeventid": "businessmedicine"
+    },
+    {
+        "id": 22,
+        "liveeventid": "diabetes-endocrinology"
+    },
+    {
+        "id": 24,
+        "liveeventid": "nurses"
+    },
+    {
+        "id": 26,
+        "liveeventid": "neurology"
+    },
+    {
+        "id": 27,
+        "liveeventid": "rheumatology"
+    },
+    {
+        "id": 29,
+        "liveeventid": "transplantation"
+    },
+    {
+        "id": 30,
+        "liveeventid": "pharmacists"
+    },
+    {
+        "id": 32,
+        "liveeventid": "criticalcare"
+    },
+    {
+        "id": 33,
+        "liveeventid": "dermatology"
+    },
+    {
+        "id": 34,
+        "liveeventid": "familymedicine"
+    },
+    {
+        "id": 35,
+        "liveeventid": "radiology"
+    },
+    {
+        "id": 36,
+        "liveeventid": "ophthalmology"
+    },
+    {
+        "id": 38,
+        "liveeventid": "allergy-immunology"
+    },
+    {
+        "id": 42,
+        "liveeventid": "publichealth"
+    },
+    {
+        "id": 43,
+        "liveeventid": "pathology"
+    },
+    {
+        "id": 44,
+        "liveeventid": "nephrology"
+    },
+    {
+        "id": 45,
+        "liveeventid": "emergencymedicine"
+    },
+    {
+        "id": 46,
+        "liveeventid": "anesthesiology"
+    },
+    {
+        "id": 48,
+        "liveeventid": "plastic-surgery"
+    },
+    {
+        "id": 50,
+        "liveeventid": "hospitalmedicine"
+    }
+]

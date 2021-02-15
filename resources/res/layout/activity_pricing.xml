@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/root_view" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/a_pricing_toolbar" android:background="@color/activity_toolbar_background" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:elevation="4dp" app:popupTheme="@style/AppTheme.PopupOverlay">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+            <TextView android:textSize="@dimen/activity_header_text_size" android:textColor="@color/activity_toolbar_text_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/activity_savings_title" android:layout_centerVertical="true"/>
+        </RelativeLayout>
+    </androidx.appcompat.widget.Toolbar>
+    <View android:id="@+id/a_pricing_shadow_view" android:background="@drawable/background_for_toolbar_pre_lollipop" android:visibility="gone" android:layout_width="match_parent" android:layout_height="5dp"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/a_pricing_layout_header" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:layout_marginBottom="10dp">
+        <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="12sp" android:textColor="#d0021b" android:gravity="center_vertical" android:id="@+id/tv_controlled_substance" android:focusable="true" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:text="Controlled Substance" android:drawableLeft="@drawable/ic_alert" android:drawablePadding="8dp" android:layout_weight="1" android:textAllCaps="true" android:drawableStart="@drawable/ic_alert" app:fontName="Roboto-Medium.ttf"/>
+        <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="@dimen/prescription_details_title_text_size" android:textColor="@color/slightlyTransparentBlack" android:gravity="center_vertical" android:id="@+id/a_pricing_text_view_drug_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_weight="1" app:fontName="Roboto-Medium.ttf"/>
+        <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="@dimen/prescription_details_secondary_text_size" android:textColor="@color/pricing_activity_gray" android:id="@+id/a_pricing_text_view_drug_details" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginRight="15dp" android:layout_marginBottom="5dp" app:fontName="Roboto-Regular.ttf"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="match_parent">
+        <View android:background="@color/separator_color" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+        <com.facebook.shimmer.ShimmerFrameLayout android:layout_gravity="center" android:orientation="vertical" android:id="@+id/shimmer_view_container" android:layout_width="wrap_content" android:layout_height="wrap_content" app:shimmer_auto_start="true" app:shimmer_duration="1200">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <include layout="@layout/shimmer_pricing_placeholder_layout"/>
+                <include layout="@layout/shimmer_pricing_placeholder_layout"/>
+                <include layout="@layout/shimmer_pricing_placeholder_layout"/>
+            </LinearLayout>
+        </com.facebook.shimmer.ShimmerFrameLayout>
+        <RelativeLayout android:id="@+id/list_layout" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="0dp" android:layout_marginTop="5dp" android:layout_weight="1" android:layout_marginStart="5dp" android:layout_marginEnd="5dp">
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/pricing_recycler_view" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        </RelativeLayout>
+        <include android:id="@+id/rx_no_result_layout" layout="@layout/fragment_rx_no_result"/>
+    </LinearLayout>
+</LinearLayout>

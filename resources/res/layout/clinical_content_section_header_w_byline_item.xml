@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:id="@+id/root_view" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:id="@+id/base_layout" android:paddingTop="5dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+        <com.medscape.android.view.CustomFontTextView android:textSize="23dp" android:textColor="@color/primary_text_default_material_light" android:gravity="start" android:id="@+id/title" android:paddingLeft="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="locale" android:layoutDirection="locale" app:fontName="Roboto-Medium.ttf"/>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.medscape.android.view.CustomFontTextView android:textSize="15dp" android:textColor="@color/primary_text_default_material_light" android:gravity="start" android:id="@+id/update_date_label" android:paddingLeft="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/clin_content_update_date" android:textDirection="locale" android:layoutDirection="locale" app:fontName="Roboto-Medium.ttf"/>
+            <com.medscape.android.view.CustomFontTextView android:textSize="15dp" android:gravity="start" android:id="@+id/update_date" android:paddingLeft="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="locale" android:layoutDirection="locale" app:fontName="Roboto-Medium.ttf"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.medscape.android.view.CustomFontTextView android:textSize="15dp" android:textColor="@color/primary_text_default_material_light" android:gravity="start" android:id="@+id/author" android:paddingLeft="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/clin_content_author_label" android:textDirection="locale" android:layoutDirection="locale" app:fontName="Roboto-Medium.ttf"/>
+            <com.medscape.android.view.CustomFontTextView android:textSize="15dp" android:gravity="start" android:id="@+id/author_value" android:paddingLeft="5dp" android:paddingRight="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="locale" android:layoutDirection="locale" app:fontName="Roboto-Medium.ttf"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.medscape.android.view.CustomFontTextView android:textSize="15dp" android:textColor="@color/primary_text_default_material_light" android:gravity="start" android:id="@+id/chief_editor" android:paddingLeft="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/clin_content_editor_label" android:textDirection="locale" android:layoutDirection="locale" app:fontName="Roboto-Medium.ttf"/>
+            <com.medscape.android.view.CustomFontTextView android:textSize="15dp" android:gravity="start" android:id="@+id/editor_value" android:paddingLeft="5dp" android:paddingRight="16dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="locale" android:layoutDirection="locale" app:fontName="Roboto-Medium.ttf"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:id="@+id/icon_background" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="match_parent">
+        <ImageView android:layout_gravity="center_vertical" android:id="@+id/icon" android:padding="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_keyboard_arrow_right_black_24dp"/>
+    </LinearLayout>
+</LinearLayout>

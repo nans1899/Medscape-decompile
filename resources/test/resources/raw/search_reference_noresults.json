@@ -1,0 +1,30 @@
+{
+	"data": {
+		"responseHeader": {
+			"status": 0,
+			"QTime": 24,
+			"params": {
+				"spellcheck": "true",
+				"fl": "*",
+				"start": "0",
+				"q": "hhBz jnznx bsjjs hnsnsnx sbjx",
+				"collection": "profreference",
+				"wt": "javabin",
+				"version": "2",
+				"rows": "50"
+			}
+		},
+		"response": {
+			"numFound": 0,
+			"start": 0,
+			"maxScore": 0.0,
+			"docs": []
+		},
+		"spellcheck": {
+			"suggestions": []
+		}
+	},
+	"code": 1,
+	"stat": "Success",
+	"msg": null
+}

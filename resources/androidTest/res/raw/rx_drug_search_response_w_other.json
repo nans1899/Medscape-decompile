@@ -1,0 +1,20 @@
+{
+	"code": 0,
+	"data": {
+		"rxsearch": {
+			"data": [{
+				"id": "3699400245",
+				"drug_name": "Hyzaar",
+				"other_name": [{
+					"name": "losartan-hydrochlorothiazide",
+					"id": "3699400246"
+				}],
+				"is_generic": false
+			}],
+			"meta": {
+				"VendorResponseTime": 531
+			}
+		}
+	},
+	"status": "ok"
+}

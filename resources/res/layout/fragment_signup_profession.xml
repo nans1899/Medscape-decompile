@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="#f5f5f5" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textColor="@color/auth_component_black" android:layout_gravity="center_horizontal" android:id="@+id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="20dp" android:text="@string/sign_up_profession_description"/>
+    <include android:id="@+id/buttonCountry" layout="@layout/view_custom_selector"/>
+    <include android:id="@+id/button_profession" layout="@layout/view_custom_selector"/>
+    <include android:id="@+id/buttonSpeciality" layout="@layout/view_custom_selector"/>
+    <include android:id="@+id/buttonSubSpeciality" layout="@layout/view_custom_selector"/>
+    <include android:id="@+id/buttonOccupation" layout="@layout/view_custom_selector"/>
+    <Button android:textColor="@color/auth_component_white" android:id="@+id/buttonContinue" android:background="@drawable/blue_rectangular_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="20dp" android:layout_marginRight="10dp" android:text="@string/sign_up_continue_button_text" android:shadowRadius="2" android:textAllCaps="false"/>
+</LinearLayout>

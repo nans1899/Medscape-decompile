@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/f_savings_layout_root" android:background="@drawable/background_savings_card" android:layout_width="match_parent" android:layout_height="220dp" android:layout_margin="10dp">
+    <RelativeLayout android:id="@+id/f_savings_layout_header" android:background="@drawable/background_savings_card_title" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@+id/savings_card_image_view_rx_logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="25dp" android:src="@drawable/card_logo_white" android:scaleType="centerCrop" android:layout_centerVertical="true" android:scaleX="1.2" android:scaleY="1.2"/>
+        <TextView android:textSize="@dimen/savings_card_text_size_labels" android:textColor="@android:color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="20dp" android:text="@string/savings_card_label_title" android:layout_alignParentRight="true" android:layout_centerVertical="true"/>
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="110dp" android:layout_marginBottom="10dp" android:layout_weight="3">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="17dp" android:layout_marginTop="15dp">
+                <TextView android:textSize="@dimen/savings_card_text_size_labels" android:id="@+id/f_savings_text_view_tag_bin" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="15dp" android:text="@string/tag_rx_bin"/>
+                <TextView android:textSize="@dimen/savings_card_text_size_labels" android:id="@+id/f_savings_text_view_tag_pcn" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="15dp" android:text="@string/tag_rx_pcn"/>
+                <TextView android:textSize="@dimen/savings_card_text_size_labels" android:id="@+id/f_savings_text_view_tag_group" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/tag_rx_group"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="20dp" android:layout_marginTop="15dp">
+                <TextView android:textSize="@dimen/savings_card_text_size_labels" android:textStyle="bold" android:id="@+id/f_savings_text_view_value_bin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15dp" android:text="@string/value_rx_bin"/>
+                <TextView android:textSize="@dimen/savings_card_text_size_labels" android:textStyle="bold" android:id="@+id/f_savings_text_view_value_pcn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15dp" android:text="@string/value_rx_pcn"/>
+                <TextView android:textSize="@dimen/savings_card_text_size_labels" android:textStyle="bold" android:id="@+id/f_savings_text_view_group" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cxxxxxxxxx"/>
+            </LinearLayout>
+            <RelativeLayout android:paddingLeft="10dp" android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:orientation="vertical" android:background="@drawable/background_savings_card_member" android:padding="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="15dp" android:layout_marginBottom="10dp" android:layout_alignParentRight="true" android:layout_alignParentBottom="true">
+                    <TextView android:textSize="12dp" android:id="@+id/f_saving_memberid_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tag_member_id" android:layout_alignTop="@+id/f_savings_text_view_tag_pcn"/>
+                    <TextView android:textSize="@dimen/savings_card_text_size_labels" android:textStyle="bold" android:id="@+id/f_savings_text_view_member" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:text="@string/wbmd0716" android:layout_below="@+id/f_saving_memberid_textview"/>
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <RelativeLayout android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@+id/f_savings_image_view_share" android:layout_width="27dp" android:layout_height="27dp" android:layout_marginLeft="15dp" android:src="@drawable/ic_share_black_24dp" android:tint="@color/colorPrimaryDark"/>
+        <TextView android:textSize="11dp" android:textStyle="bold" android:textColor="@color/savings_card_disclaimer" android:id="@+id/f_savings_text_view_customer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="3dp" android:text="@string/customer_service" android:layout_centerHorizontal="true"/>
+        <TextView android:textSize="@dimen/savings_card_text_size_disclaimer" android:textColor="@color/savings_card_disclaimer" android:id="@+id/f_savings_text_view_disclaimer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/not_insurance" android:layout_below="@+id/f_savings_text_view_customer" android:layout_centerHorizontal="true"/>
+        <ImageView android:id="@+id/f_savings_image_view_info" android:tag="f_savings_image_view_info" android:layout_width="27dp" android:layout_height="27dp" android:layout_marginRight="15dp" android:layout_marginBottom="10dp" android:src="@drawable/ic_info_outline_black_24dp" android:tint="@color/colorPrimaryDark" android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+</LinearLayout>

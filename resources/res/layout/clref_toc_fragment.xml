@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:tag="layout/clref_toc_fragment_0" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:id="@+id/toc_header" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/app_bar" layout="@layout/clinref_article_toc_header"/>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@+id/ad_container_layout" android:layout_below="@+id/toc_header">
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/article_sections" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        <ProgressBar android:id="@+id/progress" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true"/>
+    </RelativeLayout>
+    <include android:id="@+id/ad_container_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" layout="@layout/ad_item_layout"/>
+</RelativeLayout>

@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:fn="http://www.w3.org/2005/xpath-functions"
+         version="MEDS_2.0"
+         id="2006464"
+         pubid=""
+         template="Oncology"
+         template-name="singlepage">
+   <metadata_section>
+      <site-meta>
+         <article-name>Breast Cancer Treatment Protocols</article-name>
+         <title>
+            <page-info id="overview">Breast Cancer Treatment Protocols: Localized Disease, Adjuvant Chemotherapy, HER2/neu+ Localized Disease, Adjuvant Chemotherapy, HER2/neu- Localized Disease</page-info>
+         </title>
+         <browser-title>
+            <page-info id="overview">Breast Cancer Treatment Protocols: Localized Disease, Adjuvant Chemotherapy, HER2/neu+ Localized Disease, Adjuvant Chemotherapy, HER2/neu- Localized Disease</page-info>
+         </browser-title>
+         <section-title>
+            <section-page-info id="overview">Overview<section-info id="a1">Localized Disease</section-info>
+               <section-info id="a2">Adjuvant Chemotherapy, HER2/neu+ Localized Disease</section-info>
+               <section-info id="a3">Adjuvant Chemotherapy, HER2/neu- Localized Disease</section-info>
+               <section-info id="a4">Adjuvant Endocrine Therapy, ER/PR+ Localized Disease</section-info>
+               <section-info id="a5">Locally Advanced Disease</section-info>
+               <section-info id="a6">Metastatic or Recurrent Disease (Stage IV)</section-info>
+               <section-info id="a7">Chemotherapy, Recurrent or Metastatic Disease</section-info>
+               <section-info id="a8">HER2/neu+ Metastatic Disease</section-info>
+               <section-info id="a9">HER2/neu- Metastatic Disease</section-info>
+               <section-info id="a10">Breast Cancer Surgery</section-info>
+               <section-info id="a11">Special Considerations</section-info>
+               <section-info id="a12">Breast Cancer Screening and Workup</section-info>
+               <section-info id="a13">Contraindications to Treatment</section-info>
+            </section-page-info>
+         </section-title>
+         <meta-keywords>
+            <page-info id="overview">Breast Cancer Treatment Protocols Overview</page-info>
+         </meta-keywords>
+         <uri>2006464-overview</uri>
+         <meta-description/>
+         <search-keywords/>
+         <alt-image-text/>
+         <posting-date>Feb 23, 2016</posting-date>
+         <last-generated>2016-02-23-13:27</last-generated>
+         <single-page>1</single-page>
+         <pub-name>Oncology</pub-name>
+         <pub-id/>
+         <siteon>2002</siteon>
+         <content-group ID="502">Diseases &amp; Conditions</content-group>
+         <content-type ID="10418">Condition</content-type>
+         <ads-support>
+            <site>1</site>
+            <affiliate>2</affiliate>
+            <pclass>content</pclass>
+            <artid>2006464</artid>
+            <cg>502</cg>
+            <scg text="Breast Cancer">840</scg>
+            <ssp text="Hematology/Oncology">7</ssp>
+            <ac/>
+            <as/>
+            <bc>gen2_c50</bc>
+         </ads-support>
+         <other/>
+      </site-meta>
+      <metadata>
+         <last_updated>Feb 23, 2016</last_updated>
+         <publication_cat>
+            <id>condition</id>
+            <name>Diseases &amp; Conditions</name>
+         </publication_cat>
+         <publication>
+            <id>oncology</id>
+            <name>Oncology</name>
+         </publication>
+         <publication_section>
+            <id>oncology_breast</id>
+            <name>Breast Cancer</name>
+         </publication_section>
+         <meta_keywords/>
+         <meta_description>Stage 0, I, II or IIIA (T3N1M0) In the United States and other developed nations where screening is performed, most patients present with localized breast cancer that is detected by a screening mammogram; less commonly, patients present with a palpable mass that is either self-detected or detected by a health care provider. 
+ Stage 0 (lobular...</meta_description>
+         <pediatric-article>0</pediatric-article>
+         <acronyms/>
+      </metadata>
+   </metadata_section>
+   <content_section>
+      <title>Breast Cancer Treatment Protocols</title>
+      <sect1 id="a1" type="content">
+         <title>Localized Disease</title>
+         <pgroup>
+            <title>Stage 0, I, II or IIIA (T3N1M0)</title>
+            <para>In the United States and other developed nations where screening is performed, most patients present with localized breast cancer that is detected by a screening mammogram; less commonly, patients present with a palpable mass that is either self-detected or detected by a health care provider.<sup>
+                  <link type="references" ref="refsrc1|refsrc2">[1, 2]</link>
+               </sup>
+            </para>
+         </pgroup>
+         <pgroup>
+            <title>Stage 0 (lobular carcinoma in situ [LCIS])</title>
+            <para>Management options include the following:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Surveillance alone (ie, mammography)</para>
+               </listitem>
+               <listitem>
+                  <para>Surveillance plus raloxifene (for postmenopausal women)</para>
+               </listitem>
+               <listitem>
+                  <para>Tamoxifen (for women of any menopausal status)<sup>
+                        <link type="references" ref="refsrc3|refsrc4">[3, 4]</link>
+                     </sup>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Bilateral prophylactic mastectomy (usually in patients who are very concerned about breast cancer risk and have either a strong family history or mammographically dense breasts that impair surveillance)</para>
+               </listitem>
+            </itemizedlist>
+            <para>If LCIS is detected on stereotactic biopsy, wide excision is indicated. In 10-20% of cases, this may reveal invasive cancer or ductal carcinoma in situ (DCIS) that requires additional local or systemic therapy<sup>
+                  <link type="references" ref="refsrc5">[5]</link>
+               </sup>
+            </para>
+            <para>Surgical excision to negative margins is not indicated; however, LCIS is associated with about a 5% 5-y risk and a 20-30% lifetime risk of developing invasive breast cancer, which may be ipsilateral or contralateral and may be ductal or lobular in origin<sup>
+                  <link type="references" ref="refsrc6">[6]</link>
+               </sup>
+            </para>
+         </pgroup>
+         <pgroup>
+            <title>Stage 0 (ductal carcinoma in situ [DCIS])</title>
+            <para>Primary treatment options include the following:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Lumpectomy without axillary dissection plus whole-breast radiation therapy (RT); use of radiation boost (photons, brachytherapy, or electron beam) to the tumor bed is recommended, especially in patients ≥ 50y <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Total mastectomy, with or without sentinel node biopsy (SNB) and with or without breast reconstruction <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Lumpectomy without lymph node surgery and without radiation therapy (lower-level evidence)</para>
+               </listitem>
+            </itemizedlist>
+            <para>Considerations include the following:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Although axillary dissection or SNB is often not performed, SNB may be done in some cases if an initial core biopsy showed DCIS, because more extensive sampling may show invasive carcinoma</para>
+               </listitem>
+               <listitem>
+                  <para>In the absence of risk factors for recurrence (palpable mass, larger size, higher grade, close or involved margins, age &lt; 50 y), some patients may not receive RT</para>
+               </listitem>
+               <listitem>
+                  <para>Consider risk-reduction therapy with tamoxifen for 5 years for patients treated with lumpectomy and RT, especially those with estrogen receptor (ER)–positive DCIS</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Stage I, IIA, IIB, or IIIA (T3N1M0)</title>
+            <para>Treatment consists of the following:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Surgery</para>
+               </listitem>
+               <listitem>
+                  <para>RT in most cases</para>
+               </listitem>
+               <listitem>
+                  <para>Adjuvant chemotherapy, endocrine therapy, or biologic therapy in some cases</para>
+               </listitem>
+            </itemizedlist>
+            <para>Surgical treatment is with excision or mastectomy plus axillary dissection, SNB, or SNB followed by axillary dissection.</para>
+            <para>RT is used in patients who undergo wide excision or, in selected cases, after mastectomy; treatment fields are determined by axillary node status.</para>
+            <para>RT should follow chemotherapy if chemotherapy is indicated.</para>
+            <para>
+               <em>Patients undergoing lumpectomy with surgical axillary staging</em>
+            </para>
+            <para>RT recommendations are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>If patients have four or more positive axillary nodes, whole-breast RT, with or without boost to the tumor bed, is recommended; RT to the infraclavicular and supraclavicular areas should also be considered</para>
+               </listitem>
+               <listitem>
+                  <para>Patients with one to three positive axillary nodes should also receive whole-breast RT, with or without boost to the tumor bed; RT to the infraclavicular and supraclavicular areas should also be considered, as should RT to internal mammary nodes</para>
+               </listitem>
+               <listitem>
+                  <para>Patients with negative axillary nodes should receive RT to the whole breast, with or without boost to the tumor bed; partial breast irradiation (PBI) may be considered in selected patients</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <em>Patients undergoing total mastectomy with surgical axillary staging, with or without reconstruction</em>
+            </para>
+            <para>RT recommendations are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Patients with four or more positive axillary nodes should receive postchemotherapy RT to the chest wall plus the infraclavicular and supraclavicular areas; consider RT to internal mammary nodes</para>
+               </listitem>
+               <listitem>
+                  <para>For patients with one to three positive axillary nodes, consider postchemotherapy RT to the chest wall, with or without infraclavicular and supraclavicular nodes; consider RT to internal mammary nodes</para>
+               </listitem>
+               <listitem>
+                  <para>For patients with negative axillary nodes and tumor &gt;5 cm or positive margins, consider RT to the chest wall, with or without infraclavicular and supraclavicular nodes; consider RT to internal mammary nodes</para>
+               </listitem>
+               <listitem>
+                  <para>For patients with negative axillary nodes, tumor ≤5 cm, and margins &lt; 1 mm, postchemotherapy RT to the chest wall is recommended</para>
+               </listitem>
+               <listitem>
+                  <para>For patients who have negative axillary nodes, tumor ≤5 cm, and margins ≥1 mm, no RT is needed</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <em>Preoperative chemotherapy for large clinical stage IIA, IIB, or IIIA (T3N1M0) tumors</em>
+            </para>
+            <para>Neoadjuvant chemotherapy is used as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Preoperative chemotherapy should be considered for women who meet criteria for breast-conserving therapy (except tumor size)</para>
+               </listitem>
+               <listitem>
+                  <para>If the patient has clinically negative axillary nodes, consider SNB; if the patient has positive axillary nodes, consider a core biopsy or fine-needle aspiration (FNA), <strong>then</strong> SNB if FNA or core biopsy is negative</para>
+               </listitem>
+               <listitem>
+                  <para>TAC: Docetaxel (Taxotere) 75 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong>doxorubicin (Adriamycin) 50 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong>cyclophosphamide 500 mg/m<sup>2</sup> IV on day 1 every 3 wk for six cycles <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Dose-dense ACP: Doxorubicin 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> every 2 wk for four cycles; followed by paclitaxel 175 mg/m<sup>2</sup> every 2 wk with colony-stimulating factor (CSF) support (more effective than the 3-wk schedule in ER-negative or progesterone receptor (PR)-negative disease)<sup>
+                        <link type="references" ref="refsrc7">[7]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>AC: Doxorubicin 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for four cycles (comparable to CMF [cyclophosphamide, methotrexate, fluorouracil])<sup>
+                        <link type="references" ref="refsrc8">[8]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>TC: Docetaxel 75 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for four cycles</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <sect1 id="a2" type="content">
+         <title>Adjuvant Chemotherapy, HER2/neu+ Localized Disease</title>
+         <pgroup>
+            <title>Stage I, IIA, IIB, or IIIA (T3N1M0)</title>
+            <para>Treatment considerations are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Anti-HER2/neu–directed therapy (eg, trastuzumab) is indicated for use in combination with chemotherapy in patients with HER2/neu-positive disease; HER2/neu overexpression occurs in about 15-20% of cases of localized breast cancer, is associated with a higher risk of recurrence, and identifies patients who benefit from adjuvant anti-HER2/neu directed therapy</para>
+               </listitem>
+               <listitem>
+                  <para>The only anti-HER2/neu <strong>–</strong> directed therapy is currently shown to reduce the risk of recurrence is trastuzumab</para>
+               </listitem>
+               <listitem>
+                  <para>In the only studies that evaluated trastuzumab, patients were randomly assigned to receive chemotherapy alone or in combination with trastuzumab<sup>
+                        <link type="references" ref="refsrc9">[9]</link>
+                     </sup>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>There is suggestion that overlapping trastuzumab therapy with taxane therapy is more effective than a strategy of completing all chemotherapy first and then administering trastuzumab</para>
+               </listitem>
+               <listitem>
+                  <para>Trastuzumab cannot be given concurrently with anthracyclines, because of the high risk of cardiac toxicity</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Non-trastuzumab regimens</title>
+            <para>Regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>TAC: Docetaxel (Taxotere) 75 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> doxorubicin (Adriamycin) 50 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> cyclophosphamide 500 mg/m<sup>2</sup> IV on day 1 every 3 wk for six cycles <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Dose-dense ACP: Doxorubicin 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> every 2wk for four cycles, followed by paclitaxel 175 mg/m<sup>2</sup> every 2 wk with CSF support<sup>
+                        <link type="references" ref="refsrc7">[7]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>AC: Doxorubicin 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3wk for four cycles (comparable to CMF)<sup>
+                        <link type="references" ref="refsrc8">[8]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>TC: Docetaxel 75 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for four cycles</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Trastuzumab-containing regimens</title>
+            <para>The following regimens have been shown to be more effective than non-trastuzumab regimens (with which they were compared):</para>
+            <itemizedlist>
+               <listitem>
+                  <para>AC-paclitaxel plus trastuzumab: Doxorubicin 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk, followed by paclitaxel 80 mg/m<sup>2</sup> IV weekly for 12 cycles <strong>or</strong> 175 mg/m<sup>2</sup> IV every 3 wk for four cycles given concurrently with trastuzumab 4 mg/kg for the first dose and then 2 mg/m<sup>2</sup> weekly with each paclitaxel dose; followed by trastuzumab 6 mg/kg every 3 wk for 14 doses, for a 1-y total duration of trastuzumab therapy<sup>
+                        <link type="references" ref="refsrc10">[10]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>AC-docetaxel plus trastuzumab: Doxorubicin 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for four cycles, followed by docetaxel 100 mg/m<sup>2</sup> every 3 wk for four cycles given concurrently with trastuzumab 4 mg/kg IV during week 1 and then 2 mg/m<sup>2</sup> IV weekly for 11 wk; followed by trastuzumab 6 mg/kg every 3 wk to complete 1 y of trastuzumab<sup>
+                        <link type="references" ref="refsrc11">[11]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>TCH: Docetaxel 75 mg/m<sup>2</sup>
+                     <strong>plus</strong>carboplatin AUC 6 IV on day 1 every 3 wk for six cycles <strong>plus</strong> trastuzumab 4 mg/kg during week 1 and then 2 mg/m<sup>2</sup> weekly for 17 wk; followed by trastuzumab 6 mg/kg every 3 wk to complete 1-y total duration of trastuzumab therapy; this regimen may be more appropriate for patients with contraindications to anthracycline therapy<sup>
+                        <link type="references" ref="refsrc11">[11]</link>
+                     </sup>(see the Carboplatin AUC Dose Calculation [Calvert formula] calculator)</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <sect1 id="a3" type="content">
+         <title>Adjuvant Chemotherapy, HER2/neu- Localized Disease</title>
+         <pgroup>
+            <title>Stage I, IIA, IIB, or IIIA (T3N1M0)</title>
+            <para>
+               <em>First-generation regimens</em>
+            </para>
+            <para>First-generation regimens are considered less effective than second- or third-generation regimens but do play a role in selected situations; CMF represents a reasonable alternative for patients who have contraindications to anthracycline (cardiac disease) and/or taxane therapy; AC would be a reasonable consideration for patients with contraindications to taxane therapy (eg, neuropathy). The regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>CMF: Cyclophosphamide 100 mg/m<sup>2</sup> PO on days 1-14 <strong>plus</strong> methotrexate 40 mg/m<sup>2</sup> IV on days 1 and 8 <strong>plus</strong> 5-fluorouracil (5-FU) 600 mg/m<sup>2</sup> IV on days 1 and 8 every 4 wk for six cycles<sup>
+                        <link type="references" ref="refsrc12">[12]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>AC: Doxorubicin (Adriamycin) 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for four cycles (comparable to CMF)<sup>
+                        <link type="references" ref="refsrc8">[8]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>CMF (PO): Cyclophosphamide 100 mg/m<sup>2</sup> PO on days 1-14 <strong>plus</strong> methotrexate 40 mg/m<sup>2</sup> IV on days 1 and 8 <strong>plus</strong> 5-FU 600 mg/m<sup>2</sup> IV on days 1 and 8 every 4 wk for six cycles <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>CMF (IV): Cyclophosphamide 600 mg/m<sup>2</sup> IV <strong>plus</strong> methotrexate 40 mg/m<sup>2</sup> IV <strong>plus</strong> 5-FU 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for eight cycles</para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <em>Second-generation regimens</em>
+            </para>
+            <para>Second-generation regimens have been shown to be more effective than other regimens with which they were compared, which in some studies included first-generation regimens such as CMF. Some of these regimens may be appropriate for patients who desire less prolonged regimens. There is geographic variation in the use of these regimens: DC and AC-P are more commonly used in the United States, and epirubicin-containing regimens are more commonly used in Europe. The regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>FAC: 5-FU 500 mg/m<sup>2</sup> IV on days 1 and 8 or days 1 and 4 <strong>plus</strong> doxorubicin 50 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> cyclophosphamide 500 mg/m<sup>2</sup> IV on day 1 every 3 wk for six cycles (more effective than CMF)<sup>
+                        <link type="references" ref="refsrc13">[13]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>CEF: Cyclophosphamide 75 mg/m<sup>2</sup> PO on days 1-14 <strong>plus</strong>epirubicin 60 mg/m<sup>2</sup> on days 1 and 8 <strong>plus</strong> 5-FU 500 mg/m<sup>2</sup> IV on days 1 and 8 every 4 wk for six cycles (more toxic than other alternatives in this category; with cotrimoxazole support) <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Dose-dense AC-P: Doxorubicin 60 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 2 wk for four cycles, followed by paclitaxel 175 mg/m<sup>2</sup> by 3-h IV infusion on day 1 every 2 wk for four cycles with colony-stimulating factor (CSF) support (more effective than the 3-wk schedule in ER/PR-negative disease)<sup>
+                        <link type="references" ref="refsrc7">[7]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>TC: Docetaxel 75 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for four cycles (more effective than AC)<sup>
+                        <link type="references" ref="refsrc14">[14]</link>
+                     </sup>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>
+               <em>Third-generation regimens</em>
+            </para>
+            <para>Third-generation regimens have been shown to be more effective than some second-generation regimens and include both taxanes and anthracyclines. The regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>AC-paclitaxel: Doxorubicin 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for four cycles, followed by paclitaxel 80 mg/m<sup>2</sup> by 1-h IV infusion weekly for 12 wk (more effective than AC)<sup>
+                        <link type="references" ref="refsrc15">[15]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>TAC: Docetaxel 75 mg/m<sup>2</sup> IV <strong>plus</strong> doxorubicin 500 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 500 mg/m<sup>2</sup> IV on day 1 every 3 wk for six cycles (more effective than FAC; CSF support recommended)<sup>
+                        <link type="references" ref="refsrc16|refsrc17">[16, 17]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>FEC-docetaxel: 5-FU 500 mg/m<sup>2</sup> IV <strong>plus</strong> epirubicin 100 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 500 mg/m<sup>2</sup> IV on day 1 every 3 wk for three cycles, followed by docetaxel 100 mg/m<sup>2</sup> IV every 3 wk for three cycles (more effective than six cycles of FEC)<sup>
+                        <link type="references" ref="refsrc18">[18]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>FEC-paclitaxel: 5-FU 600 mg/m<sup>2</sup> IV <strong>plus</strong> epirubicin 90 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for four cycles, followed by 3 wk of no treatment; followed by paclitaxel 100 mg/m<sup>2</sup> IV weekly for eight cycles (more effective than six cycles of FEC)<sup>
+                        <link type="references" ref="refsrc19">[19]</link>
+                     </sup>
+                  </para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <sect1 id="a4" type="content">
+         <title>Adjuvant Endocrine Therapy, ER/PR+ Localized Disease</title>
+         <pgroup>
+            <title>General considerations</title>
+            <para>Patients with invasive breast cancer that is ER or PR positive should be considered for adjuvant endocrine therapy. Options for endocrine therapy in breast cancer patients include the following:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Tamoxifen</para>
+               </listitem>
+               <listitem>
+                  <para>Aromatase inhibitors (AIs)</para>
+               </listitem>
+               <listitem>
+                  <para>Luteinizing hormone–releasing hormone (LHRH) analogues</para>
+               </listitem>
+               <listitem>
+                  <para>Oophorectomy may produce additional benefit</para>
+               </listitem>
+            </itemizedlist>
+            <para>Selection considerations are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Selection of agents depends on menopausal status and concern about side-effect profile (eg, thrombosis with tamoxifen, bone loss with AIs)</para>
+               </listitem>
+               <listitem>
+                  <para>Tamoxifen has been shown to reduce the risk of recurrence by about 40% and the risk of death by about 30%, is effective in both premenopausal and postmenopausal women, and may be used either alone or after chemotherapy<sup>
+                        <link type="references" ref="refsrc20">[20]</link>
+                     </sup>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Acute toxicities of tamoxifen include hot flushes and gynecologic symptoms; long-term toxicities are thrombosis and uterine cancer</para>
+               </listitem>
+               <listitem>
+                  <para>AIs are effective for postmenopausal women, reducing the risk of recurrence by approximately 20% compared with tamoxifen<sup>
+                        <link type="references" ref="refsrc21|refsrc22|refsrc23|refsrc24">[21, 22, 23, 24]</link>
+                     </sup>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Nonsteroidal AIs (anastrozole, letrozole) and steroidal AIs (exemestane) exhibit comparable efficacy and side effects</para>
+               </listitem>
+               <listitem>
+                  <para>Acute toxicities of AIs include arthralgias, hot flushes, and gynecologic symptoms; osteoporosis is a long-term adverse effect</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Regimens for premenopausal patients</title>
+            <para>Regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Tamoxifen 20 mg PO daily for 5 y<sup>
+                        <link type="references" ref="refsrc25">[25]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Tamoxifen 20 mg PO daily for 2-5 y, followed by an AI for a total of up to 10 y of endocrine therapy; this regimen is typically used for patients who are premenopausal at diagnosis and become postmenopausal during therapy; it has been shown to be more effective than a 5-y course of tamoxifen<sup>
+                        <link type="references" ref="refsrc26">[26]</link>
+                     </sup>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Ovarian suppression with LHRH analogues, added to tamoxifen or an AI, is associated with a modest effect; this approach is being evaluated in ongoing trials</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Regimens for postmenopausal patients</title>
+            <para>Regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Tamoxifen 20 mg PO daily for 5 y <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>AIs for 5y, either alone or sequentially after 2-5 y of tamoxifen: anastrozole 1 mg PO daily <strong>or</strong>letrozole 2.5 mg PO daily <strong>or</strong>exemestane 25 mg PO daily</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <sect1 id="a5" type="content">
+         <title>Locally Advanced Disease</title>
+         <pgroup>
+            <title>Stage III</title>
+            <para>Considerations are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Patients with stage III disease are divided into those who are candidates for operative treatment and those who are not</para>
+               </listitem>
+               <listitem>
+                  <para>Patients with stage IIIA breast cancer are further divided into those with T3N1M0 disease and those with TanyN2M0 disease; for treatment of patients with operable T3N1M0 disease, see <em>Treatment recommendations for localized disease,</em> above</para>
+               </listitem>
+               <listitem>
+                  <para>Therapeutic options for locally advanced disease are similar to those for localized disease but include consideration of preoperative (neoadjuvant) chemotherapy followed by local surgical therapy</para>
+               </listitem>
+               <listitem>
+                  <para>In general, all planned chemotherapy should be given preoperatively to optimize the potential for inducing a pathologic complete response (pCR), which has been shown to be associated with improved outcomes (90% of higher disease-free survival [DFS] rates)</para>
+               </listitem>
+               <listitem>
+                  <para>Preoperative systemic chemotherapy is indicated for all patients with inflammatory breast carcinoma, ipsilateral supraclavicular adenopathy, bulky axillary adenopathy, extension to the skin or chest wall, or a large (&gt;5 cm) primary tumor; patients who do not meet these criteria but would benefit from tumor cytoreduction before surgery to facilitate breast conservation should be considered for such treatment</para>
+               </listitem>
+               <listitem>
+                  <para>Radiopaque clips should be placed in the tumor bed before the start of preoperative therapy, and breast imaging should be repeated after therapy in any such patients for whom breast conservation is being considered</para>
+               </listitem>
+               <listitem>
+                  <para>RT to the breast or chest wall is indicated for any patient who received preoperative systemic chemotherapy</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Treatment recommendations for inoperable noninflammatory locally advanced disease (stage IIIA except T3N1M0)</title>
+            <para>Treatment includes chemotherapy, with or without a taxane. Regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>TAC: Docetaxel (Taxotere) 75 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> doxorubicin (Adriamycin) 50 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> cyclophosphamide 500 mg/m<sup>2</sup> IV on day 1 every 3 wk for six cycles <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Dose-dense AC-P: Doxorubicin 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> every 2wk for four cycles, followed by paclitaxel 175 mg/m<sup>2</sup> every 2 wk with colony-stimulating factor (CSF) support (more effective than the 3-wk schedule in ER/PR-negative disease)<sup>
+                        <link type="references" ref="refsrc7">[7]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>AC: Doxorubicin 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for four cycles (comparable to CMF)<sup>
+                        <link type="references" ref="refsrc8">[8]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>TC: Docetaxel 75 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for four cycles</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Treatment recommendations for HER2/neu+ locally advanced disease</title>
+            <para>In patients with HER2/neu-positive disease, concurrent trastuzumab with chemotherapy improves the pCR rate. Regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>AC-paclitaxel plus trastuzumab: Doxorubicin 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk, followed by paclitaxel 80 mg/m<sup>2</sup> IV weekly for 12 cycles <strong>or</strong> 175 mg/m<sup>2</sup> IV every 3 wk for four cycles given concurrently with trastuzumab 4 mg/kg for the first dose and then 2 mg/m<sup>2</sup> weekly with each paclitaxel dose; followed by trastuzumab 6 mg/kg every 3 wk for 14 doses, for a 1-y total duration of trastuzumab therapy<sup>
+                        <link type="references" ref="refsrc10">[10]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>AC-docetaxel plus trastuzumab: Doxorubicin 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for four cycles, followed by docetaxel 100 mg/m<sup>2</sup> every 3 wk for four cycles given concurrently with trastuzumab 4 mg/kg IV during week 1 and then 2 mg/m<sup>2</sup> IV weekly for 11 wk; followed by trastuzumab 6 mg/kg every 3 wk to complete 1 y of trastuzumab<sup>
+                        <link type="references" ref="refsrc11">[11]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>TCH: Docetaxel 75 mg/m<sup>2</sup>
+                     <strong>plus</strong> carboplatin AUC 6 IV on day 1 every 3 wk for six cycles <strong>plus</strong> trastuzumab 4 mg/kg during week 1 and then 2 mg/m<sup>2</sup> weekly for 17 wk; followed by trastuzumab 6 mg/kg every 3 wk to complete 1-y total duration of trastuzumab therapy; this regimen may be more appropriate for patients with contraindications to anthracycline therapy<sup>
+                        <link type="references" ref="refsrc11">[11]</link>
+                     </sup>
+                  </para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <sect1 id="a6" type="content">
+         <title>Metastatic or Recurrent Disease (Stage IV)</title>
+         <pgroup>
+            <title>Local-only recurrence</title>
+            <para>Recommended therapy depends on the initial treatment given, as follows<sup>
+                  <link type="references" ref="refsrc1">[1]</link>
+               </sup>:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Patients whose initial treatment was lumpectomy and radiation therapy (RT) should undergo total mastectomy with axillary lymph node staging if level I/II axillary dissection was not previously done</para>
+               </listitem>
+               <listitem>
+                  <para>Patients whose initial treatment was mastectomy plus level I/II axillary dissection and RT should undergo surgical resection if possible</para>
+               </listitem>
+               <listitem>
+                  <para>Patients whose initial treatment was mastectomy with no prior RT should undergo surgical resection if possible, along with RT if possible to the chest wall and supraclavicular and infraclavicular nodes</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Regional-only or local-regional recurrence</title>
+            <para>Recommendations vary by site of recurrence, as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>For axillary recurrence, treatment is surgical resection if possible, plus RT if possible to the chest wall, supraclavicular and infraclavicular nodes, and axilla</para>
+               </listitem>
+               <listitem>
+                  <para>For supraclavicular recurrence, treatment is RT if possible to the chest wall and supraclavicular and infraclavicular nodes</para>
+               </listitem>
+               <listitem>
+                  <para>For internal mammary node recurrence, treatment is RT if possible to the chest wall, supraclavicular and infraclavicular nodes, and internal mammary nodes</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Bone disease</title>
+            <para>Local irradiation should be considered for patients with localized bony disease that is symptomatic or at risk for producing a catastrophic complication (eg, spinal cord compression or pathologic fracture).</para>
+            <para>If expected survival is at least 3 mo and renal function is adequate, any of the following may be given (all with calcium and vitamin D supplementation) on a 3-wk to 5-wk schedule in conjunction with chemotherapy or endocrine therapy<sup>
+                  <link type="references" ref="refsrc1">[1]</link>
+               </sup>:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Denosumab 120 mg SC every 4 wk <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Zoledronic acid 4 mg IV over 15 min <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Pamidronate 90 mg IV over 2 h</para>
+               </listitem>
+            </itemizedlist>
+            <para>Original studies continued treatment for up to 2 y; however, there are limited long-term safety data showing that therapy can continue beyond that time. Longer durations of bisphosphonate therapy can potentially provide additional benefits, but this possibility has not been tested in clinical trials.<sup>
+                  <link type="references" ref="refsrc1|refsrc27|refsrc28">[1, 27, 28]</link>
+               </sup>
+            </para>
+         </pgroup>
+         <pgroup>
+            <title>Systemic disease</title>
+            <para>Treatments for systemic disease are used to prolong survival and improve quality of life. Considerations in treatment selection are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>In patients with ER and/or PR expression who have no or minimal disease symptoms and bone-only disease or a low disease burden, endocrine therapy is always preferred to other therapeutic options because of its favorable toxicity profile relative to other alternatives</para>
+               </listitem>
+               <listitem>
+                  <para>Chemotherapy is used in patients with resistance to endocrine therapy or ER/PR-negative disease and a moderate or high disease burden</para>
+               </listitem>
+               <listitem>
+                  <para>Single-agent sequential cytotoxic therapy is preferred; combination cytotoxic therapy is associated with a higher response rate, but it is also more toxic and confers no survival benefit</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Endocrine therapy in premenopausal women</title>
+            <para>Recommended treatment is ovarian suppression plus endocrine therapy with tamoxifen or an AI. Gonadotropin-releasing hormone (GRH) analogues may be used to suppress ovarian estrogen production (as in the following regimens):</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Goserelin 3.6 mg SC depot every 4 wk <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Leuprolide 7.5 mg IM depot every 4 wk or 22.5 mg IM every 3 mo or 30 mg IM every 4 mo</para>
+               </listitem>
+            </itemizedlist>
+            <para>Treatment considerations are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Exercise caution when using GRH analogues in combination with AIs because of inconsistent inhibition of estrogen production.</para>
+               </listitem>
+               <listitem>
+                  <para>Oophorectomy is preferred because it induces permanent menopause and does not necessitate repeated injections</para>
+               </listitem>
+               <listitem>
+                  <para>Tamoxifen or AIs are used in the same doses and schedules commonly employed for adjuvant therapy</para>
+               </listitem>
+               <listitem>
+                  <para>Selected patients who have had prolonged response or periods of stability on AIs may be switched to one of the following: progestational agents (megestrol acetate 40 mg PO QID) <strong>or</strong> androgens (fluoxymesterone 10-40 mg PO in divided doses) <strong>or</strong>estradiol (10 mg PO TID)</para>
+               </listitem>
+               <listitem>
+                  <para>In patients whose menopausal status is uncertain (eg, because of hysterectomy or chemotherapy-induced amenorrhea), confirmation of menopausal status may require documentation of an elevated serum follicle-stimulating hormone (FSH) level and a low estradiol level</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Endocrine therapy in postmenopausal women</title>
+            <para>Treatment with a single endocrine agent is usually continued until disease progression. Considerations are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>AIs have been shown to be more effective than tamoxifen for adjuvant therapy and metastatic disease</para>
+               </listitem>
+               <listitem>
+                  <para>Patients who relapse or have progressive disease on tamoxifen may be switched to an AI</para>
+               </listitem>
+               <listitem>
+                  <para>Patients who relapse or progress while receiving a nonsteroidal AI (eg, anastrozole or letrozole) may be changed to a steroidal AI (eg, exemestane) or a selective ER-downregulator (eg, fulvestrant)</para>
+               </listitem>
+               <listitem>
+                  <para>Fulvestrant regimen is 500 mg IM on days 1 and 14, then on day 1 every 4 wk<sup>
+                        <link type="references" ref="refsrc29|refsrc30|refsrc31">[29, 30, 31]</link>
+                     </sup>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Optionally, consider the androgenic agent fluoxymesterone 10 mg PO BID<sup>
+                        <link type="references" ref="refsrc32">[32]</link>
+                     </sup>
+                     <strong>or</strong> the progestational agent megestrol acetate 40 mg PO QID<sup>
+                        <link type="references" ref="refsrc33">[33]</link>
+                     </sup>
+                     <strong>or</strong> estradiol 2 mg PO BID<sup>
+                        <link type="references" ref="refsrc34">[34]</link>
+                     </sup>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Systemic chemotherapy should be reserved for patients with hormone-insensitive disease or for patients with symptomatic hormone-sensitive disease who have failed all hormone therapy options or who are moderately to severely symptomatic and in urgent need of symptom palliation</para>
+               </listitem>
+               <listitem>
+                  <para>The options for cytotoxic-containing chemotherapy include single-agent therapy and combination cytotoxic therapy</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <sect1 id="a7" type="content">
+         <title>Chemotherapy, Recurrent or Metastatic Disease</title>
+         <pgroup>
+            <title>Preferred single-agent anthracycline regimens</title>
+            <para>Regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Doxorubicin 60-75 mg/m<sup>2</sup> on day 1 every 3 wk <strong>or</strong> 20 mg/m<sup>2</sup> IV weekly <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Epirubicin 60-90 mg/m<sup>2</sup> IV on day 1 every 3 wk <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Pegylated liposomal-encapsulated doxorubicin 50 mg/m<sup>2</sup> IV on day 1 every 4 wk</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Preferred single-agent taxane regimens</title>
+            <para>Regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Paclitaxel 175 mg/m<sup>2</sup> IV on day 1 every 3 wk <strong>or</strong> 80 mg/m<sup>2</sup> IV weekly <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Docetaxel 60-100 mg/m<sup>2</sup> IV on day 1 every 3 wk <strong>or</strong> 40 mg/m<sup>2</sup> IV weekly for 6 wk followed by a 2-wk rest and then repeated <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Albumin-bound paclitaxel 100 or 150 mg/m<sup>2</sup> IV on days 1, 8, and 15 every 4 wk <strong>or</strong> 260 mg/m<sup>2</sup> IV every 3 wk</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Preferred single-agent antimetabolite regimens</title>
+            <para>Regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Capecitabine 1000-1250 mg/m<sup>2</sup> PO BID on days 1-14 every 3 wk<sup>
+                        <link type="references" ref="refsrc35">[35]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Gemcitabine 800-1200 mg/m<sup>2</sup> IV on days 1, 8, and 15 every 4 wk</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Preferred single-agent microtubule inhibitor regimens</title>
+            <para>See the list below:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Vinorelbine 25 mg/m<sup>2</sup> IV weekly <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Eribulin 1.4 mg/m<sup>2</sup> IV on days 1 and 8 every 3 wk</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Preferred chemotherapy combinations</title>
+            <para>Regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>CAF: Cyclophosphamide 100 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> doxorubicin (Adriamycin) 30 mg/m<sup>2</sup> IV on days 1 and 8 <strong>plus</strong> 5-fluorouracil (5-FU) 500 mg/m<sup>2</sup> IV on days 1 and 8 every 4 wk for six cycles <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>FAC: 5-FU 500 mg/m<sup>2</sup> IV on days 1 and 8 or days 1 and 4 <strong>plus</strong> doxorubicin 50 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> cyclophosphamide 500 mg/m<sup>2</sup> IV on day 1 every 3 wk for six cycles <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>FEC: 5-FU 500 mg/m<sup>2</sup> IV <strong>plus</strong> epirubicin 100 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 500 mg/m<sup>2</sup> IV on day 1 every 3 wk for three cycles <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>AC: Doxorubicin 60 mg/m<sup>2</sup> IV <strong>plus</strong> cyclophosphamide 600 mg/m<sup>2</sup> IV on day 1 every 3 wk for four cycles <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>EC: Epirubicin 100 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> cyclophosphamide 830 mg/m<sup>2</sup> IV on day 1 every 3 wk for eight cycles <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>AT: Doxorubicin 50 mg/m<sup>2</sup> IV <strong>plus</strong> paclitaxel 125-200 mg/m<sup>2</sup> every 3 wk <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>AT: Doxorubicin 50 mg/m<sup>2</sup> IV <strong>plus</strong> docetaxel 75 mg/m<sup>2</sup> IV every 3 wk <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>CMF: Cyclophosphamide 100 mg/m<sup>2</sup> IV PO on days 1-14 <strong>plus</strong> methotrexate 40 mg/m<sup>2</sup> IV on days 1 and 8 <strong>plus</strong> 5-FU 600 mg/m<sup>2</sup> IV on days 1 and 8 every 4 wk <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Docetaxel/capecitabine: Docetaxel 75 mg/m<sup>2</sup> IV on day 1 <strong>plus</strong> capecitabine 950 mg/m<sup>2</sup> PO BID on days 1-14 every 3 wk <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>GT: Paclitaxel (Taxotere) 175 mg/m<sup>2</sup> on day 1 <strong>plus</strong> gemcitabine 1250 mg/m<sup>2</sup> IV on days 1 and 8 (following paclitaxel on day 1) every 3 wk</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <sect1 id="a8" type="content">
+         <title>HER2/neu+ Metastatic Disease</title>
+         <pgroup>
+            <title>General considerations</title>
+            <para>First-line cytotoxic therapy should always be given in combination with trastuzumab.<sup>
+                  <link type="references" ref="refsrc36|refsrc37">[36, 37]</link>
+               </sup>Trastuzumab regimens are 4 mg/kg IV on day 1 followed by 2 mg/kg IV weekly <strong>or</strong> 8 mg/kg IV on day 1 followed by 6 mg/kg every 3 wk. In patients who have progression after initial therapy, anti-HER2 therapy should be continued by either continuing trastuzumab and changing cytotoxic therapy or switching to lapatinib plus capecitabine.</para>
+         </pgroup>
+         <pgroup>
+            <title>Preferred first-line single agents with trastuzumab</title>
+            <para>Regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Paclitaxel 175 mg/m<sup>2</sup> IV on day 1 every 3 wk <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Paclitaxel 80-90 mg/m<sup>2</sup> IV weekly <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Docetaxel 80-100 mg/m<sup>2</sup> IV on day 1 every 3 wk <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Docetaxel 35 mg/m<sup>2</sup> IV weekly <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Vinorelbine 25 mg/m<sup>2</sup> IV weekly <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Capecitabine 1000-1250 mg/m<sup>2</sup> PO BID on days 1-14 every 3 wk</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Preferred combination chemotherapy with trastuzumab</title>
+            <para>Regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>PCH: Carboplatin AUC 6 IV on day 1 <strong>plus</strong> paclitaxel 175 mg/m<sup>2</sup> IV on day 1 every 3 wk <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Weekly TCH: Paclitaxel 80 mg/m<sup>2</sup> IV on days 1, 8, and 15 <strong>plus</strong> carboplatin AUC 2 IV on days 1,8, and 15 every 4 wk</para>
+               </listitem>
+               <listitem>
+                  <para>Pertuzumab/trastuzumab/docetaxel: pertuzumab 840 mg IV <strong>plus</strong> trastuzumab 8 mg/kg IV <strong>plus</strong> docetaxel 75 mg/m<sup>2</sup> IV on day 1, THEN pertuzumab 420 mg <strong>plus</strong> trastuzumab 6 mg/kg <strong>plus</strong> docetaxel 75 mg/m<sup>2</sup> q3 wk (may increase docetaxel to 100 mg/m<sup>2</sup> if initial dose well tolerated)<sup>
+                        <link type="references" ref="refsrc38">[38]</link>
+                     </sup>
+                  </para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Preferred agents for trastuzumab-exposed patients</title>
+            <para>Regimens are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Capecitabine 1000 mg/m<sup>2</sup> PO BID on days 1-14 <strong>plus</strong>lapatinib 1250 mg PO on days 1-21 every 3 wk <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Trastuzumab 4 mg/kg IV on day 1 followed by 2 mg/kg IV weekly <strong>or</strong> 8 mg/kg IV on day 1 followed by 6 mg/kg every 3 wk <strong>plus</strong> other first-line agents <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Trastuzumab 4 mg/kg IV on day 1 followed by 2 mg/kg IV weekly <strong>or</strong> 8 mg/kg IV on day 1 followed by 6 mg/kg every 3 wk <strong>plus</strong> capecitabine 2500 mg/m² on days 1-14 every 3 wk<sup>
+                        <link type="references" ref="refsrc35|refsrc39">[35, 39]</link>
+                     </sup>
+                     <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Trastuzumab 4 mg/kg IV on day 1 followed by 2 mg/kg IV weekly <strong>or</strong> 8 mg/kg IV on day 1 followed by 6 mg/kg every 3 wk <strong>plus</strong> lapatinib 1000 mg PO daily <strong>or</strong>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Ado-trastuzumab: 3.6 mg/kg IV infusion q3 wk as a single agent in patients who previously received trastuzumab and a taxane, either separately or in combination<sup>
+                        <link type="references" ref="refsrc40">[40]</link>
+                     </sup>
+                  </para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <sect1 id="a9" type="content">
+         <title>HER2/neu- Metastatic Disease</title>
+         <pgroup>
+            <title>General considerations</title>
+            <para>For patients with HER2/neu-negative disease, options include the following:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Single-agent cytotoxic therapy</para>
+               </listitem>
+               <listitem>
+                  <para>Single-agent cytotoxic therapy plus bevacizumab</para>
+               </listitem>
+               <listitem>
+                  <para>Combination cytotoxic therapy</para>
+               </listitem>
+            </itemizedlist>
+            <para>Bevacizumab seems to be effective only when used in combination with chemotherapy and as first-line therapy and is most effective when used with weekly paclitaxel.<sup>
+                  <link type="references" ref="refsrc41|refsrc42|refsrc43">[41, 42, 43]</link>
+               </sup>It is not effective when used beyond second-line therapy with capecitabine<sup>
+                  <link type="references" ref="refsrc44">[44]</link>
+               </sup>
+            </para>
+            <para>In July 2012, the US Food and Drug Administration (FDA) approved everolimus (Afinitor) 10 mg/d in combination with exemestane 25 mg/d to treat postmenopausal women with advanced hormone receptor – positive, HER2-negative breast cancer. The drug combination is intended to be used in women with recurrent or progressive breast cancer after failure of treatment with either letrozole (Femara) or anastrozole (Arimidex).<sup>
+                  <link type="references" ref="refsrc45">[45]</link>
+               </sup>
+            </para>
+            <para>In February 2015, the FDA approved palbociclib (Ibrance) for combination treatment (with letrozole) of postmenopausal women with estrogen receptor (ER)-positive, HER2-negative advanced breast cancer as initial endocrine-based therapy for metastatic disease.<sup>
+                  <link type="references" ref="refsrc46">[46]</link>
+               </sup>The palbociclib starting dose is 125 mg PO once daily with food for 21 days followed by 7 days off therapy to comprise a complete cycle of 28 days. It is given with letrozole 2.5 mg/day PO continuously throughout the 28-day cycle.</para>
+            <para>In February 2016, palbociclib was approved for HR-positive, HER2-negative advanced breast cancer in combination with fulvestrant in women (regardless of menopausal status) with disease progression following endocrine therapy.<sup>
+                  <link type="references" ref="refsrc62">[62]</link>
+               </sup>The palbociclib starting dose is 125 mg PO once daily with food for 21 days followed by 7 days off therapy to comprise a complete cycle of 28 days. It is given with fulvestrant 500 mg IM on days 1, 15, 29, and once monthly thereafter.</para>
+         </pgroup>
+      </sect1>
+      <sect1 id="a10" type="content">
+         <title>Breast Cancer Surgery</title>
+         <pgroup>
+            <title>General considerations</title>
+            <para>See the list below:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Primary surgery usually includes either a mastectomy or lumpectomy with wide excision to cancer-free margins of excision (usually 1-10 mm)</para>
+               </listitem>
+               <listitem>
+                  <para>Patients with invasive disease also receive axillary surgery; if nodes are clinically positive, this comprises axillary dissection; if nodes are clinically negative, SNB is performed</para>
+               </listitem>
+               <listitem>
+                  <para>SNB involves identification of ≥ 1 lymph nodes in the draining lymph node basin by injecting, into the breast, isosulfan blue dye that may be visualized, technetium-labeled sulfur colloid that may be detected by a handheld probe, or both; the success rate in identifying sentinel nodes varies by experience but is usually 90-95% in experienced hands and is associated with a false negative rate ≤ 5-10%</para>
+               </listitem>
+               <listitem>
+                  <para>Although axillary dissection had been the standard of care for patients with a positive SNB, studies have indicated comparable local and systemic control rates without axillary dissection for patients who also receive radiation and systemic chemotherapy<sup>
+                        <link type="references" ref="refsrc47|refsrc39">[47, 39]</link>
+                     </sup>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Completion of axillary dissection is recommended for patients who will not be receiving adjuvant chemotherapy or for those who have had a mastectomy and would otherwise not receive RT</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <sect1 id="a11" type="content">
+         <title>Special Considerations</title>
+         <pgroup>
+            <title>Hereditary breast cancer</title>
+            <para>See the list below:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Approximately 5% of all breast cancers are attributable to a heritable mutation, including <em>BRCA1/2</em> or other less common genetic mutations<sup>
+                        <link type="references" ref="refsrc48">[48]</link>
+                     </sup>; factors associated with a higher likelihood of having a mutation include diagnosis before the age of 50y (especially before 40y), bilateral disease, family history in ≥ 2 first-degree relatives, family history of ovarian cancer, or Ashkenazi Jewish descent</para>
+               </listitem>
+               <listitem>
+                  <para>Algorithms are available to estimate the likelihood of an individual with breast cancer harboring a mutation, including those from Myriad Genetics, Inc. (www.myriad.com), BCRAPRO (www.stat.duke.edu/~gp/brcapro.html), and other models; it is recommended that testing begin with a family member diagnosed with breast cancer rather than with unaffected individuals</para>
+               </listitem>
+               <listitem>
+                  <para>High-risk patients should be provided with information on genetic testing (http://www.cancer.gov/cancertopics/pdq/genetics/breast-and-ovarian/HealthProfessional) and should be referred for genetic counseling</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Breast cancer in the elderly</title>
+            <para>See the list below:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Infirm elderly patients who are not suitable candidates for surgery may be managed with endocrine therapy alone if the tumor is ER/PR positive</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Ipsilateral breast, chest wall, or locoregional recurrence</title>
+            <para>See the list below:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Patients with localized recurrence should undergo a thorough evaluation for metastatic disease, including a careful history and physical examination, bone scan, and computed tomography (CT) of the chest and abdomen; clinically unsuspected metastases are not uncommon; the tumor should be resected with an attempt to establish adequate tumor-free margins, whenever feasible</para>
+               </listitem>
+               <listitem>
+                  <para>RT should also be administered to the chest wall and regional lymphatics, although this may be problematic for those who have previously undergone chest wall irradiation in the adjuvant setting</para>
+               </listitem>
+               <listitem>
+                  <para>Systemic therapy should also be considered in order to decrease the likelihood of subsequent recurrence</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Oligometastatic disease</title>
+            <para>See the list below:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Surgery may be able to achieve prolonged disease control in selected patients with oligometastatic disease, especially those with solitary lung metastases</para>
+               </listitem>
+               <listitem>
+                  <para>Patients with single cerebral metastases may benefit from surgical resection, even if there are other sites of systemic metastases</para>
+               </listitem>
+               <listitem>
+                  <para>Resection of bone metastases is generally reserved for patients with or at high risk for pathologic fracture and is generally followed by local irradiation</para>
+               </listitem>
+               <listitem>
+                  <para>Resection or ablation of liver metastases may also be indicated in some cases</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <sect1 id="a12" type="content">
+         <title>Breast Cancer Screening and Workup</title>
+         <pgroup>
+            <title>Screening</title>
+            <para>Screening and improved adjuvant therapy have led to reduced breast cancer mortality in the United States, highlighting the importance of appropriate detection and management of the disease.<sup>
+                  <link type="references" ref="refsrc49">[49]</link>
+               </sup>
+            </para>
+            <para>Targeted ultrasonography and contrast-enhanced bilateral breast magnetic resonance imaging (MRI) may be indicated in selected cases.<sup>
+                  <link type="references" ref="refsrc50">[50]</link>
+               </sup>
+            </para>
+            <para>MRI should be performed only if the appropriate resources and expertise are available and if the capability of performing MRI may be useful for evaluating the following patients:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Patients who are being considered for breast-conserving surgery but who may not be adequately imaged by other modalities (eg, mammographically dense breasts)</para>
+               </listitem>
+               <listitem>
+                  <para>Patients who are at high risk for having extensive and/or occult ipsilateral and/or contralateral disease (eg, multicentric disease, BRCA mutation carrier)</para>
+               </listitem>
+               <listitem>
+                  <para>Patients who have had neoadjuvant chemotherapy</para>
+               </listitem>
+               <listitem>
+                  <para>Patients in whom a primary tumor cannot be detected by other modalities (eg, patients presenting with axillary node metastases without a breast primary)</para>
+               </listitem>
+            </itemizedlist>
+            <para>All patients should undergo testing of the primary tumor for ER, PR, and HER2/neu expression by immunohistochemistry (IHC); testing should be done again if there is disease recurrence because of discordance biomarker testing between the primary tumor and recurrent disease.<sup>
+                  <link type="references" ref="refsrc51">[51]</link>
+               </sup>
+            </para>
+         </pgroup>
+         <pgroup>
+            <title>ER/PR expression</title>
+            <para>A tumor is defined as ER positive and/or PR positive if ≥1% of tumor cells exhibit staining; a positive finding predicts benefit from endocrine therapy.<sup>
+                  <link type="references" ref="refsrc52">[52]</link>
+               </sup>
+            </para>
+         </pgroup>
+         <pgroup>
+            <title>HER2/neu overexpression</title>
+            <para>A tumor is defined as exhibiting HER2/neu overexpression if ≥ 30% of tumor cells exhibit strong staining on IHC or if gene amplification is identified by fluorescent in situ hybridization (FISH); both findings predict benefit from HER2/neu-directed therapy.<sup>
+                  <link type="references" ref="refsrc53">[53]</link>
+               </sup>
+            </para>
+         </pgroup>
+         <pgroup>
+            <title>Multiparameter gene expression assays</title>
+            <para>Some prognostic multiparameter gene expression assays have been shown to provide prognostic information, including the Mammaprint and Oncotype DX assays; Oncotype DX assays have also been shown to predict benefit from adjuvant chemotherapy in ER-positive node-negative disease and in postmenopausal women with ER-positive, axillary node-positive disease.<sup>
+                  <link type="references" ref="refsrc54">[54]</link>
+               </sup>These markers may be used to assist in making more informed treatment decisions regarding chemotherapy, particularly in low-risk patients with ER-positive, HER2/neu-negative disease.<sup>
+                  <link type="references" ref="refsrc55|refsrc56">[55, 56]</link>
+               </sup>
+            </para>
+         </pgroup>
+         <pgroup>
+            <title>Imaging to exclude regional and distant metastases</title>
+            <para>Considerations are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Imaging may be indicated if there are signs, symptoms, or laboratory abnormalities suggesting distant metastases</para>
+               </listitem>
+               <listitem>
+                  <para>Bone scan and CT of the chest/abdomen/pelvis are recommended for patients with clinical or pathologic stage IIIA-C disease</para>
+               </listitem>
+               <listitem>
+                  <para>Functional imaging with fluorodeoxyglucose (<sup>18</sup> F) positron emission tomography (FDG-PET) may offer improved diagnostic accuracy over CT alone, especially for detecting recurrent disease,<sup>
+                        <link type="references" ref="refsrc57">[57]</link>
+                     </sup>but FDG-PET is not sensitive enough to replace SNB.<sup>
+                        <link type="references" ref="refsrc58|refsrc59">[58, 59]</link>
+                     </sup>
+                  </para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+         <pgroup>
+            <title>Laboratory tests</title>
+            <para>Considerations are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>A complete blood count and liver function tests (including alkaline phosphatase) are indicated in patients with localized and advanced disease</para>
+               </listitem>
+               <listitem>
+                  <para>For monitoring patients with metastatic disease during active therapy, CA 27.29 or CA 15-3 can be used in conjunction with diagnostic imaging, history, and physical examination<sup>
+                        <link type="references" ref="refsrc56">[56]</link>
+                     </sup>
+                  </para>
+               </listitem>
+               <listitem>
+                  <para>Circulating tumor cells (CTCs) may be measured with an approved assay in metastatic breast cancer and have been shown to provide prognostic information,<sup>
+                        <link type="references" ref="refsrc60">[60]</link>
+                     </sup>although there is currently no evidence that such information is useful in guiding therapy so as to yield improved outcomes<sup>
+                        <link type="references" ref="refsrc56">[56]</link>
+                     </sup>
+                  </para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <sect1 id="a13" type="content">
+         <title>Contraindications to Treatment</title>
+         <pgroup>
+            <para>Certain comorbidities may pose relative or absolute contraindications to specific therapies, including cardiac disease (anthracycline) and neuropathy (taxanes).</para>
+            <para>Adjustment of prognosis for comorbidity is more complex and is influenced by its severity, time since onset, age of the individual, and other comorbidities.</para>
+            <para>For patients with significant comorbidities characterized by organ system dysfunction (eg, congestive heart failure, chronic obstructive pulmonary disease, cirrhosis, or chronic renal insufficiency), the prognosis for the comorbidity must be considered in the context of the cancer; the Charlson index is commonly used for this purpose.<sup>
+                  <link type="references" ref="refsrc61">[61]</link>
+               </sup>
+            </para>
+         </pgroup>
+      </sect1>
+      <authors>
+         <contrbtr_group>
+            <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+            <contrbtr_element>
+               <contrbtr_nm>Joseph A Sparano, MD, MD</contrbtr_nm>
+               <contrbtr_title/>
+               <contrbtr_bio>Joseph A Sparano, MD, MD is a member of the following medical societies: <a href="http://www.aacr.org">American Association for Cancer Research</a>, <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.hematology.org">American Society of Hematology</a>
+               </contrbtr_bio>
+               <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+            </contrbtr_element>
+         </contrbtr_group>
+         <contrbtr_group>
+            <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+            <contrbtr_element>
+               <contrbtr_nm>Mary L Windle, PharmD</contrbtr_nm>
+               <contrbtr_title>Adjunct Associate Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+               <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+            </contrbtr_element>
+         </contrbtr_group>
+         <contrbtr_group>
+            <contrbtr_type_lbl>Managing Editor</contrbtr_type_lbl>
+            <contrbtr_element>
+               <contrbtr_nm>Christopher D Braden, DO</contrbtr_nm>
+               <contrbtr_title>Hematologist/Oncologist, Chancellor Center for Oncology at Deaconess Hospital</contrbtr_title>
+               <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+            </contrbtr_element>
+         </contrbtr_group>
+         <contrbtr_group>
+            <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+            <contrbtr_element>
+               <contrbtr_nm>Jules E Harris, MD, FACP, FRCPC</contrbtr_nm>
+               <contrbtr_title>Clinical Professor of Medicine, Section of Hematology/Oncology, University of Arizona College of Medicine, Arizona Cancer Center</contrbtr_title>
+               <contrbtr_bio>Jules E Harris, MD, FACP, FRCPC is a member of the following medical societies: <a href="http://www.aaas.org">American Association for the Advancement of Science</a>, <a href="http://www.hematology.org">American Society of Hematology</a>, <a href="http://www.cscr.com">Central Society for Clinical and Translational Research</a>, <a href="http://www.asco.org">American Society of Clinical Oncology</a>
+               </contrbtr_bio>
+               <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+            </contrbtr_element>
+         </contrbtr_group>
+      </authors>
+      <refgrp type="references">
+         <ritem id="refsrc1" ref="">
+            <para>National Comprehensive Cancer Network. NCCN Clinical Practice Guidelines in Oncology: Breast Cancer. V 1.2016. Available at <a href="http://www.nccn.org/professionals/physician_gls/pdf/breast.pdf">http://www.nccn.org/professionals/physician_gls/pdf/breast.pdf</a>. Accessed: February 23, 2016.</para>
+         </ritem>
+         <ritem id="refsrc2" ref="http://reference.medscape.com/medline/abstract/19920273">
+            <para>Nelson HD, Tyne K, Naik A, Bougatsos C, Chan BK, Humphrey L. Screening for breast cancer: an update for the U.S. Preventive Services Task Force. <em>Ann Intern Med</em>. 2009 Nov 17. 151(10):727-37, W237-42. <a href="http://reference.medscape.com/medline/abstract/19920273">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc3" ref="http://reference.medscape.com/medline/abstract/9747868">
+            <para>Fisher B,  Costantino JP,  Wickerham DL,  Redmond CK,  Kavanah M,  Cronin WM, et al. Tamoxifen for prevention of breast cancer: report of the National Surgical Adjuvant Breast and Bowel Project P-1 Study. <em>J Natl Cancer Inst</em>. 1998 Sep 16. 90(18):1371-88. <a href="http://reference.medscape.com/medline/abstract/9747868">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc4" ref="http://reference.medscape.com/medline/abstract/16754727">
+            <para>Vogel VG,  Costantino JP,  Wickerham DL,  Cronin WM,  Cecchini RS,  Atkins JN, et al. Effects of tamoxifen vs raloxifene on the risk of developing invasive breast cancer and other disease outcomes: the NSABP Study of Tamoxifen and Raloxifene (STAR) P-2 trial. <em>JAMA</em>. 2006 Jun 21. 295(23):2727-41. <a href="http://reference.medscape.com/medline/abstract/16754727">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc5" ref="http://reference.medscape.com/medline/abstract/18083023">
+            <para>Young OE,  Renshaw L,  Macaskill EJ,  White S,  Faratian D,  Thomas JS, et al. Effects of fulvestrant 750mg in premenopausal women with oestrogen-receptor-positive primary breast cancer. <em>Eur J Cancer</em>. 2008 Feb. 44(3):391-9. <a href="http://reference.medscape.com/medline/abstract/18083023">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc6" ref="http://reference.medscape.com/medline/abstract/14716756">
+            <para>Fisher ER, Land SR, Fisher B, Mamounas E, Gilarski L, Wolmark N. Pathologic findings from the National Surgical Adjuvant Breast and Bowel Project: twelve-year observations concerning lobular carcinoma in situ. <em>Cancer</em>. 2004 Jan 15. 100(2):238-44. <a href="http://reference.medscape.com/medline/abstract/14716756">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc7" ref="http://reference.medscape.com/medline/abstract/12668651">
+            <para>Citron ML,  Berry DA,  Cirrincione C,  Hudis C,  Winer EP,  Gradishar WJ, et al. Randomized trial of dose-dense versus conventionally scheduled and sequential versus concurrent combination chemotherapy as postoperative adjuvant treatment of node-positive primary breast cancer: first report of Intergroup Trial C9741/Cancer and Leukemia Group B Trial 9741. <em>J Clin Oncol</em>. 2003 Apr 15. 21(8):1431-9. <a href="http://reference.medscape.com/medline/abstract/12668651">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc8" ref="http://reference.medscape.com/medline/abstract/11773294">
+            <para>Fisher B,  Jeong JH,  Dignam J,  Anderson S,  Mamounas E,  Wickerham DL, et al. Findings from recent National Surgical Adjuvant Breast and Bowel Project adjuvant studies in stage I breast cancer. <em>J Natl Cancer Inst Monogr</em>. 2001. 62-6. <a href="http://reference.medscape.com/medline/abstract/11773294">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc9" ref="http://reference.medscape.com/medline/abstract/17686164">
+            <para>Viani GA, Afonso SL, Stefano EJ, De Fendi LI, Soares FV. Adjuvant trastuzumab in the treatment of her-2-positive early breast cancer: a meta-analysis of published randomized trials. <em>BMC Cancer</em>. 2007 Aug 8. 7:153. <a href="http://reference.medscape.com/medline/abstract/17686164">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1959236/">[Full Text]</a>.</para>
+         </ritem>
+         <ritem id="refsrc10" ref="http://reference.medscape.com/medline/abstract/16236738">
+            <para>Romond EH, Perez EA, Bryant J, Suman VJ, Geyer CE Jr, Davidson NE. Trastuzumab plus adjuvant chemotherapy for operable HER2-positive breast cancer. <em>N Engl J Med</em>. 2005 Oct 20. 353(16):1673-84. <a href="http://reference.medscape.com/medline/abstract/16236738">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc11" ref="">
+            <para>Slamon DJ, Mackey J, Robert N, et al. Role of anthracycline-based therapy in the adjuvant treatment of breast cancer: efficacy analysis determined by molecular subtypes of the disease, the 30th Annual San Antonio Breast Cancer Symposium. San Antonio, Texas. 2007. </para>
+         </ritem>
+         <ritem id="refsrc12" ref="http://reference.medscape.com/medline/abstract/15649903">
+            <para>Bonadonna G,  Moliterni A,  Zambetti M,  Daidone MG,  Pilotti S,  Gianni L, et al. 30 years' follow up of randomised studies of adjuvant CMF in operable breast cancer: cohort study. <em>BMJ</em>. 2005 Jan 29. 330(7485):217. <a href="http://reference.medscape.com/medline/abstract/15649903">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC546063/">[Full Text]</a>.</para>
+         </ritem>
+         <ritem id="refsrc13" ref="">
+            <para>Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. <em>Lancet</em>. 2005. 365:1687-717. </para>
+         </ritem>
+         <ritem id="refsrc14" ref="http://reference.medscape.com/medline/abstract/17135639">
+            <para>Jones SE, Savin MA, Holmes FA, O'Shaughnessy JA, Blum JL, Vukelja S. Phase III trial comparing doxorubicin plus cyclophosphamide with docetaxel plus cyclophosphamide as adjuvant therapy for operable breast cancer. <em>J Clin Oncol</em>. 2006 Dec 1. 24(34):5381-7. <a href="http://reference.medscape.com/medline/abstract/17135639">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc15" ref="http://reference.medscape.com/medline/abstract/18420499">
+            <para>Sparano JA, Wang M, Martino S, Jones V, Perez EA, Saphner T. Weekly paclitaxel in the adjuvant treatment of breast cancer. <em>N Engl J Med</em>. 2008 Apr 17. 358(16):1663-71. <a href="http://reference.medscape.com/medline/abstract/18420499">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc16" ref="http://reference.medscape.com/medline/abstract/15930421">
+            <para>Martin M,  Pienkowski T,  Mackey J,  Pawlicki M,  Guastalla JP,  Weaver C, et al. Adjuvant docetaxel for node-positive breast cancer. <em>N Engl J Med</em>. 2005 Jun 2. 352(22):2302-13. <a href="http://reference.medscape.com/medline/abstract/15930421">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc17" ref="http://reference.medscape.com/medline/abstract/20519679">
+            <para>Swain SM, Jeong JH, Geyer CE Jr, Costantino JP, Pajon ER, Fehrenbacher L. Longer therapy, iatrogenic amenorrhea, and survival in early breast cancer. <em>N Engl J Med</em>. 2010 Jun 3. 362(22):2053-65. <a href="http://reference.medscape.com/medline/abstract/20519679">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc18" ref="http://reference.medscape.com/medline/abstract/17116941">
+            <para>Roché H,  Fumoleau P,  Spielmann M,  Canon JL,  Delozier T,  Serin D, et al. Sequential adjuvant epirubicin-based and docetaxel chemotherapy for node-positive breast cancer patients: the FNCLCC PACS 01 Trial. <em>J Clin Oncol</em>. 2006 Dec 20. 24(36):5664-71. <a href="http://reference.medscape.com/medline/abstract/17116941">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc19" ref="http://reference.medscape.com/medline/abstract/18505968">
+            <para>Martín M,  Rodríguez-Lescure A,  Ruiz A,  Alba E,  Calvo L,  Ruiz-Borrego M, et al. Randomized phase 3 trial of fluorouracil, epirubicin, and cyclophosphamide alone or followed by Paclitaxel for early breast cancer. <em>J Natl Cancer Inst</em>. 2008 Jun 4. 100(11):805-14. <a href="http://reference.medscape.com/medline/abstract/18505968">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc20" ref="">
+            <para>Early Breast Cancer Trialists’ Collaborative Group (EBCTG). Tamoxifen for early breast cancer: an overview of the randomised trials. <em>Lancet</em>. 1998. 351:1451-67. </para>
+         </ritem>
+         <ritem id="refsrc21" ref="http://reference.medscape.com/medline/abstract/19949017">
+            <para>Dowsett M,  Cuzick J,  Ingle J,  Coates A,  Forbes J,  Bliss J, et al. Meta-analysis of breast cancer outcomes in adjuvant trials of aromatase inhibitors versus tamoxifen. <em>J Clin Oncol</em>. 2010 Jan 20. 28(3):509-18. <a href="http://reference.medscape.com/medline/abstract/19949017">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc22" ref="http://reference.medscape.com/medline/abstract/21087898">
+            <para>Cuzick J, Sestak I, Baum M, Buzdar A, Howell A, Dowsett M. Effect of anastrozole and tamoxifen as adjuvant treatment for early-stage breast cancer: 10-year analysis of the ATAC trial. <em>Lancet Oncol</em>. 2010 Dec. 11(12):1135-41. <a href="http://reference.medscape.com/medline/abstract/21087898">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc23" ref="http://reference.medscape.com/medline/abstract/16145047">
+            <para>Goss PE,  Ingle JN,  Martino S,  Robert NJ,  Muss HB,  Piccart MJ, et al. Randomized trial of letrozole following tamoxifen as extended adjuvant therapy in receptor-positive breast cancer: updated findings from NCIC CTG MA.17. <em>J Natl Cancer Inst</em>. 2005 Sep 7. 97(17):1262-71. <a href="http://reference.medscape.com/medline/abstract/16145047">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc24" ref="http://reference.medscape.com/medline/abstract/18332475">
+            <para>Goss PE,  Ingle JN,  Pater JL,  Martino S,  Robert NJ,  Muss HB, et al. Late extended adjuvant treatment with letrozole improves outcome in women with early-stage breast cancer who complete 5 years of tamoxifen. <em>J Clin Oncol</em>. 2008 Apr 20. 26(12):1948-55. <a href="http://reference.medscape.com/medline/abstract/18332475">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc25" ref="http://reference.medscape.com/medline/abstract/15894097">
+            <para>Early Breast Cancer Trialists’ Collaborative Group (EBCTG). Effects of chemotherapy and hormonal therapy for early breast cancer on recurrence and 15-year survival: an overview of the randomised trials. <em>Lancet</em>. 2005 May 14-20. 365(9472):1687-717. <a href="http://reference.medscape.com/medline/abstract/15894097">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc26" ref="http://reference.medscape.com/medline/abstract/15014181">
+            <para>Coombes RC, Hall E, Gibson LJ, Paridaens R, Jassem J, Delozier T. A randomized trial of exemestane after two to three years of tamoxifen therapy in postmenopausal women with primary breast cancer. <em>N Engl J Med</em>. 2004 Mar 11. 350(11):1081-92. <a href="http://reference.medscape.com/medline/abstract/15014181">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc27" ref="http://reference.medscape.com/medline/abstract/10699899">
+            <para>Lipton A,  Theriault RL,  Hortobagyi GN,  Simeone J,  Knight RD,  Mellars K, et al. Pamidronate prevents skeletal complications and is effective palliative treatment in women with breast carcinoma and osteolytic bone metastases: long term follow-up of two randomized, placebo-controlled trials. <em>Cancer</em>. 2000 Mar 1. 88(5):1082-90. <a href="http://reference.medscape.com/medline/abstract/10699899">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc28" ref="http://reference.medscape.com/medline/abstract/14534891">
+            <para>Rosen LS,  Gordon D,  Kaminski M,  Howell A,  Belch A,  Mackey J, et al. Long-term efficacy and safety of zoledronic acid compared with pamidronate disodium in the treatment of skeletal complications in patients with advanced multiple myeloma or breast carcinoma: a randomized, double-blind, multicenter, comparative trial. <em>Cancer</em>. 2003 Oct 15. 98(8):1735-44. <a href="http://reference.medscape.com/medline/abstract/14534891">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc29" ref="http://reference.medscape.com/medline/abstract/12177098">
+            <para>Osborne CK,  Pippen J,  Jones SE,  Parker LM,  Ellis M,  Come S, et al. Double-blind, randomized trial comparing the efficacy and tolerability of fulvestrant versus anastrozole in postmenopausal women with advanced breast cancer progressing on prior endocrine therapy: results of a North American trial. <em>J Clin Oncol</em>. 2002 Aug 15. 20(16):3386-95. <a href="http://reference.medscape.com/medline/abstract/12177098">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc30" ref="http://reference.medscape.com/medline/abstract/15937908">
+            <para>Howell A, Pippen J, Elledge RM, Mauriac L, Vergote I, Jones SE. Fulvestrant versus anastrozole for the treatment of advanced breast carcinoma: a prospectively planned combined survival analysis of two multicenter trials. <em>Cancer</em>. 2005 Jul 15. 104(2):236-9. <a href="http://reference.medscape.com/medline/abstract/15937908">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc31" ref="http://reference.medscape.com/medline/abstract/21319872">
+            <para>Croxtall JD, McKeage K. Fulvestrant: a review of its use in the management of hormone receptor-positive metastatic breast cancer in postmenopausal women. <em>Drugs</em>. 2011 Feb 12. 71(3):363-80. <a href="http://reference.medscape.com/medline/abstract/21319872">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc32" ref="">
+            <para>Lowe R, De Lorimier AA, Jr., Gordan GS, et al. Antitumor efficacy of fluoxymesterone. Use in advanced breast cancer. <em>Arch Intern Med</em>. 1961. 107:241-4. </para>
+         </ritem>
+         <ritem id="refsrc33" ref="http://reference.medscape.com/medline/abstract/11454883">
+            <para>Buzdar A, Douma J, Davidson N, Elledge R, Morgan M, Smith R. Phase III, multicenter, double-blind, randomized study of letrozole, an aromatase inhibitor, for advanced breast cancer versus megestrol acetate. <em>J Clin Oncol</em>. 2001 Jul 15. 19(14):3357-66. <a href="http://reference.medscape.com/medline/abstract/11454883">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc34" ref="http://reference.medscape.com/medline/abstract/19690310">
+            <para>Ellis MJ, Gao F, Dehdashti F, Jeffe DB, Marcom PK, Carey LA. Lower-dose vs high-dose oral estradiol therapy of hormone receptor-positive, aromatase inhibitor-resistant advanced breast cancer: a phase 2 randomized study. <em>JAMA</em>. 2009 Aug 19. 302(7):774-80. <a href="http://reference.medscape.com/medline/abstract/19690310">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc35" ref="">
+            <para>Von Minckwitz G, Zielinski C, et al. Capecitabine vs. capecitabine + trastuzumab in patients with HER2-positive metastatic breast cancer progressing during trastuzumab treatment: The TBP phase III study (GBG 26/BIG 3–05). <em>J Clin Oncol</em>. 2008 (May 20 suppl). 26:Abstract 1025. </para>
+         </ritem>
+         <ritem id="refsrc36" ref="http://reference.medscape.com/medline/abstract/11301370">
+            <para>Slamon D, Pegram M. Rationale for trastuzumab (Herceptin) in adjuvant breast cancer trials. <em>Semin Oncol</em>. 2001 Feb. 28(1 Suppl 3):13-9. <a href="http://reference.medscape.com/medline/abstract/11301370">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc37" ref="http://reference.medscape.com/medline/abstract/15911866">
+            <para>Marty M,  Cognetti F,  Maraninchi D,  Snyder R,  Mauriac L,  Tubiana-Hulin M, et al. Randomized phase II trial of the efficacy and safety of trastuzumab combined with docetaxel in patients with human epidermal growth factor receptor 2-positive metastatic breast cancer administered as first-line treatment: the M77001 study group. <em>J Clin Oncol</em>. 2005 Jul 1. 23(19):4265-74. <a href="http://reference.medscape.com/medline/abstract/15911866">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc38" ref="http://reference.medscape.com/medline/abstract/22149875">
+            <para>Baselga J,  Cortés J,  Kim SB,  Im SA,  Hegg R,  Im YH, et al. Pertuzumab plus trastuzumab plus docetaxel for metastatic breast cancer. <em>N Engl J Med</em>. 2012 Jan 12. 366(2):109-19. <a href="http://reference.medscape.com/medline/abstract/22149875">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc39" ref="">
+            <para>Giuliano AE, McCall L, Beitsch PD, et al. ACOSOG Z0011: A randomized trial of axillary node dissection in women with clinical T1-2 N0 M0 breast cancer who have a positive sentinel node [abstract]. J Clin Oncol. 2010;28(Suppl 18):Abstract CRA506. </para>
+         </ritem>
+         <ritem id="refsrc40" ref="http://reference.medscape.com/medline/abstract/23020162">
+            <para>Verma S,  Miles D,  Gianni L,  Krop IE,  Welslau M,  Baselga J, et al. Trastuzumab emtansine for HER2-positive advanced breast cancer. <em>N Engl J Med</em>. 2012 Nov 8. 367(19):1783-91. <a href="http://reference.medscape.com/medline/abstract/23020162">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc41" ref="http://reference.medscape.com/medline/abstract/18160686">
+            <para>Miller K,  Wang M,  Gralow J,  Dickler M,  Cobleigh M,  Perez EA, et al. Paclitaxel plus bevacizumab versus paclitaxel alone for metastatic breast cancer. <em>N Engl J Med</em>. 2007 Dec 27. 357(26):2666-76. <a href="http://reference.medscape.com/medline/abstract/18160686">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc42" ref="http://reference.medscape.com/medline/abstract/20498403">
+            <para>Miles DW, Chan A, Dirix LY, Cortés J, Pivot X, Tomczak P. Phase III study of bevacizumab plus docetaxel compared with placebo plus docetaxel for the first-line treatment of human epidermal growth factor receptor 2-negative metastatic breast cancer. <em>J Clin Oncol</em>. 2010 Jul 10. 28(20):3239-47. <a href="http://reference.medscape.com/medline/abstract/20498403">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc43" ref="http://reference.medscape.com/medline/abstract/18757267">
+            <para>O'Shaughnessy JA, Brufsky AM. RiBBON 1 and RiBBON 2: phase III trials of bevacizumab with standard chemotherapy for metastatic breast cancer. <em>Clin Breast Cancer</em>. 2008 Aug. 8(4):370-3. <a href="http://reference.medscape.com/medline/abstract/18757267">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc44" ref="http://reference.medscape.com/medline/abstract/15681523">
+            <para>Miller KD, Chap LI, Holmes FA, Cobleigh MA, Marcom PK, Fehrenbacher L. Randomized phase III trial of capecitabine compared with bevacizumab plus capecitabine in patients with previously treated metastatic breast cancer. <em>J Clin Oncol</em>. 2005 Feb 1. 23(4):792-9. <a href="http://reference.medscape.com/medline/abstract/15681523">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc45" ref="http://reference.medscape.com/medline/abstract/22149876">
+            <para>Baselga J,  Campone M,  Piccart M,  Burris HA 3rd,  Rugo HS,  Sahmoud T, et al. Everolimus in postmenopausal hormone-receptor-positive advanced breast cancer. <em>N Engl J Med</em>. 2012 Feb 9. 366(6):520-9. <a href="http://reference.medscape.com/medline/abstract/22149876">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc46" ref="http://reference.medscape.com/medline/abstract/25524798">
+            <para>Finn RS,  Crown JP,  Lang I,  Boer K,  Bondarenko IM,  Kulyk SO, et al. The cyclin-dependent kinase 4/6 inhibitor palbociclib in combination with letrozole versus letrozole alone as first-line treatment of oestrogen receptor-positive, HER2-negative, advanced breast cancer (PALOMA-1/TRIO-18): a randomised phase 2 study. <em>Lancet Oncol</em>. 2015 Jan. 16(1):25-35. <a href="http://reference.medscape.com/medline/abstract/25524798">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc47" ref="">
+            <para>Giuliano AE, McCall L, Beitsch PD, et al. Locoregional recurrence after  sentinel lymph node dissection with or without axillary dissection in patients with sentinel lymph node metastases: the American College of Surgeons Oncology group Z0011 randomized trial. <em>Ann Surg. 2010</em>. 252:426-432; discussion 423-432. </para>
+         </ritem>
+         <ritem id="refsrc48" ref="http://reference.medscape.com/medline/abstract/16144895">
+            <para>Nelson HD, Huffman LH, Fu R, Harris EL,. Genetic risk assessment and BRCA mutation testing for breast and ovarian cancer susceptibility: systematic evidence review for the U.S. Preventive Services Task Force. <em>Ann Intern Med</em>. 2005 Sep 6. 143(5):362-79. <a href="http://reference.medscape.com/medline/abstract/16144895">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc49" ref="http://reference.medscape.com/medline/abstract/16251534">
+            <para>Berry DA,  Cronin KA,  Plevritis SK,  Fryback DG,  Clarke L,  Zelen M, et al. Effect of screening and adjuvant therapy on mortality from breast cancer. <em>N Engl J Med</em>. 2005 Oct 27. 353(17):1784-92. <a href="http://reference.medscape.com/medline/abstract/16251534">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc50" ref="http://reference.medscape.com/medline/abstract/17392385">
+            <para>Saslow D, Boetes C, Burke W, Harms S, Leach MO, Lehman CD. American Cancer Society guidelines for breast screening with MRI as an adjunct to mammography. <em>CA Cancer J Clin</em>. 2007 Mar-Apr. 57(2):75-89. <a href="http://reference.medscape.com/medline/abstract/17392385">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc51" ref="http://reference.medscape.com/medline/abstract/21053108">
+            <para>Khasraw M, Brogi E, Seidman AD. The need to examine metastatic tissue at the time of progression of breast cancer: is re-biopsy a necessity or a luxury?. <em>Curr Oncol Rep</em>. 2011 Feb. 13(1):17-25. <a href="http://reference.medscape.com/medline/abstract/21053108">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc52" ref="http://reference.medscape.com/medline/abstract/20404251">
+            <para>Hammond ME,  Hayes DF,  Dowsett M,  Allred DC,  Hagerty KL,  Badve S, et al. American Society of Clinical Oncology/College Of American Pathologists guideline recommendations for immunohistochemical testing of estrogen and progesterone receptors in breast cancer. <em>J Clin Oncol</em>. 2010 Jun 1. 28(16):2784-95. <a href="http://reference.medscape.com/medline/abstract/20404251">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2881855/">[Full Text]</a>.</para>
+         </ritem>
+         <ritem id="refsrc53" ref="http://reference.medscape.com/medline/abstract/19548375">
+            <para>Wolff AC,  Hammond ME,  Schwartz JN,  Hagerty KL,  Allred DC,  Cote RJ, et al. American Society of Clinical Oncology/College of American Pathologists guideline recommendations for human epidermal growth factor receptor 2 testing in breast cancer. <em>Arch Pathol Lab Med</em>. 2007. 131(1):18-43. <a href="http://reference.medscape.com/medline/abstract/19548375">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc54" ref="http://reference.medscape.com/medline/abstract/20005174">
+            <para>Albain KS, Barlow WE, Shak S, Hortobagyi GN, Livingston RB, Yeh IT. Prognostic and predictive value of the 21-gene recurrence score assay in postmenopausal women with node-positive, oestrogen-receptor-positive breast cancer on chemotherapy: a retrospective analysis of a randomised trial. <em>Lancet Oncol</em>. 2010 Jan. 11(1):55-65. <a href="http://reference.medscape.com/medline/abstract/20005174">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc55" ref="http://reference.medscape.com/medline/abstract/20065178">
+            <para>Sparano JA, Solin LJ. Defining the clinical utility of gene expression assays in breast cancer: the intersection of science and art in clinical decision making. <em>J Clin Oncol</em>. 2010 Apr 1. 28(10):1625-7. <a href="http://reference.medscape.com/medline/abstract/20065178">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc56" ref="http://reference.medscape.com/medline/abstract/17954709">
+            <para>Harris L, Fritsche H, Mennel R, Norton L, Ravdin P, Taube S. American Society of Clinical Oncology 2007 update of recommendations for the use of tumor markers in breast cancer. <em>J Clin Oncol</em>. 2007 Nov 20. 25(33):5287-312. <a href="http://reference.medscape.com/medline/abstract/17954709">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc57" ref="http://reference.medscape.com/medline/abstract/21044553">
+            <para>Pennant M, Takwoingi Y, Pennant L, Davenport C, Fry-Smith A, Eisinga A. A systematic review of positron emission tomography (PET) and positron emission tomography/computed tomography (PET/CT) for the diagnosis of breast cancer recurrence. <em>Health Technol Assess</em>. 2010 Oct. 14(50):1-103. <a href="http://reference.medscape.com/medline/abstract/21044553">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc58" ref="http://reference.medscape.com/medline/abstract/20140703">
+            <para>Peare R, Staff RT, Heys SD. The use of FDG-PET in assessing axillary lymph node status in breast cancer: a systematic review and meta-analysis of the literature. <em>Breast Cancer Res Treat</em>. 2010 Aug. 123(1):281-90. <a href="http://reference.medscape.com/medline/abstract/20140703">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc59" ref="http://reference.medscape.com/medline/abstract/19277913">
+            <para>Escalona S, Blasco JA, Reza MM, Andradas E, Gómez N. A systematic review of FDG-PET in breast cancer. <em>Med Oncol</em>. 2010 Mar. 27(1):114-29. <a href="http://reference.medscape.com/medline/abstract/19277913">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc60" ref="http://reference.medscape.com/medline/abstract/15317891">
+            <para>Cristofanilli M,  Budd GT,  Ellis MJ,  Stopeck A,  Matera J,  Miller MC, et al. Circulating tumor cells, disease progression, and survival in metastatic breast cancer. <em>N Engl J Med</em>. 2004 Aug 19. 351(8):781-91. <a href="http://reference.medscape.com/medline/abstract/15317891">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc61" ref="http://reference.medscape.com/medline/abstract/3558716">
+            <para>Charlson ME, Pompei P, Ales KL, MacKenzie CR. A new method of classifying prognostic comorbidity in longitudinal studies: development and validation. <em>J Chronic Dis</em>. 1987. 40(5):373-83. <a href="http://reference.medscape.com/medline/abstract/3558716">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc62" ref="http://reference.medscape.com/medline/abstract/26030518">
+            <para>Turner NC,  Ro J,  André F,  Loi S,  Verma S,  Iwata H, et al. Palbociclib in Hormone-Receptor-Positive Advanced Breast Cancer. <em>N Engl J Med</em>. 2015 Jul 16. 373 (3):209-19. <a href="http://reference.medscape.com/medline/abstract/26030518">[Medline]</a>. <a href="http://www.nejm.org/doi/full/10.1056/NEJMoa1505270">[Full Text]</a>.</para>
+         </ritem>
+      </refgrp>
+   </content_section>
+</article>

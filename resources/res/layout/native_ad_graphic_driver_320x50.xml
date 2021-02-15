@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="25dp" android:layout_marginEnd="25dp">
+    <TextView android:textSize="10sp" android:textColor="@color/greyish_brown" android:gravity="center" android:id="@+id/graphic_adLabel" android:background="@color/transparent" android:paddingTop="5dp" android:paddingBottom="7dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/advertisement" android:singleLine="true"/>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/gray_reactangle_graphic_ad_border" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:padding="5dp" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="185">
+            <TextView android:textSize="11sp" android:textColor="#414141" android:gravity="center_vertical" android:id="@+id/graphic_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Title"/>
+            <TextView android:textSize="11sp" android:textStyle="normal" android:textColor="@color/rx_label_color" android:gravity="center_vertical" android:id="@+id/graphic_job_code" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Job Code" android:fontFamily="sans-serif" android:letterSpacing="-0.01"/>
+        </LinearLayout>
+        <TextView android:textColor="@color/white" android:gravity="center" android:layout_gravity="center" android:id="@+id/graphic_open" android:background="@drawable/graphic_driver_blue_border" android:layout_width="0dp" android:layout_height="wrap_content" android:minHeight="30dp" android:text="Ut vehicula Fringill" android:scrollHorizontally="false" android:layout_weight="115" android:paddingStart="5dp" android:paddingEnd="5dp"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/a_map_fullscreen_toolbar" android:background="#f5f5f5" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:elevation="4dp" app:popupTheme="@style/ThemeOverlay.AppCompat.Light" app:titleTextAppearance="@style/Toolbar.TitleText">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+            <TextView android:textSize="@dimen/activity_header_text_size" android:textColor="#ff333333" android:ellipsize="end" android:id="@+id/a_map_fullscreen_text_view_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15dp" android:layout_marginRight="45dp" android:maxLines="1" android:layout_centerVertical="true"/>
+        </RelativeLayout>
+    </androidx.appcompat.widget.Toolbar>
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <fragment android:name="com.google.android.gms.maps.SupportMapFragment" android:id="@+id/a_map_fullscreen_map" android:layout_width="match_parent" android:layout_height="match_parent" android:transitionName="@string/transition_animation_map"/>
+        <View android:id="@+id/a_pricing_map_fullscreen_shadow_view" android:background="@drawable/background_for_toolbar_pre_lollipop" android:visibility="gone" android:layout_width="match_parent" android:layout_height="5dp"/>
+    </FrameLayout>
+</LinearLayout>

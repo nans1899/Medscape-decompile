@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:background="@color/medscape_blue" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:elevation="4dp" app:titleTextColor="@color/white"/>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="10dp" android:layout_marginBottom="10dp" android:layout_above="@+id/options_menu" android:layout_below="@+id/toolbar">
+        <com.theartofdev.edmodo.cropper.CropImageView android:id="@+id/cropImageView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true"/>
+    </RelativeLayout>
+    <ProgressBar android:id="@+id/progressBar" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/progress" android:layout_centerInParent="true" android:progressBarStyleInverse="?android:attr/progressBarStyleInverse"/>
+    <RelativeLayout android:id="@+id/options_menu" android:background="@color/consult_action_bar" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:layout_alignParentBottom="true"/>
+</RelativeLayout>

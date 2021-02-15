@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/content_settings_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="match_parent" android:alpha="0.5"/>
+    <RelativeLayout android:id="@+id/content_settings_functions" android:background="#f8f8f9" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="-70dp">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/content_setting_font_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="14sp" android:textColor="#000" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="A"/>
+            <SeekBar android:theme="@style/SeekBarCustomDesign" android:id="@+id/content_setting_seek_bar" android:layout_width="300dp" android:layout_height="wrap_content" android:layout_margin="8dp" android:max="6" android:progress="3"/>
+            <TextView android:textSize="20sp" android:textColor="#000" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="A"/>
+        </LinearLayout>
+        <androidx.appcompat.widget.SwitchCompat android:textColor="#000" android:id="@+id/content_settings_night_switch" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginBottom="10dp" android:text="Night Mode" android:layout_below="@+id/content_setting_font_layout"/>
+    </RelativeLayout>
+</RelativeLayout>

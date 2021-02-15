@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include android:padding="10dp" layout="@layout/container_recycler_view"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

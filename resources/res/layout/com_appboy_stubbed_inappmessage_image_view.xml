@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/com_appboy_stubbed_inappmessage_image_view_parent" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.appboy.ui.inappmessage.AppboyInAppMessageImageView android:id="@+id/com_appboy_stubbed_inappmessage_image_view" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</RelativeLayout>

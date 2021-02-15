@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/license_layout" android:paddingLeft="16dp" android:paddingRight="16dp" android:paddingBottom="16dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:paddingTop="16dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="12sp" android:textStyle="normal" android:textColor="@color/app_accent_color" android:id="@+id/license_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="3dp" android:text="@string/sign_up_license_title_nontop" android:fontFamily="sans-serif"/>
+        <com.google.android.material.textfield.TextInputLayout android:layout_gravity="center" android:id="@+id/license_edit_text_wrapper" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <EditText android:textSize="16dp" android:textColor="@android:color/black" android:id="@+id/license_number" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" android:importantForAutofill="8"/>
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+    <androidx.appcompat.widget.AppCompatCheckBox android:textSize="12dp" android:textColor="@color/auth_component_black" android:id="@+id/no_license_id" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:layout_marginBottom="16dp" android:text="@string/sign_up_toggle_text"/>
+</LinearLayout>

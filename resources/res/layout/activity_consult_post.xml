@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:transitionName="fab_expand">
+    <ScrollView android:id="@+id/main_scroll" android:scrollbars="none" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="10dp">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp">
+                <TextView android:textColor="@android:color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/consult_post_title_label"/>
+                <TextView android:textStyle="italic" android:textColor="@android:color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:text="@string/consult_post_title_required_label"/>
+            </LinearLayout>
+            <EditText android:textColorHint="@android:color/darker_gray" android:gravity="top" android:id="@+id/post_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/consult_post_title_hint" android:maxLines="2" android:maxLength="150" android:inputType="none|text|textCapSentences|textAutoComplete|textMultiLine" android:imeOptions="actionNext"/>
+            <TextView android:gravity="right" android:layout_gravity="right" android:id="@+id/character_count" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp">
+                <TextView android:textColor="@android:color/black" android:id="@+id/addition_details_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/consult_post_additional_details_label"/>
+                <TextView android:textStyle="italic" android:textColor="@android:color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:text="@string/consult_post_title_required_label"/>
+            </LinearLayout>
+            <EditText android:textColorHint="@android:color/darker_gray" android:id="@+id/post_additional_details" android:layout_width="match_parent" android:layout_height="wrap_content" android:maxLines="5" android:maxLength="3000" android:inputType="none|text|textCapSentences|textAutoComplete|textMultiLine" android:imeOptions="actionNext"/>
+            <TextView android:gravity="right" android:layout_gravity="right" android:id="@+id/details_character_count" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/layout_below_addition_details" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="20sp" android:textColor="@android:color/darker_gray" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginTop="15dp" android:layout_marginBottom="10dp" android:text="@string/consult_post_images"/>
+                <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <RelativeLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                        <ImageView android:id="@+id/first_image" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/icon_uploadimage" android:onClick="showAddOrEditImageAlert"/>
+                        <ProgressBar android:id="@+id/progressBarFirst" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/progress" android:layout_centerInParent="true" style="?android:attr/progressBarStyleSmall"/>
+                    </RelativeLayout>
+                    <View android:background="@color/white" android:layout_width="8dp" android:layout_height="match_parent"/>
+                    <RelativeLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                        <ImageView android:id="@+id/second_image" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/icon_uploadimage" android:onClick="showAddOrEditImageAlert"/>
+                        <ProgressBar android:id="@+id/progressBarSecond" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/progress" android:layout_centerInParent="true" style="?android:attr/progressBarStyleSmall"/>
+                    </RelativeLayout>
+                    <View android:background="@color/white" android:layout_width="8dp" android:layout_height="match_parent"/>
+                    <RelativeLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                        <ImageView android:id="@+id/third_image" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/icon_uploadimage" android:onClick="showAddOrEditImageAlert"/>
+                        <ProgressBar android:id="@+id/progressBarThird" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/progress" android:layout_centerInParent="true" style="?android:attr/progressBarStyleSmall"/>
+                    </RelativeLayout>
+                    <View android:background="@color/white" android:layout_width="8dp" android:layout_height="match_parent"/>
+                    <RelativeLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                        <ImageView android:id="@+id/fourth_image" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/icon_uploadimage" android:onClick="showAddOrEditImageAlert"/>
+                        <ProgressBar android:id="@+id/progressBarFourth" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/progress" android:layout_centerInParent="true" style="?android:attr/progressBarStyleSmall"/>
+                    </RelativeLayout>
+                    <View android:background="@color/white" android:layout_width="8dp" android:layout_height="match_parent"/>
+                    <RelativeLayout android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                        <ImageView android:id="@+id/fifth_image" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/icon_uploadimage" android:onClick="showAddOrEditImageAlert"/>
+                        <ProgressBar android:id="@+id/progressBarFifth" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/progress" android:layout_centerInParent="true" style="?android:attr/progressBarStyleSmall"/>
+                    </RelativeLayout>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal" android:id="@+id/add_tags_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginTop="15dp">
+                    <ImageView android:layout_gravity="center_vertical" android:layout_width="20dp" android:layout_height="20dp" android:src="@drawable/ic_action_new"/>
+                    <TextView android:textSize="22sp" android:textColor="@android:color/darker_gray" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@+id/tags_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:text="@string/consult_post_add_tag"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:id="@+id/tags_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="25dp" android:layout_marginRight="10dp" android:layout_marginBottom="25dp"/>
+                <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="80dp" android:layout_marginBottom="40dp">
+                    <Button android:enabled="false" android:textSize="16sp" android:textColor="@android:color/white" android:id="@+id/submit_button" android:background="@drawable/round_cornered_rectangle_blue" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/consult_post_submit" android:onClick="onSubmitClick" android:alpha="0.5"/>
+                    <ProgressBar android:id="@+id/white_progress" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" android:paddingEnd="5dp" android:elevation="2dp" style="?android:attr/progressBarStyleSmall"/>
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <androidx.recyclerview.widget.RecyclerView android:id="@+id/mentionables" android:background="@android:color/white" android:visibility="gone" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</LinearLayout>

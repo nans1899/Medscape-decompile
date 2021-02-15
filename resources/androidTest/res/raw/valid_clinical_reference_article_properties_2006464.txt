@@ -1,0 +1,8 @@
+id=2006464
+title=Breast Cancer Treatment Protocols
+localXMLPath=/storage/emulated/0/Medscape/2006464.xml
+noOfSections=13
+noOfSubsections=13
+noOfPGroups=42
+version=MEDS
+downloadUrl=http://img.medscape.com/pi/iphone/medscapeapp/XML/2006464.xml

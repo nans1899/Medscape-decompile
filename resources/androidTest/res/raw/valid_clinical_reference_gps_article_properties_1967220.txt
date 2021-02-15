@@ -1,0 +1,7 @@
+id=1967220
+title=Cardiac Amyloidosis
+localXMLPath=/storage/emulated/0/Medscape/1967220.xml
+noOfSections=4
+noOfSubsections=21
+noOfPGroups=31
+version=GPS

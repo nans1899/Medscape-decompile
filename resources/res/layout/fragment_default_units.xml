@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/list_view_padding_top">
+    <RelativeLayout android:id="@+id/si_units_layout" android:paddingTop="@dimen/default_padding_top" android:paddingBottom="@dimen/default_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/si_units" android:layout_marginStart="@dimen/list_view_padding_top" style="@style/list_view_default_units"/>
+        <ImageView android:id="@+id/si_units_checkmark" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_confirm" android:layout_marginEnd="@dimen/default_padding_end" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/us_units_layout" android:paddingTop="@dimen/default_padding_top" android:paddingBottom="@dimen/default_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/us_units" android:layout_marginStart="@dimen/default_padding_start" style="@style/list_view_default_units"/>
+        <ImageView android:id="@+id/us_units_checkmark" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_confirm" android:layout_marginEnd="@dimen/default_padding_end" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+</LinearLayout>

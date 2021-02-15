@@ -1,0 +1,24 @@
+{
+	"StatusCode": 200,
+	"code": 1,
+	"data": {
+		"DisplayName": "Nick Bhatia, MD",
+		"UserName": "ZGduT3plb0JxVXErNFN6UkllVFpKUT09",
+		"AvatarUrl": "https://communityapi.medscape.com/cfs-file/__key/communityserver-components-avatars/default.png",
+		"FollowingCount": 5,
+		"FollowersCount": 7,
+		"PostCount": 20,
+		"Points": 13,
+		"Bio": "",
+		"Properties": {
+			"Education": "Marshall University Edwards School of Medicine",
+			"Specialty": "Cardiology, General",
+			"Profession": "Physician",
+			"Degree": "MD"
+		},
+		"Achievements": null,
+		"AllTimeRank": 100,
+		"IsFollowing": true
+	},
+	"status": "OK"
+}

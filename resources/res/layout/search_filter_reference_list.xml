@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/search_popup" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="3dp">
+    <ImageView android:layout_gravity="right" android:id="@+id/arrow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/filter_bg_top"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/menu_baby_info" android:background="@drawable/filter_bg_bottom" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:background="@drawable/search_filter_white_rounded_background" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginTop="32dp" android:layout_marginRight="8dp" android:layout_marginBottom="8dp">
+            <RelativeLayout android:id="@+id/all" android:tag="1" android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="35dp" android:onClick="onSearchFilterClick">
+                <ImageView android:gravity="center" android:id="@+id/check" android:visibility="gone" android:layout_width="15dp" android:layout_height="match_parent" android:layout_margin="5dp" android:src="@drawable/search_fiter_check" android:layout_alignParentRight="true"/>
+                <TextView android:paddingLeft="10dp" android:layout_width="wrap_content" android:text="All" style="@style/search_filter_item"/>
+            </RelativeLayout>
+            <View android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <RelativeLayout android:id="@+id/drug" android:tag="4" android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="35dp" android:onClick="onSearchFilterClick">
+                <ImageView android:gravity="left" android:id="@+id/icon" android:layout_width="25dp" android:layout_height="match_parent" android:layout_marginLeft="5dp" android:src="@drawable/ic_nav_drug" android:layout_alignParentLeft="true"/>
+                <ImageView android:gravity="center" android:id="@+id/check" android:visibility="gone" android:layout_width="15dp" android:layout_height="match_parent" android:layout_margin="5dp" android:src="@drawable/search_fiter_check" android:layout_alignParentRight="true"/>
+                <TextView android:layout_width="wrap_content" android:text="Drugs" android:layout_toRightOf="@+id/icon" style="@style/reference_search_filter_item"/>
+            </RelativeLayout>
+            <View android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <RelativeLayout android:id="@+id/condition" android:tag="5" android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="35dp" android:onClick="onSearchFilterClick">
+                <ImageView android:gravity="left" android:id="@+id/icon" android:background="@drawable/home_bt_bg" android:layout_width="25dp" android:layout_height="match_parent" android:layout_marginLeft="5dp" android:src="@drawable/ic_nav_conditions" android:layout_alignParentLeft="true"/>
+                <ImageView android:gravity="center" android:id="@+id/check" android:visibility="gone" android:layout_width="15dp" android:layout_height="match_parent" android:layout_margin="5dp" android:src="@drawable/search_fiter_check" android:layout_alignParentRight="true"/>
+                <TextView android:layout_width="wrap_content" android:text="Conditions" android:layout_toRightOf="@+id/icon" style="@style/reference_search_filter_item"/>
+            </RelativeLayout>
+            <View android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <RelativeLayout android:id="@+id/procedure" android:tag="6" android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="35dp" android:onClick="onSearchFilterClick">
+                <ImageView android:gravity="center" android:id="@+id/icon" android:layout_width="25dp" android:layout_height="match_parent" android:layout_marginLeft="5dp" android:src="@drawable/ic_nav_procedures" android:layout_alignParentLeft="true"/>
+                <ImageView android:gravity="center" android:id="@+id/check" android:visibility="gone" android:layout_width="15dp" android:layout_height="match_parent" android:layout_margin="5dp" android:src="@drawable/search_fiter_check" android:layout_alignParentRight="true"/>
+                <TextView android:layout_width="wrap_content" android:text="Procedures" android:layout_toRightOf="@+id/icon" style="@style/reference_search_filter_item"/>
+            </RelativeLayout>
+            <View android:background="@android:color/black" android:layout_width="match_parent" android:layout_height="1dp"/>
+            <RelativeLayout android:id="@+id/calculators" android:tag="7" android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="35dp" android:onClick="onSearchFilterClick">
+                <ImageView android:gravity="center" android:id="@+id/icon" android:layout_width="25dp" android:layout_height="match_parent" android:layout_marginLeft="5dp" android:src="@drawable/ic_nav_calculators" android:layout_alignParentLeft="true"/>
+                <ImageView android:layout_gravity="center" android:id="@+id/check" android:visibility="gone" android:layout_width="15dp" android:layout_height="match_parent" android:layout_margin="5dp" android:src="@drawable/search_fiter_check" android:layout_alignParentRight="true"/>
+                <TextView android:layout_width="wrap_content" android:text="Calculators" android:layout_toRightOf="@+id/icon" style="@style/reference_search_filter_item"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

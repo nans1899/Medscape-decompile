@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:id="@+id/disclaimer_appbar" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:theme="@style/AppTheme.AppBarOverlay" android:id="@+id/disclaimer_toolbar" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize"/>
+    </com.google.android.material.appbar.AppBarLayout>
+    <TextView android:textSize="@dimen/savings_card_text_size_labels" android:id="@+id/f_disclaimer_text_view" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_margin="@dimen/activity_horizontal_margin" android:text=""/>
+</LinearLayout>

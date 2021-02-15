@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/ic_search_white" android:id="@+id/action_search" android:title="@string/consult_search_hint" app:showAsAction="always"/>
+    <item android:icon="@drawable/ic_person_outline_black_48dp" android:id="@+id/consult_profile" android:visible="false" android:title="@string/consult_profile_menu_title" app:showAsAction="ifRoom"/>
+</menu>

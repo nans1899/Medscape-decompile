@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <entry>
+        <key>cases_below_interactions
+        </key>
+        <value>true
+        </value>
+    </entry>
+    <entry>
+        <key>AdRemoteConfig
+        </key>
+        <value>{&quot;positionStart&quot;:1,&quot;positionEvery&quot;:4,&quot;preloadCount&quot;:3,&quot;adUnit&quot;:&quot;/4312434/profpromomobileapp/medscpnewsmobileappios&quot;,&quot;customTargeting&quot;:{&quot;env&quot;:&quot;1&quot;,&quot;pos&quot;:&quot;2022&quot;}, &quot;webviewStickyBannerAdEnabled&quot;:true}
+        </value>
+    </entry>
+    <entry>
+        <key>android_forceup_config
+        </key>
+        <value>{&quot;automatic_update&quot;:{&quot;enabled&quot;:false},&quot;remote_updates&quot;:[&quot;minimum_os_version&quot;:&quot;5.0&quot;,&quot;update_type&quot;:&quot;Optional&quot;,&quot;update_messaging&quot;:{&quot;update_available_title&quot;:&quot;Testing ForceUp functionality&quot;,&quot;update_text&quot;:&quot;This is an Optional update for the app&quot;,&quot;update_button_text&quot;:&quot;Update Now&quot;,&quot;dismiss_button&quot;:&quot;Dismiss&quot;,&quot;skip_button_text&quot;:&quot;&quot;}}]}
+        </value>
+    </entry>
+    <entry>
+        <key>HomeFeedConfig
+        </key>
+        <value>{&quot;url&quot;:&quot;https://api.medscape.com/contentrecommendationservice/contentrecommendations&quot;}
+        </value>
+    </entry>
+    <entry>
+        <key>NewsFeedConfig
+        </key>
+        <value>{&quot;url&quot;:&quot;https://api.medscape.com/contentrecommendationservice/contentrecommendations&quot;}
+        </value>
+    </entry>
+    <entry>
+        <key>CMEFeedConfig
+        </key>
+        <value>{&quot;url&quot;:&quot;https://api.medscape.com/contentrecommendationservice/contentrecommendations&quot;}
+        </value>
+    </entry>
+    <entry>
+        <key>feed_items_config
+        </key>
+        <value>[{ &quot;type&quot;: &quot;dataUpdate&quot;, &quot;enabled&quot;: true, &quot;configs&quot;: [{ &quot;feedType&quot;: &quot;home&quot;, &quot;position&quot;: 0 }] }]
+        </value>
+    </entry>
+    <entry>
+        <key>reference_toc_enabled
+        </key>
+        <value>true
+        </value>
+    </entry>
+</defaultsMap>

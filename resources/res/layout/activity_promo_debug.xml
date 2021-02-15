@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:gravity="center_vertical" android:id="@+id/txt_promo" android:background="@color/grey" android:clickable="false" android:layout_width="match_parent" android:layout_height="40dp" android:text="@string/promo_type" android:paddingStart="15dp"/>
+    <Spinner android:id="@+id/promo_types" android:layout_width="200dp" android:layout_height="40dp" android:layout_margin="10dp" android:layout_below="@+id/txt_promo"/>
+    <TextView android:gravity="center_vertical" android:id="@+id/txt_url" android:background="@color/grey" android:visibility="gone" android:clickable="false" android:layout_width="match_parent" android:layout_height="40dp" android:text="URL" android:layout_below="@+id/promo_types" android:paddingStart="15dp"/>
+    <EditText android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/promo_url" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="10dp" android:layout_marginTop="5dp" android:hint="Manifest Url" android:layout_below="@+id/txt_url" android:paddingStart="5dp"/>
+    <RelativeLayout android:id="@+id/orientation_layout" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_below="@+id/promo_url">
+        <TextView android:gravity="center_vertical" android:id="@+id/orientation_promo" android:background="@color/grey" android:clickable="false" android:layout_width="match_parent" android:layout_height="40dp" android:text="@string/orientation_lock" android:paddingStart="15dp"/>
+        <RadioGroup android:orientation="horizontal" android:id="@+id/radio_group" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/orientation_promo" android:paddingStart="5dp">
+            <RadioButton android:id="@+id/rdo_portrait" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/orientation_portrait" android:layout_weight="1"/>
+            <RadioButton android:id="@+id/rdo_landscape" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/orientation_landscape" android:layout_weight="1"/>
+        </RadioGroup>
+    </RelativeLayout>
+    <Button android:enabled="false" android:id="@+id/btn_default" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="@string/restore_defaults" android:layout_below="@+id/orientation_layout" android:layout_marginStart="5dp"/>
+    <Button android:enabled="false" android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@+id/btn_launch" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="30dp" android:text="@string/promo_launch" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:textAllCaps="false"/>
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.SwitchCompat android:textSize="15dp" android:id="@+id/consult_medical_students_filter" android:padding="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/consult_show_medical_student_posts"/>
+    <View android:background="@color/separator_color" android:layout_width="match_parent" android:layout_height="0.5dp"/>
+</LinearLayout>

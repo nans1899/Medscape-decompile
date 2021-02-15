@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/root" android:background="#fff" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <RelativeLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="8dp">
+        <TextView android:textSize="16sp" android:textColor="@android:color/black" android:id="@+id/tag_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true"/>
+        <ImageView android:id="@+id/check_mark" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/btn_check_buttonless_on" android:tint="@color/medscape_blue" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:tintMode="src_in"/>
+    </RelativeLayout>
+    <View android:background="@color/consult_action_bar" android:layout_width="match_parent" android:layout_height="1dp"/>
+</LinearLayout>

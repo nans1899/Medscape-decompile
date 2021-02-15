@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.swiperefreshlayout.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/swipeRefreshLayout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.qxmd.qxrecyclerview.QxRecyclerView android:id="@+id/recycler_view" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <include android:id="@+id/empty_view" layout="@layout/view_empty_recycler_view"/>
+        <include android:id="@+id/refreshing_view" layout="@layout/view_refreshing"/>
+        <include android:id="@+id/error_view" layout="@layout/view_error"/>
+        <View android:id="@+id/saving_overlay" android:background="@color/saving_overlay" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <com.google.android.material.floatingactionbutton.FloatingActionButton android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:id="@+id/fab_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/fab_margin" android:src="@drawable/ic_add_24dp"/>
+    </FrameLayout>
+</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>

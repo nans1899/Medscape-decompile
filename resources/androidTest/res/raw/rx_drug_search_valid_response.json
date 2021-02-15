@@ -1,0 +1,235 @@
+{
+	"code": 0,
+	"data": {
+		"rxsearch": {
+			"data": [{
+				"id": "9860003300",
+				"drug_name": "H2o Gel Base",
+				"other_name": [],
+				"is_generic": false
+			}, {
+				"id": "9509451500",
+				"drug_name": "h2q",
+				"other_name": [{
+					"name": "Co Q-10",
+					"id": "9509451500"
+				}],
+				"is_generic": true
+			}, {
+				"id": "4399830410",
+				"drug_name": "head congestion & cold relief",
+				"other_name": [{
+					"name": "Cold Head Congestion",
+					"id": "4399830410"
+				}],
+				"is_generic": true
+			}, {
+				"id": "4920003000",
+				"drug_name": "heartburn prevention",
+				"other_name": [{
+					"name": "Acid Reducer",
+					"id": "4920003000"
+				}, {
+					"name": "Pepcid",
+					"id": "4920003000"
+				}],
+				"is_generic": true
+			}, {
+				"id": "8299200820",
+				"drug_name": "Hemax",
+				"other_name": [{
+					"name": "tl-hem 150",
+					"id": "8299200820"
+				}],
+				"is_generic": false
+			}, {
+				"id": "7851209000",
+				"drug_name": "hemenatal OB",
+				"other_name": [],
+				"is_generic": true
+			}, {
+				"id": "8910001010",
+				"drug_name": "Hemmorex-HC",
+				"other_name": [{
+					"name": "anucort-HC",
+					"id": "8910001010"
+				}, {
+					"name": "hydrocortisone acetate",
+					"id": "8910001010"
+				}],
+				"is_generic": false
+			}, {
+				"id": "8230003000",
+				"drug_name": "Hemocyte",
+				"other_name": [{
+					"name": "ferrocite",
+					"id": "8230003000"
+				}],
+				"is_generic": false
+			}, {
+				"id": "8299200870",
+				"drug_name": "Hemocyte Plus",
+				"other_name": [{
+					"name": "centratex",
+					"id": "8299200870"
+				}],
+				"is_generic": false
+			}, {
+				"id": "8299400220",
+				"drug_name": "Hemocyte-F",
+				"other_name": [{
+					"name": "hematinic with folic acid",
+					"id": "8299400220"
+				}],
+				"is_generic": false
+			}, {
+				"id": "8510001000",
+				"drug_name": "Hemofil M",
+				"other_name": [],
+				"is_generic": false
+			}, {
+				"id": "8999400233",
+				"drug_name": "hemorrhoid relief",
+				"other_name": [{
+					"name": "Hemorrhoidal Suppositories",
+					"id": "8999400233"
+				}],
+				"is_generic": true
+			}, {
+				"id": "8999400245",
+				"drug_name": "Hemorrhoidal",
+				"other_name": [{
+					"name": "anu-med",
+					"id": "8999400245"
+				}, {
+					"name": "hemorrhoidal suppositories",
+					"id": "8999400233"
+				}],
+				"is_generic": false
+			}, {
+				"id": "8999400322",
+				"drug_name": "hemorrhoidal",
+				"other_name": [{
+					"name": "Grx Hemorrhoidal",
+					"id": "8999400322"
+				}],
+				"is_generic": true
+			}, {
+				"id": "8999400237",
+				"drug_name": "hemorrhoidal cooling gel",
+				"other_name": [{
+					"name": "Preparation H",
+					"id": "8999400237"
+				}],
+				"is_generic": true
+			}, {
+				"id": "8999400458",
+				"drug_name": "Hemorrhoidal Cream",
+				"other_name": [],
+				"is_generic": false
+			}, {
+				"id": "8999400458",
+				"drug_name": "hemorrhoidal cream",
+				"other_name": [{
+					"name": "Preparation H",
+					"id": "8999200474"
+				}],
+				"is_generic": true
+			}, {
+				"id": "8999400325",
+				"drug_name": "Hemorrhoidal H",
+				"other_name": [{
+					"name": "hemorrhoidal suppositories",
+					"id": "8999400325"
+				}],
+				"is_generic": false
+			}, {
+				"id": "9097003500",
+				"drug_name": "hemorrhoidal hygiene",
+				"other_name": [{
+					"name": "Medicated Wipes",
+					"id": "9097003500"
+				}],
+				"is_generic": true
+			}, {
+				"id": "9097104000",
+				"drug_name": "hemorrhoidal pads",
+				"other_name": [{
+					"name": "A.e.r",
+					"id": "9097104000"
+				}, {
+					"name": "Medicated Wipes",
+					"id": "9097003500"
+				}],
+				"is_generic": true
+			}, {
+				"id": "8999400233_8999400325",
+				"drug_name": "Hemorrhoidal Suppositories",
+				"other_name": [{
+					"name": "hemorrhoid relief",
+					"id": "8999400233"
+				}],
+				"is_generic": false
+			}, {
+				"id": "8999400233",
+				"drug_name": "hemorrhoidal suppositories",
+				"other_name": [{
+					"name": "Hemorrhoidal",
+					"id": "8999400233"
+				}, {
+					"name": "Hemorrhoidal H",
+					"id": "8999400325"
+				}, {
+					"name": "Preparation H",
+					"id": "8999400233"
+				}],
+				"is_generic": true
+			},{
+				"id": "9656887550",
+				"drug_name": "hydrocodone bitartrate",
+				"other_name": [],
+				"is_generic": true
+			}, {
+				"id": "4310101000",
+				"drug_name": "hydrocodone BT-homatropine mbr",
+				"other_name": [{
+					"name": "Tussigon",
+					"id": "4310101000"
+				}],
+				"is_generic": true
+			}, {
+				"id": "6599170210",
+				"drug_name": "Hydrocodone-Acetaminophen",
+				"other_name": [],
+				"is_generic": false
+			}, {
+				"id": "6599170210",
+				"drug_name": "hydrocodone-acetaminophen",
+				"other_name": [{
+					"name": "Hycet",
+					"id": "6599170210"
+				}, {
+					"name": "Lortab",
+					"id": "6599170210"
+				}, {
+					"name": "Verdrocet",
+					"id": "6599170210"
+				}, {
+					"name": "Vicodin",
+					"id": "6599170210"
+				}, {
+					"name": "Vicodin ES",
+					"id": "6599170210"
+				}, {
+					"name": "Vicodin HP",
+					"id": "6599170210"
+				}],
+				"is_generic": true
+			}],
+			"meta": {
+				"VendorResponseTime": 531
+			}
+		}
+	},
+	"status": "ok"
+}

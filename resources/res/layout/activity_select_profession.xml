@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:theme="@style/ToolbarLight" android:id="@+id/toolbar" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize"/>
+    <FrameLayout android:id="@+id/main_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+        <include layout="@layout/view_loading"/>
+        <include layout="@layout/view_connection_error"/>
+        <com.qxmd.qxrecyclerview.QxRecyclerView android:scrollbarStyle="outsideOverlay" android:id="@+id/recycler_view" android:background="@android:color/white" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+</LinearLayout>

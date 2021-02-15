@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <group>
+        <item android:icon="@drawable/ic_drawer_profile" android:id="@+id/nav_drawer_profile" android:title="@string/nav_drawer_my_profile"/>
+        <item android:icon="@drawable/ic_drawer_saved" android:id="@+id/nav_drawer_saved" android:title="@string/nav_drawer_saved"/>
+        <item android:icon="@drawable/ic_drawer_my_invitations" android:id="@+id/nav_drawer_invitations" android:title="@string/nav_drawer_my_invitations" android:actionLayout="@layout/drawer_item_badge"/>
+        <item android:icon="@drawable/ic_drawer_settings" android:id="@+id/nav_drawer_settings" android:title="@string/nav_drawer_settings"/>
+        <item android:icon="@drawable/ic_drawer_settings" android:id="@+id/nav_drawer_debug" android:title="@string/nav_drawer_debug"/>
+    </group>
+</menu>

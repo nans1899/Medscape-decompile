@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="horizontal" android:background="?attr/selectableItemBackground" android:paddingLeft="15dp" android:paddingTop="10dp" android:paddingRight="10dp" android:paddingBottom="10dp" android:clickable="true" android:layout_width="match_parent" android:layout_height="70dp">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="3">
+        <TextView android:textSize="@dimen/prescription_details_main_text_size" android:textColor="@color/black" android:ellipsize="end" android:id="@+id/li_pharmacy_address" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:maxLines="1" android:layout_alignParentLeft="true" android:layout_centerVertical="true"/>
+        <TextView android:textSize="@dimen/prescription_details_secondary_text_size" android:textColor="@color/prescription_detail_gray" android:id="@+id/li_pharmacy_distance" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:layout_below="@+id/li_pharmacy_address" android:layout_alignParentLeft="true"/>
+    </LinearLayout>
+    <RelativeLayout android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1">
+        <TextView android:textSize="16dp" android:ellipsize="end" android:id="@+id/li_pharmacy_price" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/pharmacy_detail_text_top_buttom_margins" android:layout_marginRight="25dp" android:layout_marginBottom="@dimen/pharmacy_detail_text_top_buttom_margins" android:text="193.33" android:maxLines="1" android:layout_alignParentRight="true"/>
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_keyboard_arrow_right_black_24dp" android:tint="@color/toolbar_icon_gray" android:layout_alignParentRight="true" android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,35 @@
+{
+	"data": {
+		"responseHeader": {
+			"status": 0,
+			"QTime": 9,
+			"params": {
+				"spellcheck": "true",
+				"fl": "*",
+				"start": "0",
+				"q": "tylenod",
+				"collection": "profreference",
+				"wt": "javabin",
+				"version": "2",
+				"rows": "50"
+			}
+		},
+		"response": {
+			"numFound": 0,
+			"start": 0,
+			"maxScore": 0.0,
+			"docs": []
+		},
+		"spellcheck": {
+			"suggestions": [{
+				"suggestion": {
+					"query": "tylenol",
+					"hits": 257
+				}
+			}]
+		}
+	},
+	"code": 1,
+	"stat": "Success",
+	"msg": null
+}

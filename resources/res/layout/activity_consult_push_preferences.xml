@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/rootView" android:background="@color/backcolor" android:layout_width="match_parent" android:layout_height="match_parent" android:elevation="2dp">
+    <LinearLayout android:orientation="vertical" android:id="@+id/settings_container" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:orientation="vertical" android:id="@+id/follows" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp">
+            <LinearLayout android:id="@+id/consult_push_follows" android:background="@android:color/background_light" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="0dp">
+                <TextView android:textColor="@android:color/primary_text_light" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="@string/consult_push_follows" android:layout_weight="1"/>
+                <androidx.appcompat.widget.SwitchCompat android:id="@+id/consult_push_follows_switch" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@+id/replies" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:layout_below="@+id/follows">
+            <LinearLayout android:id="@+id/consult_push_replies" android:background="@android:color/background_light" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="0dp">
+                <TextView android:textColor="@android:color/primary_text_light" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="@string/consult_push_replies" android:layout_weight="1"/>
+                <androidx.appcompat.widget.SwitchCompat android:id="@+id/consult_push_replies_switch" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@+id/mentions" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="20dp" android:layout_below="@+id/replies">
+            <LinearLayout android:id="@+id/consult_push_mentions" android:background="@android:color/background_light" android:padding="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="0dp">
+                <TextView android:textColor="@android:color/primary_text_light" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="@string/consult_push_mentions" android:layout_weight="1"/>
+                <androidx.appcompat.widget.SwitchCompat android:id="@+id/consult_push_mentions_switch" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@+id/progress" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</FrameLayout>

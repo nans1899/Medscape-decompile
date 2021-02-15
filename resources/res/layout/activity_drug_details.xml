@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include android:id="@+id/find_actionbar_container" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" layout="@layout/find_actionbar"/>
+        <androidx.appcompat.widget.Toolbar android:id="@+id/drug_details_toolbar" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="wrap_content" app:popupTheme="@style/MedscapeTheme.PopupOverlay">
+            <include android:id="@+id/drug_details_spinner_container" layout="@layout/toolbar_spinner"/>
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+    <include layout="@layout/content_drug_details"/>
+</LinearLayout>

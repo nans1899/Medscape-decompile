@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.viewpager.widget.ViewPager android:id="@+id/viewpager" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+        <FrameLayout android:id="@+id/kb_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <com.wbmd.qxcalculator.views.QxKeyboardView android:id="@+id/keyboardview" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </FrameLayout>
+    </LinearLayout>
+    <View android:id="@+id/input_blocker_view" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</FrameLayout>

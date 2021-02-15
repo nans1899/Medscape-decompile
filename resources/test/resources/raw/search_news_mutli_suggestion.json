@@ -1,0 +1,55 @@
+{
+	"data": {
+		"responseHeader": {
+			"status": 0,
+			"QTime": 18,
+			"params": {
+				"spellcheck": "true",
+				"fl": "*",
+				"start": "0",
+				"q": "hsjc",
+				"collection": "profnews",
+				"wt": "javabin",
+				"version": "2",
+				"rows": "50"
+			}
+		},
+		"response": {
+			"numFound": 0,
+			"start": 0,
+			"maxScore": 0.0,
+			"docs": []
+		},
+		"spellcheck": {
+			"suggestions": [{
+				"suggestion": {
+					"query": "hsbc",
+					"hits": 4
+				}
+			}, {
+				"suggestion": {
+					"query": "hssc",
+					"hits": 2
+				}
+			}, {
+				"suggestion": {
+					"query": "hscc",
+					"hits": 1
+				}
+			}, {
+				"suggestion": {
+					"query": "hsec",
+					"hits": 1
+				}
+			}, {
+				"suggestion": {
+					"query": "hsrc",
+					"hits": 1
+				}
+			}]
+		}
+	},
+	"code": 1,
+	"stat": "Success",
+	"msg": null
+}

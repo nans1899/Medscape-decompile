@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.epapyrus.plugpdf.SimpleReaderControlView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ViewFlipper android:id="@+id/flipper" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+        <RelativeLayout android:gravity="center_vertical" style="@style/TopBar">
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="28dp" android:textColor="@color/text" android:ellipsize="end" android:layout_gravity="left" android:id="@+id/rc_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:lines="1" android:singleLine="true" android:maxLength="20"/>
+            </LinearLayout>
+            <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true">
+                <Button android:id="@+id/rc_rotate" android:background="@drawable/st_btn_rotate" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8dp" android:minWidth="1dp" android:minHeight="1dp"/>
+                <Button android:id="@+id/rc_page_display_mode" android:background="@drawable/st_btn_view_mode_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8dp" android:minWidth="1dp" android:minHeight="1dp"/>
+                <Button android:id="@+id/rc_brightness" android:background="@drawable/st_btn_brightness" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8dp" android:minWidth="1dp" android:minHeight="1dp"/>
+                <Button android:id="@+id/rc_outline" android:background="@drawable/st_btn_bookmark" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8dp" android:minWidth="1dp" android:minHeight="1dp"/>
+                <Button android:id="@+id/rc_search" android:background="@drawable/st_btn_search" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8dp" android:minWidth="1dp" android:minHeight="1dp"/>
+                <Button android:id="@+id/rc_edit" android:background="@drawable/st_btn_edit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="8dp" android:minWidth="1dp" android:minHeight="1dp"/>
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/TopBar">
+            <Button android:id="@+id/rc_search_cancel" android:background="@drawable/st_btn_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:minWidth="1dp" android:minHeight="1dp" android:layout_centerVertical="true"/>
+            <EditText android:id="@+id/rc_search_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:hint="@string/text_search" android:singleLine="true" android:layout_toLeftOf="@+id/rc_search_back" android:layout_toRightOf="@+id/rc_search_cancel" android:layout_centerVertical="true" android:inputType="text"/>
+            <Button android:id="@+id/rc_search_back" android:background="@drawable/st_btn_find_prev" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="5dp" android:minWidth="1dp" android:minHeight="1dp" android:layout_toLeftOf="@+id/rc_search_forward" android:layout_centerVertical="true"/>
+            <Button android:id="@+id/rc_search_forward" android:background="@drawable/st_btn_find_next" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10dp" android:minWidth="1dp" android:minHeight="1dp" android:layout_alignParentRight="true" android:layout_centerVertical="true"/>
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/TopBar">
+            <Button android:id="@+id/rc_edit_cancel" android:background="@drawable/st_btn_back" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:minWidth="1dp" android:minHeight="1dp" android:layout_centerVertical="true"/>
+            <LinearLayout android:gravity="right|center_vertical|center_horizontal|center" android:layout_width="match_parent" android:layout_height="@dimen/topbar_height">
+                <Button android:id="@+id/rc_edit_note" android:background="@drawable/st_btn_edit_note" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="5dp" android:minWidth="1dp" android:minHeight="1dp" style="@style/ButtonBar"/>
+                <Button android:id="@+id/rc_edit_tm_highlight" android:background="@drawable/st_btn_edit_highlight" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="5dp" android:minWidth="1dp" android:minHeight="1dp" style="@style/ButtonBar"/>
+                <Button android:id="@+id/rc_edit_tm_underline" android:background="@drawable/st_btn_edit_underline" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="5dp" android:minWidth="1dp" android:minHeight="1dp" style="@style/ButtonBar"/>
+                <Button android:id="@+id/rc_edit_tm_strikeout" android:background="@drawable/st_btn_edit_cancelline" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="5dp" android:minWidth="1dp" android:minHeight="1dp" style="@style/ButtonBar"/>
+                <Button android:id="@+id/rc_edit_ink" android:background="@drawable/st_btn_edit_ink" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginRight="5dp" android:minWidth="1dp" android:minHeight="1dp" style="@style/ButtonBar"/>
+                <Button android:id="@+id/rc_edit_eraser" android:background="@drawable/st_btn_edit_eraser" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10dp" android:minWidth="1dp" android:minHeight="1dp" style="@style/ButtonBar"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </ViewFlipper>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <SeekBar android:id="@+id/rc_page_slider" android:background="@drawable/slider" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="0dp" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true"/>
+        <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/rc_page_number" android:background="@drawable/page_num" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10dp" android:layout_above="@+id/rc_page_slider" android:layout_centerHorizontal="true"/>
+        <ImageView android:id="@+id/rc_page_thumbnail" android:background="#000000" android:padding="1dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@android:drawable/alert_light_frame" android:layout_above="@+id/rc_page_number" android:layout_centerHorizontal="true" android:contentDescription="@string/bottom_menu_thumbnail"/>
+    </RelativeLayout>
+</com.epapyrus.plugpdf.SimpleReaderControlView>

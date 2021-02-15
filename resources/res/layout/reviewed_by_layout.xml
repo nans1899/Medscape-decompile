@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/reviewed_by_layout" android:background="@color/reviewed_by_background" android:padding="5dp" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:useDefaultMargins="true">
+    <TextView android:textSize="14sp" android:textColor="@color/medscapedarkblue" android:layout_gravity="start" android:paddingBottom="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/consult_reviewed_by"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="top|left|center_vertical|center_horizontal|center|start" android:id="@+id/reviewer_image" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_margin="5dp" android:scaleType="fitCenter" android:adjustViewBounds="true" android:maxWidth="50dp" android:maxHeight="50dp" android:layout_weight="1" android:layout_row="1"/>
+        <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="9">
+            <LinearLayout android:orientation="vertical" android:id="@+id/reviewed_by_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="10dp">
+                <TextView android:textSize="14sp" android:textColor="@color/medscapedarkblue" android:id="@+id/reviewed_signature_displayname" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="2dp"/>
+                <TextView android:textSize="14sp" android:id="@+id/reviewed_signature_userrole" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="2dp"/>
+                <TextView android:textSize="14sp" android:id="@+id/reviewed_signature_title" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="2dp"/>
+                <TextView android:textSize="14sp" android:id="@+id/reviewed_signature_institution" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="2dp"/>
+                <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="20dp">
+                    <ImageView android:id="@+id/reviewed_institution_image" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:scaleType="fitCenter" android:adjustViewBounds="true"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

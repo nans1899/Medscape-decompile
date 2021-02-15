@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:layout_marginBottom="10dp" android:foreground="?android:attr/selectableItemBackground" android:elevation="@dimen/cardview_default_elevation">
+    <View android:background="#ccc" android:layout_width="match_parent" android:layout_height="1dp"/>
+    <RelativeLayout android:orientation="horizontal" android:id="@+id/bottom_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@+id/comment_layout" android:paddingLeft="5dp" android:paddingRight="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="3dp" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_marginStart="10dp">
+            <ImageView android:id="@+id/comment_icon" android:paddingTop="3dp" android:layout_width="20dp" android:layout_height="23dp" android:src="@drawable/ic_comment_black_24_px" android:layout_centerVertical="true"/>
+        </RelativeLayout>
+        <TextView android:gravity="center_vertical" android:id="@+id/chat_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toEndOf="@+id/comment_layout"/>
+        <include android:id="@+id/consult_vote_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@+id/overflow_icon" android:layout_centerVertical="true" layout="@layout/consult_vote_layout"/>
+        <ImageView android:id="@+id/overflow_icon" android:paddingLeft="10dp" android:paddingTop="5dp" android:paddingRight="10dp" android:paddingBottom="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_more_vert_black_24dp" android:layout_centerVertical="true" android:alpha="0.54" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+</LinearLayout>

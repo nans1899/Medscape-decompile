@@ -1,0 +1,30 @@
+{
+	"data": {
+		"responseHeader": {
+			"status": 0,
+			"QTime": 19,
+			"params": {
+				"spellcheck": "true",
+				"fl": "*",
+				"start": "0",
+				"q": "ab. xnnxnc xnx",
+				"collection": "profeducation",
+				"wt": "javabin",
+				"version": "2",
+				"rows": "50"
+			}
+		},
+		"response": {
+			"numFound": 0,
+			"start": 0,
+			"maxScore": 0.0,
+			"docs": []
+		},
+		"spellcheck": {
+			"suggestions": []
+		}
+	},
+	"code": 1,
+	"stat": "Success",
+	"msg": null
+}

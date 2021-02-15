@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@color/medscape_blue" android:layout_width="match_parent" android:layout_height="?android:attr/actionBarSize" android:weightSum="40">
+        <EditText android:textColor="@color/white" android:textColorHint="@color/white" android:id="@+id/find_query" android:background="@android:color/transparent" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginRight="5dp" android:hint="Find in page" android:layout_weight="19" android:inputType="text" android:imeOptions="actionSearch" android:textCursorDrawable="@drawable/edit_text_cursor" android:paddingStart="10dp"/>
+        <LinearLayout android:gravity="right" android:orientation="horizontal" android:layout_width="0dp" android:layout_height="match_parent" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:layout_weight="6">
+            <TextView android:textSize="13sp" android:textColor="@color/white" android:ellipsize="end" android:layout_gravity="center" android:id="@+id/find_counter" android:paddingRight="8dp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <View android:background="@color/white" android:layout_width="1dp" android:layout_height="match_parent"/>
+        </LinearLayout>
+        <ImageView android:id="@+id/prev_find" android:layout_width="0dp" android:layout_height="match_parent" android:foreground="?attr/selectableItemBackground" android:src="@drawable/ic_keyboard_arrow_up_white_24dp" android:scaleType="center" android:layout_weight="5"/>
+        <ImageView android:id="@+id/next_find" android:layout_width="0dp" android:layout_height="match_parent" android:foreground="?attr/selectableItemBackground" android:src="@drawable/ic_keyboard_arrow_down_white_24dp" android:scaleType="center" android:layout_weight="5"/>
+        <ImageView android:id="@+id/close_find" android:padding="9dp" android:layout_width="0dp" android:layout_height="match_parent" android:foreground="?attr/selectableItemBackground" android:src="@drawable/ic_action_cancel_white" android:scaleType="fitCenter" android:layout_weight="5"/>
+    </LinearLayout>
+</FrameLayout>

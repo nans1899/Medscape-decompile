@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:id="@+id/profile_fragment" android:paddingTop="10dp" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="match_parent">
+        <View android:layout_width="match_parent" style="@style/bordergrey"/>
+        <LinearLayout android:orientation="vertical" android:background="#fff" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.google.android.material.textfield.TextInputLayout android:id="@+id/evFirstNameLayout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:hint="@string/signup_firstname">
+                <EditText android:textColor="@color/auth_component_black" android:textColorHint="@android:color/darker_gray" android:id="@+id/evFirstName" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:inputType="none|text|textCapWords|textEmailAddress|textShortMessage|textPersonName" android:imeOptions="actionNext"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <View android:layout_width="match_parent" style="@style/bordergrey"/>
+            <com.google.android.material.textfield.TextInputLayout android:id="@+id/evLastNameLayout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:hint="@string/signup_lastname">
+                <EditText android:textColor="@color/auth_component_black" android:id="@+id/evLastName" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:inputType="none|text|textCapWords|textEmailAddress|textShortMessage|textPersonName" android:imeOptions="actionNext"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <View android:layout_width="match_parent" style="@style/bordergrey"/>
+            <RelativeLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <com.google.android.material.textfield.TextInputLayout android:id="@+id/evEmailAddressLayout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:hint="@string/signup_email">
+                    <EditText android:textColor="@color/auth_component_black" android:id="@+id/ev_email_address" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:inputType="textEmailAddress" android:imeOptions="actionNext"/>
+                </com.google.android.material.textfield.TextInputLayout>
+                <ProgressBar android:layout_gravity="right" android:id="@+id/progressEmail" android:paddingRight="5dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" android:elevation="2dp" style="?android:attr/progressBarStyleSmall"/>
+            </RelativeLayout>
+            <View android:layout_width="match_parent" style="@style/bordergrey"/>
+            <com.google.android.material.textfield.TextInputLayout android:id="@+id/evPasswordLayout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:hint="@string/signup_password">
+                <EditText android:textColor="@color/auth_component_black" android:id="@+id/ev_password" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:inputType="textPassword" android:imeOptions="actionNext"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <View android:layout_width="match_parent" style="@style/bordergrey"/>
+            <com.google.android.material.textfield.TextInputLayout android:id="@+id/evZipCodeLayout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:hint="@string/signup_zipcode">
+                <EditText android:textColor="@color/auth_component_black" android:id="@+id/ev_zipcode" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:inputType="number" android:imeOptions="actionGo"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <com.google.android.material.textfield.TextInputLayout android:id="@+id/evPostalCodeLayout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:hint="@string/signup_postalcode">
+                <EditText android:textColor="@color/auth_component_black" android:id="@+id/evPostalCode" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:imeOptions="actionGo"/>
+            </com.google.android.material.textfield.TextInputLayout>
+            <View android:id="@+id/evZipCodeBorder" android:layout_width="match_parent" style="@style/bordergrey"/>
+            <androidx.appcompat.widget.SwitchCompat android:textColor="@color/colorTextLight" android:id="@+id/profession_newsletter" android:padding="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/registration_page2_news_letter"/>
+        </LinearLayout>
+        <RelativeLayout android:padding="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@+id/evZipCodeBorder">
+            <Button android:textColor="@color/auth_component_white" android:layout_gravity="center_horizontal" android:id="@+id/btnDone" android:background="@drawable/registration_rectangular_ripple" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/done" android:shadowRadius="2" android:textAllCaps="false" android:elevation="2dp"/>
+            <ProgressBar android:id="@+id/progressSignUp" android:paddingRight="5dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" android:elevation="2dp" style="?android:attr/progressBarStyleSmall"/>
+        </RelativeLayout>
+        <TextView android:textColor="@color/colorTextLight" android:textColorLink="@color/linkcolor" android:id="@+id/tvDisclaimer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="0dp" android:layout_marginRight="10dp" android:text="@string/signup_profile_disclaimer"/>
+        <TextView android:textColor="@color/colorTextLight" android:textColorLink="@color/linkcolor" android:id="@+id/news_letter_disclaimer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:layout_marginRight="10dp" android:layout_marginBottom="15dp" android:text="@string/registration_page2_news_letter_disclaimer"/>
+    </LinearLayout>
+</ScrollView>

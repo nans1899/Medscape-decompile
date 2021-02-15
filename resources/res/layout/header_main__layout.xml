@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:paddingLeft="2px" android:paddingTop="1px" android:paddingRight="2px" android:paddingBottom="5px" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.medscape.android.view.NoScrollListView android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/HeaderFeedListView" android:layout_width="match_parent" android:layout_height="wrap_content" android:listSelector="@drawable/white_background_blue_ripple"/>
+</LinearLayout>

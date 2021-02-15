@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="#f5f5f5" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/fragment_education" android:layout_width="match_parent" android:layout_height="match_parent">
+        <include android:id="@+id/btnSchoolState" layout="@layout/view_custom_selector"/>
+        <include android:id="@+id/btnSchoolCountry" layout="@layout/view_custom_selector"/>
+        <include android:id="@+id/btnSchool" layout="@layout/view_custom_selector"/>
+        <include android:id="@+id/btnBirthYear" layout="@layout/view_custom_selector"/>
+        <include android:id="@+id/btnGraduationYear" layout="@layout/view_custom_selector"/>
+        <include layout="@layout/license_layout"/>
+        <RelativeLayout android:padding="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@+id/btnGraduationYear">
+            <Button android:enabled="false" android:textColor="@color/auth_component_white" android:id="@+id/btnDone" android:background="@drawable/blue_rectangular_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/done" android:shadowRadius="2" android:textAllCaps="false"/>
+            <ProgressBar android:id="@+id/progressDone" android:paddingRight="5dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" android:elevation="2dp" style="?android:attr/progressBarStyleSmall"/>
+        </RelativeLayout>
+        <TextView android:textColor="@color/colorTextLight" android:textColorLink="@color/linkcolor" android:id="@+id/tvDisclaimer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:layout_marginTop="0dp" android:layout_marginRight="10dp" android:text="@string/signup_profile_disclaimer"/>
+    </LinearLayout>
+</ScrollView>

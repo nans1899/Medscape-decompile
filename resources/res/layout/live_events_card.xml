@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/live_root_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="5dp" app:cardElevation="3dp">
+    <RelativeLayout android:orientation="vertical" android:paddingTop="8dp" android:paddingBottom="8dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="15dp" android:paddingEnd="15dp">
+        <TextView android:textSize="14sp" android:textStyle="bold" android:textColor="@color/title_color" android:id="@+id/live_event_title" android:paddingBottom="5dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Title" android:lineSpacingExtra="5dp"/>
+        <LinearLayout android:orientation="horizontal" android:id="@+id/date_layout" android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@+id/live_event_title">
+            <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/calendar" android:paddingEnd="5dp"/>
+            <TextView android:textSize="12sp" android:textColor="@color/material_grey" android:layout_gravity="center_vertical" android:id="@+id/date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Sub Title"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@+id/date_layout">
+            <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/location" android:paddingEnd="5dp"/>
+            <TextView android:textSize="12sp" android:textColor="@color/material_grey" android:layout_gravity="center_vertical" android:id="@+id/location" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Sub Title"/>
+        </LinearLayout>
+        <TextView android:textSize="12sp" android:textColor="@color/white" android:id="@+id/register_now" android:background="@drawable/blue_rectangular_view" android:padding="10dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@+id/date_layout" android:textAllCaps="true" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

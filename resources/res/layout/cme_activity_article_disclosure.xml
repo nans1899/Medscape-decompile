@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:background="@color/activity_toolbar_background" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:layout_alignParentTop="true" android:elevation="4dp" app:theme="@style/MyToolbars"/>
+    <FrameLayout android:id="@+id/content_frame" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/toolbar"/>
+</RelativeLayout>

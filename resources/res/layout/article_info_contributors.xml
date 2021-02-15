@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="horizontal" android:paddingRight="3dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="10">
+        <ImageView android:id="@+id/contributor_image" android:paddingTop="2dp" android:paddingRight="5dp" android:layout_width="0dp" android:layout_height="wrap_content" android:adjustViewBounds="true" android:layout_weight="2"/>
+        <LinearLayout android:orientation="vertical" android:id="@+id/contributor_detail_layout" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="8">
+            <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="17sp" android:textColor="@color/general_grey" android:id="@+id/contributor_name" android:layout_width="wrap_content" android:layout_height="wrap_content" app:fontName="Roboto-Medium.ttf"/>
+            <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="14sp" android:textColor="@color/general_grey" android:id="@+id/contributor_title" android:paddingTop="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="7dp" app:fontName="Roboto-Regular.ttf"/>
+        </LinearLayout>
+    </LinearLayout>
+    <com.webmd.wbmdcmepulse.customviews.AnimatedExpandableListView android:id="@+id/contributor_disclosure" android:paddingTop="5dp" android:paddingRight="3dp" android:paddingBottom="3dp" android:scrollbars="none" android:layout_width="match_parent" android:layout_height="wrap_content" android:listSelector="@android:color/transparent" android:groupIndicator="@null" android:divider="@null"/>
+</LinearLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/coord" android:paddingTop="40dp" android:paddingBottom="40dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:id="@+id/linear" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@+id/dialog_share_layout_gmail" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <ImageView android:id="@+id/dialog_share_image_view_gmail" android:layout_width="match_parent" android:layout_height="@dimen/dimen_share_icon_height"/>
+            <TextView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Gmail"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@+id/dialog_share_layout_maps" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <ImageView android:id="@+id/dialog_share_image_view_maps" android:layout_width="match_parent" android:layout_height="@dimen/dimen_share_icon_height"/>
+            <TextView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/share_open_in_maps"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@+id/dialog_share_layout_copy" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <ImageView android:id="@+id/f_dialog_share_image_view_copy" android:layout_width="match_parent" android:layout_height="@dimen/dimen_share_icon_height" android:src="@drawable/ic_content_copy_black_24dp"/>
+            <TextView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/share_copy"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

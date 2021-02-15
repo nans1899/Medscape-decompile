@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/scroll_view" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <LinearLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include android:id="@+id/question_header" layout="@layout/header_default_row_item"/>
+        <include layout="@layout/row_item_question_title"/>
+        <View android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginTop="20dp"/>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="@dimen/listview_margin_left" android:paddingTop="@dimen/numeric_input_padding_top" android:paddingRight="@dimen/listview_margin_right" android:paddingBottom="@dimen/numeric_input_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/min_row_height_numeric_input" android:paddingStart="@dimen/listview_margin_left" android:paddingEnd="@dimen/listview_margin_right">
+            <EditText android:id="@+id/numeric_entry_edit_text" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="0dp" android:layout_height="wrap_content" android:hint="@string/question_numeric_input_hint" android:singleLine="true" android:selectAllOnFocus="true" android:layout_weight="1" android:inputType="text" style="@style/calculator_question_numeric_input"/>
+            <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:id="@+id/unit_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/calculator_question_numeric_input_units"/>
+                <Button android:id="@+id/unit_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="100dp" android:minHeight="50dp" android:drawableRight="@drawable/ic_down_arrow" android:drawablePadding="10dp" android:drawableEnd="@drawable/ic_down_arrow" style="@style/calculator_question_numeric_input__multi_units"/>
+            </FrameLayout>
+            <Button android:id="@+id/linked_calc_button" android:paddingLeft="17dp" android:paddingRight="17dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/listview_margin_right" android:minWidth="0dp" android:minHeight="50dp" android:drawableLeft="@drawable/ic_link" android:contentDescription="@string/accessibility_calculator_link_btn" android:layout_marginStart="@dimen/listview_margin_right"/>
+        </LinearLayout>
+        <include android:id="@+id/more_info_header" layout="@layout/header_default_row_item"/>
+        <include android:id="@+id/more_info_container" layout="@layout/row_item_question_more_info"/>
+    </LinearLayout>
+</ScrollView>

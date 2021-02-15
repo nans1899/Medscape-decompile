@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:textSize="@dimen/dimen_16sp" android:textColor="@color/shades" android:gravity="center" android:id="@+id/tv_button" android:tag="layout/button_item_0" android:padding="@dimen/dimen_15dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>

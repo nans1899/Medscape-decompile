@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.tabs.TabLayout android:id="@+id/subsection_tabs" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <ProgressBar android:layout_gravity="center" android:id="@+id/progress_bar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:progressBarStyleInverse="?android:attr/progressBarStyleInverse"/>
+    <TextView android:textAppearance="?android:attr/textAppearanceListItem" android:textColor="@android:color/black" android:gravity="center" android:id="@+id/interactionsFoundTextView" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginTop="5dp" android:layout_marginRight="5dp" android:text="@string/no_interactions_found_text"/>
+    <androidx.recyclerview.widget.RecyclerView android:id="@+id/recycler_view" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/root_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.cardview.widget.CardView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="8dp" android:layout_marginTop="8dp" android:layout_marginRight="8dp" android:layout_marginBottom="4dp" app:cardCornerRadius="1dp">
+        <LinearLayout android:orientation="vertical" android:padding="12dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.medscape.android.view.CustomFontTextView android:id="@+id/type_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="4sp" style="@style/card_type_label"/>
+            <com.medscape.android.view.CustomFontTextView android:id="@+id/content_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:lineSpacingExtra="5sp" style="@style/TitleText"/>
+            <com.medscape.android.view.CustomFontTextView android:id="@+id/content_body" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:maxLines="3" android:lineSpacingExtra="6sp" style="@style/DescriptionText"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</FrameLayout>

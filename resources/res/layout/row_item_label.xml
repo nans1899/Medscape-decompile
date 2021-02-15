@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@drawable/selector_white_background" android:paddingLeft="@dimen/listview_margin_left" android:paddingRight="@dimen/listview_margin_right" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/min_row_height_question_title" android:paddingStart="@dimen/listview_margin_left" android:paddingEnd="@dimen/listview_margin_right">
+    <TextView android:id="@+id/title_text_view" android:paddingTop="@dimen/list_view_padding_top" android:paddingBottom="@dimen/list_view_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/default_text_style"/>
+    <include layout="@layout/view_list_view_separator_grouped"/>
+</LinearLayout>

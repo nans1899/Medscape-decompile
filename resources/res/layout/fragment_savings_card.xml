@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/f_savings_layout_root" android:layout_width="match_parent" android:layout_height="wrap_content" android:contentDescription="Savings Layout Root">
+    <LinearLayout android:id="@+id/f_savings_card_back" android:layout_width="match_parent" android:layout_height="wrap_content" android:alpha="0">
+        <include layout="@layout/savings_card_back"/>
+    </LinearLayout>
+    <LinearLayout android:id="@+id/f_savings_card_front" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include layout="@layout/savings_card_front"/>
+    </LinearLayout>
+</FrameLayout>

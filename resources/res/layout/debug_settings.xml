@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:orientation="vertical" android:id="@+id/ENVlayout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <ScrollView android:scrollbarStyle="insideOverlay" android:id="@+id/ScrollView" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TableLayout android:gravity="center_vertical" android:orientation="vertical" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:stretchColumns="*" android:shrinkColumns="*">
+            <TableRow>
+                <TextView android:gravity="center_vertical" android:background="@color/grey" android:clickable="false" android:layout_width="match_parent" android:layout_height="40dp" android:text="@string/debug_environments_section_header"/>
+            </TableRow>
+            <TableRow>
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <androidx.recyclerview.widget.RecyclerView android:id="@+id/environment_list" android:layout_width="match_parent" android:layout_height="wrap_content" app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"/>
+                </LinearLayout>
+            </TableRow>
+            <TableRow>
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:gravity="center_vertical" android:background="@color/grey" android:clickable="false" android:layout_width="match_parent" android:layout_height="40dp" android:text="@string/debug_proclivity_section_header"/>
+                    <TextView android:id="@+id/proclivity_timeout" android:background="@color/white" android:layout_width="match_parent" android:layout_height="40dp" android:text=""/>
+                </LinearLayout>
+            </TableRow>
+            <TableRow>
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:gravity="center_vertical" android:background="@color/grey" android:clickable="false" android:layout_width="match_parent" android:layout_height="40dp" android:text="@string/debug_virtual_page_omniture"/>
+                    <TextView android:id="@+id/virtual_pageview" android:background="@color/white" android:layout_width="match_parent" android:layout_height="40dp" android:text=""/>
+                </LinearLayout>
+            </TableRow>
+            <TableRow>
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:gravity="center_vertical" android:background="@color/grey" android:clickable="false" android:layout_width="match_parent" android:layout_height="40dp" android:text="Copy crash"/>
+                    <TextView android:id="@+id/copy_crash" android:background="@color/white" android:layout_width="match_parent" android:layout_height="40dp" android:text=""/>
+                </LinearLayout>
+            </TableRow>
+            <TableRow>
+                <RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@color/grey" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginBottom="10dp">
+                    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="40sp" android:text="@string/debug_force_data_update"/>
+                    <ToggleButton android:id="@+id/force_data_update" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="15dp" android:textOn="YES" android:textOff="NO" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow>
+                <RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@color/grey" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginBottom="10dp">
+                    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="40sp" android:text="@string/debug_force_native_ads"/>
+                    <ToggleButton android:id="@+id/force_native_ads" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="15dp" android:textOn="YES" android:textOff="NO" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow>
+                <TextView android:gravity="center_vertical" android:background="@color/grey" android:clickable="false" android:layout_width="match_parent" android:layout_height="40dp" android:text="@string/debug_omniture_section_header"/>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <RelativeLayout android:orientation="horizontal" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:layout_width="wrap_content" android:layout_height="40sp" android:text="@string/debug_show_omniture_tags"/>
+                    <ToggleButton android:id="@+id/button_show_omniture_tag" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="15dp" android:textOn="YES" android:textOff="NO" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow>
+                <TextView android:gravity="center_vertical" android:background="@color/grey" android:clickable="false" android:layout_width="match_parent" android:layout_height="40dp" android:text="@string/debug_carousel_section_header"/>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <RelativeLayout android:orientation="horizontal" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:layout_width="wrap_content" android:layout_height="40sp" android:layout_marginRight="20dp" android:text="@string/carousel_cache"/>
+                    <ToggleButton android:id="@+id/bttn_cache" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="15dp" android:textOn="YES" android:textOff="NO" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <RelativeLayout android:orientation="horizontal" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:layout_width="wrap_content" android:layout_height="40sp" android:layout_marginRight="20dp" android:text="@string/blur_images"/>
+                    <ToggleButton android:id="@+id/bttn_blur_carousel" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="15dp" android:textOn="YES" android:textOff="NO" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow>
+                <TextView android:gravity="center_vertical" android:id="@+id/txt_promo_debug" android:background="@color/grey" android:visibility="visible" android:layout_width="match_parent" android:layout_height="40sp" android:layout_marginTop="5dp" android:layout_marginBottom="10dp" android:text="@string/debug_promo_section_header"/>
+            </TableRow>
+            <TableRow>
+                <TextView android:gravity="center_vertical" android:background="@color/grey" android:clickable="false" android:layout_width="match_parent" android:layout_height="40dp" android:text="@string/debug_reference_section_header"/>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <TextView android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="40sp" android:text="@string/debug_clear_reference_button" android:onClick="clearClinicalCache"/>
+            </TableRow>
+            <TableRow>
+                <TextView android:gravity="center_vertical" android:background="@color/grey" android:clickable="false" android:layout_width="match_parent" android:layout_height="40dp" android:text="@string/debug_push_notifications_section_header"/>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:layout_width="wrap_content" android:layout_height="40sp" android:layout_marginRight="20dp" android:text="@string/debug_notification_user_id"/>
+                    <TextView android:id="@+id/npid" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20dp" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:layout_width="wrap_content" android:layout_height="40sp" android:layout_marginRight="20dp" android:text="@string/debug_system_notifications_enabled"/>
+                    <TextView android:id="@+id/system_notifications_enabled" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20dp" android:text="@string/debug_system_notifications_not_readable" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <TextView android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="40sp" android:text="@string/debug_push_news_button" android:onClick="pushNewsNotification"/>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <TextView android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="40sp" android:text="@string/debug_push_drugs_button" android:onClick="pushDrugNotification"/>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <TextView android:background="@drawable/search_filter_item_selector" android:clickable="true" android:layout_width="match_parent" android:layout_height="40sp" android:text="@string/debug_push_ref_button" android:onClick="pushCKBNotification"/>
+            </TableRow>
+            <TableRow>
+                <TextView android:gravity="center_vertical" android:background="@color/grey" android:visibility="visible" android:clickable="false" android:layout_width="match_parent" android:layout_height="40sp" android:text="@string/debug_mynvitations_section_header"/>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <RelativeLayout android:orientation="horizontal" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:layout_width="wrap_content" android:layout_height="40sp" android:text="@string/debug_myinvites_demo_count"/>
+                    <ToggleButton android:id="@+id/bttn_myinvites_demo" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="15dp" android:textOn="YES" android:textOff="NO" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow>
+                <TextView android:gravity="center_vertical" android:background="@color/grey" android:visibility="visible" android:clickable="false" android:layout_width="match_parent" android:layout_height="40sp" android:text="@string/debug_crashlytics_section_header"/>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <RelativeLayout android:orientation="horizontal" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:layout_width="wrap_content" android:layout_height="40sp" android:text="@string/debug_simuluate_crash"/>
+                    <Button android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="15dp" android:text="@string/debug_click_to_crash" android:layout_alignParentRight="true" android:onClick="crashTheApp" style="@style/Widget.Button.Small"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow>
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:gravity="center_vertical" android:background="@color/grey" android:clickable="false" android:layout_width="match_parent" android:layout_height="40dp" android:text="Consult Vote Urls"/>
+                    <TextView android:id="@+id/consult_vote_urls" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content" android:text=""/>
+                </LinearLayout>
+            </TableRow>
+            <TableRow>
+                <RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@color/grey" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="40sp" android:text="@string/debug_copy_database"/>
+                    <Button android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="15dp" android:text="@string/debug_click_copy_db" android:layout_alignParentRight="true" android:onClick="copyTheDB" style="@style/Widget.Button.Small"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow>
+                <TextView android:gravity="center_vertical" android:background="@color/grey" android:visibility="visible" android:clickable="false" android:layout_width="match_parent" android:layout_height="40sp" android:layout_marginTop="10dp" android:text="GDPR Settings"/>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <RelativeLayout android:orientation="horizontal" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="40sp" android:text="@string/debug_click_to_toggle_gdpr"/>
+                    <ToggleButton android:id="@+id/bttn_gdpr_force" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="15dp" android:textOn="YES" android:textOff="NO" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+                <RelativeLayout android:orientation="horizontal" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="40sp" android:text="Reset GDPR Data"/>
+                    <Button android:layout_width="85dp" android:layout_height="40dp" android:layout_marginRight="15dp" android:text="Reset" android:layout_alignParentRight="true" android:onClick="resetGDPR" style="@style/Widget.Button.Small"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow>
+                <RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@color/grey" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+                    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="40sp" android:text="@string/debug_long_section"/>
+                    <ToggleButton android:id="@+id/bttn_long_sectionname_force" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="15dp" android:textOn="YES" android:textOff="NO" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+            </TableRow>
+            <TableRow>
+                <RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@color/grey" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+                    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="40sp" android:text="@string/debug_show_web_error"/>
+                    <ToggleButton android:id="@+id/bttn_show_webview_errors" android:layout_width="wrap_content" android:layout_height="40dp" android:layout_marginRight="15dp" android:textOn="YES" android:textOff="NO" android:layout_alignParentRight="true"/>
+                </RelativeLayout>
+            </TableRow>
+        </TableLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="30dp" android:text="@string/enter_slideshow_demo_url"/>
+    <EditText android:id="@+id/slidedemo_url" android:layout_width="300dp" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:text="http://www.staging.medscape.com/noscan/mobileapp/public/slideshowDemo/manifest.json" android:hint="@string/enter_slideshow_demo_url" android:scrollHorizontally="false" android:inputType="none|text|textMultiLine|textUri"/>
+</LinearLayout>

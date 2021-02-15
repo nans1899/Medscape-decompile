@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/ic_action_new" android:id="@+id/action_add_to_interactions" android:title="@string/add_to_interactions" app:showAsAction="never|ifRoom|collapseActionView"/>
+    <item android:id="@+id/action_find" android:title="@string/find" app:showAsAction="never|ifRoom|collapseActionView"/>
+</menu>

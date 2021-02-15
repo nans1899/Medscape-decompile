@@ -1,0 +1,182 @@
+{
+    "searchFilters": [
+        {
+            "specialtyKey": "allergy-immunology",
+            "specialtyDisplay": "Allergy & Immunology",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "cardiology",
+            "specialtyDisplay": "Cardiology",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "criticalcare",
+            "specialtyDisplay": "Critical Care",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "dermatology",
+            "specialtyDisplay": "Dermatology",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "diabetes-endocrinology",
+            "specialtyDisplay": "Diabetes & Endocrinology",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "emergencymedicine",
+            "specialtyDisplay": "Emergency Medicine",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "familymedicine",
+            "specialtyDisplay": "Family Medicine",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "gastroenterology",
+            "specialtyDisplay": "Gastroenterology",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "generalsurgery",
+            "specialtyDisplay": "General Surgery",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "hiv",
+            "specialtyDisplay": "HIV/AIDS",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "hospitalmedicine",
+            "specialtyDisplay": "Hospital Medicine",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "infectiousdiseases",
+            "specialtyDisplay": "Infectious Diseases",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "internalmedicine",
+            "specialtyDisplay": "Internal Medicine",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "nephrology",
+            "specialtyDisplay": "Nephrology",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "neurology",
+            "specialtyDisplay": "Neurology",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "nurses",
+            "specialtyDisplay": "Nurses",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "womenshealth",
+            "specialtyDisplay": "Ob/Gyn & Women's Health",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "oncology",
+            "specialtyDisplay": "Oncology",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "pathology",
+            "specialtyDisplay": "Pathology & Lab Medicine",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "pediatrics",
+            "specialtyDisplay": "Pediatrics",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "pharmacists",
+            "specialtyDisplay": "Pharmacists",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "publichealth",
+            "specialtyDisplay": "Public Health",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "pulmonarymedicine",
+            "specialtyDisplay": "Pulmonary Medicine",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "rheumatology",
+            "specialtyDisplay": "Rheumatology",
+            "locations": [
+                "Online"
+            ]
+        },
+        {
+            "specialtyKey": "urology",
+            "specialtyDisplay": "Urology",
+            "locations": [
+                "Online"
+            ]
+        }
+    ],
+    "allLocations": [
+        "Online"
+    ]
+}

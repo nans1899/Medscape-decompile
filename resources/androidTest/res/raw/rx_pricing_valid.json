@@ -1,0 +1,412 @@
+{
+  "code": 0,
+  "data": {
+    "rxpricing": {
+      "data": {
+        "id": "31722055760",
+        "Quantity": "90.0",
+        "Prices": [
+          {
+            "Pharmacy": {
+              "Name": "Walmart",
+              "PharmacyGroup": "WALMART",
+              "OtherLocationCount": 3,
+              "PharmacyGroupMinPrice": 286.87,
+              "PharmacyGroupMaxPrice": 286.87,
+              "Image": "https://www.walmartbrandcenter.com/uploadedImages/BrandCenter/Content/downloads/Logos/specifications/Spark%20Display%20Image.jpg?n=4294",
+              "Distance": 4.31,
+              "Latitude": 29.4586432,
+              "Longitude": -98.55334119999999,
+              "Address1": "918 Bandera Rd",
+              "Address2": null,
+              "City": "San Antonio",
+              "Hours": "Sunday: 9 AM - 6 PM</br>Monday: 9 AM - 9 PM</br>Tuesday: 9 AM - 9 PM</br>Wednesday: 9 AM - 9 PM</br>Thursday: 9 AM - 9 PM</br>Friday: 9 AM - 9 PM</br>Saturday: 9 AM - 7 PM</br>",
+              "PharmacyHours": {
+                "Sunday": {
+                  "number": "1",
+                  "name": "Sunday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Monday": {
+                  "number": "2",
+                  "name": "Monday",
+                  "startTime": "0900",
+                  "endTime": "2100"
+                },
+                "Tuesday": {
+                  "number": "3",
+                  "name": "Tuesday",
+                  "startTime": "0900",
+                  "endTime": "2100"
+                },
+                "Wednesday": {
+                  "number": "4",
+                  "name": "Wednesday",
+                  "startTime": "0900",
+                  "endTime": "2100"
+                },
+                "Thursday": {
+                  "number": "5",
+                  "name": "Thursday",
+                  "startTime": "0900",
+                  "endTime": "2100"
+                },
+                "Friday": {
+                  "number": "6",
+                  "name": "Friday",
+                  "startTime": "0900",
+                  "endTime": "2100"
+                },
+                "Saturday": {
+                  "number": "7",
+                  "name": "Saturday",
+                  "startTime": "0900",
+                  "endTime": "1900"
+                }
+              },
+              "Phone": "(210) 536-0575",
+              "PostalCode": "78228",
+              "State": "TX",
+              "IsOpen24Hours": false,
+              "HasDriveUp": false,
+              "HasDeliveryService": false
+            },
+            "DrugPriceInfo": {
+              "StorePricing": false,
+              "DiscountPricing": 286.87,
+              "RegularPricing": {
+                "Avg": 0,
+                "Max": 898.49,
+                "Median": 0,
+                "Min": 0,
+                "Mode": 0,
+                "WAvg": 892.99
+              }
+            }
+          },
+          {
+            "Pharmacy": {
+              "Name": "CVS",
+              "PharmacyGroup": "CVS",
+              "OtherLocationCount": 8,
+              "PharmacyGroupMinPrice": 307.4062,
+              "PharmacyGroupMaxPrice": 307.4062,
+              "Image": "http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/webmdrx/assets/cvs-icon2x.png",
+              "Distance": 0.24,
+              "Latitude": 29.423875,
+              "Longitude": -98.489745,
+              "Address1": "300 E Commerce St",
+              "Address2": null,
+              "City": "San Antonio",
+              "Hours": "Sunday: CLOSED</br>Monday: 9 AM - 6 PM</br>Tuesday: 9 AM - 6 PM</br>Wednesday: 9 AM - 6 PM</br>Thursday: 9 AM - 6 PM</br>Friday: 9 AM - 6 PM</br>Saturday: CLOSED</br>",
+              "PharmacyHours": {
+                "Sunday": {
+                  "number": "1",
+                  "name": "Sunday",
+                  "startTime": "00",
+                  "endTime": "00"
+                },
+                "Monday": {
+                  "number": "2",
+                  "name": "Monday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Tuesday": {
+                  "number": "3",
+                  "name": "Tuesday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Wednesday": {
+                  "number": "4",
+                  "name": "Wednesday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Thursday": {
+                  "number": "5",
+                  "name": "Thursday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Friday": {
+                  "number": "6",
+                  "name": "Friday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Saturday": {
+                  "number": "7",
+                  "name": "Saturday",
+                  "startTime": "00",
+                  "endTime": "00"
+                }
+              },
+              "Phone": "(210) 228-9483",
+              "PostalCode": "78205",
+              "State": "TX",
+              "IsOpen24Hours": false,
+              "HasDriveUp": false,
+              "HasDeliveryService": false
+            },
+            "DrugPriceInfo": {
+              "StorePricing": false,
+              "DiscountPricing": 307.41,
+              "RegularPricing": {
+                "Avg": 0,
+                "Max": 898.49,
+                "Median": 0,
+                "Min": 0,
+                "Mode": 0,
+                "WAvg": 892.99
+              }
+            }
+          },
+          {
+            "Pharmacy": {
+              "Name": "Walgreens",
+              "PharmacyGroup": "WALGREENS",
+              "OtherLocationCount": 11,
+              "PharmacyGroupMinPrice": 471.312,
+              "PharmacyGroupMaxPrice": 471.312,
+              "Image": "http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/webmdrx/assets/walgreens-icon2x.png",
+              "Distance": 0.28,
+              "Latitude": 29.4261474609375,
+              "Longitude": -98.48957061767578,
+              "Address1": "300 E Houston St",
+              "Address2": null,
+              "City": "San Antonio",
+              "Hours": "Sunday: 10 AM - 6 PM</br>Monday: 9 AM - 6 PM</br>Tuesday: 9 AM - 6 PM</br>Wednesday: 9 AM - 6 PM</br>Thursday: 9 AM - 6 PM</br>Friday: 9 AM - 6 PM</br>Saturday: 9 AM - 6 PM</br>",
+              "PharmacyHours": {
+                "Sunday": {
+                  "number": "1",
+                  "name": "Sunday",
+                  "startTime": "1000",
+                  "endTime": "1800"
+                },
+                "Monday": {
+                  "number": "2",
+                  "name": "Monday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Tuesday": {
+                  "number": "3",
+                  "name": "Tuesday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Wednesday": {
+                  "number": "4",
+                  "name": "Wednesday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Thursday": {
+                  "number": "5",
+                  "name": "Thursday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Friday": {
+                  "number": "6",
+                  "name": "Friday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Saturday": {
+                  "number": "7",
+                  "name": "Saturday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                }
+              },
+              "Phone": "(210) 424-3462",
+              "PostalCode": "78205",
+              "State": "TX",
+              "IsOpen24Hours": false,
+              "HasDriveUp": false,
+              "HasDeliveryService": false
+            },
+            "DrugPriceInfo": {
+              "StorePricing": false,
+              "DiscountPricing": 471.31,
+              "RegularPricing": {
+                "Avg": 0,
+                "Max": 898.49,
+                "Median": 0,
+                "Min": 0,
+                "Mode": 0,
+                "WAvg": 892.99
+              }
+            }
+          },
+          {
+            "Pharmacy": {
+              "Name": "Heb",
+              "PharmacyGroup": "G|25|HEB",
+              "OtherLocationCount": 9,
+              "PharmacyGroupMinPrice": 522.7244,
+              "PharmacyGroupMaxPrice": 522.7244,
+              "Image": "http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/webmdrx/assets/medicine-empty2x.png",
+              "Distance": 1.95,
+              "Latitude": 29.428125381469727,
+              "Longitude": -98.52567291259766,
+              "Address1": "108 N Rosillo",
+              "Address2": null,
+              "City": "San Antonio",
+              "Hours": "Sunday: 10 AM - 5 PM</br>Monday: 9 AM - 9 PM</br>Tuesday: 9 AM - 9 PM</br>Wednesday: 9 AM - 9 PM</br>Thursday: 9 AM - 9 PM</br>Friday: 9 AM - 9 PM</br>Saturday: 9 AM - 6 PM</br>",
+              "PharmacyHours": {
+                "Sunday": {
+                  "number": "1",
+                  "name": "Sunday",
+                  "startTime": "1000",
+                  "endTime": "1700"
+                },
+                "Monday": {
+                  "number": "2",
+                  "name": "Monday",
+                  "startTime": "0900",
+                  "endTime": "2100"
+                },
+                "Tuesday": {
+                  "number": "3",
+                  "name": "Tuesday",
+                  "startTime": "0900",
+                  "endTime": "2100"
+                },
+                "Wednesday": {
+                  "number": "4",
+                  "name": "Wednesday",
+                  "startTime": "0900",
+                  "endTime": "2100"
+                },
+                "Thursday": {
+                  "number": "5",
+                  "name": "Thursday",
+                  "startTime": "0900",
+                  "endTime": "2100"
+                },
+                "Friday": {
+                  "number": "6",
+                  "name": "Friday",
+                  "startTime": "0900",
+                  "endTime": "2100"
+                },
+                "Saturday": {
+                  "number": "7",
+                  "name": "Saturday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                }
+              },
+              "Phone": "(210) 227-0211",
+              "PostalCode": "78207",
+              "State": "TX",
+              "IsOpen24Hours": false,
+              "HasDriveUp": true,
+              "HasDeliveryService": false
+            },
+            "DrugPriceInfo": {
+              "StorePricing": false,
+              "DiscountPricing": 522.72,
+              "RegularPricing": {
+                "Avg": 0,
+                "Max": 898.49,
+                "Median": 0,
+                "Min": 0,
+                "Mode": 0,
+                "WAvg": 892.99
+              }
+            }
+          },
+          {
+            "Pharmacy": {
+              "Name": "15rx Pharmacy",
+              "PharmacyGroup": "OTHER",
+              "OtherLocationCount": 18,
+              "PharmacyGroupMinPrice": 321.6691,
+              "PharmacyGroupMaxPrice": 323.2691,
+              "Image": "http://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/webmdrx/assets/medicine-empty2x.png",
+              "Distance": 1.89,
+              "Latitude": 29.4415809,
+              "Longitude": -98.46950729999999,
+              "Address1": "418 Carson Hl Bldg 1",
+              "Address2": "105",
+              "City": "San Antonio",
+              "Hours": "Sunday: CLOSED</br>Monday: 9 AM - 6 PM</br>Tuesday: 9 AM - 6 PM</br>Wednesday: 9 AM - 6 PM</br>Thursday: 9 AM - 6 PM</br>Friday: 9 AM - 6 PM</br>Saturday: 9 AM - 3 PM</br>",
+              "PharmacyHours": {
+                "Sunday": {
+                  "number": "1",
+                  "name": "Sunday",
+                  "startTime": "00",
+                  "endTime": "00"
+                },
+                "Monday": {
+                  "number": "2",
+                  "name": "Monday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Tuesday": {
+                  "number": "3",
+                  "name": "Tuesday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Wednesday": {
+                  "number": "4",
+                  "name": "Wednesday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Thursday": {
+                  "number": "5",
+                  "name": "Thursday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Friday": {
+                  "number": "6",
+                  "name": "Friday",
+                  "startTime": "0900",
+                  "endTime": "1800"
+                },
+                "Saturday": {
+                  "number": "7",
+                  "name": "Saturday",
+                  "startTime": "0900",
+                  "endTime": "1500"
+                }
+              },
+              "Phone": "(210) 684-1579",
+              "PostalCode": "78251",
+              "State": "TX",
+              "IsOpen24Hours": false,
+              "HasDriveUp": false,
+              "HasDeliveryService": true
+            },
+            "DrugPriceInfo": {
+              "StorePricing": false,
+              "DiscountPricing": 321.67,
+              "RegularPricing": {
+                "Avg": 0,
+                "Max": 898.49,
+                "Median": 0,
+                "Min": 0,
+                "Mode": 0,
+                "WAvg": 892.99
+              }
+            }
+          }
+        ]
+      },
+      "meta": {
+        "VendorResponseTime": 290
+      }
+    }
+  },
+  "status": "ok"
+}

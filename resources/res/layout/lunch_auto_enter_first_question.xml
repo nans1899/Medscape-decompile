@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="vertical" android:background="@android:color/white" android:padding="@dimen/lunch_bar_padding" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4dp" android:layout_marginRight="@dimen/lunch_bar_padding" android:src="@drawable/ic_flag" android:contentDescription="@string/content_description_alert_flag" android:layout_marginEnd="@dimen/lunch_bar_padding"/>
+            <ScrollView android:id="@+id/body" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/prompt_auto_enter_first_question_body" style="@style/lunch_bar_font"/>
+            </ScrollView>
+        </LinearLayout>
+        <LinearLayout android:gravity="end" android:orientation="horizontal" android:id="@+id/button_layout" android:paddingTop="@dimen/lunch_bar_padding" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="15sp" android:textStyle="bold" android:textColor="#4385f5" android:gravity="center" android:id="@+id/button_no" android:background="@drawable/selector_lunch_bar_negative" android:paddingLeft="15dp" android:paddingTop="7dp" android:paddingRight="15dp" android:paddingBottom="7dp" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="80dp" android:minHeight="30dp" android:text="@string/no" android:textAllCaps="true"/>
+            <TextView android:textSize="15sp" android:textStyle="bold" android:textColor="@android:color/white" android:gravity="center" android:id="@+id/button_yes" android:background="@drawable/selector_lunch_bar_affirmative" android:paddingLeft="15dp" android:paddingTop="7dp" android:paddingRight="15dp" android:paddingBottom="7dp" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:minWidth="80dp" android:minHeight="30dp" android:text="@string/yes" android:textAllCaps="true" android:layout_marginStart="10dp"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

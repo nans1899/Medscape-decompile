@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:id="@+id/menu_interaction_save_list" android:title="Save List"/>
+    <item android:id="@+id/menu_interaction_open_list" android:title="Open Saved List"/>
+    <item android:id="@+id/menu_interaction_add_from_list" android:title="Add From Saved List"/>
+</menu>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@color/medscape_blue" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ImageView android:layout_gravity="center" android:id="@+id/back_arrow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_centerVertical="true" android:layout_marginStart="10dp" android:layout_marginEnd="5dp" app:srcCompat="@drawable/ic_arrow_back_white_24dp"/>
+    <RelativeLayout android:orientation="horizontal" android:background="@drawable/search_bar_background" android:focusableInTouchMode="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginRight="10dp" android:layout_marginBottom="5dp" android:layout_toRightOf="@+id/back_arrow" android:layout_marginStart="10dp" android:layout_marginEnd="10dp" android:layout_toEndOf="@+id/back_arrow">
+        <ImageView android:layout_gravity="center" android:id="@+id/search_icon" android:layout_width="18dp" android:layout_height="18dp" android:layout_centerVertical="true" android:layout_marginStart="10dp" app:srcCompat="@drawable/ic_search"/>
+        <androidx.appcompat.widget.SearchView android:id="@+id/search_view" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginRight="10dp" android:layout_marginStart="5dp" android:layout_toEndOf="@+id/search_icon" app:searchIcon="@null"/>
+    </RelativeLayout>
+</RelativeLayout>

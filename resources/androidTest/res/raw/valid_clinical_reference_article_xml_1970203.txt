@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:fn="http://www.w3.org/2005/xpath-functions"
+    version="MEDS_2.0"
+    id="1970203"
+    pubid=""
+    template="Clinical Procedures"
+    template-name="multipageproc">
+    <metadata_section>
+        <site-meta>
+            <article-name>Nuss Procedure for Pectus Excavatum</article-name>
+            <title>
+                <page-info id="overview">Nuss Procedure for Pectus Excavatum: Background, Indications, Contraindications, Technical Considerations</page-info>
+                <page-info id="periprocedure">Nuss Procedure for Pectus Excavatum Periprocedural Care: Patient Education &amp; Consent, Pre-Procedure Planning, Equipment, Patient Preparation</page-info>
+                <page-info id="technique">Nuss Procedure for Pectus Excavatum Technique: Approach Considerations, Minimally Invasive Repair of Pectus Excavatum (MIRPE) Technique, Special Considerations</page-info>
+                <page-info id="medication">Nuss Procedure for Pectus Excavatum Medication: Opioid Analgesics, Nonsteroidal Anti-inflammatory Drugs</page-info>
+                <page-info id="labs">Nuss Procedure for Pectus Excavatum Laboratory Medicine</page-info>
+            </title>
+            <browser-title>
+                <page-info id="overview">Nuss Procedure for Pectus Excavatum: Background, Indications, Contraindications, Technical Considerations</page-info>
+                <page-info id="periprocedure">Nuss Procedure for Pectus Excavatum Periprocedural Care: Patient Education &amp; Consent, Pre-Procedure Planning, Equipment, Patient Preparation</page-info>
+                <page-info id="technique">Nuss Procedure for Pectus Excavatum Technique: Approach Considerations, Minimally Invasive Repair of Pectus Excavatum (MIRPE) Technique, Special Considerations</page-info>
+                <page-info id="medication">Nuss Procedure for Pectus Excavatum Medication: Opioid Analgesics, Nonsteroidal Anti-inflammatory Drugs</page-info>
+                <page-info id="labs">Nuss Procedure for Pectus Excavatum Laboratory Medicine</page-info>
+            </browser-title>
+            <section-title>
+                <section-page-info id="overview">Overview
+                    <section-info id="a1">Background</section-info>
+                    <section-info id="a3">Indications</section-info>
+                    <section-info id="a4">Contraindications</section-info>
+                    <section-info id="a5">Technical Considerations</section-info>
+                </section-page-info>
+                <section-page-info id="periprocedure">Periprocedural Care
+                    <section-info id="b3">Patient Education &amp; Consent</section-info>
+                    <section-info id="b4">Pre-Procedure Planning</section-info>
+                    <section-info id="b5">Equipment</section-info>
+                    <section-info id="b6">Patient Preparation</section-info>
+                    <section-info id="b7">Monitoring &amp; Follow-up</section-info>
+                </section-page-info>
+                <section-page-info id="technique">Technique
+                    <section-info id="c1">Approach Considerations</section-info>
+                    <section-info id="c2">Minimally Invasive Repair of Pectus Excavatum (MIRPE) Technique</section-info>
+                    <section-info id="c3">Special Considerations</section-info>
+                </section-page-info>
+                <section-page-info id="medication">Medication
+                </section-page-info>
+                <section-page-info id="labs">Laboratory Medicine
+                </section-page-info>
+                <section-page-info id="recommendation">Recommendation(Warning, not actual medical advice)
+                </section-page-info>
+            </section-title>
+            <meta-keywords>
+                <page-info id="overview">Nuss Procedure for Pectus Excavatum Overview</page-info>
+                <page-info id="periprocedure">Nuss Procedure for Pectus Excavatum Periprocedural Care</page-info>
+                <page-info id="technique">Nuss Procedure for Pectus Excavatum Technique</page-info>
+                <page-info id="medication">Nuss Procedure for Pectus Excavatum Medication</page-info>
+                <page-info id="labs">Nuss Procedure for Pectus Excavatum Laboratory Medicine</page-info>
+            </meta-keywords>
+            <uri>1970203-overview</uri>
+            <meta-description/>
+            <search-keywords/>
+            <alt-image-text/>
+            <posting-date>Jul 18, 2014</posting-date>
+            <last-generated>2015-03-29-03:03</last-generated>
+            <single-page>0</single-page>
+            <pub-name>Clinical Procedures</pub-name>
+            <pub-id/>
+            <siteon>2002</siteon>
+            <content-group ID="503">Procedures</content-group>
+            <content-type ID="10419">Procedure</content-type>
+            <ads-support>
+                <site>1</site>
+                <affiliate>2</affiliate>
+                <pclass>content</pclass>
+                <artid>1970203</artid>
+                <cg>503</cg>
+                <scg xsi:nil="true"/>
+                <ssp text="Pulmonary Medicine">13</ssp>
+                <bc xsi:nil="true"/>
+            </ads-support>
+            <other/>
+        </site-meta>
+        <metadata>
+            <last_updated>Mar 26, 2015</last_updated>
+            <publication_cat>
+                <id>procedure</id>
+                <name>Procedures</name>
+            </publication_cat>
+            <publication>
+                <id>clinical_procedures</id>
+                <name>Clinical Procedures</name>
+            </publication>
+            <publication_section>
+                <id>clinical_procedures_respiratory</id>
+                <name>Lung and Respiratory</name>
+            </publication_section>
+            <meta_keywords>nuss procedure for pectus excavatum, nuss procedure, pectus excavatum, chest wall malformation, minimally invasive repair of pectus excavatum, MIRPE</meta_keywords>
+            <meta_description>Pectus excavatum, also known as sunken or funnel chest, is a congenital chest wall malformation in which several ribs and the sternum grow abnormally, producing a concave or caved-in appearance of the anterior chest wall and sternum. The image below illustrates the typical appearance of a teenaged boy with a severe pectus excavatum (A) and a ...</meta_description>
+            <pediatric-article>0</pediatric-article>
+            <acronyms/>
+        </metadata>
+    </metadata_section>
+    <content_section>
+        <title>Nuss Procedure for Pectus Excavatum</title>
+        <sect1 id="overview" type="content">
+            <title>Overview</title>
+            <sect2 id="a1">
+                <title>Background</title>
+                <pgroup>
+                    <para>Pectus excavatum, also known as sunken or funnel chest, is a congenital chest wall malformation in which several ribs and the sternum grow abnormally, producing a concave or caved-in appearance of the anterior chest wall and sternum. The image below illustrates the typical appearance of a teenaged boy with a severe pectus excavatum (A) and a young girl (B) with the pectus deformity.</para>
+                    <figure id="27928">
+                        <title>Typical appearance of a teenaged boy with a severe pectus excavatum (A) and a young girl (B)...</title>
+                        <caption>Typical appearance of a teenaged boy with a severe pectus excavatum (A) and a young girl (B) with the pectus deformity </caption>
+                        <graphic format="IMAGE" id="27928" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/28/27928.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27928"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/28/27928tn.jpg"/>
+                    </figure>
+                    <para>Pectus excavatum occurs in an estimated 1 in 300-500 births, with a male predominance (male-to-female ratio of 3:1). The condition is typically noticed at birth, and more than two thirds of cases are diagnosed within the first year of life. Worsening of the chest’s appearance and the onset of symptoms are usually reported during rapid bone growth seen in puberty and early teenage years.<sup>
+                        <link type="references" ref="refsrc1">[1]</link>
+                    </sup>Many patients are not brought to the attention of a pediatric surgeon until the patient and the family have noticed such changes. Despite the lack of an identifiable genetic marker, the familial occurrence of pectus deformity is reported in 35% of cases.<sup>
+                        <link type="references" ref="refsrc2">[2]</link>
+                    </sup>
+                    </para>
+                    <para>This topic focuses on the operative technique known as the minimally invasive repair of pectus excavatum (MIRPE). It was originally described by Dr. Nuss and, for that reason, it is also known as the Nuss technique or pectus bar procedure. Nuss performed the first minimally invasive operation for the correction of pectus excavatum in the 1980s. Not until May of 1997 was this new and innovative technique introduced to the American Pediatric Surgical Association and, subsequently, published in the Journal of Pediatric Surgery.<sup>
+                        <link type="references" ref="refsrc3">[3]</link>
+                    </sup>Because of the early excellent results obtained with this new technique and because of the less radical nature of the operation (compared to the open Ravitch technique),<sup>
+                        <link type="references" ref="refsrc4|refsrc5|refsrc6|refsrc7">[4, 5, 6, 7]</link>
+                    </sup>the popularity of this approach has grown dramatically.<sup>
+                        <link type="references" ref="refsrc8">[8]</link>
+                    </sup>The image below illustrates the before and after appearance of the chest of a 14-year-old patient treated for pectus excavatum using the minimally invasive technique.</para>
+                    <figure id="27929">
+                        <title>Before and after appearance of the chest following Nuss operation for pectus excavatum. This...</title>
+                        <caption>Before and after appearance of the chest following Nuss operation for pectus excavatum. This image illustrates the cosmetic advantage of the minimally invasive approach. </caption>
+                        <graphic format="IMAGE" id="27929" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/29/27929.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27929"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/29/27929tn.jpg"/>
+                    </figure>
+                </pgroup>
+                <pgroup>
+                    <title>Content Links</title>
+                    <para><strong>To this article</strong></para>
+                    <para><link type="content" ref="1970203-periprocedure">Nuss Procedure for Pectus Excavatum - Periprocedure</link></para>
+                    <para><link type="content" ref="1970203-technique">Nuss Procedure for Pectus Excavatum - Technique</link></para>
+                    <para><link type="content" ref="1970203-labs">Nuss Procedure for Pectus Excavatum - Labs</link></para>
+                    <para><link type="content" ref="1970203-recommendation">Nuss Procedure for Pectus Excavatum - Recommendation</link></para>
+                    <para><link type="content" ref="1970203-Wednesday">Nuss Procedure for Pectus Excavatum - Bad section(Wednesday)</link></para>
+
+                    <para><strong>To a different article</strong></para>
+                    <para><link type="content" ref="1355567-overview">Benign Neonatal Sleep Myoclonus - Overview</link></para>
+                    <para><link type="content" ref="1355567-clinical">Benign Neonatal Sleep Myoclonus - Clinical</link></para>
+                    <para><link type="content" ref="1355567-differential">Benign Neonatal Sleep Myoclonus - Differential</link></para>
+                    <para><link type="content" ref="1355567-workup">Benign Neonatal Sleep Myoclonus - Workup</link></para>
+                    <para><link type="content" ref="1355567-workup#c7">Benign Neonatal Sleep Myoclonus - Workup - Other Tests</link></para>
+                    <para><link type="content" ref="1355567-treatment">Benign Neonatal Sleep Myoclonus - Treatment</link></para>
+                    <para><link type="content" ref="1355567-medication">Benign Neonatal Sleep Myoclonus - Medication</link></para>
+                    <para><link type="content" ref="1355567-followup">Benign Neonatal Sleep Myoclonus - Followup</link></para>
+
+                    <para><link type="content" ref="152379-overview">Alcoholic Cardiomyopathy - Overview</link></para>
+                    <para><link type="content" ref="152379-clinical">Alcoholic Cardiomyopathy - Clinical - Section not in this article</link></para>
+                    <para><link type="content" ref="152379-differential">Alcoholic Cardiomyopathy - Differential - Section not in this article</link></para>
+                    <para><link type="content" ref="152379-workup">Alcoholic Cardiomyopathy - Workup - Section not in this article</link></para>
+                    <para><link type="content" ref="152379-treatment">Alcoholic Cardiomyopathy - Treatment - Section not in this article</link></para>
+                    <para><link type="content" ref="152379-medication">Alcoholic Cardiomyopathy - Medication - Section not in this article</link></para>
+                    <para><link type="content" ref="152379-followup">Alcoholic Cardiomyopathy - Followup - Section not in this article</link></para>
+                    <para><link type="content" ref="152379-periprocedure">Alcoholic Cardiomyopathy - Periprocedure - Section not in this article</link></para>
+                    <para><link type="content" ref="152379-technique">Alcoholic Cardiomyopathy - Technique - Section not in this article</link></para>
+                    <para><link type="content" ref="152379-labs">Alcoholic Cardiomyopathy - Labs - Section not in this article</link></para>
+                </pgroup>
+                <pgroup>
+                    <title>GPS Links</title>
+                    <para><strong>To this article</strong></para>
+                    <para><a href="http://emedicine.medscape.com/article/1970203-periprocedure">Nuss Procedure for Pectus Excavatum - Periprocedure</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/1970203-technique">Nuss Procedure for Pectus Excavatum - Technique</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/1970203-labs">Nuss Procedure for Pectus Excavatum - Labs</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/1970203-recommendation">Nuss Procedure for Pectus Excavatum - Recommendation</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/1970203-Wednesday">Nuss Procedure for Pectus Excavatum - Bad section(Wednesday)</a></para>
+
+                    <para><strong>To a different article</strong></para>
+                    <para><a href="http://emedicine.medscape.com/article/1355567-overview">Benign Neonatal Sleep Myoclonus - Overview</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/1355567-clinical">Benign Neonatal Sleep Myoclonus - Clinical</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/1355567-differential">Benign Neonatal Sleep Myoclonus - Differential</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/1355567-workup">Benign Neonatal Sleep Myoclonus - Workup</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/1355567-workup#c7">Benign Neonatal Sleep Myoclonus - Workup - Other Tests</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/1355567-treatment">Benign Neonatal Sleep Myoclonus - Treatment</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/1355567-medication">Benign Neonatal Sleep Myoclonus - Medication</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/1355567-followup">Benign Neonatal Sleep Myoclonus - Followup</a></para>
+
+                    <para><a href="http://emedicine.medscape.com/article/152379-overview">Alcoholic Cardiomyopathy - Overview</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/152379-clinical">Alcoholic Cardiomyopathy - Clinical - Section not in this article</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/152379-differential">Alcoholic Cardiomyopathy - Differential - Section not in this article</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/152379-workup">Alcoholic Cardiomyopathy - Workup - Section not in this article</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/152379-treatment">Alcoholic Cardiomyopathy - Treatment - Section not in this article</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/152379-medication">Alcoholic Cardiomyopathy - Medication - Section not in this article</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/152379-followup">Alcoholic Cardiomyopathy - Followup - Section not in this article</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/152379-periprocedure">Alcoholic Cardiomyopathy - Periprocedure - Section not in this article</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/152379-technique">Alcoholic Cardiomyopathy - Technique - Section not in this article</a></para>
+                    <para><a href="http://emedicine.medscape.com/article/152379-labs">Alcoholic Cardiomyopathy - Labs - Section not in this article</a></para>
+
+                </pgroup>
+                <pgroup>
+                    <title>CKB Links</title>
+                    <para><strong>To this article</strong></para>
+                    <para><a href="ckb://1970203?section=periprocedure">Nuss Procedure for Pectus Excavatum - Periprocedure - aw2aab6b3</a></para>
+                    <para><a href="ckb://1970203?section=technique">Nuss Procedure for Pectus Excavatum - Technique - a15</a></para>
+                    <para><a href="ckb://1970203?section=labs">Nuss Procedure for Pectus Excavatum - Labs - GPS??</a></para>
+                    <para><a href="ckb://1970203?section=recommendation">Nuss Procedure for Pectus Excavatum - Recommendation - GPS??</a></para>
+                    <para><a href="ckb://1970203?section=Wednesday">Nuss Procedure for Pectus Excavatum - Bad section(Wednesday)</a></para>
+
+                    <para><strong>To a different article</strong></para>
+                    <para><a href="ckb://1355567?section=overview">Benign Neonatal Sleep Myoclonus - Overview - a1</a></para>
+                    <para><a href="ckb://1355567?section=clinical">Benign Neonatal Sleep Myoclonus - Clinical - a2</a></para>
+                    <para><a href="ckb://1355567?section=differential">Benign Neonatal Sleep Myoclonus - Differential - Ddsect</a></para>
+                    <para><a href="ckb://1355567?section=workup">Benign Neonatal Sleep Myoclonus - Workup - a7</a></para>
+                    <para><a href="ckb://1355567?section=workup;ampsubsection=c7">Benign Neonatal Sleep Myoclonus - Workup - Other Tests</a></para>
+                    <para><a href="ckb://1355567?section=treatment">Benign Neonatal Sleep Myoclonus - Treatment - a11</a></para>
+                    <para><a href="ckb://1355567?section=medication">Benign Neonatal Sleep Myoclonus - Medication - Msect</a></para>
+                    <para><a href="ckb://1355567?section=followup">Benign Neonatal Sleep Myoclonus - Followup - a26</a></para>
+
+                    <para><a href="ckb://152379?section=overview">Alcoholic Cardiomyopathy - Overview - a1</a></para>
+                    <para><a href="ckb://152379?section=clinical">Alcoholic Cardiomyopathy - Clinical - Section not in this article - a2</a></para>
+                    <para><a href="ckb://152379?section=differential">Alcoholic Cardiomyopathy - Differential - Section not in this article - Ddsect</a></para>
+                    <para><a href="ckb://152379?section=workup">Alcoholic Cardiomyopathy - Workup - Section not in this article - a7</a></para>
+                    <para><a href="ckb://152379?section=treatment">Alcoholic Cardiomyopathy - Treatment - Section not in this article - a11</a></para>
+                    <para><a href="ckb://152379?section=medication">Alcoholic Cardiomyopathy - Medication - Section not in this article - Msect</a></para>
+                    <para><a href="ckb://152379?section=followup">Alcoholic Cardiomyopathy - Followup - Section not in this article - a26</a></para>
+                    <para><a href="ckb://152379?section=periprocedure">Alcoholic Cardiomyopathy - Periprocedure - Section not in this article - aw2aab6b3</a></para>
+                    <para><a href="ckb://152379?section=technique">Alcoholic Cardiomyopathy - Technique - Section not in this article - a15</a></para>
+                    <para><a href="ckb://152379?section=labs">Alcoholic Cardiomyopathy - Labs - Section not in this article</a></para>
+                </pgroup>
+            </sect2>
+            <sect2 id="a3">
+                <title>Indications</title>
+                <pgroup>
+                    <para>Pectus excavatum patients are considered candidates for corrective surgery based on the following criteria:</para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>The severity of the deformity (the severity is determined by the measurement of the chest Haller index)</para>
+                        </listitem>
+                        <listitem>
+                            <para>The resulting functional impairment</para>
+                        </listitem>
+                        <listitem>
+                            <para>The psychosocial impact of the deformity on the patient</para>
+                        </listitem>
+                    </itemizedlist>
+                    <para>The chest Haller index is a measurement taken from a noncontrast CT scan of the chest in which a ratio is obtained between the lateral and anterior-posterior diameter of the chest wall at the point of maximal depression of the sternum (see the first image below). A normal chest index is around 2.5. Patients with an index greater than 3.2 have a fairly pronounced and severe pectus excavatum and will typically benefit from operative correction.<sup>
+                        <link type="references" ref="refsrc9">[9]</link>
+                    </sup>Even if asymptomatic, those patients usually benefit from the corrective surgery. </para>
+                    <para>Of note, obtaining a chest Haller index in a young patient (see second image below) with pectus excavatum is not necessary. The Haller index should be obtained prior to the time of corrective surgery (within months and not years) such that it can provide information helpful to the surgeon in planning the operative correction of the pectus.<sup>
+                        <link type="references" ref="refsrc10|refsrc11">[10, 11]</link>
+                    </sup>
+                    </para>
+                    <figure id="27930">
+                        <title>Non contrast CT scan of the chest of a patient with pectus excavatum. The chest Haller index is...</title>
+                        <caption>Non contrast CT scan of the chest of a patient with pectus excavatum. The chest Haller index is a ratio obtained between the measurement of the lateral and anterior-posterior diameter of the chest wall at the point of maximal depression of the sternum. </caption>
+                        <graphic format="IMAGE" id="27930" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/30/27930.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27930"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/30/27930tn.jpg"/>
+                    </figure>
+                    <figure id="27931">
+                        <title>Young infant with pectus excavatum </title>
+                        <caption>Young infant with pectus excavatum </caption>
+                        <graphic format="IMAGE" id="27931" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/31/27931.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27931"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/31/27931tn.jpg"/>
+                    </figure>
+                    <para>Symptomatic patients with pectus excavatum typically experience occasional episodes of chest pain, shortness of breath with exertion, and decreased exercise tolerance. Such patients usually have abnormal pulmonary function tests and an echocardiogram may demonstrate <link type="content" ref="155618-overview">mitral</link> and <link type="content" ref="158484-overview">tricuspid valve regurgitation</link>. <link type="content" ref="155494-overview">Mitral valve prolapse</link> is also commonly seen on the echocardiogram.<sup>
+                        <link type="references" ref="refsrc12|refsrc13">[12, 13]</link>
+                    </sup>
+                    </para>
+                    <para>Many patients with mild to moderate pectus excavatum do not report any significant shortness of breath. However, upon further questioning, one may find that the child is unable to keep up with their peers during play and physical activity.<sup>
+                        <link type="references" ref="refsrc14">[14]</link>
+                    </sup>They usually report getting tired more easily. Another common observation in children with pectus excavatum is that they are very shy and reserved about their physical appearance. Frequently, as summer comes around, they don't want to take their shirt off for sports, swimming, or around other children. The psychosocial stress caused by the abnormal chest can be quite severe and result in a major adjustment disorder, depression, and even suicide ideation later in life.<sup>
+                        <link type="references" ref="refsrc15|refsrc16">[15, 16]</link>
+                    </sup>
+                    </para>
+                    <para>The most common goal in operative repair of pectus excavatum is to correct the chest deformity. As noted above, this is particularly important in teenagers, in whom the abnormal appearance of the chest can result in significant problems related to body image and self-esteem. Thus, the desire to improve the appearance of the chest is considered an appropriate medical indication for surgery.<sup>
+                        <link type="references" ref="refsrc17">[17]</link>
+                    </sup>
+                    </para>
+                    <para>The current recommendations support the use of MIRPE in patients aged 5-20 years. The ideal age for undergoing this operation has been established at 8-12 years because the chest wall is still very malleable, stabilization of the bar is easily achieved, thoracic epidural can be safely placed, and the child is mature enough to understand the operation and postoperative instructions, particularly incentive spirometry, which is essential for minimizing pulmonary problems after surgery.<sup>
+                        <link type="references" ref="refsrc18">[18]</link>
+                    </sup>
+                    </para>
+                    <para>Of note, one should not view operative correction of pectus excavatum as an operation limited exclusively to pediatric patients. Indeed, the open technique has been used in adult patients with excellent results. However, experience with the MIRPE in adult patients has been limited to a few cases, reported in anecdotes.<sup>
+                        <link type="references" ref="refsrc19">[19]</link>
+                    </sup>
+                    </para>
+                    <para>Early results seem to indicate that similar principles apply and that operative correction using MIRPE can be achieved in adult patients. Limiting factors include a larger chest wall and poor malleability of the ribs, cartilage, and sternum. A surgeon experienced in the field of chest wall malformations must carefully evaluate adult patients to determine which operation would best correct the anatomical deformity.<sup>
+                        <link type="references" ref="refsrc20">[20]</link>
+                    </sup>Moreover, adult patients with pectus excavatum who undergo open-heart surgery have significant displacement and rotation of the heart to the left chest. This can make the operative approach to the heart at the time of open-heart surgery very challenging. With this in mind, elective repair of the pectus deformity prior to open-heart surgery may be indicated in selected adult cases. </para>
+                </pgroup>
+            </sect2>
+            <sect2 id="a4">
+                <title>Contraindications</title>
+                <pgroup>
+                    <para>Patients with other associated complex congenital anomalies, neurodevelopmental delay, congenital heart disease with primary cardiac dysfunction, and chronic immunosuppression are not considered good candidates for corrective surgery for pectus excavatum. Comprehensive preoperative evaluation, including cardiology consultation and echocardiogram, must be completed in order to determine the patient’s risk assessment. </para>
+                </pgroup>
+            </sect2>
+            <sect2 id="a5">
+                <title>Technical Considerations</title>
+                <pgroup>
+                    <title>Best Practices</title>
+                    <para>Not all patients with pectus excavatum are considered candidates for corrective surgery. The decision to undergo surgery is based on clinical symptoms and severity of the deformity. The surgeon, patient, and immediate family must reach a consensus as to the benefits of operative repair of the child with pectus excavatum. The morbidity and mortality of the surgical intervention must be taken into consideration.</para>
+                </pgroup>
+                <pgroup>
+                    <title>Procedure Planning</title>
+                    <para>Patients must be selected carefully for the procedure. Preoperative assessment may include pulmonary function testing (PFT) and CT scan of the chest without contrast. The CT scan allows for determination of the preoperative Haller index (as previously described). Patients with a Haller index greater than 3.2 are considered candidates for the minimally invasive repair. The PFT typically demonstrates mild changes in pulmonary volumes (restrictive pattern).<sup>
+                        <link type="references" ref="refsrc21">[21]</link>
+                    </sup>Echocardiography is performed selectively in patients with clinical evidence of <link type="content" ref="1258926-overview">Marfan syndrome</link> and/or with any cardiac symptoms or murmurs.</para>
+                </pgroup>
+                <pgroup>
+                    <title>Complication Prevention</title>
+                    <para>Appropriate patient selection and attention to operative and technical details minimize the risk of complications.<sup>
+                        <link type="references" ref="refsrc22">[22]</link>
+                    </sup>Moreover, recognizing that the ideal age for operative repair is between 8 and 12 years of age is important.<sup>
+                        <link type="references" ref="refsrc23">[23]</link>
+                    </sup>Prepubertal patients have a more flexible rib cage, which facilitates reconstruction and remodeling of the ribs and sternum. Younger patients typically experience less postoperative pain and discomfort when compared to teenagers and young adults.<sup>
+                        <link type="references" ref="refsrc18">[18]</link>
+                    </sup>
+                    </para>
+                </pgroup>
+                <pgroup>
+                    <title>Outcomes</title>
+                    <para>Several studies have been published that evaluate the short and long-term outcomes of patients following minimally invasive repair of pectus excavatum. The overall patient and family satisfaction has been considered very good, with excellent and good results reported in more than 90% of cases.<sup>
+                        <link type="references" ref="refsrc24|refsrc25|refsrc22">[24, 25, 22]</link>
+                    </sup>
+                    </para>
+                    <para>In 2000, one multi-institutional study, which reviewed 251 cases of MIRPE, demonstrated a significant rate of complications (the overall incidence rate of complications was almost 20%).<sup>
+                        <link type="references" ref="refsrc22">[22]</link>
+                    </sup>The most common complication requiring reoperation was displacement of the retrosternal stainless steel support bar (reported to occur in 9.5% of all patients). Such displacement can include a 90° rotation, a 180° rotation, or a lateral migration. Teenaged patients are at higher risk for complications, particularly pectus bar displacement, probably because of the increased pressure on the bar generated by a larger chest and more rigid chest cage. </para>
+                    <para>Review of the literature has demonstrated that a relatively high rate of complications was reported when many different surgeons performed the operation.<sup>
+                        <link type="references" ref="refsrc24|refsrc22">[24, 22]</link>
+                    </sup>This probably reflects the learning curve associated with the introduction of this new technique. Since the first MIRPE was performed, the bar has been modified 4 times and is now strong enough to withstand the pressure of even the most severe deformity. Factors contributing to the suboptimal results reported include the fact that the bar was too soft, was removed too soon, or was not stabilized adequately.<sup>
+                        <link type="references" ref="refsrc26">[26]</link>
+                    </sup>Experience has shown that stabilization of the bar is absolutely essential for success and the use of a lateral stabilizing bar and the third point of fixation (when appropriate) can minimize the occurrence of bar displacement.<sup>
+                        <link type="references" ref="refsrc27">[27]</link>
+                    </sup>
+                    </para>
+                    <para>The spectrum of adverse outcomes is variable, and most complications are considered rare and unusual.<sup>
+                        <link type="references" ref="refsrc24|refsrc22|refsrc28|refsrc29|refsrc30|refsrc23">[24, 22, 28, 29, 30, 23]</link>
+                    </sup>The following is a list of reported complications after MIRPE (and the estimated incidence): </para>
+                    <itemizedlist>
+                        <listitem>
+                            <para>Pectus bar displacement requiring reoperation (2.5%)</para>
+                        </listitem>
+                        <listitem>
+                            <para>Pneumothorax requiring chest tube (3%)</para>
+                        </listitem>
+                        <listitem>
+                            <para>Overcorrection (3%)</para>
+                        </listitem>
+                        <listitem>
+                            <para>Epidural catheter complications (4%)</para>
+                        </listitem>
+                        <listitem>
+                            <para>Bar allergy (1-2%)</para>
+                        </listitem>
+                        <listitem>
+                            <para>Wound infection (1%)</para>
+                        </listitem>
+                        <listitem>
+                            <para>Pleural effusion (1%)</para>
+                        </listitem>
+                        <listitem>
+                            <para>Thoracic outlet syndrome ( &lt; 0.5%)</para>
+                        </listitem>
+                        <listitem>
+                            <para>Pericarditis ( &lt; 0.5%)</para>
+                        </listitem>
+                        <listitem>
+                            <para>Cardiac injury ( &lt; 0.5%)</para>
+                        </listitem>
+                        <listitem>
+                            <para>Sternal erosion ( &lt; 0.5%)</para>
+                        </listitem>
+                        <listitem>
+                            <para>Death ( &lt; 0.2%)</para>
+                        </listitem>
+                    </itemizedlist>
+                    <para>In relationship to cardiopulmonary outcomes after MIRPE, a study has demonstrated that objective measures of FEV1, total lung capacity, diffusing lung capacity, and respiratory quotient all showed significant improvement (after bar removal) compared to preoperative values, while normalized values of cardiac index at rest did not.<sup>
+                        <link type="references" ref="refsrc21">[21]</link>
+                    </sup>Note that this improvement in cardiopulmonary function is not necessarily seen during the time that the support bar is still in place. For that reason, functional outcomes should not be evaluated until the patient has completed treatment with bar removal. Of note, the dreaded complication of chest wall constriction after Ravitch repair of pectus excavatum has never been reported with the minimally invasive technique. </para>
+                    <para>Some surgeons have discussed what technique (MIRPE vs open surgery) provides the best outcome in patients with pectus excavatum.<sup>
+                        <link type="references" ref="refsrc31">[31]</link>
+                    </sup>Although many surgeons with expertise in the management of children with chest wall deformities have shown some bias toward the use of the Nuss technique, no prospective randomized published data is available to support this approach.</para>
+                    <para>Since the introduction of thoracoscopy and lateral stabilizers, as well as the third point of fixation technique, bar displacement has become quite unlikely, with an estimated incidence of less than 2.5%.<sup>
+                        <link type="references" ref="refsrc18">[18]</link>
+                    </sup>
+                    </para>
+                    <para>Another significant advantage of MIRPE over the open surgical procedure is that the dreaded complication of "thoracic constriction" (Jeune syndrome) does not seem to occur with this new technique.<sup>
+                        <link type="references" ref="refsrc32">[32]</link>
+                    </sup>Chest wall constriction has been described in a few patients following extensive open pectus excavatum operations. Apparently, the bone growth center can be affected, which results in restriction of chest wall growth with marked limitation of ventilatory function. Such patients are very symptomatic and cannot compete in running games. The forced vital capacity and forced expiratory volume in one second is typically decreased by more than 50% of predicted reference range levels. </para>
+                    <para>With the MIRPE, because no resection or incision is made on ribs or cartilages, such a complication does not appear to be a problem.<sup>
+                        <link type="references" ref="refsrc8">[8]</link>
+                    </sup>Once the cartilage and bony structures are remodeled, normal or improved pulmonary function is established and the flexibility and malleability of the chest remains unaffected. </para>
+                    <para>Critics of the MIRPE claim that the Nuss procedure is too invasive, risky, and not pain free. Proponents argue that this new approach, compared with the open surgery (modified Ravitch operation), eliminates the need for an anterior chest wall incision with creation of pectoralis muscle flaps, resection of several ribs and cartilages, and sternal osteotomies. The MIRPE allows for a much shorter operating time, minimal blood loss, and minimal surgical chest wall scar. Moreover, the stability and strength of the chest wall is not compromised as it can be with the open repair. </para>
+                    <para>Data published in 2011 by the multi-center study group evaluating the pulmonary functional outcome of pediatric patients with pectus excavatum treated with MIRPE has clearly demonstrated that the increasing severity of pectus excavatum is associated with reduced pulmonary function and that the Nuss operation can effectively reverse that process.<sup>
+                        <link type="references" ref="refsrc33">[33]</link>
+                    </sup>
+                    </para>
+                    <para>Final data analysis generated by the multi-center study and published in 2013 clearly demonstrated that there is significant improvement in lung function at rest and in VO2 max and O2 pulse oxymetry after surgical correction of pectus excavatum, with CT index &gt;3.2. The study concluded that operative correction significantly reduces CT index and markedly improves the shape of the entire chest and cardio-pulmonary function.<sup>
+                        <link type="references" ref="refsrc34">[34]</link>
+                    </sup>
+                    </para>
+                </pgroup>
+            </sect2>
+        </sect1>
+        <sect1 id="periprocedure" type="content">
+            <title>Periprocedural Care</title>
+            <sect2 id="b3">
+                <title>Patient Education &amp; Consent</title>
+                <pgroup>
+                    <title>Patient Instructions</title>
+                    <para>All patients should be NPO 12 hours prior to general anesthesia. A gentle bowel prep with magnesium citrate might be of benefit in older patients because the incidence of postoperative constipation is quite common after discharge from the hospital. This is primarily due to the fact that the patients have taken large amounts of narcotics that will predispose them to constipation. </para>
+                </pgroup>
+                <pgroup>
+                    <title>Elements of Informed Consent</title>
+                    <para>The informed consent should include a discussion of the treatment options, including nonoperative management, minimally invasive repair, and open surgery. Short and long-term outcomes should be discussed with the patient and caregivers/parents. The risks, morbidity, and mortality must be discussed. The most common complication (bar displacement) and the possible need for reoperative surgery must be discussed. Although rare, the possibility of death must be discussed. Patients with an asymmetric pectus excavatum must be made aware that the asymmetry of the chest may continue despite successful repair of the caved-in sternum.</para>
+                </pgroup>
+            </sect2>
+            <sect2 id="b4">
+                <title>Pre-Procedure Planning</title>
+                <pgroup>
+                    <para>Patients with a known history of metal allergy may require a titanium pectus bar for the repair. In such cases, the bar must be preordered from the Lorenz Company. The titanium bar should be prebent by the company in order to facilitate the surgical procedure. A preoperative CT scan of the chest can be sent to the company to allow for prebending of the bar. </para>
+                </pgroup>
+            </sect2>
+            <sect2 id="b5">
+                <title>Equipment</title>
+                <pgroup>
+                    <para>Standard equipment for open and thoracoscopic surgery is necessary. A 5-mm blunt trocar is used for the thoracoscopy (5-mm 30° angled laparoscope/thoracoscope). Electrocautery is used to create the subcutaneous space necessary for performing the procedure (see technical description of the operation). </para>
+                </pgroup>
+                <pgroup>
+                    <title>Pectus bar</title>
+                    <para>The pectus bar was originally manufactured by the Lorenz Corporation, which now is the Biomet Microfixation Company, with corporate headquarters located in Jacksonville, Florida. Throughout this topic, the term Lorenz and Biomet have been used interchangeably. However, as of 2012, the Company is known as the Biomet Microfixation Corporation. </para>
+                    <para>The Biomet Pectus Bar is available in various lengths, ranging from 7 inches (17.8 cm) to 17 inches (43.2 cm) to accommodate most patients undergoing the pectus excavatum correction procedure. The Pectus Support Bar and stabilizers are made from stainless steel, ASTM F 138. The company recommends that the device should be removed when remodeling of chest wall is complete (usually after about 3 years). </para>
+                </pgroup>
+                <pgroup>
+                    <title>Device sterilization and use</title>
+                    <para>The company guidelines state the following: “Steam sterilize the Pectus Support Bar prior to implantation using steam sterilization equipment which has been properly validated. Following is a recommended minimum cycle for steam sterilization that has been validated by Biomet Microfixation under laboratory conditions. Individual users must validate the cleaning and autoclaving procedures used on-site, including the on-site validation of recommended minimum cycle parameters.” This should be easily accomplished in the hospital setting. The company also states that: “Surgical implant like the pectus bar should never be reused.” Although the implant may appear undamaged, it may have imperfections, defects, or internal stress patterns that may lead to breakage or inadequate performance. </para>
+                </pgroup>
+                <pgroup>
+                    <title>Device-related adverse effects</title>
+                    <para>Metal sensitivity reactions or allergic reaction to the implant material, although rare, have been reported (estimated incidence of &lt; 1%). Metal allergy testing is recommended prior to surgery in patients with suspected metal allergy and/or hypersensitivity to metals. The company also states that device fracture, breakage, migration, or loosening is a possibility after implant placement. </para>
+                </pgroup>
+            </sect2>
+            <sect2 id="b6">
+                <title>Patient Preparation</title>
+                <pgroup>
+                    <para>Prior to surgery, the chest is measured from the midaxillary line to midaxillary line to determine the approximate length of the bar required. The correct length is typically obtained by subtracting 1 cm from that initial measurement. A first-generation cephalosporin antibiotic (cefazolin) should be give one hour prior to surgery and continued for 24-48 hours. </para>
+                </pgroup>
+                <pgroup>
+                    <title>Anesthesia</title>
+                    <para>The combination of general endotracheal anesthesia and a thoracic epidural is considered ideal. The epidural catheter is left in place for up to 3 days following the operation, providing excellent adjuvant therapy to pain management techniques. Patients and families must understand that, although the technique is considered minimally invasive, postoperative pain and discomfort can be significant because of the forceful bending of the sternum and cartilages. An indwelling Foley catheter is placed because urinary retention is common with thoracic epidurals (30%). Hemodynamic monitoring by the anesthesiologist does not necessitate central venous or arterial lines. </para>
+                </pgroup>
+                <pgroup>
+                    <title>Positioning</title>
+                    <para>The patient is positioned in supine position in the operating room table with both arms out in order to allow ample access to the entire anterior and lateral chest. Avoiding hyperextension of the arms while the patient is in this position is important in order to avoid injury to the axillary nerve.</para>
+                </pgroup>
+            </sect2>
+            <sect2 id="b7">
+                <title>Monitoring &amp; Follow-up</title>
+                <pgroup>
+                    <para>Intraoperative monitoring typically includes standard anesthetic monitoring and pulse oximetry. Placing an arterial line and/or central line for hemodynamic monitoring is not necessary. Due to the presence of the thoracic epidural and high use of postoperative narcotics, having patients monitored in a critical care unit (such as PICU or step-down unit) following surgery might be necessary because of the risk of postoperative respiratory depression. </para>
+                    <para>The patient is discharged home once pain is adequately controlled with oral medications. The average length of stay is 4-7 days. Good posture with a straight back is very important, even after discharge. Once at home, the patient is allowed to sleep in any position that is comfortable. Again, bending at the hip and slouching are discouraged, particularly in the first month. Regular activity is permitted as pain reduces and mobility increases. Heavy lifting is not permitted for one month following surgery. Physical fitness program should be started 30 days after corrective surgery in order to promote healing and re-modeling of the chest wall. Contact sports should be avoided for at least 6 months, particularly in older children and teenagers, since a direct blow to the chest may predispose the patient to bar displacement. </para>
+                </pgroup>
+                <pgroup>
+                    <title>Pectus Bar Removal</title>
+                    <para>The bar generally remains implanted for 3 years and is removed as an outpatient procedure under anesthesia. For the bar removal procedure, reopening the right side of the chest using the same surgical scar is usually necessary. This is the side that should have the stabilizer. Once the bar, stabilizer, and sutures are freed from the surrounding tissues, the pectus bar can be pulled out of the chest, as illustrated in the image below. The bar is pulled out using an instrument equivalent to a bone hook, such that steady traction is applied and the bar is removed with its curvature brought almost under the operating room table. No need for repeat thoracoscopy exists.</para>
+                    <figure id="27941">
+                        <title>Pectus bar being pulled out of the chest using a bone hook instrument. </title>
+                        <caption>Pectus bar being pulled out of the chest using a bone hook instrument. </caption>
+                        <graphic format="IMAGE" id="27941" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/41/27941.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27941"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/41/27941tn.jpg"/>
+                    </figure>
+                </pgroup>
+            </sect2>
+        </sect1>
+        <sect1 id="technique" type="content">
+            <title>Technique</title>
+            <sect2 id="c1">
+                <title>Approach Considerations</title>
+                <pgroup>
+                    <title>Selecting and preparing the pectus bar</title>
+                    <para>The chest is marked with a sterile marking pen in the deepest portion of the pectus (making sure that it is not inferior to the sternum), on the corresponding intercostal spaces on the right and left sides where the bar is to be inserted, and on the points on the pectus ridge that correspond to the horizontal plane from the deepest point of the pectus to the lateral chest wall incisions. This provides the surgeon with visual information as to where the bar will be placed.</para>
+                    <para>At this time, the measurement of the Lorenz pectus bar is determined using the marks made on the chest. The length of the Lorenz bar should be measured from the mid-axillary line in one side to the opposite mid-axillary line. The length of the bar is measured in inches and will be 1-2 cm less than the measurement taken. A typical measurement for a teenage patient may range from 12-15 inches (30-38 cm). The image below illustrates some of the different sizes available when choosing the bar that best fits the patient.</para>
+                    <figure id="27932">
+                        <title>Pectus bar: range of sizes available (7-17 inches) </title>
+                        <caption>Pectus bar: range of sizes available (7-17 inches) </caption>
+                        <graphic format="IMAGE" id="27932" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/32/27932.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27932"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/32/27932tn.jpg"/>
+                    </figure>
+                    <para>The bar is bent from the center out to either end, making small gradual bends with a Zimmer bar bender. The curvature (convexity) of the bar is shaped to fit each individual patient's chest. Occasionally, slightly exaggerating the curvature to allow for the anterior chest wall pressure that may alter the original configuration of the bar may be necessary. The bar must fit snugly over the chest. The image below illustrates the bending of the bar on the back table.</para>
+                    <figure id="27933">
+                        <title>Technique for bending of the pectus bar on the back table </title>
+                        <caption>Technique for bending of the pectus bar on the back table </caption>
+                        <graphic format="IMAGE" id="27933" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/33/27933.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27933"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/33/27933tn.jpg"/>
+                    </figure>
+                </pgroup>
+            </sect2>
+            <sect2 id="c2">
+                <title>Minimally Invasive Repair of Pectus Excavatum (MIRPE) Technique</title>
+                <pgroup>
+                    <para>A transverse 2-cm skin incision is made on the midaxillary line at the level of the skin marks in line with the deepest point of the depression of the sternum on the right and left sides of the chest. </para>
+                    <para>A skin tunnel is raised anteriorly from both incisions to the top of the pectus ridge at the previously selected intercostal space; the skin pocket is extended posteriorly to allow for the distal end of the pectus bar to hug the chest wall posterior to the midaxillary line. </para>
+                    <para>A 5-mm thoracoscope is inserted at this point. The authors recommend placement of a 5-mm blunt trocar 1-2 intercostal spaces below the space that has been chosen for the pectus bar on the patient's right side. A 30° (5-mm) thoracoscope provides excellent visualization of the pleural cavity, lung, and mediastinal structures. If necessary, the scope can be used bilaterally. Insufflating the pleural cavity with carbon dioxide is rarely necessary; in most cases, controlled ventilation by the anesthesiologist with small tidal volumes results in limited lung expansion and good thoracoscopic visualization of vital structures. </para>
+                    <para>Using a thin but deep retractor, the skin incisions are elevated and the intercostal space previously marked is identified. An S-shaped device known as the Lorenz pectus introducer is inserted through the appropriate right intercostal space at the top of the pectus ridge (usually at the level of the midclavicular line), in line with the point that corresponds to the deepest depression of the sternum (previously marked). The introducer is slowly advanced across the anterior mediastinal space immediately under the sternum with careful videoscopic guidance. Always facing the point of the instrument anteriorly (away from the heart) and maintaining contact with the sternum to avoid injury to mediastinal structures is important. </para>
+                    <para>The sternum is forcefully lifted as the instrument is passed to the contralateral side. Thoracoscopic visualization and monitoring for cardiac ectopy is important to ensure that the instrument is not near the heart or pericardial sac. </para>
+                    <para>Once the instrument is passed behind the sternum, the tip is pushed through the intercostal space at the top of the pectus ridge on the left side (also previously marked) and brought out through the left skin incision (see the image below). Thoracoscopy on the left side is not usually necessary unless the position of the instrument in the left chest is uncertain.</para>
+                    <figure id="27934">
+                        <title>Illustration showing the minimally invasive technique for correction of pectus excavatum (3)...</title>
+                        <caption>Illustration showing the minimally invasive technique for correction of pectus excavatum (3) with thoracoscopy (1). Note the long clamp passed from one side to the other (2) grabbing the umbilical tape (4), which serves as a guide for passage of the pectus bar behind the sternum </caption>
+                        <graphic format="IMAGE" id="27934" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/34/27934.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27934"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/34/27934tn.jpg"/>
+                    </figure>
+                    <para>A technical note is that the Lorenz pectus introducer comes in 2 sizes: short, for younger patients aged 4-12 years who have a small chest, and long, for older and larger patients aged 13-20 years. </para>
+                    <para>Using the introducer, a strand of umbilical or tracheostomy cloth tape is pulled through the tunnel; the tape functions as a guide for placement of the pectus bar. The curved pectus bar is attached to the tape and then advanced under thoracoscopic guidance and by using traction on the tape. </para>
+                    <para>The bar is inserted with the convexity facing posteriorly such that the bar is between the sternum and the mediastinum (see the image below).</para>
+                    <figure id="27935">
+                        <title>Operative diagram illustrating the pectus bar after it has been passed behind the sternum (5),...</title>
+                        <caption>Operative diagram illustrating the pectus bar after it has been passed behind the sternum (5), under thoracoscopic visualization (1), before turning it over. Note that the concavity of the bar is facing up </caption>
+                        <graphic format="IMAGE" id="27935" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/35/27935.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27935"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/35/27935tn.jpg"/>
+                    </figure>
+                    <para>Using a Lorenz pectus bar rotational instrument (also known as a "bar flipper"), the bar is turned over so that the concave part faces posteriorly (to the mediastinum) and the convex part faces anteriorly (against the sternum). The ends of the bars are placed in the subcutaneous tissue, anterior to the muscle fascia (not under it and not within the muscle tissue). Again, the bar must hug the chest so that the ends do not protrude under the skin pocket (see the image below). The "flipping maneuver" is also performed under careful thoracoscopic visualization.</para>
+                    <figure id="27936">
+                        <title>Illustration of the pectus bar passed behind the sternum before and after it is turned over. The...</title>
+                        <caption>Illustration of the pectus bar passed behind the sternum before and after it is turned over. The insert shows the proper technique for fixation of the pectus bar against the lateral chest wall musculature </caption>
+                        <graphic format="IMAGE" id="27936" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/36/27936.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27936"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/36/27936tn.jpg"/>
+                    </figure>
+                    <para>If, after the bar is flipped, the correction of the pectus excavatum is not ideal (either under corrected or overcorrected), the bar is flipped back, pulled back out, and bent again to fit the patient's chest in order to achieve the best possible correction of the deformity. If pressure has caused the bar to straighten, it is turned over and, using small hand held benders, the curvature is increased as appropriate. This can be repeated as many times as necessary. Typically, only one bar is necessary to correct the deformity, but, occasionally, a second bar may be necessary. The second bar can be placed above or below the first one. </para>
+                    <para>The image below is a representation of the thoracoscopic images of the bar placement across the anterior mediastinal space (anterior to the heart).</para>
+                    <figure id="27937">
+                        <title>Thoracoscopic images at the time of minimally invasive repair: (A) Pectus bar passer behind the...</title>
+                        <caption>Thoracoscopic images at the time of minimally invasive repair: (A) Pectus bar passer behind the sternum and next to the mediastinum and pericardial sac (B) Umbilical tape being passed across the anterior mediastinal space(C) Image of the bar being passed across the anterior mediastinal space (anterior to the heart)(D) Pectus bar flipped and resting under the sternum (E) Third point of fixation of the pectus bar as seen with thoracoscopy </caption>
+                        <graphic format="IMAGE" id="27937" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/37/27937.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27937"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/37/27937tn.jpg"/>
+                    </figure>
+                    <para>Once the bar is in place, determining its stability is imperative. Such assessment dictates the need for placement of a stabilizing bar. The stabilizer serves to limit rotation of the pectus bar and is sutured around the bar and to the muscle only after being properly fitted. Teenagers usually require one stabilizer bar that can be placed on either side of the pectus bar. We prefer to place one stabilizer on the right side of the chest. If the bar does not feel stable, a second stabilizer on the left side can be placed. The stabilizers are secured to the pectus bar using # 1 stainless steel wire sutures. </para>
+                    <para>With the bar properly placed and stabilized, figure-of-8 sutures are placed to secure the bar and stabilizer to the lateral chest wall musculature. Number 0 nonabsorbable sutures (Prolene) are placed on the right side, and absorbable (Vicryl or PDS) sutures are placed on the opposite side. This prevents the need for re-opening both incisions at the time of bar removal. </para>
+                    <para>Additionally, a third point-of-fixation suture can be placed on the anterior chest to the side of the sternum, around one rib and around the pectus bar, in order to provide another point of fixation for the bar, minimizing the chance of bar displacement. The image below illustrates the position of the Lorenz pectus bar in relationship to the ribs and sternum, as well as the location of the third point of fixation.</para>
+                    <figure id="27938">
+                        <title>Diagram demonstrating the position of the pectus bar in relationship to the ribs...</title>
+                        <caption>Diagram demonstrating the position of the pectus bar in relationship to the ribs &amp; sternum, as well as the location of the third point of fixation. </caption>
+                        <graphic format="IMAGE" id="27938" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/38/27938.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27938"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/38/27938tn.jpg"/>
+                    </figure>
+                    <para>Once the bar is in stable position, the lateral incisions are closed in layers using absorbable sutures. The skin should be closed with 5-0 Monocryl and covered with Steri-Strips. Simple water-proof Band-Aids are used as dressings.</para>
+                </pgroup>
+                <pgroup>
+                    <title>End of anesthesia and completion of the procedure</title>
+                    <para>Prior to closure of the chest wall incisions, the anesthesiologist should place the patient in the Trendelenburg position, and large tidal volumes are used in combination with positive-end expiratory pressure (PEEP) so that any residual pneumothorax is eliminated. A small temporary red-rubber tube placed through the trocar site can be used to evacuate any residual intra-pleural air. The tube should be connected to suction or placed under water seal in order to allow elimination of most of the air inside the pleural cavity. </para>
+                    <para>A postoperative chest tube is rarely needed. The anesthesia team must allow for the patient to wake-up with minimal cough and movement, in order to prevent the risk of early bar displacement. Chest radiography is performed after surgery to confirm good lung expansion and to reveal the final positioning of the bar. The image below shows the placement of 2 pectus bars in a 17-year-old male with Marfan syndrome and severe pectus excavatum.</para>
+                    <figure id="27939">
+                        <title>Chest radiograph of a 17-year old male with Marfan's syndrome and severe pectus excavatum in...</title>
+                        <caption>Chest radiograph of a 17-year old male with Marfan's syndrome and severe pectus excavatum in which it was necessary to place two pectus bars. </caption>
+                        <graphic format="IMAGE" id="27939" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/39/27939.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27939"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/39/27939tn.jpg"/>
+                    </figure>
+                </pgroup>
+            </sect2>
+            <sect2 id="c3">
+                <title>Special Considerations</title>
+                <pgroup>
+                    <title>Scoliosis and pectus excavatum</title>
+                    <para>An association between anterior chest wall deformities and scoliosis has been described in the literature but is poorly defined. Apparently, only 4-5% of patients with severe anterior chest wall deformities have scoliosis of sufficient magnitude to warrant evaluation by a spinal deformity physician.<sup>
+                        <link type="references" ref="refsrc1">[1]</link>
+                    </sup>
+                    </para>
+                    <para>The relationship between anterior chest wall deformity and scoliosis is most clear in patients with Marfan syndrome.<sup>
+                        <link type="references" ref="refsrc35">[35]</link>
+                    </sup>Patients with Marfan syndrome who have scoliosis are at high risk for progression of the deformity to unacceptable levels and have not historically responded well to brace therapy.<sup>
+                        <link type="references" ref="refsrc36">[36]</link>
+                    </sup>Because of the association between pectus deformities and scoliosis, carefully examine patients with anterior chest wall deformities for signs of scoliosis and perform radiography if indicated. Patients younger than 5 years who present with spinal deformity are at risk for adverse cardiopulmonary sequelae related to the scoliosis. The management of scoliosis in patients with anterior chest wall deformities follows the treatment principles outlined for patients with idiopathic scoliosis.</para>
+                </pgroup>
+                <pgroup>
+                    <title>Pouter pigeon breast</title>
+                    <para>This condition represents a rare congenital deformity of the chest characterized by a protrusion of the manubriosternal junction and adjacent costal cartilages, as well as premature sternal ossification (see the image below). One third of patients with Pouter pigeon breast have concomitant depression of the lower sternum (pectus excavatum). Several cardiovascular abnormalities have been associated with premature sternal ossification, the most common being ventricular septal defect.<sup>
+                        <link type="references" ref="refsrc37">[37]</link>
+                    </sup>Surgical correction includes the wide wedge transverse sternotomy at the angle of Louis and subperichondrial resection of the adjacent costal cartilages. Long-term outcomes are encouraging.</para>
+                    <figure id="27940">
+                        <title>Patient with Pouter Pigeon Breast: note the protrusion of the manubriosternal junction and...</title>
+                        <caption>Patient with Pouter Pigeon Breast: note the protrusion of the manubriosternal junction and adjacent costal cartilages with an "S" shaped appearance of the sternum. </caption>
+                        <graphic format="IMAGE" id="27940" extension_format="JPG"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/40/27940.jpg"/>
+                        <graphic format="IMAGE_THUMB" id="27940"
+                            fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/40/27940tn.jpg"/>
+                    </figure>
+                </pgroup>
+                <pgroup>
+                    <title>Poland syndrome</title>
+                    <para>This syndrome is characterized by pectus excavatum, hypoplasia or absence of the breast or nipple, hypoplasia of subcutaneous tissue, absence of the costosternal portion of the pectoralis major muscle, absence of the pectoralis minor muscle, syndactyly or bony abnormalities of the forearm, and absence of costal cartilages or ribs (typically ribs 2-4 or 3-5).<sup>
+                        <link type="references" ref="refsrc38">[38]</link>
+                    </sup>Clinical manifestations of Poland syndrome widely vary, and all features rarely affect a single individual.<sup>
+                        <link type="references" ref="refsrc39">[39]</link>
+                    </sup>
+                    </para>
+                </pgroup>
+                <pgroup>
+                    <title>Adult patients with pectus excavatum</title>
+                    <para>During the era of open surgery to repair pectus excavatum, adult patients rarely underwent corrective surgery.<sup>
+                        <link type="references" ref="refsrc20">[20]</link>
+                    </sup>However, with the introduction of MIRPE, surgeons have noticed a significant change in the trend for corrective surgery in patients older than 18 years.<sup>
+                        <link type="references" ref="refsrc19">[19]</link>
+                    </sup>Although MIRPE can be successfully performed in adult patients, the risk of bar displacement and other complications is increased in that group of patients. In addition, the degree of postoperative pain is more significant and more prolonged. Some surgeons prefer the open technique due to these factors. </para>
+                </pgroup>
+            </sect2>
+        </sect1>
+        <sect1 id="medication" type="meds">
+            <title>Medication</title>
+            <sect2 type="intro">
+                <title>Medication Summary</title>
+                <pgroup>
+                    <para>
+                        <strong>Post-operative management</strong>
+                    </para>
+                    <para>Medications and therapies typically depend on the patient's response to pain and usually include an epidural catheter, intravenous narcotics for breakthrough pain, patient-controlled analgesia (PCA), and selective use of nonsteroidal anti-inflammatory drugs (NSAIDs). Patient mobilization is permitted on the first or second postoperative day by flexing the bed at the hip level and keeping the back straight. The patient is instructed to avoid trunk rotation or to sit in bed with the thoracic spine flexed. The epidural catheter is generally removed on the third postoperative day, and the patient should be fully ambulatory after that point. </para>
+                    <para>After the third postoperative day, the patient is required to ambulate with the assistance of physical and occupational therapy. From the fourth or fifth operative day on, the patient is instructed in performing limited exercises at home to facilitate recovery. Ambulation is strongly encouraged from that point. The patient is discharged home once pain is adequately controlled with oral medications. The average length of stay is 4-7 days. Good posture with a straight back is very important, even after discharge. </para>
+                    <para>Once home, the patient is allowed to sleep in any position that is comfortable. Again, bending at the hip and slouching are discouraged, particularly in the first month. Regular activity is permitted as pain reduces and mobility increases. Heavy lifting is not permitted for 1 month following surgery. Physical fitness program should be started 30 days after corrective surgery in order to promote healing and remodeling of the chest wall. Contact sports should be avoided for at least 6 months, particularly in older children and teenagers, since a direct blow to the chest may predispose to bar displacement. </para>
+                </pgroup>
+            </sect2>
+            <sect2 type="drug_class" id="104098">
+                <title>Opioid Analgesics</title>
+                <pgroup type="intro">
+                    <title>Class Summary</title>
+                    <para>Induction of anesthesia is accomplished by using high doses of opioid. Pain control is essential to quality patient care. Analgesics ensure patient comfort, promote pulmonary toilet, and have sedating properties that are beneficial for patients who experience pain. </para>
+                </pgroup>
+                <pgroup>
+                    <title link_ref="343319" link_type="drug">Morphine sulfate (Duramorph, Astramorph, MS Contin, Avinza, Kadian)</title>
+                    <para>Morphine sulfate is the DOC for analgesia owing to its reliable and predictable effects, safety profile, and ease of reversibility with naloxone.</para>
+                    <para>Various IV doses are used; it is commonly titrated until the desired effect is obtained. </para>
+                </pgroup>
+            </sect2>
+            <sect2 type="drug_class" id="104099">
+                <title>Nonsteroidal Anti-inflammatory Drugs</title>
+                <pgroup type="intro">
+                    <title>Class Summary</title>
+                    <para>NSAIDs have analgesic, anti-inflammatory, and antipyretic activities. Their mechanisms of action are unknown, but they may inhibit cyclooxygenase activity and prostaglandin synthesis. Other mechanisms may be present, such as inhibition of leukotriene synthesis, lysosomal enzyme release, lipoxygenase activity, neutrophil aggregation, and various cell membrane functions. </para>
+                </pgroup>
+                <pgroup>
+                    <title link_ref="343296" link_type="drug">Naproxen (Anaprox, Naprelan, Aleve, Naprosyn)</title>
+                    <para>Naproxen is used for relief of mild to moderate pain; it inhibits inflammatory reactions and pain by decreasing the activity of cyclooxygenase, which is responsible for prostaglandin synthesis. </para>
+                </pgroup>
+                <pgroup>
+                    <title link_ref="343289" link_type="drug">Ibuprofen (Motrin, Advil, Addaprin, Caldolor )</title>
+                    <para>Ibuprofen is the drug of choice for mild to moderate pain. It inhibits inflammatory reactions and pain by decreasing prostaglandin synthesis. Many doses are available, either with or without a prescription. </para>
+                </pgroup>
+                <pgroup>
+                    <title link_ref="343291" link_type="drug">Ketoprofen</title>
+                    <para>Ketoprofen is used for the relief of mild to moderate pain and inflammation. Small doses are indicated initially in patients with small body size, elderly patients, and persons with renal or liver disease. Doses of over 75 mg do not increase therapeutic effects. Administer high doses with caution, and closely observe the patient for response. </para>
+                </pgroup>
+                <pgroup>
+                    <title link_ref="343288" link_type="drug">Flurbiprofen</title>
+                    <para>Flurbiprofen may inhibit cyclooxygenase, thereby inhibiting prostaglandin biosynthesis. These effects may result in analgesic, antipyretic, and anti-inflammatory activities. </para>
+                </pgroup>
+                <pgroup>
+                    <title link_ref="343284" link_type="drug">Diclofenac (Voltaren XR, Cataflam, Cambia)</title>
+                    <para>This is one of a series of phenylacetic acids that has demonstrated anti-inflammatory and analgesic properties in pharmacological studies. It is believed to inhibit the enzyme cyclooxygenase, which is essential in the biosynthesis of prostaglandins. Diclofenac can cause hepatotoxicity; hence, liver enzymes should be monitored in the first 8 weeks of treatment. It is absorbed rapidly; metabolism occurs in the liver by demethylation, deacetylation, and glucuronide conjugation. The delayed-release, enteric-coated form is diclofenac sodium, and the immediate-release form is diclofenac potassium. </para>
+                </pgroup>
+                <pgroup>
+                    <title link_ref="343306" link_type="drug">Tolmetin</title>
+                    <para>Tolmetin inhibits prostaglandin synthesis by decreasing the activity of the enzyme cyclooxygenase, which in turn decreases formation of prostaglandin precursors. The pediatric dosage is 20 mg/kg/d PO divided tid/qid initially, then 15-30 mg/kg/d, not to exceed 30 mg/kg/d. </para>
+                </pgroup>
+                <pgroup>
+                    <title link_ref="343282" link_type="drug">Celecoxib (Celebrex)</title>
+                    <para>Celecoxib inhibits primarily COX-2. Inhibition of COX-1 may contribute to NSAID GI toxicity. At therapeutic concentrations, COX-1 isoenzyme is not inhibited; thus, incidence of GI toxicity, such as endoscopic peptic ulcers, bleeding ulcers, perforations, and obstructions, may be decreased when compared with nonselective NSAIDs.</para>
+                    <para>Seek the lowest dose for each patient. The adult dosage is 100-200 mg PO bid; the pediatric dosage (which has not been established for patients younger than 2 years) is 50 mg PO bid for patients 2 years or older whose weight is ≥10 kg to ≤25 kg, and is 100 mg PO bid for patients 2 years or older whose weight is &gt;25 kg.</para>
+                </pgroup>
+                <pgroup>
+                    <title link_ref="343290" link_type="drug">Indomethacin (Indocin)</title>
+                    <para>Indomethacin is used for relief of mild to moderate pain; it inhibits inflammatory reactions and pain by decreasing the activity of COX, which results in a decrease of prostaglandin synthesis. </para>
+                </pgroup>
+            </sect2>
+        </sect1>
+        <sect1 type="labs" id="labs">
+            <title>Lab Tests</title>
+            <sect2 id="g1">
+                <title>Laboratory Medicine Summary</title>
+                <pgroup>
+                    <para>Preoperative lab testing is not necessary in healthy children. Postoperatively, a CBC count and metabolic panel on postoperative day 1 could be considered. If the lab values are normal and the patient has an uncomplicated postoperative recovery, additional laboratory evaluation is not necessary. </para>
+                </pgroup>
+            </sect2>
+        </sect1>
+        <sect1 type="recommendation" id="recommendation">
+            <title>Recommendations</title>
+            <sect2 id="g1">
+                <title>Warning, not actual medical advice</title>
+                <pgroup>
+                    <para>Before we get started, I have to specify that I am not a medical doctor.  I have an Honorary Doctorate in Fine Arts.</para>
+                </pgroup>
+            </sect2>
+        </sect1>
+        <sect1 type="media" id="media">
+            <title>Media Gallery</title>
+            <pgroup>
+                <figure id="27928">
+                    <title>Typical appearance of a teenaged boy with a severe pectus excavatum (A) and a young girl (B)...</title>
+                    <caption>Typical appearance of a teenaged boy with a severe pectus excavatum (A) and a young girl (B) with the pectus deformity </caption>
+                    <graphic format="IMAGE" id="27928" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/28/27928.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27928"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/28/27928tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27929">
+                    <title>Before and after appearance of the chest following Nuss operation for pectus excavatum. This...</title>
+                    <caption>Before and after appearance of the chest following Nuss operation for pectus excavatum. This image illustrates the cosmetic advantage of the minimally invasive approach. </caption>
+                    <graphic format="IMAGE" id="27929" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/29/27929.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27929"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/29/27929tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27930">
+                    <title>Non contrast CT scan of the chest of a patient with pectus excavatum. The chest Haller index is...</title>
+                    <caption>Non contrast CT scan of the chest of a patient with pectus excavatum. The chest Haller index is a ratio obtained between the measurement of the lateral and anterior-posterior diameter of the chest wall at the point of maximal depression of the sternum. </caption>
+                    <graphic format="IMAGE" id="27930" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/30/27930.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27930"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/30/27930tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27931">
+                    <title>Young infant with pectus excavatum </title>
+                    <caption>Young infant with pectus excavatum </caption>
+                    <graphic format="IMAGE" id="27931" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/31/27931.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27931"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/31/27931tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27932">
+                    <title>Pectus bar: range of sizes available (7-17 inches) </title>
+                    <caption>Pectus bar: range of sizes available (7-17 inches) </caption>
+                    <graphic format="IMAGE" id="27932" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/32/27932.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27932"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/32/27932tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27933">
+                    <title>Technique for bending of the pectus bar on the back table </title>
+                    <caption>Technique for bending of the pectus bar on the back table </caption>
+                    <graphic format="IMAGE" id="27933" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/33/27933.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27933"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/33/27933tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27934">
+                    <title>Illustration showing the minimally invasive technique for correction of pectus excavatum (3)...</title>
+                    <caption>Illustration showing the minimally invasive technique for correction of pectus excavatum (3) with thoracoscopy (1). Note the long clamp passed from one side to the other (2) grabbing the umbilical tape (4), which serves as a guide for passage of the pectus bar behind the sternum </caption>
+                    <graphic format="IMAGE" id="27934" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/34/27934.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27934"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/34/27934tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27935">
+                    <title>Operative diagram illustrating the pectus bar after it has been passed behind the sternum (5),...</title>
+                    <caption>Operative diagram illustrating the pectus bar after it has been passed behind the sternum (5), under thoracoscopic visualization (1), before turning it over. Note that the concavity of the bar is facing up </caption>
+                    <graphic format="IMAGE" id="27935" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/35/27935.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27935"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/35/27935tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27936">
+                    <title>Illustration of the pectus bar passed behind the sternum before and after it is turned over. The...</title>
+                    <caption>Illustration of the pectus bar passed behind the sternum before and after it is turned over. The insert shows the proper technique for fixation of the pectus bar against the lateral chest wall musculature </caption>
+                    <graphic format="IMAGE" id="27936" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/36/27936.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27936"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/36/27936tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27937">
+                    <title>Thoracoscopic images at the time of minimally invasive repair: (A) Pectus bar passer behind the...</title>
+                    <caption>Thoracoscopic images at the time of minimally invasive repair: (A) Pectus bar passer behind the sternum and next to the mediastinum and pericardial sac (B) Umbilical tape being passed across the anterior mediastinal space(C) Image of the bar being passed across the anterior mediastinal space (anterior to the heart)(D) Pectus bar flipped and resting under the sternum (E) Third point of fixation of the pectus bar as seen with thoracoscopy </caption>
+                    <graphic format="IMAGE" id="27937" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/37/27937.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27937"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/37/27937tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27938">
+                    <title>Diagram demonstrating the position of the pectus bar in relationship to the ribs...</title>
+                    <caption>Diagram demonstrating the position of the pectus bar in relationship to the ribs &amp; sternum, as well as the location of the third point of fixation. </caption>
+                    <graphic format="IMAGE" id="27938" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/38/27938.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27938"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/38/27938tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27939">
+                    <title>Chest radiograph of a 17-year old male with Marfan's syndrome and severe pectus excavatum in...</title>
+                    <caption>Chest radiograph of a 17-year old male with Marfan's syndrome and severe pectus excavatum in which it was necessary to place two pectus bars. </caption>
+                    <graphic format="IMAGE" id="27939" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/39/27939.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27939"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/39/27939tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27940">
+                    <title>Patient with Pouter Pigeon Breast: note the protrusion of the manubriosternal junction and...</title>
+                    <caption>Patient with Pouter Pigeon Breast: note the protrusion of the manubriosternal junction and adjacent costal cartilages with an "S" shaped appearance of the sternum. </caption>
+                    <graphic format="IMAGE" id="27940" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/40/27940.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27940"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/40/27940tn.jpg"/>
+                </figure>
+            </pgroup>
+            <pgroup>
+                <figure id="27941">
+                    <title>Pectus bar being pulled out of the chest using a bone hook instrument. </title>
+                    <caption>Pectus bar being pulled out of the chest using a bone hook instrument. </caption>
+                    <graphic format="IMAGE" id="27941" extension_format="JPG"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/41/27941.jpg"/>
+                    <graphic format="IMAGE_THUMB" id="27941"
+                        fileref="http://http://img.dev04.medscape.com/pi/emed/ckb/pi/meds/ckb/41/27941tn.jpg"/>
+                </figure>
+            </pgroup>
+        </sect1>
+        <authors>
+            <contrbtr_group>
+                <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+                <contrbtr_element>
+                    <contrbtr_nm>Andre Hebra, MD</contrbtr_nm>
+                    <contrbtr_title>Chief, Division of Pediatric Surgery, Professor of Surgery and Pediatrics, Medical University of South Carolina College of Medicine; Surgeon-in-Chief, Medical University of South Carolina Children's Hospital</contrbtr_title>
+                    <contrbtr_bio>Andre Hebra, MD is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://www.flmedical.org">Florida Medical Association</a>, <a href="http://www.sages.org">Society of American Gastrointestinal and Endoscopic Surgeons</a>, <a href="http://www.childrensoncologygroup.org">Children's Oncology Group</a>, <a href="http://www.ipeg.org">International Pediatric Endosurgery Group</a>, <a href="http://www.aap.org">American Academy of Pediatrics</a>, <a href="http://www.facs.org">American College of Surgeons</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://www.eapsa.org">American Pediatric Surgical Association</a>, <a href="http://www.sls.org">Society of Laparoendoscopic Surgeons</a>, <a href="http://www.scmedical.org">South Carolina Medical Association</a>, <a href="http://www.sesc.org/aws/SESC/pt/sp/home_page">Southeastern Surgical Congress</a>, <a href="http://sma.org">Southern Medical Association</a>
+                    </contrbtr_bio>
+                    <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+                </contrbtr_element>
+            </contrbtr_group>
+        </authors>
+        <refgrp type="references">
+            <ritem id="refsrc1" ref="http://reference.medscape.com/medline/abstract/16264130">
+                <para>Tsirikos AI, McMaster MJ. Congenital anomalies of the ribs and chest wall associated with congenital deformities of the spine. <em>J Bone Joint Surg Am</em>. 2005 Nov; 87(11):2523-36. <a href="http://reference.medscape.com/medline/abstract/16264130">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc2" ref="http://reference.medscape.com/medline/abstract/8641129">
+                <para>Shamberger RC. Congenital chest wall deformities. <em>Curr Probl Surg</em>. 1996 Jun; 33(6):469-542. <a href="http://reference.medscape.com/medline/abstract/8641129">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc3" ref="http://reference.medscape.com/medline/abstract/9574749">
+                <para>Nuss D, Kelly RE Jr, Croitoru DP, Katz ME. A 10-year review of a minimally invasive technique for the correction of pectus excavatum. <em>J Pediatr Surg</em>. 1998 Apr; 33(4):545-52. <a href="http://reference.medscape.com/medline/abstract/9574749">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc4" ref="">
+                <para>Ravitch MM. The operative treatment of pectus excavatum. <em>Ann Surg</em>. 1949; 122:429-444. </para>
+            </ritem>
+            <ritem id="refsrc5" ref="">
+                <para>Ravitch MM. Pectus excavatum. <em>Congenital Deformities of the Chest Wall and Their Operative Correction</em>. WB Saunders Co: Philadelphia, Pa; 1977; </para>
+            </ritem>
+            <ritem id="refsrc6" ref="http://reference.medscape.com/medline/abstract/10803334">
+                <para>Robicsek F. Surgical treatment of pectus excavatum. <em>Chest Surg Clin N Am</em>. 2000 May; 10(2):277-96. <a href="http://reference.medscape.com/medline/abstract/10803334">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc7" ref="http://reference.medscape.com/medline/abstract/2705822">
+                <para>Haller JA Jr, Scherer LR, Turner CS, Colombani PM. Evolving management of pectus excavatum based on a single institutional experience of 664 patients. <em>Ann Surg</em>. 1989 May; 209(5):578-82; discussion 582-3. <a href="http://reference.medscape.com/medline/abstract/2705822">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc8" ref="http://reference.medscape.com/medline/abstract/19632567">
+                <para>Robicsek F, Hebra A. To Nuss or not to Nuss? Two opposing views. <em>Semin Thorac Cardiovasc Surg</em>. 2009; 21(1):85-8. <a href="http://reference.medscape.com/medline/abstract/19632567">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc9" ref="http://reference.medscape.com/medline/abstract/3681619">
+                <para>Haller JA Jr, Kramer SS, Lietman SA. Use of CT scans in selection of patients for pectus excavatum surgery: a preliminary report. <em>J Pediatr Surg</em>. 1987 Oct; 22(10):904-6. <a href="http://reference.medscape.com/medline/abstract/3681619">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc10" ref="http://reference.medscape.com/medline/abstract/14740200">
+                <para>Daunt SW, Cohen JH, Miller SF. Age-related normal ranges for the Haller index in children. <em>Pediatr Radiol</em>. 2004 Apr; 34(4):326-30. <a href="http://reference.medscape.com/medline/abstract/14740200">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc11" ref="http://reference.medscape.com/medline/abstract/15737373">
+                <para>Fefferman NR, Pinkney LP. Imaging evaluation of chest wall disorders in children. <em>Radiol Clin North Am</em>. 2005 Mar; 43(2):355-70. <a href="http://reference.medscape.com/medline/abstract/15737373">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc12" ref="http://reference.medscape.com/medline/abstract/8627435">
+                <para>Quigley PM, Haller JA Jr, Jelus KL, Loughlin GM, Marcus CL. Cardiorespiratory function before and after corrective surgery in pectus excavatum. <em>J Pediatr</em>. 1996 May; 128(5 Pt 1):638-43. <a href="http://reference.medscape.com/medline/abstract/8627435">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc13" ref="http://reference.medscape.com/medline/abstract/4021526">
+                <para>Peterson RJ, Young WG Jr, Godwin JD, Sabiston DC Jr, Jones RH. Noninvasive assessment of exercise cardiac function before and after pectus excavatum repair. <em>J Thorac Cardiovasc Surg</em>. 1985 Aug; 90(2):251-60. <a href="http://reference.medscape.com/medline/abstract/4021526">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc14" ref="http://reference.medscape.com/medline/abstract/6059202">
+                <para>Weg JG, Krumholz RA, Harkleroad LE. Pulmonary dysfunction in pectus excavatum. <em>Am Rev Respir Dis</em>. 1967 Nov; 96(5):936-45. <a href="http://reference.medscape.com/medline/abstract/6059202">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc15" ref="http://reference.medscape.com/medline/abstract/12928841">
+                <para>Ohno K, Morotomi Y, Nakahira M, Takeuchi S, Shiokawa C, Moriuchi T. Indications for surgical repair of funnel chest based on indices of chest wall deformity and psychological state. <em>Surg Today</em>. 2003; 33(9):662-5. <a href="http://reference.medscape.com/medline/abstract/12928841">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc16" ref="http://reference.medscape.com/medline/abstract/6481587">
+                <para>Cahill JL, Lees GM, Robertson HT. A summary of preoperative and postoperative cardiorespiratory performance in patients undergoing pectus excavatum and carinatum repair. <em>J Pediatr Surg</em>. 1984 Aug; 19(4):430-3. <a href="http://reference.medscape.com/medline/abstract/6481587">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc17" ref="http://reference.medscape.com/medline/abstract/15625987">
+                <para>Goretsky MJ, Kelly RE Jr, Croitoru D, Nuss D. Chest wall anomalies: pectus excavatum and pectus carinatum. <em>Adolesc Med Clin</em>. 2004 Oct; 15(3):455-71. <a href="http://reference.medscape.com/medline/abstract/15625987">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc18" ref="http://reference.medscape.com/medline/abstract/19632566">
+                <para>Hebra A. Minimally invasive repair of pectus excavatum. <em>Semin Thorac Cardiovasc Surg</em>. 2009; 21(1):76-84. <a href="http://reference.medscape.com/medline/abstract/19632566">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc19" ref="http://reference.medscape.com/medline/abstract/16986397">
+                <para>Hebra A, Jacobs JP, Feliz A, Arenas J, Moore CB, Larson S. Minimally invasive repair of pectus excavatum in adult patients. <em>Am Surg</em>. 2006 Sep; 72(9):837-42. <a href="http://reference.medscape.com/medline/abstract/16986397">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc20" ref="http://reference.medscape.com/medline/abstract/10204553">
+                <para>Fonkalsrud EW, Bustorff-Silva J. Repair of pectus excavatum and carinatum in adults. <em>Am J Surg</em>. 1999 Feb; 177(2):121-4. <a href="http://reference.medscape.com/medline/abstract/10204553">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc21" ref="http://reference.medscape.com/medline/abstract/21429515">
+                <para>Lawson ML, Mellins RB, Paulson JF, Shamberger RC, Oldham K, Azizkhan RG. Increasing severity of pectus excavatum is associated with reduced pulmonary function. <em>J Pediatr</em>. 2011 Aug; 159(2):256-61.e2. <a href="http://reference.medscape.com/medline/abstract/21429515">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc22" ref="http://reference.medscape.com/medline/abstract/10693675">
+                <para>Hebra A, Swoveland B, Egbert M, Tagge EP, Georgeson K, Othersen HB Jr. Outcome analysis of minimally invasive repair of pectus excavatum: review of 251 cases. <em>J Pediatr Surg</em>. 2000 Feb; 35(2):252-7; discussion 257-8. <a href="http://reference.medscape.com/medline/abstract/10693675">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc23" ref="http://reference.medscape.com/medline/abstract/10803337">
+                <para>Hebra A. Minimally invasive pectus surgery. <em>Chest Surg Clin N Am</em>. 2000 May; 10(2):329-39, vii. <a href="http://reference.medscape.com/medline/abstract/10803337">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc24" ref="http://reference.medscape.com/medline/abstract/10693674">
+                <para>Engum S, Rescorla F, West K, Rouse T, Scherer LR, Grosfeld J. Is the grass greener? Early results of the Nuss procedure. <em>J Pediatr Surg</em>. 2000 Feb; 35(2):246-51; discussion 257-8. <a href="http://reference.medscape.com/medline/abstract/10693674">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc25" ref="http://reference.medscape.com/medline/abstract/16095232">
+                <para>Nuss D. Recent experiences with minimally invasive pectus excavatum repair &amp;#34Nuss procedure&amp;#34. <em>Jpn J Thorac Cardiovasc Surg</em>. 2005 Jul; 53(7):338-44. <a href="http://reference.medscape.com/medline/abstract/16095232">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc26" ref="http://reference.medscape.com/medline/abstract/12368998">
+                <para>Nuss D, Croitoru DP, Kelly RE Jr, Goretsky MJ, Nuss KJ, Gustin TS. Review and discussion of the complications of minimally invasive pectus excavatum repair. <em>Eur J Pediatr Surg</em>. 2002 Aug; 12(4):230-4. <a href="http://reference.medscape.com/medline/abstract/12368998">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc27" ref="http://reference.medscape.com/medline/abstract/11479873">
+                <para>Hebra A, Gauderer MW, Tagge EP, Adamson WT, Othersen HB Jr. A simple technique for preventing bar displacement with the Nuss repair of pectus excavatum. <em>J Pediatr Surg</em>. 2001 Aug; 36(8):1266-8. <a href="http://reference.medscape.com/medline/abstract/11479873">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc28" ref="http://reference.medscape.com/medline/abstract/14669121">
+                <para>Marusch F, Gastinger I. [Life-threatening complication of the Nuss-procedure for funnel chest. A case report]. <em>Zentralbl Chir</em>. 2003 Nov; 128(11):981-4. <a href="http://reference.medscape.com/medline/abstract/14669121">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc29" ref="http://reference.medscape.com/medline/abstract/17208547">
+                <para>Rushing GD, Goretsky MJ, Gustin T, Morales M, Kelly RE Jr, Nuss D. When it is not an infection: metal allergy after the Nuss procedure for repair of pectus excavatum. <em>J Pediatr Surg</em>. 2007 Jan; 42(1):93-7. <a href="http://reference.medscape.com/medline/abstract/17208547">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc30" ref="http://reference.medscape.com/medline/abstract/17208546">
+                <para>Shin S, Goretsky MJ, Kelly RE Jr, Gustin T, Nuss D. Infectious complications after the Nuss repair in a series of 863 patients. <em>J Pediatr Surg</em>. 2007 Jan; 42(1):87-92. <a href="http://reference.medscape.com/medline/abstract/17208546">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc31" ref="http://reference.medscape.com/medline/abstract/11877659">
+                <para>Fonkalsrud EW, Beanes S, Hebra A, Adamson W, Tagge E. Comparison of minimally invasive and modified Ravitch pectus excavatum repair. <em>J Pediatr Surg</em>. 2002 Mar; 37(3):413-7. <a href="http://reference.medscape.com/medline/abstract/11877659">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc32" ref="http://reference.medscape.com/medline/abstract/8651758">
+                <para>Haller JA Jr, Colombani PM, Humphries CT, Azizkhan RG, Loughlin GM. Chest wall constriction after too extensive and too early operations for pectus excavatum. <em>Ann Thorac Surg</em>. 1996 Jun; 61(6):1618-24; discussion 1625. <a href="http://reference.medscape.com/medline/abstract/8651758">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc33" ref="">
+                <para>Kelly RE, Shamberger RC, Mellins RB, Mitchell KK, Lawson ML, Oldham K, Azizkhan RG, Hebra A, Nuss D, Goretsky MJ, Sharp RJ, Holcomb GW, Shim WKT, Megison SM, Moss RL, Fecteau AH, Colombani PM, Bagley TC, Moskowitz AB: Increasing Severity of Pectus Exca. </para>
+            </ritem>
+            <ritem id="refsrc34" ref="">
+                <para>Kelly RE,  Mellins RB,   Shamberger RC,  Mitchell KK,  Lawson ML,  Oldham KT, et al. Multicenter Study of Pectus Excavatum, Final Report: Complications, Static/Exercise Pulmonary Function, and Anatomic Outcomes. <em>J American College of Surgeons</em>. 12/2013; 217:1080-90. <a href="http://dx.doi.org/10.1016/j.jamcollsurg.2013.06.019">[Full Text]</a>.</para>
+            </ritem>
+            <ritem id="refsrc35" ref="http://reference.medscape.com/medline/abstract/10803344">
+                <para>Frick SL. Scoliosis in children with anterior chest wall deformities. <em>Chest Surg Clin N Am</em>. 2000 May; 10(2):427-36. <a href="http://reference.medscape.com/medline/abstract/10803344">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc36" ref="http://reference.medscape.com/medline/abstract/15331256">
+                <para>Grimes SJ, Acheson LS, Matthews AL, Wiesner GL. Clinical consult: Marfan syndrome. <em>Prim Care</em>. 2004 Sep; 31(3):739-42, xii. <a href="http://reference.medscape.com/medline/abstract/15331256">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc37" ref="http://reference.medscape.com/medline/abstract/10803340">
+                <para>Fokin AA. Pouter pigeon breast. <em>Chest Surg Clin N Am</em>. 2000 May; 10(2):377-91. <a href="http://reference.medscape.com/medline/abstract/10803340">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc38" ref="http://reference.medscape.com/medline/abstract/12643435">
+                <para>Fokin AA, Robicsek F. Poland&amp;#39s syndrome revisited. <em>Ann Thorac Surg</em>. 2002 Dec; 74(6):2218-25. <a href="http://reference.medscape.com/medline/abstract/12643435">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc39" ref="http://reference.medscape.com/medline/abstract/2848462">
+                <para>Seyfer AE, Icochea R, Graeber GM. Poland&amp;#39s anomaly. Natural history and long-term results of chest wall reconstruction in 33 patients. <em>Ann Surg</em>. 1988 Dec; 208(6):776-82. <a href="http://reference.medscape.com/medline/abstract/2848462">[Medline]</a>. </para>
+            </ritem>
+            <ritem id="refsrc40" ref="http://reference.medscape.com/medline/abstract/17660066">
+                <para>Kelly RE Jr, Shamberger RC, Mellins RB, Mitchell KK, Lawson ML, Oldham K. Prospective multicenter study of surgical correction of pectus excavatum: design, perioperative complications, pain, and baseline pulmonary function facilitated by internet-based data collection. <em>J Am Coll Surg</em>. 2007 Aug; 205(2):205-16. <a href="http://reference.medscape.com/medline/abstract/17660066">[Medline]</a>. </para>
+            </ritem>
+        </refgrp>
+    </content_section>
+</article>

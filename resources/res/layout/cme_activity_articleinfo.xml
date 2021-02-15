@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:background="@color/activity_toolbar_background" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:elevation="4dp" app:theme="@style/MyToolbars"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/activityInfoMainLinearLayout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_below="@+id/toolbar" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <ScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="1">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="15dp" android:layout_marginTop="10dp" android:layout_marginRight="15dp" android:layout_marginBottom="10dp">
+                <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="16sp" android:textColor="@color/grey_text" android:gravity="center" android:id="@+id/article_cme_flag_view" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginBottom="7dp" app:fontName="Roboto-Regular.ttf"/>
+                <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="22sp" android:textColor="@color/black" android:gravity="center" android:id="@+id/article_title_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" app:fontName="Roboto-Medium.ttf"/>
+                <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="14sp" android:textColor="@color/black" android:gravity="center" android:id="@+id/article_byline_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginBottom="15dp" app:fontName="Roboto-Regular.ttf"/>
+                <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="14sp" android:textColor="@color/app_accent_color" android:gravity="center" android:id="@+id/summaryTextView" android:layout_width="match_parent" android:layout_height="wrap_content" app:fontName="Roboto-Medium.ttf"/>
+                <com.wbmd.wbmdcommons.customviews.CustomFontTextView android:textSize="14sp" android:textColor="@color/app_accent_color" android:gravity="center" android:id="@+id/valid_through_text_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="10dp" app:fontName="Roboto-Medium.ttf"/>
+                <ImageView android:id="@+id/suppport_grant_iv" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <LinearLayout android:orientation="vertical" android:id="@+id/cmeActivityInfoTextView" android:layout_width="match_parent" android:layout_height="wrap_content" android:text=""/>
+            </LinearLayout>
+        </ScrollView>
+        <Button android:textColor="@color/white" android:id="@+id/cmeContinueToArticle" android:background="@drawable/cme_continue_button_ripple" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Continue to Activity" android:textAllCaps="false"/>
+    </LinearLayout>
+    <ProgressBar android:id="@+id/activityInfoProgressIndicator" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true"/>
+</RelativeLayout>

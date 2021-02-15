@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@color/consult_timeline_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/detail_recycler" android:background="@color/consult_timeline_background" android:paddingTop="8dp" android:paddingBottom="8dp" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <ProgressBar android:id="@+id/progressBar" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/progress" android:layout_centerInParent="true" android:progressBarStyleInverse="?android:attr/progressBarStyleInverse"/>
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/mentionables" android:background="@android:color/white" android:visibility="gone" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </RelativeLayout>
+    <View android:background="#d9d9d9" android:layout_width="match_parent" android:layout_height="2dp"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <EditText android:textColor="#000" android:id="@+id/response_text" android:background="@null" android:scrollbars="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:minHeight="60dp" android:hint="@string/consult_write_response" android:layout_weight="1" android:inputType="none|text|textCapSentences|textAutoCorrect|textMultiLine"/>
+        <Button android:textColor="@color/consult_status" android:layout_gravity="center_vertical" android:id="@+id/send_button" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="45dp" android:text="@string/consult_write_response_send"/>
+    </LinearLayout>
+</LinearLayout>

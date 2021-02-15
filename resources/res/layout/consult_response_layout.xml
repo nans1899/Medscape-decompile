@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/consult_user_responses_root" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="4dp" android:layout_marginRight="4dp" android:layout_marginBottom="11dp">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingLeft="11dp" android:paddingTop="8dp" android:paddingRight="11dp" android:paddingBottom="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="16dp" android:textColor="@color/black" android:id="@+id/consult_user_responses_header" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="" android:layout_weight="1" android:lineSpacingExtra="2dp"/>
+    </LinearLayout>
+    <View android:background="#1e000000" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginLeft="16dp" android:layout_marginRight="16dp"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/consult_user_responses_container" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>

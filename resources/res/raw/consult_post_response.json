@@ -1,0 +1,102 @@
+{
+  "StatusCode": 200,
+  "code": 1,
+  "data": {
+    "Replies": null,
+    "TotalReplyCount": 0,
+    "AnswerCount": 0,
+    "SubscribeToThread": true,
+    "Answers": null,
+    "Title": "Patient with lesion",
+    "GroupId": "4",
+    "RelatedArticles": null,
+    "CachedSince": "2019-05-08T09:32:35.7891879-04:00",
+    "LatestPostDate": "2019-04-30T10:20:57.36-04:00",
+    "CME": null,
+    "CaseIsResolved": true,
+    "BodyUpdates": [{
+      "Id": "e407a247-fc4b-4bba-a3a9-29a3d66b9862",
+      "CreateDate": "2019-05-08T05:44:17.3769587Z",
+      "UpdateDate": "2019-05-08T05:44:17.3769587Z",
+      "DisplayDate": "5/8/2019",
+      "Title": "null",
+      "Body": "The lesion is better now. Don't have to worry about it anymore. I will be closing this post after confirmation date check"
+    }, {
+      "Id": "618181fb-4ea5-4c47-9436-38c4a4059b4f",
+      "CreateDate": "2019-05-08T05:44:17.3769587Z",
+      "UpdateDate": "2019-05-08T05:44:17.3769587Z",
+      "DisplayDate": "5/8/2019",
+      "Title": "null",
+      "Body": "Update 2 check lesion information on Wikipedia to address your problems with this issue please let them know date check 2 "
+    }, {
+      "Id": "b947311e-fd7e-4ac2-91ec-b2424456b6b3",
+      "CreateDate": "2019-05-08T05:44:17.3769587Z",
+      "UpdateDate": "2019-05-08T05:44:17.3769587Z",
+      "DisplayDate": "5/8/2019",
+      "Title": "null",
+      "Body": "Adding more information "
+    }, {
+      "Id": "862920a6-c1ed-436c-b0a5-77af5ac37b66",
+      "CreateDate": "2019-05-08T05:44:17.3769587Z",
+      "UpdateDate": "2019-05-08T05:44:17.3769587Z",
+      "DisplayDate": "5/8/2019",
+      "Title": "null",
+      "Body": "Update my Twitter "
+    }, {
+      "Id": "109f9edf-6602-4fd1-a976-d94cfd2b231f",
+      "CreateDate": "2019-05-08T05:44:17.3769587Z",
+      "UpdateDate": "2019-05-08T05:44:17.3769587Z",
+      "DisplayDate": "5/8/2019",
+      "Title": "null",
+      "Body": "Post update from iPhone "
+    }],
+    "Id": "312134",
+    "ContentId": "73e8d5a1-5728-4f3b-954d-c73e637bd3bc",
+    "ContentTypeId": "46448885-d0e6-4133-bbfb-f0cd7b0fd6f7",
+    "ForumId": "3",
+    "Body": "After 15 days the patient returned and the lesion has not changed.",
+    "ReplyCount": 0,
+    "Date": "2019-04-30T10:20:57.36-04:00",
+    "Author": {
+      "DisplayName": "gdiu lKiOXm, MD",
+      "UserName": "bmpXTUFRc3J2bUhXUy9MTVFUZ0FLQT09",
+      "AvatarUrl": "https://medscapeapi.webmdqa.telligenthosting.net/cfs-file/__key/communityserver-components-avatars/00-00-01-96-60/4U7820UHDYTH.jpg",
+      "FollowingCount": 0,
+      "FollowersCount": 0,
+      "PostCount": 0,
+      "Points": 0,
+      "Bio": null,
+      "Properties": {
+        "Education": "",
+        "Specialty": "Internal Medicine",
+        "Profession": "Physician",
+        "ProfessionId": "10",
+        "Degree": "MD",
+        "Country": "us",
+        "UserType": "",
+        "UserRole": "",
+        "Title": "",
+        "ProfessionalUrl": "",
+        "Institution": "",
+        "InstitutionLogo": ""
+      },
+      "Achievements": null,
+      "AllTimeRank": 0,
+      "IsFollowing": false,
+      "RepliesCount": 0
+    },
+    "Reviewer": null,
+    "LikeCount": 0,
+    "Liked": false,
+    "Tags": "Dermatology,Internal Medicine",
+    "ImageUrls": ["https://medscapeapi.webmdqa.telligenthosting.net/cfs-file/__key/telligent-evolution-components-attachments/13-02-00-00-00-09-37-23/Ml82MzY5MjIxNjQzMTE3NTg4NzJfaW1hZ2U_3D00_size1080x607x.jpg"],
+    "DislikeCount": 0,
+    "Disliked": false,
+    "DownVoteCount": 0,
+    "UpVoteCount": 0,
+    "DownVoted": false,
+    "UpVoted": false,
+    "IsLowQuality": false
+  },
+  "status": "OK"
+}

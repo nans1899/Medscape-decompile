@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:fn="http://www.w3.org/2005/xpath-functions"
+         version="MEDS_2.0"
+         id="152379"
+         pubid=""
+         template="Cardiology"
+         template-name="singlepage">
+   <metadata_section>
+      <site-meta>
+         <article-name>Alcoholic Cardiomyopathy</article-name>
+         <title>
+            <page-info id="overview">Alcoholic Cardiomyopathy: Overview, Cardiac Effects of Alcohol, Quantity of Alcohol Intake in Cardiac Disease</page-info>
+         </title>
+         <browser-title>
+            <page-info id="overview">Alcoholic Cardiomyopathy: Overview, Cardiac Effects of Alcohol, Quantity of Alcohol Intake in Cardiac Disease</page-info>
+         </browser-title>
+         <section-title>
+            <section-page-info id="overview">Overview<section-info id="a1">Overview</section-info>
+               <section-info id="a2">Cardiac Effects of Alcohol</section-info>
+               <section-info id="a3">Quantity of Alcohol Intake in Cardiac Disease</section-info>
+               <section-info id="a4">Epidemiology</section-info>
+               <section-info id="a5">Prognosis</section-info>
+               <section-info id="a6">Patient History</section-info>
+               <section-info id="a7">Physical Examination</section-info>
+               <section-info id="a8">Laboratory Studies</section-info>
+               <section-info id="a9">Imaging Studies</section-info>
+               <section-info id="a10">Electrocardiography</section-info>
+               <section-info id="a11">Cardiac Catheterization</section-info>
+               <section-info id="a12">Histologic Findings</section-info>
+               <section-info id="a13">Alcohol Abstention and Pharmacologic Therapies</section-info>
+            </section-page-info>
+         </section-title>
+         <meta-keywords>
+            <page-info id="overview">Alcoholic Cardiomyopathy Overview</page-info>
+         </meta-keywords>
+         <uri>152379-overview</uri>
+         <meta-description/>
+         <search-keywords/>
+         <alt-image-text/>
+         <posting-date>Dec 18, 2014</posting-date>
+         <last-generated>2016-04-10-09:21</last-generated>
+         <single-page>1</single-page>
+         <pub-name>Cardiology</pub-name>
+         <pub-id/>
+         <siteon>2002</siteon>
+         <content-group ID="502">Diseases &amp; Conditions</content-group>
+         <content-type ID="10418">Condition</content-type>
+         <ads-support>
+            <site>1</site>
+            <affiliate>2</affiliate>
+            <pclass>content</pclass>
+            <artid>152379</artid>
+            <cg>502</cg>
+            <scg text="Alcoholism">870</scg>
+            <ssp text="Cardiology">2</ssp>
+            <ac>5001305,281,342,64207,372,64646,869,870,1331,1366,3032306,1855,1292,64540,3032308,3003640,3032318,1346,5001308,3025894,3029396,315,302,402,5000361,64736,681,390,1471,347,5005128,477,5004579,5004099,5004956,5000376,3029344,2102,5001291,6000087,5003083,635,1356,355,3031996,5001073,3004036,5000362,874,6004314,6003862,6000080,329,331</ac>
+            <as>2,44,34,18,17</as>
+            <bc>i_f1</bc>
+         </ads-support>
+         <other/>
+      </site-meta>
+      <metadata>
+         <last_updated>Jun 04, 2015</last_updated>
+         <publication_cat>
+            <id>condition</id>
+            <name>Diseases &amp; Conditions</name>
+         </publication_cat>
+         <publication>
+            <id>cardiology</id>
+            <name>Cardiology</name>
+         </publication>
+         <publication_section>
+            <id>cardiology_myocardial</id>
+            <name>Myocardial Disease and Cardiomyopathies</name>
+         </publication_section>
+         <meta_keywords>alcoholic cardiomyopathy, alcoholism, alcohol consumption, alcohol abuse, ethanol consumption, ethanol abuse, ethanol toxicity, alcohol toxicity, cardiovascular disease, CVD, cardiac enlargement, cardiac failure, heart failure, arrhythmia, atrial fibrillation, atrial flutter, supraventricular arrhythmia, premature ventricular contractions, dilated cardiomyopathy, acute ethanol-induced injury, beriberi heart disease, thiamine deficiency, acetaldehyde, myocarditis</meta_keywords>
+         <meta_description>The focus of this review is on the effects of alcohol on the myocardium and its role as a cause of heart failure due to dilated cardiomyopathy (DC). For nearly 150 years, alcohol consumption has been associated with a variety of cardiovascular diseases.</meta_description>
+         <pediatric-article>0</pediatric-article>
+         <acronyms/>
+      </metadata>
+   </metadata_section>
+   <content_section>
+      <title>Alcoholic Cardiomyopathy</title>
+      <sect1 id="a1" type="content">
+         <title>Overview</title>
+         <pgroup>
+            <para>
+            Abhishek
+            </para>
+            <para>The focus of this review is on the effects of alcohol on the myocardium and its role as a cause of heart failure due to <link type="content" ref="152696-overview">dilated cardiomyopathy</link> (DC). For nearly 150 years, alcohol consumption has been associated with a variety of cardiovascular diseases. Observations during the second half of the 19th century described cardiac enlargement seen at autopsy and heart failure symptoms in persons who had consumed excessive amounts of alcohol. </para>
+            <para>During the first half of the 20th century, the concept of beriberi heart disease (ie, thiamine deficiency) was present throughout the medical literature, and the idea that alcohol had any direct effect on the myocardium was doubted. Epidemics of heart failure in persons who had consumed beer contaminated with arsenic in the 1900s and cobalt in the 1960s also obscured the observation that alcohol could exhibit a direct toxic effect. In the 1950s, evidence began to emerge that supported the idea of a direct toxic myocardial effect of alcohol, and research during the last 25 years has been particularly productive in characterizing the disease entity of alcoholic cardiomyopathy (AC). </para>
+            <para>Ultimately, AC is a clinical diagnosis made in a patient presenting with a constellation of findings that includes a history of excessive alcohol intake, possible physical signs of alcohol abuse (eg, parotid disease, telangiectasia or spider angiomata, mental status changes, cirrhosis), heart failure, and supportive evidence consistent with <link type="content" ref="1612303-overview">DC</link>. Hypertension due to alcohol may be a confounding comorbidity in that it may contribute to LV dysfunction; therefore, LV dysfunction due to hypertension must be differentiated from pure AC. </para>
+            <para>Proposed mechanisms of injury in AC include the following:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Inhibition of protein synthesis</para>
+               </listitem>
+               <listitem>
+                  <para>Inhibition of oxidative phosphorylation</para>
+               </listitem>
+               <listitem>
+                  <para>Fatty acid ester accumulation</para>
+               </listitem>
+               <listitem>
+                  <para>Free radical damage</para>
+               </listitem>
+               <listitem>
+                  <para>Inhibition of calcium-myofilament interaction</para>
+               </listitem>
+               <listitem>
+                  <para>Inflammatory and immunologic factors</para>
+               </listitem>
+               <listitem>
+                  <para>Receptor abnormalities</para>
+               </listitem>
+               <listitem>
+                  <para>Disruption of cell membrane structure</para>
+               </listitem>
+               <listitem>
+                  <para>Coronary vasospasm</para>
+               </listitem>
+               <listitem>
+                  <para>Synergy with concomitant conditions</para>
+               </listitem>
+               <listitem>
+                  <para>Activation of the renin-angiotensin system<sup>
+                        <link type="references" ref="refsrc1">[1]</link>
+                     </sup>
+                  </para>
+               </listitem>
+            </itemizedlist>
+            <para>Alcohol use has also been shown to have numerous effects on the cardiovascular system other than heart failure. It has been associated with arrhythmia (eg, atrial fibrillation, atrial flutter, other supraventricular arrhythmia, premature ventricular contractions), hypertension, stroke, and sudden death.<sup>
+                  <link type="references" ref="refsrc2">[2]</link>
+               </sup>In addition, the literature reports alcohol withdrawal being associated with takotsubo, or stress-induced, cardiomyopathy. However, numerous studies have demonstrated that light to moderate alcohol consumption (ie, 1-2 drinks per d or 3-9 drinks per wk) decreases the risk of cardiac events such as myocardial infarction. </para>
+         </pgroup>
+         <pgroup>
+            <title>Patient education</title>
+            <para>For patient education information, see the Mental Health Center, as well as Alcoholism, Alcohol Intoxication, Drug Dependence and Abuse, and Substance Abuse.</para>
+         </pgroup>
+      </sect1>
+      <sect1 id="a2" type="content">
+         <title>Cardiac Effects of Alcohol</title>
+         <pgroup>
+            <para>Long-term alcohol use has been implicated as the etiology of left ventricular (LV) dysfunction in as many as one third of cases of <link type="content" ref="895187-overview">DC</link>. The mechanism by which alcohol causes cardiac damage remains unclear. Over many years, several theories have arisen based on clinical and scientific data obtained in human and animal studies, including oxidative stress, apoptosis, mitochondrial dysfunction, derangements of fatty acid metabolism/transport, and accelerated protein catabolism.<sup>
+                  <link type="references" ref="refsrc3">[3]</link>
+               </sup>
+            </para>
+            <para>The original theories regarding the mechanism focused on nutritional deficiencies (eg, thiamine deficiency), secondary exposures (eg, tobacco, cobalt, arsenic), and other comorbidities (eg, hypertension). However, although these mechanisms may play a role in selected patients, most evidence in the literature indicates that the effects of alcohol on the myocardium are independent of these factors and that the effect is a direct toxic result of ethanol or its metabolites. </para>
+            <para>Some studies have suggested that a genetic vulnerability exists to the myocardial effects of alcohol consumption. Individuals with certain mitochondrial deoxyribonucleic acid (DNA) mutations and angiotensin-converting enzyme (ACE) genotypes (DD genotype) may be particularly susceptible to the damaging effects of alcohol. Exactly how these genetic variables create this higher risk is not known.</para>
+            <para>Mitochondrial dysfunction is known to have a significant role in the development and complications of alcoholic cardiomyopathy. Long-term alcohol use has been linked to damage of mitochondrial DNA, increasing the risk of mutations.<sup>
+                  <link type="references" ref="refsrc4">[4]</link>
+               </sup>
+            </para>
+            <para>In addition, alcohol has been shown to have a negative effect on net protein synthesis. Many studies have shown this result, and it remains a topic of ongoing investigation and speculation. The exact manner in which alcohol produces this effect is not known, but the effect is consistent, is observed throughout the heart, and may be exaggerated under stressful conditions. </para>
+            <para>To identify the causative agent of alcoholic <link type="content" ref="152535-overview">cardiomyopathy</link>, investigators administered ethanol to rats pretreated with inhibitors of ethanol metabolism. Use of ethanol alone or ethanol with an alcohol dehydrogenase inhibitor resulted in a 25% decrease in protein synthesis. When the rats were given an inhibitor of acetaldehyde dehydrogenase to increase levels of the ethanol metabolite acetaldehyde, an 80% decrease in protein synthesis occurred. Based on these data, acute ethanol-induced injury appears to be mediated by ethanol and acetaldehyde; the latter may play a more important role. </para>
+            <para>Acetaldehyde is a potent oxidant and, as such, increases oxidative stress, leading to the formation of oxygen radicals, with subsequent endothelial and tissue dysfunction. Acetaldehyde may also result in impairment of mitochondrial phosphorylation. Mitochondria play an essential role in cellular metabolism, and disruption of their function can have profound effects on the entire cell. The myocyte mitochondria in the hearts of persons exposed to alcohol are clearly abnormal in structure, and many believe that this may be an important factor in the development of AC. </para>
+            <para>A study in a rat model using an alcohol dehydrogenase transgene that results in elevated levels of acetaldehyde demonstrated a change in calcium metabolism at the intracellular level and a decrease in peak shortening and shortening velocity. This was interpreted by the authors as suggesting that acetaldehyde plays a key role in the cardiac dysfunction seen after alcohol intake. Others have suggested that an acute decrease in mitochondrial glutathione content may play a role in mitochondrial damage and implicate oxidative stress as a contributor in this process. </para>
+            <para>The formation of fatty acid ethyl esters during the metabolism of alcohol and specific genetic defects in fatty acid ethyl ester synthase (which metabolizes these esters and may predispose individuals to these toxic effects) have been proposed to result in further impairment of mitochondrial phosphorylation. Acetaldehyde has also been associated with coronary vasospasm and the release of troponin T in the acute setting. The latter effect can be blocked by the administration of propranolol, implicating beta-adrenergic stimulation as an effect of acetaldehyde. </para>
+            <para>Other proposed mechanisms of injury include a direct inhibition of calcium-myofilament interaction, free radical induced lipopigment accumulation within the myocyte and inhibition of protein synthesis, an inflammatory or myocarditislike response (possibly secondary to antibodies formed against protein-acetaldehyde adducts), reduced receptor expression, abnormal membrane structure, disruption of zinc homeostasis, and an increase in myocardial superoxide dismutase activity (resulting in an antioxidant imbalance).<sup>
+                  <link type="references" ref="refsrc5">[5]</link>
+               </sup>
+            </para>
+         </pgroup>
+      </sect1>
+      <sect1 id="a3" type="content">
+         <title>Quantity of Alcohol Intake in Cardiac Disease</title>
+         <pgroup>
+            <para>Excessive intake of alcohol may result in increased systemic blood pressure in a dose-response relationship, and this may contribute to chronic myocardial dysfunction. Patients who consume more than 2 drinks per day have a 1.5- to 2-fold increase in hypertension compared with persons who do not drink alcohol, and this effect is most prominent when the daily intake of alcohol exceeds 5 drinks. Because hypertension may directly contribute to left ventricular (LV) dysfunction, this may be a confounding comorbidity in persons who abuse alcohol, and it should be differentiated from pure forms of AC. </para>
+            <para>In 1989, Urbano-Marquez et al reported on 48 men with alcohol abuse with a mean daily intake of 243 g of alcohol and showed (1) an inverse relationship between total lifetime intake and ejection fraction and fractional shortening and (2) a direct relationship between total lifetime intake and LV mass. In persons who consumed 70 g of ethanol (or the equivalent of 7 oz of whiskey, 20 oz of wine, or 72 oz of beer [ie, six 12-oz cans]) per day for 20 years, 36% had an abnormal ejection fraction. Age and nutritional status appeared to play little or no role.<sup>
+                  <link type="references" ref="refsrc6">[6]</link>
+               </sup>
+            </para>
+            <para>In a 1986 study, Richardson et al concluded that continuous, rather than episodic, drinking was a major risk factor for the development of heart failure and that this effect was unrelated to the hypertensive effect of alcohol. In the study, the authors evaluated 38 patients with nonischemic DC. Of these persons, 18 were classified as heavy drinkers (ie, 80 g/d or a lifetime dose of 250 kg), and 20 were classified as abstinent or light drinkers. Those classified as heavy drinkers all were men who predominantly drank beer.<sup>
+                  <link type="references" ref="refsrc7">[7]</link>
+               </sup>
+            </para>
+            <para>Other studies and reviews have also quoted quantities similar to those mentioned above, and the type of beverage consumed appeared to be irrelevant. </para>
+            <para>Binge drinking induces a systemic inflammatory reaction, which may lead to alcohol-induced myocardial inflammation. One study indicated that patients who repeatedly expose themselves to excessive amounts of alcohol may demonstrate evidence on magnetic resonance imaging (MRI) scans of alcohol-induced myocardial inflammation but not show deterioration in indices of LV performance. The study did not provide evidence of an absolute acute risk of cardiac events involved with binge drinking, and the clinical significance of the findings requires further investigation.<sup>
+                  <link type="references" ref="refsrc8">[8]</link>
+               </sup>
+            </para>
+         </pgroup>
+      </sect1>
+      <sect1 id="a4" type="content">
+         <title>Epidemiology</title>
+         <pgroup>
+            <title>Sex-related demographics</title>
+            <para>Currently available data indicate that certain aspects of alcoholic <link type="content" ref="152913-overview">cardiomyopathy</link> (AC) are affected by the patient's sex. Several authors have reported that although AC is a disease that affects males more often than females (due to a higher rate of alcohol abuse in men), females may be more sensitive to alcohol's cardiotoxic effects. </para>
+            <para>In 1997, Fernandez-Sola and colleagues evaluated 10 women and 26 men who were alcohol abusers and reported a similar prevalence of <link type="content" ref="895392-overview">cardiomyopathy</link> in the males and females, despite a lower total lifetime alcohol dose in the women.<sup>
+                  <link type="references" ref="refsrc9">[9]</link>
+               </sup>
+            </para>
+            <para>In 1995, Urbano-Marquez described similar results in a study of 50 women and 100 men who abused alcohol. The authors reported a lifetime dose of alcohol in the female group that was 60% of that in the male group, but they found an equal incidence of cardiomyopathy and myopathy in the males and females.<sup>
+                  <link type="references" ref="refsrc10">[10]</link>
+               </sup>
+            </para>
+            <para>Based on their work with a rat model, Jankala and colleagues suggested a link between lower levels of p53 mRNA expression and female susceptibility to the development of AC.<sup>
+                  <link type="references" ref="refsrc11">[11]</link>
+               </sup>
+            </para>
+         </pgroup>
+         <pgroup>
+            <title>Age-related demographics</title>
+            <para>Alcoholic cardiomyopathy is a disease that primarily affects persons of at least middle age and is observed less commonly in those younger than age 40 years, although preclinical cardiac abnormalities have been demonstrated in persons engaging in chronic alcohol abuse. This is believed to be due primarily to the fact that alcohol must be consumed excessively for at least 10 years to have a clinically relevant effect on the myocardium. </para>
+         </pgroup>
+      </sect1>
+      <sect1 id="a5" type="content">
+         <title>Prognosis</title>
+         <pgroup>
+            <para>The natural history of patients with alcoholic <link type="content" ref="153153-overview">cardiomyopathy</link> depends greatly on each patient's ability to cease alcohol consumption completely. Multiple case reports and small retrospective and prospective studies have clearly documented marked improvement in or, in some patients, normalization of cardiac function with abstinence. The following reports and studies provide impressive data on the utility of abstinence and the confirmation of alcohol consumption as a cause of DC. </para>
+            <para>Nakanishi et al identified 11 patients with AC and reported significant improvement in 8 of them after they abstained from alcohol use. In addition, a marked worsening was seen in the 3 patients who continued to abuse alcohol, including death from heart failure in 2 patients.<sup>
+                  <link type="references" ref="refsrc12">[12]</link>
+               </sup>
+            </para>
+            <para>A 12-month observational study of 20 patients with AC noted smaller cavity diameters, better clinical evaluation findings, and fewer hospitalizations in the 10 patients who abstained from alcohol use. </para>
+            <para>Guillo and colleagues evaluated 14 patients with AC over a 3-year period with serial examinations, electrocardiograms (ECGs), stress tests, echocardiograms, and MUGA scans. Of the 3 patients who continued to drink, 1 was lost to follow-up and 2 died. One patient underwent heart transplantation within the 3 years of follow-up observation, and 1 patient died from tamponade after an endomyocardial biopsy. Nine of the original 14 patients completed the 36-month follow-up period, 6 patients had marked improvement in symptoms and increased ejection fractions. The other 3 patients had no change in ejection fraction, one patient cut back alcohol consumption, and another patient resumed use after a period of abstinence.<sup>
+                  <link type="references" ref="refsrc13">[13]</link>
+               </sup>
+            </para>
+            <para>A 1- and 4-year follow-up study of 55 men with alcoholism showed that abstinence and controlled drinking of up to 60 g/day (4 drinks) resulted in comparable improvement in LV ejection fraction. Ten patients who continued to drink higher amounts of alcohol all died during the follow-up period. </para>
+            <para>Demakis and colleagues found that, overall, the 2 factors that were associated with a better prognosis in AC were abstinence and a shorter duration of symptoms before the initiation of therapy. In their study, perhaps the largest evaluation of the natural history of AC, the investigators prospectively followed 57 patients with AC and divided them into 3 groups: 15 patients who improved clinically, 12 patients who remained stable, and 30 patients whose conditions deteriorated. Of the 39 patients who continued to drink, only 4 patients improved. Eleven of the 18 patients who abstained improved; however, the condition of 3 patients who abstained continued to deteriorate.<sup>
+                  <link type="references" ref="refsrc14">[14]</link>
+               </sup>
+            </para>
+            <para>In 1996, Prazak et al conducted a retrospective study comparing 23 patients with AC to 52 patients with idiopathic DC and found that the 1-, 5-, and 10-year survival rates for AC were 100%, 81%, and 81%, respectively, compared with 89%, 48%, and 30%, respectively, for idiopathic DC. When transplant-free survival was compared between the 2 groups, the difference was more impressive, with 10-year survival rates of 81% and 20% for the AC and idiopathic DC patients, respectively. The 2 groups had similar ejection fractions, New York Heart Association class symptoms, and overall LV volume. The sole endpoint was all-cause mortality.<sup>
+                  <link type="references" ref="refsrc15">[15]</link>
+               </sup>
+            </para>
+            <para>In contrast to the Prazak study, a 1993 study by Redfield et al showed no difference in mortality between patients with AC and those with idiopathic DC.<sup>
+                  <link type="references" ref="refsrc16">[16]</link>
+               </sup>Prazak et al speculated that the outcomes in the reports may have differed because the patients in their study observed more complete abstinence and underwent aggressive medical therapy.<sup>
+                  <link type="references" ref="refsrc15">[15]</link>
+               </sup>
+            </para>
+         </pgroup>
+         <pgroup>
+            <title>Alcoholic cardiomyopathy and cirrhosis</title>
+            <para>For many years, people who abused alcohol and had cirrhosis were believed to be spared from the cardiotoxic effects of alcohol; conversely, those with <link type="content" ref="153062-overview">cardiomyopathy</link> were believed to be spared from cirrhosis. However, research has shown that this almost certainly is not the case. In a study, Estruch et al found that persons who abused alcohol and had been hospitalized solely for <link type="content" ref="1513631-overview">cardiomyopathy</link> had a higher incidence of cirrhosis than did alcohol abusers who did not have heart disease.<sup>
+                  <link type="references" ref="refsrc17">[17]</link>
+               </sup>
+            </para>
+         </pgroup>
+      </sect1>
+      <sect1 id="a6" type="content">
+         <title>Patient History</title>
+         <pgroup>
+            <para>Similar to the pathologic findings, the symptoms of alcoholic cardiomyopathy (AC) are essentially the same as those associated with other forms of DC. Dyspnea, orthopnea, and paroxysmal nocturnal dyspnea are the hallmark complaints, but chest discomfort, fatigue, palpitations, dizziness, syncope, anorexia, and many others are not uncommon. </para>
+            <para>The onset of symptoms is usually insidious, but acute decompensations are also observed, especially in patients with asymptomatic LV dysfunction who develop atrial fibrillation or other tachyarrhythmia and, because of this, are unable to increase their cardiac output. </para>
+            <para>Ask any patient presenting with new heart failure of unclear etiology about their alcohol history, with attention to daily, maximal, and lifetime intake and the duration of that intake. Several important studies have clearly shown a dose-dependent effect. </para>
+         </pgroup>
+      </sect1>
+      <sect1 id="a7" type="content">
+         <title>Physical Examination</title>
+         <pgroup>
+            <para>Physical examination findings in AC are not unique compared with findings in DC from other causes. Elevated systemic blood pressure may reflect excessive intake of alcohol, but not alcoholic cardiomyopathy per se. </para>
+            <para>Frequently, a relative decrease occurs in systolic blood pressure because of reduced cardiac output and increased diastolic blood pressure due to peripheral vasoconstriction, resulting in a decrease in the pulse pressure.</para>
+            <para>Cardiac percussion and palpation reveal evidence of an enlarged heart with a laterally displaced and diffuse point of maximal impulse. Auscultation can help to reveal the apical murmur of mitral regurgitation and the lower parasternal murmur of tricuspid regurgitation secondary to papillary muscle displacement and dysfunction. Third and fourth heart sounds can be heard, and they signify systolic and diastolic dysfunction. Pulmonary rales signify pulmonary congestion secondary to elevated left atrial and LV end-diastolic pressures. Jugular venous distention, peripheral edema, and hepatomegaly are evidence of elevated right heart pressures and right ventricular dysfunction. </para>
+            <para>Other findings may include cool extremities with decreased pulses and generalized cachexia, muscle atrophy, and weakness due to chronic heart failure and/or the direct effect of chronic alcohol consumption. </para>
+         </pgroup>
+      </sect1>
+      <sect1 id="a8" type="content">
+         <title>Laboratory Studies</title>
+         <pgroup>
+            <para>Results from serum chemistry evaluations have not been shown to be useful for distinguishing patients with AC from those with other forms of DC. Results from evaluations of mean cell volume, aspartate aminotransferase levels, alanine aminotransferase levels, lactate dehydrogenase (LDH) levels, and gamma-glutamyltransferase levels have been shown to be similar in persons with AC to those in persons with other forms of DC. However, results from tissue assays have been shown to be potentially helpful in distinguishing AC from other forms of DC. </para>
+            <para>Richardson et al showed an elevation of creatine kinase, LDH, malic dehydrogenase, and alpha-hydroxybutyric dehydrogenase levels in endomyocardial biopsy specimens taken from 38 patients with DC. </para>
+         </pgroup>
+      </sect1>
+      <sect1 id="a9" type="content">
+         <title>Imaging Studies</title>
+         <pgroup>
+            <para>Chest radiographs usually show evidence of cardiac enlargement, pulmonary congestion, and pleural effusions. </para>
+            <para>Results from resting and stress nuclear imaging techniques (eg, stress testing with thallium and sestamibi imaging, multiple gated acquisition [MUGA] scanning, positron emission tomography [PET scanning]) may be useful for evaluating cardiac size and function and for screening for coronary disease. </para>
+         </pgroup>
+         <pgroup>
+            <title>Echocardiography</title>
+            <para>Echocardiography is perhaps the most useful initial diagnostic tool in the evaluation of patients with heart failure. Because of the ease and speed of the test and its noninvasive nature, it is the study of choice in the initial and follow-up evaluation of most forms of cardiomyopathy. In addition, it provides information not only on overall heart size and function, but on valvular structure and function, wall motion and thickness, and pericardial disease. </para>
+            <para>Echocardiographic findings in persons with AC, which are similar to those in persons with idiopathic DC, are as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>4-chamber dilatation</para>
+               </listitem>
+               <listitem>
+                  <para>Globally decreased ventricular function</para>
+               </listitem>
+               <listitem>
+                  <para>Mitral and tricuspid regurgitation</para>
+               </listitem>
+               <listitem>
+                  <para>Pulmonary hypertension</para>
+               </listitem>
+               <listitem>
+                  <para>Evidence of diastolic dysfunction - These changes can be seen even in the absence of systolic dysfunction but seem to be more prevalent in patients with coexisting systolic dysfunction; the progression of diastolic dysfunction in asymptomatic individuals may be related to the duration of alcoholism </para>
+               </listitem>
+               <listitem>
+                  <para>Intracardiac thrombi (atrial or ventricular)</para>
+               </listitem>
+               <listitem>
+                  <para>LV hypertrophy</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <sect1 id="a10" type="content">
+         <title>Electrocardiography</title>
+         <pgroup>
+            <para>Electrocardiographic findings are frequently abnormal, and these findings may be the only indication of heart disease in asymptomatic patients. </para>
+            <para>Palpitations, dizziness, and syncope are common complaints and are frequently caused by arrhythmias (eg, atrial fibrillation, flutter) and premature contractions. In the setting of acute alcohol use or intoxication, this is called holiday heart syndrome, because the incidence is increased following weekends and during holiday seasons. </para>
+            <para>Other supraventricular tachyarrhythmias and sudden death have also been associated with alcohol use and AC, with the latter being most likely secondary to the development of ventricular fibrillation. Conduction disturbances, such as degrees of atrioventricular block, left or right bundle-branch block, and hemiblocks, are also observed. </para>
+            <para>Criteria associated with LV hypertrophy with a repolarization abnormality, prolonged repolarization (ie, QT interval), nonspecific ST- and T-wave changes, and Q waves have also been described. </para>
+         </pgroup>
+      </sect1>
+      <sect1 id="a11" type="content">
+         <title>Cardiac Catheterization</title>
+         <pgroup>
+            <para>In patients with DC, if additional questions remain after a history is obtained and noninvasive testing is performed, cardiac catheterization may be used to help exclude other etiologies of heart failure. </para>
+            <para>Although the most common cause of heart failure is coronary artery disease, ischemic cardiomyopathy is unlikely in the absence of a clear history of prior ischemic events or angina and in the absence of Q waves on the ECG strip. In most patients, exercise or pharmacologic stress testing with echocardiographic or nuclear imaging is an appropriate screening test for heart failure due to coronary artery disease. </para>
+            <para>In addition to the assessment of the status of the coronary arteries, cardiac catheterization may help obtain useful information regarding cardiac output, the degree of aortic or mitral valvular disease, and cardiac hemodynamics and filling pressures. Importantly however, remember that much of this information can be derived or inferred from the results of noninvasive testing. </para>
+            <para>In persons with AC, common findings after catheterization include nonobstructive coronary disease; elevated LV end-diastolic pressure, wedge pressure, pulmonary artery pressure, and right heart pressure; increased LV size with decreased overall function; and mild or moderate mitral regurgitation. Regional wall motion abnormalities are not uncommon, but they are usually less prominent than those observed in persons with ischemic heart disease. </para>
+         </pgroup>
+      </sect1>
+      <sect1 id="a12" type="content">
+         <title>Histologic Findings</title>
+         <pgroup>
+            <para>The pathologic and histologic findings of AC are essentially indistinguishable from those of other forms of DC. Findings from gross examination include an enlarged heart with 4-chamber dilatation and overall increased cardiac mass. Histologically, light microscopy reveals interstitial fibrosis (a finding that has been shown to be prevented by zinc supplementation in the mouse model), myocyte necrosis with hypertrophy of other myocytes, and evidence of inflammation. Electron microscopy reveals mitochondrial enlargement and disorganization, dilatation of the sarcoplasmic reticulum, fat and glycogen deposition, and dilatation of the intercalating discs. </para>
+            <para>Although the qualitative properties of AC and other forms of DC may be similar, quantitative differences may exist.</para>
+            <para>Comparing 20 patients who had AC with 10 patients with DC, Teragaki and colleagues reported less myocyte hypertrophy and fibrosis in patients with AC, found a greater improvement of cardiac size with treatment or abstinence in the AC group, and noted that the cardiac index was higher in patients with AC who had less fibrosis.<sup>
+                  <link type="references" ref="refsrc18|refsrc19">[18, 19]</link>
+               </sup>
+            </para>
+            <para>In the 1989 study by Urbano-Marquez et al, a comparison of symptomatic to asymptomatic patients revealed more extensive fibrosis in patients with symptoms.<sup>
+                  <link type="references" ref="refsrc6">[6]</link>
+               </sup>Other investigators have looked at immunohistologic markers and have suggested that the presence of these markers might suggest an inflammatory process such as myocarditis and that their absence may point more toward AC or an idiopathic etiology. </para>
+         </pgroup>
+      </sect1>
+      <sect1 id="a13" type="content">
+         <title>Alcohol Abstention and Pharmacologic Therapies</title>
+         <pgroup>
+            <para>The mainstay of therapy for AC is to treat the underlying cause, ie, to have the patient exercise complete and perpetual abstinence from all alcohol consumption. The efficacy of abstinence has been shown in persons with early disease (eg, prior to the onset of severe myocardial fibrosis) and in individuals with more advanced disease (see Prognosis). </para>
+            <para>Medical therapy for AC is identical to conventional therapy for other forms of heart failure. This includes treatment with an ACE inhibitor and with digoxin (for patients with symptomatic LV dysfunction), as well as the symptomatic use of diuretics. Newer therapies, such as beta blockers in stable patients without decompensated heart failure, are also used. </para>
+            <para>Electrolyte abnormalities, including hypokalemia, hypomagnesemia, and hypophosphatemia, should be corrected promptly because of the risk of arrhythmia and sudden death. </para>
+            <para>Although anticoagulation may be of benefit to patients with profound LV dysfunction and atrial fibrillation, the risks must be weighed heavily in this patient population. </para>
+            <para>Thiamine (200 mg once daily), multivitamins, vitamin B-12, folate, and mineral supplementation are beneficial for patients with AC because of the significant prevalence of concomitant nutritional or electrolyte deficiencies in these patients. Animal studies have suggested a benefit from vitamins B-1 and B-12, speculated to be due to protective effects against apoptosis and protein damage. </para>
+            <para>A summary of the treatment for AC is as follows:</para>
+            <itemizedlist>
+               <listitem>
+                  <para>Abstention from alcohol</para>
+               </listitem>
+               <listitem>
+                  <para>Vasodilators - ACE inhibitors, angiotensin receptor blockers (the work of Cheng and colleagues in 2006 suggested that these may prevent the development of AC<sup>
+                        <link type="references" ref="refsrc20">[20]</link>
+                     </sup>), nitrates, hydralazine</para>
+               </listitem>
+               <listitem>
+                  <para>
+            Digoxin
+          </para>
+               </listitem>
+               <listitem>
+                  <para>Diuretics</para>
+               </listitem>
+               <listitem>
+                  <para>Beta blockers</para>
+               </listitem>
+               <listitem>
+                  <para>Anticoagulation (possibly)</para>
+               </listitem>
+               <listitem>
+                  <para>Intravenous inotropic agents</para>
+               </listitem>
+               <listitem>
+                  <para>Cardiac transplantation</para>
+               </listitem>
+            </itemizedlist>
+         </pgroup>
+      </sect1>
+      <authors>
+         <contrbtr_group>
+            <contrbtr_type_lbl>Author</contrbtr_type_lbl>
+            <contrbtr_element>
+               <contrbtr_nm>Eric D Popjes, MD</contrbtr_nm>
+               <contrbtr_title>Assistant Professor of Medicine, Penn State Heart and Vascular Institute, Milton S Hershey Medical Center, Pennsylvania State University College of Medicine</contrbtr_title>
+               <contrbtr_bio>Eric D Popjes, MD is a member of the following medical societies: <a href="http://asecho.org">American Society of Echocardiography</a>, <a href="http://www.ishlt.org">International Society for Heart and Lung Transplantation</a>, <a href="http://www.hfsa.org">Heart Failure Society of America</a>
+               </contrbtr_bio>
+               <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+            </contrbtr_element>
+         </contrbtr_group>
+         <contrbtr_group>
+            <contrbtr_type_lbl>Coauthor(s)</contrbtr_type_lbl>
+            <contrbtr_element>
+               <contrbtr_nm>Frank E Silvestry, MD</contrbtr_nm>
+               <contrbtr_title>Director, Penn Cardiac Care at Radnor; Associate Professor of Medicine, Cardiovascular Division, University of Pennsylvania School of Medicine</contrbtr_title>
+               <contrbtr_bio>Frank E Silvestry, MD is a member of the following medical societies: <a href="http://www.cardiosource.org">American College of Cardiology</a>, <a href="http://ama-assn.org">American Medical Association</a>, <a href="http://asecho.org">American Society of Echocardiography</a>
+               </contrbtr_bio>
+               <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+            </contrbtr_element>
+         </contrbtr_group>
+         <contrbtr_group>
+            <contrbtr_type_lbl>Pharmacy Editor</contrbtr_type_lbl>
+            <contrbtr_element>
+               <contrbtr_nm>Francisco Talavera, PharmD, PhD</contrbtr_nm>
+               <contrbtr_title>Adjunct Assistant Professor, University of Nebraska Medical Center College of Pharmacy; Editor-in-Chief, Medscape Drug Reference</contrbtr_title>
+               <contrbtr_disclsr>Disclosure: Received salary from Medscape for employment. for: Medscape.</contrbtr_disclsr>
+            </contrbtr_element>
+         </contrbtr_group>
+         <contrbtr_group>
+            <contrbtr_type_lbl>Chief Editor</contrbtr_type_lbl>
+            <contrbtr_element>
+               <contrbtr_nm>Henry H Ooi, MD, MRCPI</contrbtr_nm>
+               <contrbtr_title>Director, Advanced Heart Failure and Cardiac Transplant Program, Nashville Veterans Affairs Medical Center; Assistant Professor of Medicine, Vanderbilt University School of Medicine</contrbtr_title>
+               <contrbtr_disclsr>Disclosure: Nothing to disclose.</contrbtr_disclsr>
+            </contrbtr_element>
+         </contrbtr_group>
+         <contrbtr_group>
+            <contrbtr_type_lbl>Additional Contributors</contrbtr_type_lbl>
+            <contrbtr_element>
+               <contrbtr_nm>Gary Edward Sander, MD, PhD, FACC, FAHA, FACP, FASH</contrbtr_nm>
+               <contrbtr_title>Professor of Medicine, Director of CME Programs, Team Leader, Root Cause Analysis, Tulane University Heart and Vascular Institute; Director of In-Patient Cardiology, Tulane Service, University Hospital; Visiting Physician, Medical Center of Louisiana at New Orleans; Faculty, Pennington Biomedical Research Institute, Louisiana State University; Professor, Tulane University School of Medicine</contrbtr_title>
+               <contrbtr_bio>Gary Edward Sander, MD, PhD, FACC, FAHA, FACP, FASH is a member of the following medical societies: <a href="http://www.alphaomegaalpha.org/">Alpha Omega Alpha</a>, <a href="http://www.acs.org">American Chemical Society</a>, <a href="http://www.aspet.org/">American Society for Pharmacology and Experimental Therapeutics</a>, <a href="http://www.thoracic.org">American Thoracic Society</a>, <a href="http://www.lipid.org">National Lipid Association</a>, <a href="http://www.hfsa.org">Heart Failure Society of America</a>, <a href="http://www.ssciweb.org">Southern Society for Clinical Investigation</a>, <a href="http://www.afmr.org">American Federation for Clinical Research</a>, <a href="http://www.cardiosource.org">American College of Cardiology</a>, <a href="http://www.chestnet.org">American College of Chest Physicians</a>, <a href="http://www.acponline.org">American College of Physicians</a>, <a href="http://www.afmr.org">American Federation for Medical Research</a>, <a href="http://www.heart.org">American Heart Association</a>, <a href="http://www.ash-us.org">American Society of Hypertension</a>, <a href="http://www.lsms.org">Louisiana State Medical Society</a>
+               </contrbtr_bio>
+               <contrbtr_disclsr>Disclosure: Received honoraria from Forest Labs for speaking and teaching.</contrbtr_disclsr>
+            </contrbtr_element>
+         </contrbtr_group>
+      </authors>
+      <refgrp type="references">
+         <ritem id="refsrc1" ref="http://reference.medscape.com/medline/abstract/18783396">
+            <para>Jing L, Li WM, Zhou LJ, Li S, Kou JJ, Song J. Expression of renin-angiotensin system and peroxisome proliferator-activated receptors in alcoholic cardiomyopathy. <em>Alcohol Clin Exp Res</em>. 2008 Nov. 32(11):1999-2007. <a href="http://reference.medscape.com/medline/abstract/18783396">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc2" ref="http://reference.medscape.com/medline/abstract/24582196">
+            <para>O'Keefe JH, Bhatti SK, Bajwa A, DiNicolantonio JJ, Lavie CJ. Alcohol and cardiovascular health: the dose makes the poison…or the remedy. <em>Mayo Clin Proc</em>. 2014 Mar. 89(3):382-93. <a href="http://reference.medscape.com/medline/abstract/24582196">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc3" ref="http://reference.medscape.com/medline/abstract/24671642">
+            <para>Piano MR, Phillips SA. Alcoholic cardiomyopathy: pathophysiologic insights. <em>Cardiovasc Toxicol</em>. 2014 Dec. 14(4):291-308. <a href="http://reference.medscape.com/medline/abstract/24671642">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4177522/">[Full Text]</a>.</para>
+         </ritem>
+         <ritem id="refsrc4" ref="http://reference.medscape.com/medline/abstract/24852753">
+            <para>Laurent D, Mathew JE, Mitry M, Taft M, Force A, Edwards JG. Chronic ethanol consumption increases myocardial mitochondrial DNA mutations: a potential contribution by mitochondrial topoisomerases. <em>Alcohol Alcohol</em>. 2014 Jul-Aug. 49(4):381-9. <a href="http://reference.medscape.com/medline/abstract/24852753">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4060737/">[Full Text]</a>.</para>
+         </ritem>
+         <ritem id="refsrc5" ref="http://reference.medscape.com/medline/abstract/15897732">
+            <para>Fatjo F, Fernandez-Sola J, Lluis M, et al. Myocardial antioxidant status in chronic alcoholism. <em>Alcohol Clin Exp Res</em>. 2005 May. 29(5):864-70. <a href="http://reference.medscape.com/medline/abstract/15897732">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc6" ref="http://reference.medscape.com/medline/abstract/2913506">
+            <para>Urbano-Marquez A, Estruch R, Navarro-Lopez F, et al. The effects of alcoholism on skeletal and cardiac muscle. <em>N Engl J Med</em>. 1989 Feb 16. 320(7):409-15. <a href="http://reference.medscape.com/medline/abstract/2913506">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc7" ref="http://reference.medscape.com/medline/abstract/3730217">
+            <para>Richardson PJ, Wodak AD, Atkinson L, Saunders JB, Jewitt DE. Relation between alcohol intake, myocardial enzyme activity, and myocardial function in dilated cardiomyopathy. Evidence for the concept of alcohol induced heart muscle disease. <em>Br Heart J</em>. 1986 Aug. 56(2):165-70. <a href="http://reference.medscape.com/medline/abstract/3730217">[Medline]</a>. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1236828/">[Full Text]</a>.</para>
+         </ritem>
+         <ritem id="refsrc8" ref="http://reference.medscape.com/medline/abstract/20858877">
+            <para>Zagrosek A, Messroghli D, Schulz O, Dietz R, Schulz-Menger J. Effect of binge drinking on the heart as assessed by cardiac magnetic resonance imaging. <em>JAMA</em>. 2010 Sep 22. 304(12):1328-30. <a href="http://reference.medscape.com/medline/abstract/20858877">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc9" ref="http://reference.medscape.com/medline/abstract/9285662">
+            <para>Fernandez-Sola J, Estruch R, Nicolás JM, et al. Comparison of alcoholic cardiomyopathy in women versus men. <em>Am J Cardiol</em>. 1997 Aug 15. 80(4):481-5. <a href="http://reference.medscape.com/medline/abstract/9285662">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc10" ref="http://reference.medscape.com/medline/abstract/7596003">
+            <para>Urbano-Marquez A, Estruch R, Fernandez-Sola J, et al. The greater risk of alcoholic cardiomyopathy and myopathy in women compared with men. <em>JAMA</em>. 1995 Jul 12. 274(2):149-54. <a href="http://reference.medscape.com/medline/abstract/7596003">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc11" ref="http://reference.medscape.com/medline/abstract/16131843">
+            <para>Jankala H, Eriksson PC, Eklund K, et al. Effect of chronic ethanol ingestion and gender on heart left ventricular p53 gene expression. <em>Alcohol Clin Exp Res</em>. 2005 Aug. 29(8):1368-73. <a href="http://reference.medscape.com/medline/abstract/16131843">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc12" ref="http://reference.medscape.com/medline/abstract/2148354">
+            <para>Nakanishi O, Yokota Y, Fukuzaki H. Comparative study of dilated cardiomyopathy and specific heart muscle diseases from pathophysiological aspects--echocardiographic observation. <em>Jpn Circ J</em>. 1990 Sep. 54(9):1147-57. <a href="http://reference.medscape.com/medline/abstract/2148354">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc13" ref="http://reference.medscape.com/medline/abstract/9164905">
+            <para>Guillo P, Mansourati J, Maheu B, et al. Long-term prognosis in patients with alcoholic cardiomyopathy and severe heart failure after total abstinence. <em>Am J Cardiol</em>. 1997 May 1. 79(9):1276-8. <a href="http://reference.medscape.com/medline/abstract/9164905">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc14" ref="http://reference.medscape.com/medline/abstract/4273902">
+            <para>Demakis JG, Proskey A, Rahimtoola SH, et al. The natural course of alcoholic cardiomyopathy. <em>Ann Intern Med</em>. 1974 Mar. 80(3):293-7. <a href="http://reference.medscape.com/medline/abstract/4273902">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc15" ref="http://reference.medscape.com/medline/abstract/8732379">
+            <para>Prazak P, Pfisterer M, Osswald S, Buser P, Burkart F. Differences of disease progression in congestive heart failure due to alcoholic as compared to idiopathic dilated cardiomyopathy. <em>Eur Heart J</em>. 1996 Feb. 17(2):251-7. <a href="http://reference.medscape.com/medline/abstract/8732379">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc16" ref="http://reference.medscape.com/medline/abstract/8245350">
+            <para>Redfield MM, Gersh BJ, Bailey KR, Ballard DJ, Rodeheffer RJ. Natural history of idiopathic dilated cardiomyopathy: effect of referral bias and secular trend. <em>J Am Coll Cardiol</em>. 1993 Dec. 22(7):1921-6. <a href="http://reference.medscape.com/medline/abstract/8245350">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc17" ref="http://reference.medscape.com/medline/abstract/7635421">
+            <para>Estruch R, Fernandez-Sola J, Sacanella E, et al. Relationship between cardiomyopathy and liver disease in chronic alcoholism. <em>Hepatology</em>. 1995 Aug. 22(2):532-8. <a href="http://reference.medscape.com/medline/abstract/7635421">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc18" ref="http://reference.medscape.com/medline/abstract/8438710">
+            <para>Teragaki M, Takeuchi K, Takeda T. Clinical and histologic features of alcohol drinkers with congestive heart failure. <em>Am Heart J</em>. 1993 Mar. 125(3):808-17. <a href="http://reference.medscape.com/medline/abstract/8438710">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc19" ref="http://reference.medscape.com/medline/abstract/11471656">
+            <para>Teragaki M, Takeuchi K, Toda I, et al. Point mutations in mitochondrial DNA of patients with alcoholic cardiomyopathy. <em>Heart Vessels</em>. 2000. 15(4):172-5. <a href="http://reference.medscape.com/medline/abstract/11471656">[Medline]</a>. </para>
+         </ritem>
+         <ritem id="refsrc20" ref="http://reference.medscape.com/medline/abstract/16831986">
+            <para>Cheng CP, Cheng HJ, Cunningham C, et al. Angiotensin II type 1 receptor blockade prevents alcoholic cardiomyopathy. <em>Circulation</em>. 2006 Jul 18. 114(3):226-36. <a href="http://reference.medscape.com/medline/abstract/16831986">[Medline]</a>. </para>
+         </ritem>
+      </refgrp>
+   </content_section>
+</article>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center" android:orientation="vertical" android:id="@+id/connection_error_layout" android:background="@color/loading_view_background" android:visibility="invisible" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="18sp" android:textColor="@color/connection_error_text_color" android:gravity="center" android:id="@+id/connection_error_textview" android:padding="20dp" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/server_connection_error"/>
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:id="@+id/oldest_first" android:title="@string/consult_replies_oldest_first"/>
+    <item android:id="@+id/newest_first" android:title="@string/consult_replies_newest_first"/>
+    <item android:id="@+id/most_popular" android:title="@string/consult_replies_most_popular"/>
+</menu>

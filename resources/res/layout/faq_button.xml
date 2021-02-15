@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <Button android:textAppearance="@style/BaseRxBodyTextAppearance.Normal" android:gravity="center_vertical" android:id="@+id/button_faq" android:background="@drawable/button_faq_background" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/faq_button_text" android:drawableRight="@drawable/ic_keyboard_arrow_right_black_24dp" android:contentDescription="@string/faq_button_content_description" android:elevation="0dp" style="?android:attr/borderlessButtonStyle"/>
+</merge>

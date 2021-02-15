@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:background="@color/medscape_blue" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:title="@string/title_activity_drug_interaction" android:elevation="4dp" app:titleTextColor="@color/white"/>
+    <LinearLayout android:orientation="horizontal" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="4dp">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/round_cornered_rectangle_white" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="9dp" android:layout_marginRight="9dp" android:layout_marginBottom="14dp">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginRight="9dp" android:src="@drawable/ic_search_black_24dp" android:tint="#005982"/>
+            <EditText android:textSize="16dp" android:textColor="@color/black" android:id="@+id/drug_interaction_search" android:background="@android:color/transparent" android:paddingTop="14dp" android:paddingRight="14dp" android:paddingBottom="14dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:hint="@string/edit_text_hint_search_drugs" android:maxLines="1" android:singleLine="true"/>
+        </LinearLayout>
+    </LinearLayout>
+    <include layout="@layout/content_drug_interaction"/>
+</LinearLayout>

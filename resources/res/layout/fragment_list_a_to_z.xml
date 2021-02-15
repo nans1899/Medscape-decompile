@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@android:color/white" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textColor="#dd000000" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@+id/no_search_results_text_view" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="15dp" android:text="@string/no_med_search_results"/>
+    <RelativeLayout android:id="@+id/drugsPlaceHolder" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/recycler_view" android:paddingTop="@dimen/activity_vertical_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:scrollbars="vertical" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@+id/layout_dont_see_your_med"/>
+        <include android:id="@+id/layout_dont_see_your_med" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" layout="@layout/fragment_dont_see_your_med"/>
+    </RelativeLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@+id/drugs_atoz_progress" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+</FrameLayout>

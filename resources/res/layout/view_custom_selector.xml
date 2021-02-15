@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@drawable/rectangular_ripple" android:paddingLeft="16dp" android:paddingTop="16dp" android:paddingRight="16dp" android:paddingBottom="16dp" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:orientation="horizontal" android:id="@+id/llLabel" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true">
+        <TextView android:textColor="@color/auth_component_black" android:id="@+id/textViewLabel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=""/>
+    </LinearLayout>
+    <TextView android:textColor="@color/app_accent_color" android:ellipsize="end" android:gravity="right|center_vertical|center_horizontal|center" android:id="@+id/textViewValue" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="United States" android:singleLine="true" android:layout_toRightOf="@+id/llLabel" android:layout_alignParentRight="true" android:layout_centerVertical="true"/>
+</RelativeLayout>

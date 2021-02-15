@@ -1,0 +1,42 @@
+>>>> BAD JSON MARKER <<<
+[{
+		"NotificationType": "1",
+		"DistributionType": "1",
+		"Enabled": false
+	}, {
+		"NotificationType": "1",
+		"DistributionType": "2",
+		"Enabled": false
+	}, {
+		"NotificationType": "2",
+		"DistributionType": "1",
+		"Enabled": false
+	}, {
+		"NotificationType": "2",
+		"DistributionType": "2",
+		"Enabled": true
+	}, {
+		"NotificationType": "3",
+		"DistributionType": "1",
+		"Enabled": false
+	}, {
+		"NotificationType": "3",
+		"DistributionType": "2",
+		"Enabled": true
+	}, {
+		"NotificationType": "4",
+		"DistributionType": "1",
+		"Enabled": false
+	}, {
+		"NotificationType": "4",
+		"DistributionType": "2",
+		"Enabled": true
+	}, {
+		"NotificationType": "6",
+		"DistributionType": "1",
+		"Enabled": false
+	}, {
+		"NotificationType": "6",
+		"DistributionType": "2",
+		"Enabled": true
+	}]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:paddingLeft="@dimen/listview_margin_left" android:paddingTop="@dimen/list_view_padding_top" android:paddingRight="@dimen/listview_margin_left" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/listview_margin_left" android:paddingEnd="@dimen/listview_margin_left">
+    <TextView android:gravity="start" android:id="@+id/result_title_text_view" android:background="@color/result_title_bkg" android:paddingLeft="@dimen/result_padding_horizontal" android:paddingTop="@dimen/result_padding_vertical" android:paddingRight="@dimen/result_padding_horizontal" android:paddingBottom="@dimen/result_padding_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/result_padding_horizontal" android:paddingEnd="@dimen/result_padding_horizontal" style="@style/list_view_result_default_title"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <View android:background="@color/result_title_border" android:layout_width="1dp" android:layout_height="match_parent"/>
+        <LinearLayout android:orientation="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1">
+            <TextView android:gravity="center" android:padding="@dimen/baxter_result_padding" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/baxter_header_option" android:layout_weight="1" style="@style/baxter_row_titles"/>
+            <TextView android:gravity="end" android:padding="@dimen/baxter_result_padding" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/baxter_header_night" android:layout_weight="1" style="@style/baxter_row_titles"/>
+            <TextView android:gravity="end" android:padding="@dimen/baxter_result_padding" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/baxter_header_day" android:layout_weight="1" style="@style/baxter_row_titles"/>
+        </LinearLayout>
+        <View android:background="@color/result_title_border" android:layout_width="1dp" android:layout_height="match_parent"/>
+    </LinearLayout>
+</LinearLayout>

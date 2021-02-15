@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:textSize="22sp" android:textColor="@color/consult_profile_no_items" android:id="@+id/query_hint" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:text="@string/consult_main_search_hint" android:layout_centerHorizontal="true"/>
+        <androidx.recyclerview.widget.RecyclerView android:id="@+id/search_recycler" android:background="@color/consult_timeline_background" android:paddingTop="8dp" android:visibility="gone" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <TextView android:textSize="22sp" android:textColor="@color/consult_profile_no_items" android:id="@+id/no_results_msg" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/consult_search_no_results" android:layout_centerInParent="true"/>
+    </RelativeLayout>
+    <RelativeLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ProgressBar android:id="@+id/progressBar" android:background="@android:color/transparent" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateDrawable="@drawable/progress" android:layout_centerInParent="true" android:progressBarStyleInverse="?android:attr/progressBarStyleInverse"/>
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:background="@drawable/selector_white_background" android:paddingLeft="@dimen/listview_margin_left" android:focusable="true" android:clickable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/listview_margin_left">
+    <include layout="@layout/view_list_view_separator"/>
+    <RelativeLayout android:paddingTop="@dimen/list_view_padding_top" android:paddingRight="@dimen/listview_margin_right" android:paddingBottom="@dimen/list_view_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/min_row_height_multiple_choice" android:paddingEnd="@dimen/listview_margin_right">
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@+id/checkbox" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_toStartOf="@+id/checkbox" android:layout_alignParentStart="true">
+            <TextView android:id="@+id/text_view_primary" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/calculator_question_choice_title"/>
+            <TextView android:id="@+id/text_view_secondary" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/calculator_question_choice_title_secondary"/>
+        </LinearLayout>
+        <CheckBox android:id="@+id/checkbox" android:background="@null" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+</LinearLayout>

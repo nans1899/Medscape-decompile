@@ -1,0 +1,20 @@
+{
+  "consult": {
+    "featureStatus": "enabled",
+    "capabilities": {
+      "topFeed": "disabled",
+      "leaderboard": "disabled"
+    },
+    "eulaVersion": 1,
+    "eulaURL": "http://www.medscape.com/noscan/mobileapp/public/native-ipad/config/consult_terms"
+  },
+  "proclivity": {
+    "featureStatus": "enabled"
+  },
+  "sharethrough": {
+    "featureStatus": "enabled"
+  },
+  "mediaNet": {
+    "featureStatus": "enabled"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "dfpData": {
+    "pageSegVarS": {
+      "art": "878624",
+      "ssp": "2",
+      "pub": "30197",
+      "scg": "3032392",
+      "cg": "11"
+    },
+    "reqHeaders": {
+      "domainCategory": "",
+      "device": "",
+      "ep": "",
+      "domain": "",
+      "kw": ""
+    },
+    "userSegVars": {
+      "dt": "000000",
+      "usp": "185",
+      "pf": "10"
+    },
+    "webSegVars": {
+      "env": "0",
+      "pc": "content",
+      "spon": "",
+      "envp": ""
+    }
+  },
+  "requestedSteps": [
+    "pb"
+  ]
+}

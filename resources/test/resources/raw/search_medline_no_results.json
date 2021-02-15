@@ -1,0 +1,22 @@
+{
+	"data": {
+		"responseHeader": {
+			"status": "0",
+			"params": {
+				"q": "bznb snjsd",
+				"rows": 50,
+				"version": "1",
+				"collection": "profnlmmedline"
+			}
+		},
+		"response": {
+			"numFound": 0,
+			"start": 0,
+			"maxScore": null,
+			"docs": []
+		}
+	},
+	"code": 1,
+	"stat": "Success",
+	"msg": null
+}

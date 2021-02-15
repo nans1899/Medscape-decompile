@@ -1,0 +1,30 @@
+{
+  "code": 1,
+  "data": {
+    "edgetimezonename": "america/new_york",
+    "edgecountry": "germany",
+    "edgecity": "new york",
+    "edgecountrycode": "300",
+    "edgecityconf": "99",
+    "edgelongitude": "73.9993",
+    "edgeregioncode": "33",
+    "ip": "207.138.251.2",
+    "edgetwolettercountry": "de",
+    "edgemetrocode": "501",
+    "edgecontinentcode": "6",
+    "edgecitycode": "57",
+    "edgeregion": "ny",
+    "edgeareacodes": "212/646/917/929",
+    "edgepostalconf": "30",
+    "transid": "7a8a0ce7715e4d6aac4dd3dbffde8bea",
+    "edgepostalcode": "10011",
+    "edgelatitude": "40.7418",
+    "edgecountryconf": "99",
+    "edgeregionconf": "99",
+    "edgegmtoffset": "400",
+    "edgeindst": "y",
+    "edgeconnspeed": "broadband",
+    "edgecounty": "new york"
+  },
+  "status": "ok"
+}

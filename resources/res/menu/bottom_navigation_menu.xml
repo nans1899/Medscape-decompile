@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@drawable/ic_bottom_home" android:id="@+id/bottomnav_home" android:title="@string/bottomnav_home"/>
+    <item android:icon="@drawable/ic_bottom_news" android:id="@+id/bottomnav_news" android:title="@string/bottomnav_news"/>
+    <item android:icon="@drawable/ic_bottom_consult" android:id="@+id/bottomnav_consult" android:title="@string/bottomnav_consult"/>
+    <item android:icon="@drawable/ic_bottom_education" android:id="@+id/bottomnav_edu" android:title="@string/bottomnav_education"/>
+    <item android:icon="@drawable/ic_bottom_events" android:id="@+id/bottomnav_events" android:title="@string/bottomnav_events"/>
+</menu>

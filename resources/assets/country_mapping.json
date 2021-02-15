@@ -1,0 +1,2198 @@
+{
+  "version": 1,
+  "data": {
+    "associated_groups": {
+      "webmd": [],
+      "affiliate": []
+    },
+    "direct_mappings": [
+      {
+        "affiliate_item": {
+          "id": "19",
+          "title": "Afghanistan"
+        },
+        "webmd_item": {
+          "id": "af"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "20",
+          "title": "Albania"
+        },
+        "webmd_item": {
+          "id": "al"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "21",
+          "title": "Algeria"
+        },
+        "webmd_item": {
+          "id": "dz"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "22",
+          "title": "American Samoa"
+        },
+        "webmd_item": {
+          "id": "as"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "23",
+          "title": "Andorra"
+        },
+        "webmd_item": {
+          "id": "ad"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "24",
+          "title": "Angola"
+        },
+        "webmd_item": {
+          "id": "ao"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "25",
+          "title": "Anguilla"
+        },
+        "webmd_item": {
+          "id": "ai"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "26",
+          "title": "Antarctica"
+        },
+        "webmd_item": {
+          "id": "aq"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "27",
+          "title": "Antigua & Barbuda"
+        },
+        "webmd_item": {
+          "id": "ag"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "28",
+          "title": "Antilles, Netherlands"
+        },
+        "webmd_item": {
+          "id": "an"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "29",
+          "title": "Argentina"
+        },
+        "webmd_item": {
+          "id": "ar"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "30",
+          "title": "Armenia"
+        },
+        "webmd_item": {
+          "id": "am"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "31",
+          "title": "Aruba"
+        },
+        "webmd_item": {
+          "id": "aw"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "2",
+          "title": "Australia"
+        },
+        "webmd_item": {
+          "id": "au"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "32",
+          "title": "Austria"
+        },
+        "webmd_item": {
+          "id": "at"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "33",
+          "title": "Azerbaijan"
+        },
+        "webmd_item": {
+          "id": "az"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "34",
+          "title": "Bahamas"
+        },
+        "webmd_item": {
+          "id": "bs"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "35",
+          "title": "Bahrain"
+        },
+        "webmd_item": {
+          "id": "bh"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "36",
+          "title": "Bangladesh"
+        },
+        "webmd_item": {
+          "id": "bd"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "37",
+          "title": "Barbados"
+        },
+        "webmd_item": {
+          "id": "bb"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "38",
+          "title": "Belarus"
+        },
+        "webmd_item": {
+          "id": "by"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "39",
+          "title": "Belgium"
+        },
+        "webmd_item": {
+          "id": "be"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "40",
+          "title": "Belize"
+        },
+        "webmd_item": {
+          "id": "bz"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "41",
+          "title": "Benin"
+        },
+        "webmd_item": {
+          "id": "bj"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "42",
+          "title": "Bermuda"
+        },
+        "webmd_item": {
+          "id": "bm"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "43",
+          "title": "Bhutan"
+        },
+        "webmd_item": {
+          "id": "bt"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "44",
+          "title": "Bolivia"
+        },
+        "webmd_item": {
+          "id": "bo"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "45",
+          "title": "Bosnia and Herzegovina"
+        },
+        "webmd_item": {
+          "id": "ba"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "46",
+          "title": "Botswana"
+        },
+        "webmd_item": {
+          "id": "bw"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "3",
+          "title": "Brazil"
+        },
+        "webmd_item": {
+          "id": "br"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "47",
+          "title": "British Indian Ocean T."
+        },
+        "webmd_item": {
+          "id": "io"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "48",
+          "title": "British Virgin Islands"
+        },
+        "webmd_item": {
+          "id": "vg"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "49",
+          "title": "Brunei Darussalam"
+        },
+        "webmd_item": {
+          "id": "bn"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "50",
+          "title": "Bulgaria"
+        },
+        "webmd_item": {
+          "id": "bg"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "51",
+          "title": "Burkina Faso"
+        },
+        "webmd_item": {
+          "id": "bf"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "52",
+          "title": "Burundi"
+        },
+        "webmd_item": {
+          "id": "bi"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "53",
+          "title": "Cambodia"
+        },
+        "webmd_item": {
+          "id": "kh"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "54",
+          "title": "Cameroon"
+        },
+        "webmd_item": {
+          "id": "cm"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "4",
+          "title": "Canada"
+        },
+        "webmd_item": {
+          "id": "ca"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "55",
+          "title": "Cape Verde"
+        },
+        "webmd_item": {
+          "id": "cv"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "56",
+          "title": "Cayman Islands"
+        },
+        "webmd_item": {
+          "id": "ky"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "57",
+          "title": "Central African Republic"
+        },
+        "webmd_item": {
+          "id": "cf"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "58",
+          "title": "Chad"
+        },
+        "webmd_item": {
+          "id": "td"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "59",
+          "title": "Chile"
+        },
+        "webmd_item": {
+          "id": "co"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "5",
+          "title": "China"
+        },
+        "webmd_item": {
+          "id": "cn"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "60",
+          "title": "Christmas Island"
+        },
+        "webmd_item": {
+          "id": "cx"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "61",
+          "title": "Cocos (Keeling) Islands,"
+        },
+        "webmd_item": {
+          "id": "cc"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "62",
+          "title": "Colombia"
+        },
+        "webmd_item": {
+          "id": "co"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "63",
+          "title": "Comoros"
+        },
+        "webmd_item": {
+          "id": "km"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "64",
+          "title": "Congo"
+        },
+        "webmd_item": {
+          "id": "cg"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "65",
+          "title": "Cook Islands"
+        },
+        "webmd_item": {
+          "id": "ck"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "66",
+          "title": "Costa Rica"
+        },
+        "webmd_item": {
+          "id": "cr"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "67",
+          "title": "Cote D'Ivoire"
+        },
+        "webmd_item": {
+          "id": "ci"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "68",
+          "title": "Croatia"
+        },
+        "webmd_item": {
+          "id": "hr"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "69",
+          "title": "Cuba"
+        },
+        "webmd_item": {
+          "id": "cu"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "70",
+          "title": "Cyprus"
+        },
+        "webmd_item": {
+          "id": "cy"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "71",
+          "title": "Czech Republic"
+        },
+        "webmd_item": {
+          "id": "cz"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "72",
+          "title": "Denmark"
+        },
+        "webmd_item": {
+          "id": "dk"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "73",
+          "title": "Djibouti"
+        },
+        "webmd_item": {
+          "id": "dj"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "74",
+          "title": "Dominica"
+        },
+        "webmd_item": {
+          "id": "do"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "75",
+          "title": "Dominican Republic"
+        },
+        "webmd_item": {
+          "id": "do"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "76",
+          "title": "East Timor (Timor-Leste)"
+        },
+        "webmd_item": {
+          "id": "tl"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "77",
+          "title": "Ecuador"
+        },
+        "webmd_item": {
+          "id": "ec"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "78",
+          "title": "Egypt"
+        },
+        "webmd_item": {
+          "id": "eg"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "79",
+          "title": "El Salvador"
+        },
+        "webmd_item": {
+          "id": "sv"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "80",
+          "title": "Equatorial Guinea"
+        },
+        "webmd_item": {
+          "id": "gq"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "81",
+          "title": "Eritrea"
+        },
+        "webmd_item": {
+          "id": "er"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "82",
+          "title": "Estonia"
+        },
+        "webmd_item": {
+          "id": "ee"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "83",
+          "title": "Ethiopia"
+        },
+        "webmd_item": {
+          "id": "et"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "84",
+          "title": "Falkland Islands (Malvinas)"
+        },
+        "webmd_item": {
+          "id": "fk"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "85",
+          "title": "Faroe Islands"
+        },
+        "webmd_item": {
+          "id": "fo"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "86",
+          "title": "Fiji"
+        },
+        "webmd_item": {
+          "id": "fj"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "87",
+          "title": "Finland"
+        },
+        "webmd_item": {
+          "id": "fi"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "6",
+          "title": "France"
+        },
+        "webmd_item": {
+          "id": "fr"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "88",
+          "title": "French Guiana"
+        },
+        "webmd_item": {
+          "id": "gf"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "89",
+          "title": "French Polynesia"
+        },
+        "webmd_item": {
+          "id": "pf"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "90",
+          "title": "French Southern Terr."
+        },
+        "webmd_item": {
+          "id": "tf"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "91",
+          "title": "Gabon"
+        },
+        "webmd_item": {
+          "id": "ga"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "92",
+          "title": "Gambia"
+        },
+        "webmd_item": {
+          "id": "gm"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "93",
+          "title": "Georgia"
+        },
+        "webmd_item": {
+          "id": "ge"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "7",
+          "title": "Germany"
+        },
+        "webmd_item": {
+          "id": "de"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "94",
+          "title": "Ghana"
+        },
+        "webmd_item": {
+          "id": "gh"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "95",
+          "title": "Gibraltar"
+        },
+        "webmd_item": {
+          "id": "gi"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "96",
+          "title": "Greece"
+        },
+        "webmd_item": {
+          "id": "gr"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "97",
+          "title": "Greenland"
+        },
+        "webmd_item": {
+          "id": "gl"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "98",
+          "title": "Grenada"
+        },
+        "webmd_item": {
+          "id": "gd"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "99",
+          "title": "Guadeloupe"
+        },
+        "webmd_item": {
+          "id": "gp"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "100",
+          "title": "Guam"
+        },
+        "webmd_item": {
+          "id": "gu"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "101",
+          "title": "Guatemala"
+        },
+        "webmd_item": {
+          "id": "gt"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "102",
+          "title": "Guernsey and Alderney"
+        },
+        "webmd_item": {
+          "id": "gg"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "103",
+          "title": "Guiana, French"
+        },
+        "webmd_item": {
+          "id": "gf"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "104",
+          "title": "Guinea"
+        },
+        "webmd_item": {
+          "id": "gn"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "105",
+          "title": "Guinea, Equatorial"
+        },
+        "webmd_item": {
+          "id": "gq"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "106",
+          "title": "Guinea-Bissau"
+        },
+        "webmd_item": {
+          "id": "gw"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "107",
+          "title": "Guyana"
+        },
+        "webmd_item": {
+          "id": "gy"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "108",
+          "title": "Haiti"
+        },
+        "webmd_item": {
+          "id": "ht"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "109",
+          "title": "Honduras"
+        },
+        "webmd_item": {
+          "id": "hn"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "8",
+          "title": "Hong Kong"
+        },
+        "webmd_item": {
+          "id": "hk"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "110",
+          "title": "Hungary"
+        },
+        "webmd_item": {
+          "id": "hu"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "111",
+          "title": "Iceland"
+        },
+        "webmd_item": {
+          "id": "is"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "9",
+          "title": "India"
+        },
+        "webmd_item": {
+          "id": "in"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "112",
+          "title": "Indonesia"
+        },
+        "webmd_item": {
+          "id": "id"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "113",
+          "title": "Iran"
+        },
+        "webmd_item": {
+          "id": "ir"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "114",
+          "title": "Iraq"
+        },
+        "webmd_item": {
+          "id": "iq"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "115",
+          "title": "Israel"
+        },
+        "webmd_item": {
+          "id": "il"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "11",
+          "title": "Italy"
+        },
+        "webmd_item": {
+          "id": "it"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "116",
+          "title": "Ivory Coast (Cote d'Ivoire)"
+        },
+        "webmd_item": {
+          "id": "ci"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "117",
+          "title": "Jamaica"
+        },
+        "webmd_item": {
+          "id": "jm"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "12",
+          "title": "Japan"
+        },
+        "webmd_item": {
+          "id": "jp"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "118",
+          "title": "Jersey"
+        },
+        "webmd_item": {
+          "id": "je"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "119",
+          "title": "Jordan"
+        },
+        "webmd_item": {
+          "id": "jo"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "120",
+          "title": "Kazakhstan"
+        },
+        "webmd_item": {
+          "id": "kz"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "121",
+          "title": "Kenya"
+        },
+        "webmd_item": {
+          "id": "ke"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "122",
+          "title": "Kiribati"
+        },
+        "webmd_item": {
+          "id": "ki"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "123",
+          "title": "Kosovo"
+        },
+        "webmd_item": {
+          "id": "sr"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "124",
+          "title": "Kuwait"
+        },
+        "webmd_item": {
+          "id": "kw"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "125",
+          "title": "Kyrgyzstan"
+        },
+        "webmd_item": {
+          "id": "kg"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "126",
+          "title": "Laos"
+        },
+        "webmd_item": {
+          "id": "la"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "127",
+          "title": "Latvia"
+        },
+        "webmd_item": {
+          "id": "lv"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "128",
+          "title": "Lebanon"
+        },
+        "webmd_item": {
+          "id": "lb"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "129",
+          "title": "Lesotho"
+        },
+        "webmd_item": {
+          "id": "ls"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "130",
+          "title": "Liberia"
+        },
+        "webmd_item": {
+          "id": "lr"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "131",
+          "title": "Libya"
+        },
+        "webmd_item": {
+          "id": "ly"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "132",
+          "title": "Liechtenstein"
+        },
+        "webmd_item": {
+          "id": "li"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "133",
+          "title": "Lithuania"
+        },
+        "webmd_item": {
+          "id": "lt"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "134",
+          "title": "Luxembourg"
+        },
+        "webmd_item": {
+          "id": "lu"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "135",
+          "title": "Macao"
+        },
+        "webmd_item": {
+          "id": "mo"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "136",
+          "title": "Macedonia"
+        },
+        "webmd_item": {
+          "id": "mk"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "137",
+          "title": "Madagascar"
+        },
+        "webmd_item": {
+          "id": "mg"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "138",
+          "title": "Malawi"
+        },
+        "webmd_item": {
+          "id": "mw"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "139",
+          "title": "Malaysia"
+        },
+        "webmd_item": {
+          "id": "my"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "140",
+          "title": "Maldives"
+        },
+        "webmd_item": {
+          "id": "mv"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "141",
+          "title": "Mali"
+        },
+        "webmd_item": {
+          "id": "ml"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "142",
+          "title": "Malta"
+        },
+        "webmd_item": {
+          "id": "mt"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "143",
+          "title": "Marshall Islands"
+        },
+        "webmd_item": {
+          "id": "mh"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "144",
+          "title": "Martinique"
+        },
+        "webmd_item": {
+          "id": "mq"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "145",
+          "title": "Mauritania"
+        },
+        "webmd_item": {
+          "id": "mr"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "146",
+          "title": "Mauritius"
+        },
+        "webmd_item": {
+          "id": "mu"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "13",
+          "title": "Mexico"
+        },
+        "webmd_item": {
+          "id": "mx"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "147",
+          "title": "Micronesia"
+        },
+        "webmd_item": {
+          "id": "fm"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "148",
+          "title": "Middle East"
+        },
+        "webmd_item": {
+          "id": "0"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "149",
+          "title": "Moldova"
+        },
+        "webmd_item": {
+          "id": "0"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "150",
+          "title": "Monaco"
+        },
+        "webmd_item": {
+          "id": "mc"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "151",
+          "title": "Mongolia"
+        },
+        "webmd_item": {
+          "id": "mn"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "152",
+          "title": "Montenegro"
+        },
+        "webmd_item": {
+          "id": "me"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "153",
+          "title": "Montserrat"
+        },
+        "webmd_item": {
+          "id": "ms"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "154",
+          "title": "Morocco"
+        },
+        "webmd_item": {
+          "id": "ma"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "155",
+          "title": "Mozambique"
+        },
+        "webmd_item": {
+          "id": "mz"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "156",
+          "title": "Myanmar"
+        },
+        "webmd_item": {
+          "id": "mm"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "157",
+          "title": "Namibia"
+        },
+        "webmd_item": {
+          "id": "na"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "158",
+          "title": "Nauru"
+        },
+        "webmd_item": {
+          "id": "nr"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "159",
+          "title": "Nepal"
+        },
+        "webmd_item": {
+          "id": "np"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "160",
+          "title": "Netherlands"
+        },
+        "webmd_item": {
+          "id": "nl"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "161",
+          "title": "New Caledonia"
+        },
+        "webmd_item": {
+          "id": "nc"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "14",
+          "title": "New Zealand"
+        },
+        "webmd_item": {
+          "id": "nz"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "162",
+          "title": "Nicaragua"
+        },
+        "webmd_item": {
+          "id": "ni"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "163",
+          "title": "Niger"
+        },
+        "webmd_item": {
+          "id": "ne"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "164",
+          "title": "Nigeria"
+        },
+        "webmd_item": {
+          "id": "ng"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "165",
+          "title": "Niue"
+        },
+        "webmd_item": {
+          "id": "nu"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "0",
+          "title": "None Indicated"
+        },
+        "webmd_item": {
+          "id": "0"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "166",
+          "title": "Norfolk Island"
+        },
+        "webmd_item": {
+          "id": "nf"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "167",
+          "title": "North America"
+        },
+        "webmd_item": {
+          "id": "0"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "168",
+          "title": "North Korea"
+        },
+        "webmd_item": {
+          "id": "kp"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "169",
+          "title": "Northern Mariana Islands"
+        },
+        "webmd_item": {
+          "id": "mp"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "170",
+          "title": "Norway"
+        },
+        "webmd_item": {
+          "id": "no"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "242",
+          "title": "Not Indicated"
+        },
+        "webmd_item": {
+          "id": "0"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "171",
+          "title": "Oceania"
+        },
+        "webmd_item": {
+          "id": "0"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "172",
+          "title": "Oman"
+        },
+        "webmd_item": {
+          "id": "om"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "173",
+          "title": "Pakistan"
+        },
+        "webmd_item": {
+          "id": "pk"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "174",
+          "title": "Palau"
+        },
+        "webmd_item": {
+          "id": "pw"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "175",
+          "title": "Panama"
+        },
+        "webmd_item": {
+          "id": "pa"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "176",
+          "title": "Papua New Guinea"
+        },
+        "webmd_item": {
+          "id": "pg"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "177",
+          "title": "Paraguay"
+        },
+        "webmd_item": {
+          "id": "py"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "178",
+          "title": "Peru"
+        },
+        "webmd_item": {
+          "id": "pe"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "179",
+          "title": "Philippines"
+        },
+        "webmd_item": {
+          "id": "ph"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "180",
+          "title": "Pitcairn Island"
+        },
+        "webmd_item": {
+          "id": "pn"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "181",
+          "title": "Poland"
+        },
+        "webmd_item": {
+          "id": "pl"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "15",
+          "title": "Portugal"
+        },
+        "webmd_item": {
+          "id": "pt"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "182",
+          "title": "Puerto Rico"
+        },
+        "webmd_item": {
+          "id": "pr"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "183",
+          "title": "Qatar"
+        },
+        "webmd_item": {
+          "id": "qa"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "10",
+          "title": "Republic of Ireland"
+        },
+        "webmd_item": {
+          "id": "ie"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "184",
+          "title": "Romania"
+        },
+        "webmd_item": {
+          "id": "ro"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "185",
+          "title": "Russia"
+        },
+        "webmd_item": {
+          "id": "ru"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "186",
+          "title": "Rwanda"
+        },
+        "webmd_item": {
+          "id": "rw"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "187",
+          "title": "S Vincent & Grenadines"
+        },
+        "webmd_item": {
+          "id": "vc"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "188",
+          "title": "Sahara, Western"
+        },
+        "webmd_item": {
+          "id": "eh"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "189",
+          "title": "Saint Kitts and Nevis"
+        },
+        "webmd_item": {
+          "id": "kn"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "190",
+          "title": "Saint Lucia"
+        },
+        "webmd_item": {
+          "id": "lc"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "191",
+          "title": "Samoa"
+        },
+        "webmd_item": {
+          "id": "ws"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "192",
+          "title": "Saudi Arabia"
+        },
+        "webmd_item": {
+          "id": "sa"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "193",
+          "title": "Scotland"
+        },
+        "webmd_item": {
+          "id": "gb"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "194",
+          "title": "Senegal"
+        },
+        "webmd_item": {
+          "id": "sn"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "195",
+          "title": "Serbia"
+        },
+        "webmd_item": {
+          "id": "rs"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "196",
+          "title": "Seychelles"
+        },
+        "webmd_item": {
+          "id": "sc"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "197",
+          "title": "Sierra Leone"
+        },
+        "webmd_item": {
+          "id": "sl"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "198",
+          "title": "Singapore"
+        },
+        "webmd_item": {
+          "id": "sg"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "199",
+          "title": "Slovakia"
+        },
+        "webmd_item": {
+          "id": "sk"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "200",
+          "title": "Slovenia"
+        },
+        "webmd_item": {
+          "id": "si"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "201",
+          "title": "Solomon Islands"
+        },
+        "webmd_item": {
+          "id": "sb"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "202",
+          "title": "Somalia"
+        },
+        "webmd_item": {
+          "id": "so"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "203",
+          "title": "South Africa"
+        },
+        "webmd_item": {
+          "id": "za"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "204",
+          "title": "South Korea"
+        },
+        "webmd_item": {
+          "id": "kp"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "17",
+          "title": "Spain"
+        },
+        "webmd_item": {
+          "id": "es"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "205",
+          "title": "Sri Lanka (ex-Ceilan)"
+        },
+        "webmd_item": {
+          "id": "lk"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "206",
+          "title": "Sudan"
+        },
+        "webmd_item": {
+          "id": "sd"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "207",
+          "title": "Suriname"
+        },
+        "webmd_item": {
+          "id": "sr"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "208",
+          "title": "Svalbard & Jan Mayen Is."
+        },
+        "webmd_item": {
+          "id": "sj"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "209",
+          "title": "Swaziland"
+        },
+        "webmd_item": {
+          "id": "sz"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "17",
+          "title": "Sweden"
+        },
+        "webmd_item": {
+          "id": "se"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "210",
+          "title": "Switzerland"
+        },
+        "webmd_item": {
+          "id": "ch"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "211",
+          "title": "Syria Arab Republic"
+        },
+        "webmd_item": {
+          "id": "sy"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "212",
+          "title": "Taiwan"
+        },
+        "webmd_item": {
+          "id": "tw"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "213",
+          "title": "Tajikistan"
+        },
+        "webmd_item": {
+          "id": "tj"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "214",
+          "title": "Tanzania, United Rep. of"
+        },
+        "webmd_item": {
+          "id": "tz"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "215",
+          "title": "Thailand"
+        },
+        "webmd_item": {
+          "id": "th"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "216",
+          "title": "Timor-Leste (East Timor)"
+        },
+        "webmd_item": {
+          "id": "tl"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "217",
+          "title": "Togo"
+        },
+        "webmd_item": {
+          "id": "tg"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "218",
+          "title": "Tokelau"
+        },
+        "webmd_item": {
+          "id": "tk"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "219",
+          "title": "Tonga"
+        },
+        "webmd_item": {
+          "id": "to"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "220",
+          "title": "Trinidad & Tobago"
+        },
+        "webmd_item": {
+          "id": "tt"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "221",
+          "title": "Tunisia"
+        },
+        "webmd_item": {
+          "id": "tn"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "222",
+          "title": "Turkey"
+        },
+        "webmd_item": {
+          "id": "tr"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "223",
+          "title": "Turkmenistan"
+        },
+        "webmd_item": {
+          "id": "tm"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "224",
+          "title": "Turks and Caicos Islands"
+        },
+        "webmd_item": {
+          "id": "tc"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "225",
+          "title": "Tuvalu"
+        },
+        "webmd_item": {
+          "id": "tv"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "226",
+          "title": "Uganda"
+        },
+        "webmd_item": {
+          "id": "ug"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "227",
+          "title": "Ukraine"
+        },
+        "webmd_item": {
+          "id": "ua"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "228",
+          "title": "United Arab Emirates"
+        },
+        "webmd_item": {
+          "id": "ae"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "18",
+          "title": "United Kingdom"
+        },
+        "webmd_item": {
+          "id": "gb"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "1",
+          "title": "United States"
+        },
+        "webmd_item": {
+          "id": "us"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "229",
+          "title": "Uruguay"
+        },
+        "webmd_item": {
+          "id": "uy"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "230",
+          "title": "Uzbekistan"
+        },
+        "webmd_item": {
+          "id": "uz"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "231",
+          "title": "Vanuatu"
+        },
+        "webmd_item": {
+          "id": "vu"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "232",
+          "title": "Vatican"
+        },
+        "webmd_item": {
+          "id": "va"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "233",
+          "title": "Venezuela"
+        },
+        "webmd_item": {
+          "id": "ve"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "234",
+          "title": "Viet Nam"
+        },
+        "webmd_item": {
+          "id": "vn"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "235",
+          "title": "Virgin Islands, British"
+        },
+        "webmd_item": {
+          "id": "vg"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "236",
+          "title": "Virgin Islands, U.S."
+        },
+        "webmd_item": {
+          "id": "vi"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "237",
+          "title": "Wales"
+        },
+        "webmd_item": {
+          "id": "gb"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "238",
+          "title": "Wallis and Futuna"
+        },
+        "webmd_item": {
+          "id": "wf"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "239",
+          "title": "Yemen"
+        },
+        "webmd_item": {
+          "id": "ye"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "240",
+          "title": "Zambia"
+        },
+        "webmd_item": {
+          "id": "zm"
+        }
+      },
+      {
+        "affiliate_item": {
+          "id": "241",
+          "title": "Zimbabwe"
+        },
+        "webmd_item": {
+          "id": "zw"
+        }
+      }
+    ]
+  }
+}

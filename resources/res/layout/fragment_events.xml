@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:tag="layout/fragment_events_0" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:theme="@style/AppTheme.AppBarOverlay" android:id="@+id/actionBar" android:layout_width="match_parent" android:layout_height="wrap_content" android:elevation="0dp" app:elevation="0dp">
+        <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:background="?attr/colorPrimary" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:popupTheme="@style/AppTheme.AppBarOverlay"/>
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="?attr/actionBarSize" android:fillViewport="true">
+        <androidx.constraintlayout.widget.ConstraintLayout android:id="@+id/constraintView" android:tag="binding_1" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.webmd.medscape.live.explorelivevents.ui.views.DropDownFiltersView android:id="@+id/filters" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/dimen_10dp" app:layout_constraintBottom_toTopOf="@+id/rv_items" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+            <androidx.recyclerview.widget.RecyclerView android:id="@+id/rv_items" android:tag="binding_2" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dimen_8dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toEndOf="0" app:layout_constraintTop_toBottomOf="@+id/filters"/>
+            <ProgressBar android:id="@+id/pb_loader" android:tag="binding_3" android:layout_width="@dimen/dimen_60dp" android:layout_height="@dimen/dimen_60dp" android:indeterminate="true" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0"/>
+            <include android:textSize="@dimen/dimen_16sp" android:textStyle="bold" android:id="@+id/lyt_error" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" layout="@layout/not_found_error_view"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

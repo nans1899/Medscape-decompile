@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:background="@color/white" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="5dp" android:layout_marginRight="5dp">
+    <Button android:textStyle="normal" android:textColor="@color/consult_blue" android:layout_gravity="center_horizontal" android:id="@+id/button_add_an_update" android:background="@drawable/blue_rectangle_border" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginBottom="10dp" android:text="@string/consult_add_update" android:fontFamily="sans-serif-medium" android:layout_marginStart="12dp" android:layout_marginEnd="12dp"/>
+</FrameLayout>

@@ -1,0 +1,1921 @@
+{
+	"code": 0,
+	"status": "ok",
+	"data": {
+		"drug_id_s": "FDB_11285",
+		"mono_id_s": "7061",
+		"drug_name": "metformin HCL",
+		"url_s": "/drugs/2/drug-11285-7061/metformin-hcl/details",
+		"description": "Metformin is used with a proper diet and exercise program and possibly with other medications to control high blood sugar. It is used in patients with type 2 diabetes. Controlling high blood sugar helps prevent kidney damage, blindness, nerve problems, loss of limbs, and sexual function problems. Proper control of diabetes may also lessen your risk of a heart attack or stroke. Metformin works by helping to restore your body's proper response to the insulin you naturally produce. It also decreases the amount of sugar that your liver makes and that your stomach/intestines absorb.",
+		"generic_names": ["metformin"],
+		"other_brand_names": ["Riomet", "Fortamet", "Glucophage XR", "Glumetza", "Glucophage"],
+		"monograph": {
+			"statusCode": "Active",
+			"type": "PEMONO",
+			"description": "Metformin is used with a proper diet and exercise program and possibly with other medications to control high blood sugar. It is used in patients with type 2 diabetes. Controlling high blood sugar helps prevent kidney damage, blindness, nerve problems, loss of limbs, and sexual function problems. Proper control of diabetes may also lessen your risk of a heart attack or stroke. Metformin works by helping to restore your body's proper response to the insulin you naturally produce. It also decreases the amount of sugar that your liver makes and that your stomach/intestines absorb.",
+			"monograph_title": "METFORMIN - ORAL",
+			"phonetic_pronunciation": "(met-FOR-min)",
+			"common_brand_name": "Glucophage",
+			"warning": "Rarely, too much metformin can build up in the body and cause a serious (sometimes fatal) condition called lactic acidosis. Lactic acidosis is more likely to happen in certain medical conditions such as kidney or liver disease, recent surgery, a serious infection, worsening heart failure, heavy alcohol use, a severe loss of body fluids (dehydration), or X-ray or scanning procedures that use iodinated contrast. Tell your doctor right away if any of these conditions occur or if you notice a big change in your overall health. You may need to stop taking this medication for a short time. Older adults are also at higher risk. (See also Side Effects and Precautions sections.)Stop taking this medication and get medical help right away if you have any symptoms of lactic acidosis, such as unusual tiredness, dizziness, severe drowsiness, chills, blue/cold skin, muscle pain, fast/difficult breathing, slow/irregular heartbeat, stomach pain with nausea, vomiting, or diarrhea.",
+			"uses": "Metformin is used with a proper diet and exercise program and possibly with other medications to control high blood sugar. It is used in patients with type 2 diabetes. Controlling high blood sugar helps prevent kidney damage, blindness, nerve problems, loss of limbs, and sexual function problems. Proper control of diabetes may also lessen your risk of a heart attack or stroke. Metformin works by helping to restore your body's proper response to the insulin you naturally produce. It also decreases the amount of sugar that your liver makes and that your stomach/intestines absorb.",
+			"other_uses": "This section contains uses of this drug that are not listed in the approved professional labeling for the drug but that may be prescribed by your health care professional. Use this drug for a condition that is listed in this section only if it has been so prescribed by your health care professional.Metformin may be used with lifestyle changes such as diet and exercise to prevent diabetes in people who are at high risk for becoming diabetic. It is also used in women with a certain disease of the ovaries (polycystic ovarian syndrome). Metformin may make menstrual cycles more regular and increase fertility.",
+			"how_to_use": "Read the Patient Information Leaflet if available from your pharmacist before you start taking metformin and each time you get a refill. If you have any questions, consult your doctor or pharmacist.Take this medication by mouth as directed by your doctor, usually 1-3 times a day with meals. Drink plenty of fluids while taking this medication unless otherwise directed by your doctor.The dosage is based on your medical condition, response to treatment, and other medications you may be taking. Be sure to tell your doctor and pharmacist about all the products you use (including prescription drugs, nonprescription drugs, and herbal products). To reduce your risk of side effects (such as upset stomach), your doctor may direct you to start this medication at a low dose and gradually increase your dose. Follow your doctor's instructions carefully.Take this medication regularly in order to get the most benefit from it. Remember to use it at the same times each day.If you are already taking another diabetes drug (such as chlorpropamide), follow your doctor's directions carefully for stopping/continuing the old drug and starting metformin.Check your blood sugar regularly as directed by your doctor. Keep track of the results, and share them with your doctor. Tell your doctor if your blood sugar measurements are too high or too low. Your dosage/treatment may need to be changed.",
+			"side_effects": "Nausea, vomiting, stomach upset, diarrhea, weakness, or a metallic taste in the mouth may occur. If any of these effects persist or worsen, tell your doctor or pharmacist promptly. If stomach symptoms return later (after taking the same dose for several days or weeks), tell your doctor right away. Stomach symptoms that occur after the first days of your treatment may be signs of lactic acidosis.Remember that your doctor has prescribed this medication because he or she has judged that the benefit to you is greater than the risk of side effects. Many people using this medication do not have serious side effects.Metformin does not usually cause low blood sugar (hypoglycemia). Low blood sugar may occur if this drug is prescribed with other diabetes medications. Talk with your doctor or pharmacist about whether the dose of your other diabetes medication(s) needs to be lowered.Symptoms of low blood sugar include sudden sweating, shaking, fast heartbeat, hunger, blurred vision, dizziness, or tingling hands/feet. It is a good habit to carry glucose tablets or gel to treat low blood sugar. If you don't have these reliable forms of glucose, rapidly raise your blood sugar by eating a quick source of sugar such as table sugar, honey, or candy, or drink fruit juice or non-diet soda. Tell your doctor about the reaction right away. Low blood sugar is more likely if you drink large amounts of alcohol, do unusually heavy exercise, or do not consume enough calories from food. To help prevent low blood sugar, eat meals on a regular schedule, and do not skip meals. Check with your doctor or pharmacist to find out what you should do if you miss a meal.Symptoms of high blood sugar (hyperglycemia) include thirst, increased urination, confusion, drowsiness, flushing, rapid breathing, and fruity breath odor. If these symptoms occur, tell your doctor right away. Your doctor may need to adjust your diabetes medication(s).Stop taking this medication and tell your doctor right away if this very serious side effect occurs: lactic acidosis (see Warning section).A very serious allergic reaction to this drug is rare. However, get medical help right away if you notice any of the following symptoms of a serious allergic reaction: rash, itching/swelling (especially of the face/tongue/throat), severe dizziness, trouble breathing.This is not a complete list of possible side effects. If you notice other effects not listed above, contact your doctor or pharmacist.In the US -Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088 or at www.fda.gov/medwatch.In Canada - Call your doctor for medical advice about side effects. You may report side effects to Health Canada at 1-866-234-2345.",
+			"precautions": "See also Warning section.Before taking this medication, tell your doctor or pharmacist if you are allergic to metformin; or if you have any other allergies. This product may contain inactive ingredients, which can cause allergic reactions or other problems. Talk to your pharmacist for more details.Before using this medication, tell your doctor or pharmacist your medical history, especially of: severe breathing problems (such as obstructive lung disease, severe asthma), blood problems (such as anemia, vitamin B12 deficiency), kidney disease, liver disease.Before having surgery or any X-ray/scanning procedure using iodinated contrast, tell your doctor or dentist about all the products you use (including prescription drugs, nonprescription drugs, and herbal products). You may need to stop this medication for a short time for the surgery/procedure. Ask your doctor or dentist for instructions before your surgery/procedure.You may experience blurred vision, dizziness, or drowsiness due to extremely low or high blood sugar. Do not drive, use machinery, or do any activity that requires alertness or clear vision until you are sure you can perform such activities safely.Limit alcohol while using this medication because it can increase your risk of lactic acidosis and developing low blood sugar.High fever, \"water pills\" (diuretics such as hydrochlorothiazide), too much sweating, diarrhea, or vomiting may cause loss of too much body water (dehydration) and increase your risk of lactic acidosis. Stop taking this medication and tell your doctor right away if you have prolonged diarrhea or vomiting. Be sure to drink enough fluids to prevent dehydration unless your doctor directs you otherwise.It may be harder to control your blood sugar when your body is stressed (such as due to fever, infection, injury, or surgery). Consult your doctor because increased stress may require a change in your treatment plan, medications, or blood sugar testing.Older adults may be at greater risk for side effects such as low blood sugar or lactic acidosis.During pregnancy, this medication should be used only when clearly needed. Discuss the risks and benefits with your doctor. Your doctor may direct you to use insulin instead of this product during your pregnancy. Follow your doctor's instructions carefully.Metformin can cause changes in the menstrual cycle (promote ovulation) and increase the risk of becoming pregnant. Consult your doctor or pharmacist about the use of reliable birth control while using this medication.Metformin passes into breast milk in small amounts. Consult your doctor before breast-feeding.",
+			"drug_interaction": "Drug interactions may change how your medications work or increase your risk for serious side effects. This document does not contain all possible drug interactions. Keep a list of all the products you use (including prescription/nonprescription drugs and herbal products) and share it with your doctor and pharmacist. Do not start, stop, or change the dosage of any medicines without your doctor's approval.Beta-blocker medications (such as metoprolol, propranolol, glaucoma eye drops such as timolol) may prevent the fast/pounding heartbeat you would usually feel when your blood sugar falls too low (hypoglycemia). Other symptoms of low blood sugar, such as dizziness, hunger, or sweating, are unaffected by these drugs.Many drugs can affect your blood sugar levels, making it more difficult to control your blood sugar. Before you start, stop, or change any medication, talk with your doctor or pharmacist about how the medication may affect your blood sugar. Check your blood sugar regularly as directed by your doctor. Tell your doctor about the results and of any symptoms of high or low blood sugar. (See also Side Effects section.) Your doctor may need to adjust your diabetes medication, exercise program, or diet.",
+			"overdose": "If someone has overdosed and has serious symptoms such as passing out or trouble breathing, call 911. Otherwise, call a poison control center right away. US residents can call their local poison control center at 1-800-222-1222. Canada residents can call a provincial poison control center. Overdose can cause lactic acidosis. Symptoms of overdose may include: severe drowsiness, severe nausea/vomiting/diarrhea, rapid breathing, slow/irregular heartbeat.",
+			"notes": "Do not share this medication with others.Attend a diabetes education program to learn more about how to manage your diabetes with medications, diet, exercise, and regular medical exams.Learn the symptoms of high and low blood sugar and how to treat low blood sugar. Check your blood sugar regularly as directed and share the results with your doctor.Lab and/or medical tests (such as kidney function, liver function, blood sugar, hemoglobin A1c, complete blood counts) should be done before you start taking this medication and while you are taking it. Keep all medical and lab appointments. Consult your doctor for more details.",
+			"missed_dose": "If you miss a dose, take it as soon as you remember with food. If it is near the time of the next dose, skip the missed dose and resume your usual dosing schedule. Do not double the dose to catch up.",
+			"storage": "Store at room temperature away from light and moisture. Do not store in the bathroom. Keep all medications away from children and pets.Do not flush medications down the toilet or pour them into a drain unless instructed to do so. Properly discard this product when it is expired or no longer needed. Consult your pharmacist or local waste disposal company for more details about how to safely discard your product.",
+			"medical_alert": "Your condition can cause complications in a medical emergency. For information about enrolling in MedicAlert, call 1-888-633-4298 (US) or 1-800-668-1507 (Canada).",
+			"document_information": "Information last revised July 2016. Copyright(c) 2016 First Databank, Inc.",
+			"disclaimer": "IMPORTANT: HOW TO USE THIS INFORMATION:  This is a summary and does NOT have all possible information about this product. This information does not assure that this product is safe, effective, or appropriate for you. This information is not individual medical advice and does not substitute for the advice of your health care professional. Always ask your health care professional for complete information about this product and your specific health needs."
+		},
+		"topic_ids": ["1667"],
+		"primary_topic_id": "1667",
+		"content_tags": [{
+			"name": "Geriatric",
+			"narrative": "Renal-Increased risk for drug induced metabolic acidosis with increasing age and declining renal function. Metformin is contraindicated in patients with an eGFR below 30 mL/min.  Cardiovascular-Heart failure patients may have a higher risk for metabolic acidosis.",
+			"severity": "management or monitoring precaution",
+			"source": "FDB",
+			"tag": "Metformin",
+			"type": "PreCautions",
+			"tag_id": "747"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-314/dmtitle-metformin-iodinated-contrast-materials/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Severe Interaction",
+			"tag": "METFORMIN/IODINATED CONTRAST MATERIALS",
+			"type": "DrugInteractions",
+			"tag_id": "314",
+			"id": "314"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-1059/dmtitle-antidiabetic-agents-fenugreek/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Undetermined Severity - Alternative Therapy Interaction",
+			"tag": "ANTIDIABETIC AGENTS/FENUGREEK",
+			"type": "DrugInteractions",
+			"tag_id": "1059",
+			"id": "1059"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-1088/dmtitle-antidiabetic-agents-ginseng/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Undetermined Severity - Alternative Therapy Interaction",
+			"tag": "ANTIDIABETIC AGENTS/GINSENG",
+			"type": "DrugInteractions",
+			"tag_id": "1088",
+			"id": "1088"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-1317/dmtitle-antidiabetic-agents-gymnema/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Severe Interaction",
+			"tag": "ANTIDIABETIC AGENTS/GYMNEMA",
+			"type": "DrugInteractions",
+			"tag_id": "1317",
+			"id": "1317"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-1442/dmtitle-antidiabetic-agents-selected-quinolones/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Moderate Interaction",
+			"tag": "ANTIDIABETIC AGENTS/SELECTED QUINOLONES",
+			"type": "DrugInteractions",
+			"tag_id": "1442",
+			"id": "1442"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-1446/dmtitle-metformin-cimetidine/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Moderate Interaction",
+			"tag": "METFORMIN/CIMETIDINE",
+			"type": "DrugInteractions",
+			"tag_id": "1446",
+			"id": "1446"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-1448/dmtitle-metformin-cephalexin/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Moderate Interaction",
+			"tag": "METFORMIN/CEPHALEXIN",
+			"type": "DrugInteractions",
+			"tag_id": "1448",
+			"id": "1448"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-1816/dmtitle-antidiabetic-agents-gatifloxacin/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Severe Interaction",
+			"tag": "ANTIDIABETIC AGENTS/GATIFLOXACIN",
+			"type": "DrugInteractions",
+			"tag_id": "1816",
+			"id": "1816"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-2432/dmtitle-metformin-ranolazine/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Moderate Interaction",
+			"tag": "METFORMIN/RANOLAZINE",
+			"type": "DrugInteractions",
+			"tag_id": "2432",
+			"id": "2432"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-2479/dmtitle-metformin-carbonic-anhydrase-inhibitors/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Moderate Interaction",
+			"tag": "METFORMIN/CARBONIC ANHYDRASE INHIBITORS",
+			"type": "DrugInteractions",
+			"tag_id": "2479",
+			"id": "2479"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-2595/dmtitle-metformin-dolutegravir/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Moderate Interaction",
+			"tag": "METFORMIN/DOLUTEGRAVIR",
+			"type": "DrugInteractions",
+			"tag_id": "2595",
+			"id": "2595"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-2671/dmtitle-metformin-trimethoprim/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Moderate Interaction",
+			"tag": "METFORMIN/TRIMETHOPRIM",
+			"type": "DrugInteractions",
+			"tag_id": "2671",
+			"id": "2671"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-2761/dmtitle-metformin-vandetanib/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Moderate Interaction",
+			"tag": "METFORMIN/VANDETANIB",
+			"type": "DrugInteractions",
+			"tag_id": "2761",
+			"id": "2761"
+		}, {
+			"relative_infolink": "/list-interaction-details/dmid-1347/dmtitle-hypoglycemics-insulin-bupropion/intrtype-drug",
+			"name": "Interaction",
+			"severity": "Moderate Interaction",
+			"tag": "HYPOGLYCEMICS; INSULIN/BUPROPION",
+			"type": "DrugInteractions",
+			"tag_id": "30653",
+			"id": "1347"
+		}, {
+			"name": "Pregnancy",
+			"narrative": "INSUFFICIENT HUMAN DATA AVAILABLE",
+			"severity": "Possibly Safe",
+			"source": "FDB",
+			"tag": "METFORMIN",
+			"type": "PreCautions",
+			"tag_id": "1082"
+		}, {
+			"name": "Pediatric",
+			"narrative": "Safety and efficacy in pediatrics age < 10 years not established.",
+			"severity": "management or monitoring precaution",
+			"source": "FDB",
+			"tag": "Metformin (Immed Release)",
+			"type": "PreCautions",
+			"tag_id": "884"
+		}, {
+			"name": "Pediatric",
+			"narrative": "Safety and efficacy in pediatrics not established.",
+			"severity": "management or monitoring precaution",
+			"source": "FDB",
+			"tag": "Metformin (Extend Release)",
+			"type": "PreCautions",
+			"tag_id": "885"
+		}, {
+			"name": "Lactation",
+			"narrative": "NO KNOWN INFANT ADVERSE OUTCOMES; MFR ADVISES CAUTION",
+			"severity": "Precaution",
+			"source": "FDB",
+			"tag": "METFORMIN",
+			"type": "PreCautions",
+			"tag_id": "1074"
+		}, {
+			"name": "Allergies",
+			"status": "Live",
+			"tag": "Biguanides",
+			"type": "Warnings",
+			"tag_id": "900285"
+		}, {
+			"name": "Conditions",
+			"severity": "Moderate Warning",
+			"tag": "infection",
+			"type": "Warnings",
+			"tag_id": "412",
+			"side_effect_severity_code": "3",
+			"layman_text": "infection",
+			"abbreviation": "infection"
+		}, {
+			"name": "Conditions",
+			"severity": "Severe Warning",
+			"tag": "hypoglycemic disorder",
+			"type": "Warnings",
+			"tag_id": "607",
+			"side_effect_severity_code": "2",
+			"layman_text": "low blood sugar",
+			"abbreviation": "hypoglycemic disorder"
+		}, {
+			"name": "Conditions",
+			"severity": "Moderate Warning",
+			"tag": "pituitary insufficiency",
+			"type": "Warnings",
+			"tag_id": "615",
+			"side_effect_severity_code": "3",
+			"layman_text": "pituitary hormone deficiency",
+			"abbreviation": "pituitary insufficiency"
+		}, {
+			"name": "Conditions",
+			"severity": "Moderate Warning",
+			"tag": "Adrenocortical Insufficiency",
+			"type": "Warnings",
+			"tag_id": "637",
+			"side_effect_severity_code": "3",
+			"layman_text": "Decreased Function of the Adrenal Gland",
+			"abbreviation": "Adrenal Cortical Insufficiency"
+		}, {
+			"name": "Conditions",
+			"severity": "Moderate Warning",
+			"tag": "Vitamin B12 Deficiency",
+			"type": "Warnings",
+			"tag_id": "669",
+			"side_effect_severity_code": "3",
+			"layman_text": "Inadequate Vitamin B12",
+			"abbreviation": "Vitamin B12 Deficiency"
+		}, {
+			"name": "Conditions",
+			"severity": "Contraindication",
+			"tag": "Metabolic Acidosis",
+			"type": "Warnings",
+			"tag_id": "742",
+			"side_effect_severity_code": "1",
+			"layman_text": "Excess Body Acid",
+			"abbreviation": "Metabolic Acidosis"
+		}, {
+			"name": "Conditions",
+			"severity": "Contraindication",
+			"tag": "Dehydration",
+			"type": "Warnings",
+			"tag_id": "746",
+			"side_effect_severity_code": "1",
+			"layman_text": "Extreme Loss of Body Water",
+			"abbreviation": "Dehydration"
+		}, {
+			"name": "Conditions",
+			"severity": "Contraindication",
+			"tag": "Alcoholism",
+			"type": "Warnings",
+			"tag_id": "996",
+			"side_effect_severity_code": "1",
+			"layman_text": "Habit of Drinking Too Much Alcohol",
+			"abbreviation": "Alcoholism"
+		}, {
+			"name": "Conditions",
+			"severity": "Contraindication",
+			"tag": "Alcohol Intoxication",
+			"type": "Warnings",
+			"tag_id": "1002",
+			"side_effect_severity_code": "1",
+			"layman_text": "Alcohol Intoxication",
+			"abbreviation": "Alcohol Intoxication"
+		}, {
+			"name": "Conditions",
+			"severity": "Severe Warning",
+			"tag": "Myocardial Infarction",
+			"type": "Warnings",
+			"tag_id": "1447",
+			"side_effect_severity_code": "2",
+			"layman_text": "Heart Attack",
+			"abbreviation": "Myocardial Infarction"
+		}, {
+			"name": "Conditions",
+			"severity": "Severe Warning",
+			"tag": "Acute Decompensated Heart Failure",
+			"type": "Warnings",
+			"tag_id": "1589",
+			"side_effect_severity_code": "2",
+			"layman_text": "Suddenly Serious Symptoms of Heart Failure",
+			"abbreviation": "Acute Decompensated Heart Failure"
+		}, {
+			"name": "Conditions",
+			"severity": "Severe Warning",
+			"tag": "Disease of Liver",
+			"type": "Warnings",
+			"tag_id": "2202",
+			"side_effect_severity_code": "2",
+			"layman_text": "Liver Problems",
+			"abbreviation": "Disease of Liver"
+		}, {
+			"name": "Conditions",
+			"severity": "Moderate Warning",
+			"tag": "Surgical or Other Procedure",
+			"type": "Warnings",
+			"tag_id": "3023",
+			"side_effect_severity_code": "3",
+			"layman_text": "Recent Operation",
+			"abbreviation": "Surgical or Other Procedure"
+		}, {
+			"name": "Conditions",
+			"severity": "Moderate Warning",
+			"tag": "Fever",
+			"type": "Warnings",
+			"tag_id": "3069",
+			"side_effect_severity_code": "3",
+			"layman_text": "Fever",
+			"abbreviation": "Fever"
+		}, {
+			"name": "Conditions",
+			"severity": "Contraindication",
+			"tag": "Shock",
+			"type": "Warnings",
+			"tag_id": "3181",
+			"side_effect_severity_code": "1",
+			"layman_text": "Shock",
+			"abbreviation": "Shock"
+		}, {
+			"name": "Conditions",
+			"severity": "Severe Warning",
+			"tag": "Severe Vomiting",
+			"type": "Warnings",
+			"tag_id": "3227",
+			"side_effect_severity_code": "2",
+			"layman_text": "Severe Vomiting",
+			"abbreviation": "Severe Vomiting"
+		}, {
+			"name": "Conditions",
+			"severity": "Severe Warning",
+			"tag": "Severe Diarrhea",
+			"type": "Warnings",
+			"tag_id": "3247",
+			"side_effect_severity_code": "2",
+			"layman_text": "Severe Diarrhea",
+			"abbreviation": "Severe Diarrhea"
+		}, {
+			"name": "Conditions",
+			"severity": "Contraindication",
+			"tag": "Severe Hypoxemia",
+			"type": "Warnings",
+			"tag_id": "3301",
+			"side_effect_severity_code": "1",
+			"layman_text": "Serious Lack of Oxygen in the Blood",
+			"abbreviation": "Severe Hypoxemia"
+		}, {
+			"name": "Conditions",
+			"severity": "Moderate Warning",
+			"tag": "Debilitation",
+			"type": "Warnings",
+			"tag_id": "3307",
+			"side_effect_severity_code": "3",
+			"layman_text": "Weakened Patient",
+			"abbreviation": "Debilitation"
+		}, {
+			"name": "Conditions",
+			"severity": "Moderate Warning",
+			"tag": "Trauma",
+			"type": "Warnings",
+			"tag_id": "3338",
+			"side_effect_severity_code": "3",
+			"layman_text": "Injury",
+			"abbreviation": "Trauma"
+		}, {
+			"name": "Conditions",
+			"severity": "Contraindication",
+			"tag": "Sepsis Syndrome",
+			"type": "Warnings",
+			"tag_id": "4428",
+			"side_effect_severity_code": "1",
+			"layman_text": "Sepsis Syndrome",
+			"abbreviation": "Sepsis Syndrome"
+		}, {
+			"name": "Conditions",
+			"severity": "Contraindication",
+			"tag": "Radiography with IV Iodinated Contrast Agent",
+			"type": "Warnings",
+			"tag_id": "8477",
+			"side_effect_severity_code": "1",
+			"layman_text": "X-Ray Study with Intravenous Iodine Contrast Agent",
+			"abbreviation": "Radiography with IV Iodinated Contrast Agent"
+		}, {
+			"name": "Conditions",
+			"severity": "Severe Warning",
+			"tag": "chronic kidney disease stage 3B (moderate) GFR 30-44 mL/min",
+			"type": "Warnings",
+			"tag_id": "14570",
+			"side_effect_severity_code": "2",
+			"layman_text": "chronic kidney disease stage 3B (moderate)",
+			"abbreviation": "chronic kidney disease stage 3B (moderate) GFR 30-44"
+		}, {
+			"name": "Conditions",
+			"severity": "Contraindication",
+			"tag": "chronic kidney disease stage 4 (severe) GFR 15-29 mL/min",
+			"type": "Warnings",
+			"tag_id": "14571",
+			"side_effect_severity_code": "1",
+			"layman_text": "chronic kidney disease stage 4 (severe)",
+			"abbreviation": "chronic kidney disease stage 4 (severe) GFR 15-29 mL/min"
+		}, {
+			"name": "Conditions",
+			"severity": "Contraindication",
+			"tag": "chronic kidney disease stage 5 (failure) GFR<15 mL/min",
+			"type": "Warnings",
+			"tag_id": "14572",
+			"side_effect_severity_code": "1",
+			"layman_text": "chronic kidney disease stage 5 (failure)",
+			"abbreviation": "chronic kidney disease stage 5 (failure) GFR<15 mL/min"
+		}, {
+			"name": "Conditions",
+			"severity": "Severe Warning",
+			"tag": "kidney disease with likely reduction in glomerular filtration rate (GFR)",
+			"type": "Warnings",
+			"tag_id": "14580",
+			"side_effect_severity_code": "2",
+			"layman_text": "kidney disease with likely reduction in kidney function",
+			"abbreviation": "kidney disease with likely reduction in GFR"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Prevention of Type 2 Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "14041",
+			"dispensable_drug_id": "155744",
+			"code": "U",
+			"id": "14041",
+			"layman_text": "Prevention of Type 2 Diabetes Mellitus",
+			"abbreviation": "Prevention of Type 2 Diabetes Mellitus"
+		}, {
+			"source": "Drug indication has been approved by the FDA",
+			"tag": "type 2 diabetes mellitus",
+			"type": "indication",
+			"tag_id": "594",
+			"dispensable_drug_id": "155744",
+			"code": "L",
+			"id": "594",
+			"layman_text": "type 2 diabetes mellitus",
+			"abbreviation": "type 2 diabetes mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Gestational Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "2553",
+			"dispensable_drug_id": "155744",
+			"code": "U",
+			"id": "2553",
+			"layman_text": "Diabetes During Pregnancy",
+			"abbreviation": "Gestational Diabetes Mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Polycystic Ovarian Syndrome",
+			"type": "indication",
+			"tag_id": "643",
+			"dispensable_drug_id": "155744",
+			"code": "U",
+			"id": "643",
+			"layman_text": "Disease of Ovaries with Cysts",
+			"abbreviation": "Polycystic Ovarian Syndrome"
+		}, {
+			"source": "Drug indication has been approved by the FDA",
+			"tag": "type 2 diabetes mellitus",
+			"type": "indication",
+			"tag_id": "594",
+			"dispensable_drug_id": "191479",
+			"code": "L",
+			"id": "594",
+			"layman_text": "type 2 diabetes mellitus",
+			"abbreviation": "type 2 diabetes mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Gestational Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "2553",
+			"dispensable_drug_id": "191479",
+			"code": "U",
+			"id": "2553",
+			"layman_text": "Diabetes During Pregnancy",
+			"abbreviation": "Gestational Diabetes Mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Polycystic Ovarian Syndrome",
+			"type": "indication",
+			"tag_id": "643",
+			"dispensable_drug_id": "191479",
+			"code": "U",
+			"id": "643",
+			"layman_text": "Disease of Ovaries with Cysts",
+			"abbreviation": "Polycystic Ovarian Syndrome"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Prevention of Type 2 Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "14041",
+			"dispensable_drug_id": "191479",
+			"code": "U",
+			"id": "14041",
+			"layman_text": "Prevention of Type 2 Diabetes Mellitus",
+			"abbreviation": "Prevention of Type 2 Diabetes Mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Gestational Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "2553",
+			"dispensable_drug_id": "241223",
+			"code": "U",
+			"id": "2553",
+			"layman_text": "Diabetes During Pregnancy",
+			"abbreviation": "Gestational Diabetes Mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Polycystic Ovarian Syndrome",
+			"type": "indication",
+			"tag_id": "643",
+			"dispensable_drug_id": "241223",
+			"code": "U",
+			"id": "643",
+			"layman_text": "Disease of Ovaries with Cysts",
+			"abbreviation": "Polycystic Ovarian Syndrome"
+		}, {
+			"source": "Drug indication has been approved by the FDA",
+			"tag": "type 2 diabetes mellitus",
+			"type": "indication",
+			"tag_id": "594",
+			"dispensable_drug_id": "241223",
+			"code": "L",
+			"id": "594",
+			"layman_text": "type 2 diabetes mellitus",
+			"abbreviation": "type 2 diabetes mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Prevention of Type 2 Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "14041",
+			"dispensable_drug_id": "241223",
+			"code": "U",
+			"id": "14041",
+			"layman_text": "Prevention of Type 2 Diabetes Mellitus",
+			"abbreviation": "Prevention of Type 2 Diabetes Mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Polycystic Ovarian Syndrome",
+			"type": "indication",
+			"tag_id": "643",
+			"dispensable_drug_id": "287634",
+			"code": "U",
+			"id": "643",
+			"layman_text": "Disease of Ovaries with Cysts",
+			"abbreviation": "Polycystic Ovarian Syndrome"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Gestational Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "2553",
+			"dispensable_drug_id": "287634",
+			"code": "U",
+			"id": "2553",
+			"layman_text": "Diabetes During Pregnancy",
+			"abbreviation": "Gestational Diabetes Mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Prevention of Type 2 Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "14041",
+			"dispensable_drug_id": "287634",
+			"code": "U",
+			"id": "14041",
+			"layman_text": "Prevention of Type 2 Diabetes Mellitus",
+			"abbreviation": "Prevention of Type 2 Diabetes Mellitus"
+		}, {
+			"source": "Drug indication has been approved by the FDA",
+			"tag": "type 2 diabetes mellitus",
+			"type": "indication",
+			"tag_id": "594",
+			"dispensable_drug_id": "287634",
+			"code": "L",
+			"id": "594",
+			"layman_text": "type 2 diabetes mellitus",
+			"abbreviation": "type 2 diabetes mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Prevention of Type 2 Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "14041",
+			"dispensable_drug_id": "449605",
+			"code": "U",
+			"id": "14041",
+			"layman_text": "Prevention of Type 2 Diabetes Mellitus",
+			"abbreviation": "Prevention of Type 2 Diabetes Mellitus"
+		}, {
+			"source": "Drug indication has been approved by the FDA",
+			"tag": "type 2 diabetes mellitus",
+			"type": "indication",
+			"tag_id": "594",
+			"dispensable_drug_id": "449605",
+			"code": "L",
+			"id": "594",
+			"layman_text": "type 2 diabetes mellitus",
+			"abbreviation": "type 2 diabetes mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Polycystic Ovarian Syndrome",
+			"type": "indication",
+			"tag_id": "643",
+			"dispensable_drug_id": "449605",
+			"code": "U",
+			"id": "643",
+			"layman_text": "Disease of Ovaries with Cysts",
+			"abbreviation": "Polycystic Ovarian Syndrome"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Gestational Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "2553",
+			"dispensable_drug_id": "449605",
+			"code": "U",
+			"id": "2553",
+			"layman_text": "Diabetes During Pregnancy",
+			"abbreviation": "Gestational Diabetes Mellitus"
+		}, {
+			"source": "Drug indication has been approved by the FDA",
+			"tag": "type 2 diabetes mellitus",
+			"type": "indication",
+			"tag_id": "594",
+			"dispensable_drug_id": "453598",
+			"code": "L",
+			"id": "594",
+			"layman_text": "type 2 diabetes mellitus",
+			"abbreviation": "type 2 diabetes mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Gestational Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "2553",
+			"dispensable_drug_id": "453598",
+			"code": "U",
+			"id": "2553",
+			"layman_text": "Diabetes During Pregnancy",
+			"abbreviation": "Gestational Diabetes Mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Polycystic Ovarian Syndrome",
+			"type": "indication",
+			"tag_id": "643",
+			"dispensable_drug_id": "453598",
+			"code": "U",
+			"id": "643",
+			"layman_text": "Disease of Ovaries with Cysts",
+			"abbreviation": "Polycystic Ovarian Syndrome"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Prevention of Type 2 Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "14041",
+			"dispensable_drug_id": "453598",
+			"code": "U",
+			"id": "14041",
+			"layman_text": "Prevention of Type 2 Diabetes Mellitus",
+			"abbreviation": "Prevention of Type 2 Diabetes Mellitus"
+		}, {
+			"source": "Drug indication has been approved by the FDA",
+			"tag": "type 2 diabetes mellitus",
+			"type": "indication",
+			"tag_id": "594",
+			"dispensable_drug_id": "467971",
+			"code": "L",
+			"id": "594",
+			"layman_text": "type 2 diabetes mellitus",
+			"abbreviation": "type 2 diabetes mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Gestational Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "2553",
+			"dispensable_drug_id": "467971",
+			"code": "U",
+			"id": "2553",
+			"layman_text": "Diabetes During Pregnancy",
+			"abbreviation": "Gestational Diabetes Mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Prevention of Type 2 Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "14041",
+			"dispensable_drug_id": "467971",
+			"code": "U",
+			"id": "14041",
+			"layman_text": "Prevention of Type 2 Diabetes Mellitus",
+			"abbreviation": "Prevention of Type 2 Diabetes Mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Polycystic Ovarian Syndrome",
+			"type": "indication",
+			"tag_id": "643",
+			"dispensable_drug_id": "467971",
+			"code": "U",
+			"id": "643",
+			"layman_text": "Disease of Ovaries with Cysts",
+			"abbreviation": "Polycystic Ovarian Syndrome"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Prevention of Type 2 Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "14041",
+			"dispensable_drug_id": "467970",
+			"code": "U",
+			"id": "14041",
+			"layman_text": "Prevention of Type 2 Diabetes Mellitus",
+			"abbreviation": "Prevention of Type 2 Diabetes Mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Polycystic Ovarian Syndrome",
+			"type": "indication",
+			"tag_id": "643",
+			"dispensable_drug_id": "467970",
+			"code": "U",
+			"id": "643",
+			"layman_text": "Disease of Ovaries with Cysts",
+			"abbreviation": "Polycystic Ovarian Syndrome"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Gestational Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "2553",
+			"dispensable_drug_id": "467970",
+			"code": "U",
+			"id": "2553",
+			"layman_text": "Diabetes During Pregnancy",
+			"abbreviation": "Gestational Diabetes Mellitus"
+		}, {
+			"source": "Drug indication has been approved by the FDA",
+			"tag": "type 2 diabetes mellitus",
+			"type": "indication",
+			"tag_id": "594",
+			"dispensable_drug_id": "467970",
+			"code": "L",
+			"id": "594",
+			"layman_text": "type 2 diabetes mellitus",
+			"abbreviation": "type 2 diabetes mellitus"
+		}, {
+			"source": "Drug indication has been approved by the FDA",
+			"tag": "type 2 diabetes mellitus",
+			"type": "indication",
+			"tag_id": "594",
+			"dispensable_drug_id": "545999",
+			"code": "L",
+			"id": "594",
+			"layman_text": "type 2 diabetes mellitus",
+			"abbreviation": "type 2 diabetes mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Gestational Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "2553",
+			"dispensable_drug_id": "545999",
+			"code": "U",
+			"id": "2553",
+			"layman_text": "Diabetes During Pregnancy",
+			"abbreviation": "Gestational Diabetes Mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Polycystic Ovarian Syndrome",
+			"type": "indication",
+			"tag_id": "643",
+			"dispensable_drug_id": "545999",
+			"code": "U",
+			"id": "643",
+			"layman_text": "Disease of Ovaries with Cysts",
+			"abbreviation": "Polycystic Ovarian Syndrome"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Prevention of Type 2 Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "14041",
+			"dispensable_drug_id": "545999",
+			"code": "U",
+			"id": "14041",
+			"layman_text": "Prevention of Type 2 Diabetes Mellitus",
+			"abbreviation": "Prevention of Type 2 Diabetes Mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Polycystic Ovarian Syndrome",
+			"type": "indication",
+			"tag_id": "643",
+			"dispensable_drug_id": "546006",
+			"code": "U",
+			"id": "643",
+			"layman_text": "Disease of Ovaries with Cysts",
+			"abbreviation": "Polycystic Ovarian Syndrome"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Gestational Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "2553",
+			"dispensable_drug_id": "546006",
+			"code": "U",
+			"id": "2553",
+			"layman_text": "Diabetes During Pregnancy",
+			"abbreviation": "Gestational Diabetes Mellitus"
+		}, {
+			"source": "Drug indication has been approved by the FDA",
+			"tag": "type 2 diabetes mellitus",
+			"type": "indication",
+			"tag_id": "594",
+			"dispensable_drug_id": "546006",
+			"code": "L",
+			"id": "594",
+			"layman_text": "type 2 diabetes mellitus",
+			"abbreviation": "type 2 diabetes mellitus"
+		}, {
+			"source": "Non-FDA Approved Drug Indications",
+			"tag": "Prevention of Type 2 Diabetes Mellitus",
+			"type": "indication",
+			"tag_id": "14041",
+			"dispensable_drug_id": "546006",
+			"code": "U",
+			"id": "14041",
+			"layman_text": "Prevention of Type 2 Diabetes Mellitus",
+			"abbreviation": "Prevention of Type 2 Diabetes Mellitus"
+		}, {
+			"frequency": "Incidence rare or very rare",
+			"action": "MD should be contacted",
+			"name": "SideEffects",
+			"severity": "severe",
+			"tag": "hypoglycemic disorder",
+			"type": "SideEffects",
+			"id": "607",
+			"side_effect_severity_code": "1",
+			"side_effect_action_code": "1",
+			"side_effect_frequency_code": "2",
+			"layman_text": "low blood sugar",
+			"abbreviation": "hypoglycemic disorder"
+		}, {
+			"frequency": "Incidence more frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Vitamin B12 Deficiency",
+			"type": "SideEffects",
+			"id": "669",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "0",
+			"layman_text": "Inadequate Vitamin B12",
+			"abbreviation": "Vitamin B12 Deficiency"
+		}, {
+			"frequency": "Incidence rare or very rare",
+			"action": "MD should be contacted",
+			"name": "SideEffects",
+			"severity": "severe",
+			"tag": "Lactic Acidosis",
+			"type": "SideEffects",
+			"id": "740",
+			"side_effect_severity_code": "1",
+			"side_effect_action_code": "1",
+			"side_effect_frequency_code": "2",
+			"layman_text": "Increased Blood Acidity due to High Levels of Lactic Acid",
+			"abbreviation": "Lactic Acidosis"
+		}, {
+			"frequency": "Incidence rare or very rare",
+			"action": "MD should be contacted",
+			"name": "SideEffects",
+			"severity": "severe",
+			"tag": "Megaloblastic Anemia",
+			"type": "SideEffects",
+			"id": "807",
+			"side_effect_severity_code": "1",
+			"side_effect_action_code": "1",
+			"side_effect_frequency_code": "2",
+			"layman_text": "Megaloblastic Anemia",
+			"abbreviation": "Megaloblastic Anemia"
+		}, {
+			"frequency": "Incidence more frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Upper Respiratory Infection",
+			"type": "SideEffects",
+			"id": "1757",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "0",
+			"layman_text": "Acute Infection of the Nose, Throat or Sinus",
+			"abbreviation": "Upper Respiratory Infection"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Rhinitis",
+			"type": "SideEffects",
+			"id": "1766",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Inflammation of the Nose",
+			"abbreviation": "Rhinitis"
+		}, {
+			"frequency": "Incidence rare or very rare",
+			"action": "MD should be contacted",
+			"name": "SideEffects",
+			"severity": "severe",
+			"tag": "Acute Respiratory Distress Syndrome",
+			"type": "SideEffects",
+			"id": "1915",
+			"side_effect_severity_code": "1",
+			"side_effect_action_code": "1",
+			"side_effect_frequency_code": "2",
+			"layman_text": "Acute Respiratory Distress Syndrome",
+			"abbreviation": "Acute Respiratory Distress Syndrome"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Dyspepsia",
+			"type": "SideEffects",
+			"id": "2059",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Indigestion",
+			"abbreviation": "Dyspepsia"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Constipation",
+			"type": "SideEffects",
+			"id": "2114",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Incomplete or Infrequent Bowel Movements",
+			"abbreviation": "Constipation"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Nail Disorders",
+			"type": "SideEffects",
+			"id": "2712",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Fingernail and/or Toenail Disease",
+			"abbreviation": "Nail Disorders"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "MD should be contacted",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Myalgia",
+			"type": "SideEffects",
+			"id": "2863",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "1",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Muscle Pain",
+			"abbreviation": "Myalgia"
+		}, {
+			"frequency": "Incidence rare or very rare",
+			"action": "MD should be contacted",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Drowsy",
+			"type": "SideEffects",
+			"id": "3036",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "1",
+			"side_effect_frequency_code": "2",
+			"layman_text": "Drowsiness",
+			"abbreviation": "Drowsy"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Dizziness",
+			"type": "SideEffects",
+			"id": "3059",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Dizzy",
+			"abbreviation": "Dizziness"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Flu-Like Symptoms",
+			"type": "SideEffects",
+			"id": "3076",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Flu-Like Symptoms",
+			"abbreviation": "Flu-Like Symptoms"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Hyperhidrosis",
+			"type": "SideEffects",
+			"id": "3077",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Excessive Sweating",
+			"abbreviation": "Hyperhidrosis"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Chills",
+			"type": "SideEffects",
+			"id": "3083",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Chills",
+			"abbreviation": "Chills"
+		}, {
+			"frequency": "Incidence more frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Dysgeusia",
+			"type": "SideEffects",
+			"id": "3100",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "0",
+			"layman_text": "Taste Problems",
+			"abbreviation": "Dysgeusia"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Skin Rash",
+			"type": "SideEffects",
+			"id": "3118",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Rash",
+			"abbreviation": "Skin Rash"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Flushing",
+			"type": "SideEffects",
+			"id": "3135",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Temporary Redness of Face and Neck",
+			"abbreviation": "Flushing"
+		}, {
+			"frequency": "Incidence more frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Weight Loss",
+			"type": "SideEffects",
+			"id": "3147",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "0",
+			"layman_text": "Weight Loss",
+			"abbreviation": "Weight Loss"
+		}, {
+			"frequency": "Incidence more frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Headache Disorder",
+			"type": "SideEffects",
+			"id": "3153",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "0",
+			"layman_text": "Head Pain",
+			"abbreviation": "Headache Disorder"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Palpitations",
+			"type": "SideEffects",
+			"id": "3179",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Heart Throbbing or Pounding",
+			"abbreviation": "Palpitations"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "MD should be contacted",
+			"name": "SideEffects",
+			"severity": "severe",
+			"tag": "Dyspnea",
+			"type": "SideEffects",
+			"id": "3199",
+			"side_effect_severity_code": "1",
+			"side_effect_action_code": "1",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Trouble Breathing",
+			"abbreviation": "Dyspnea"
+		}, {
+			"frequency": "Incidence more frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Nausea",
+			"type": "SideEffects",
+			"id": "3223",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "0",
+			"layman_text": "Feel Like Throwing Up",
+			"abbreviation": "Nausea"
+		}, {
+			"frequency": "Incidence more frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Vomiting",
+			"type": "SideEffects",
+			"id": "3226",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "0",
+			"layman_text": "Throwing Up",
+			"abbreviation": "Vomiting"
+		}, {
+			"frequency": "Incidence more frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Flatulence",
+			"type": "SideEffects",
+			"id": "3232",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "0",
+			"layman_text": "Gas",
+			"abbreviation": "Flatulence"
+		}, {
+			"frequency": "Incidence more frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Diarrhea",
+			"type": "SideEffects",
+			"id": "3246",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "0",
+			"layman_text": "Diarrhea",
+			"abbreviation": "Diarrhea"
+		}, {
+			"frequency": "Incidence more frequent",
+			"action": "Contact MD only if becomes bothersome",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Abdominal Distension",
+			"type": "SideEffects",
+			"id": "3268",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "0",
+			"side_effect_frequency_code": "0",
+			"layman_text": "Swelling of the Abdomen",
+			"abbreviation": "Abdominal Distension"
+		}, {
+			"frequency": "Incidence less frequent",
+			"action": "MD should be contacted",
+			"name": "SideEffects",
+			"severity": "less severe",
+			"tag": "Acute Abdominal Pain",
+			"type": "SideEffects",
+			"id": "5857",
+			"side_effect_severity_code": "0",
+			"side_effect_action_code": "1",
+			"side_effect_frequency_code": "1",
+			"layman_text": "Intense Abdominal Pain",
+			"abbreviation": "Acute Abdominal Pain"
+		}],
+		"dosage_forms": [{
+			"name": "metformin 500 mg tablet",
+			"tag": "metformin 500 mg tablet",
+			"type": "DISPDRUG",
+			"dose_forms": "tablet",
+			"med_strength": "500",
+			"med_unit": "mg",
+			"route": "Oral",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"dispensable_drug_status_code": "Active"
+		}, {
+			"name": "metformin 850 mg tablet",
+			"tag": "metformin 850 mg tablet",
+			"type": "DISPDRUG",
+			"dose_forms": "tablet",
+			"med_strength": "850",
+			"med_unit": "mg",
+			"route": "Oral",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"dispensable_drug_status_code": "Active"
+		}, {
+			"name": "metformin 1,000 mg tablet",
+			"tag": "metformin 1,000 mg tablet",
+			"type": "DISPDRUG",
+			"dose_forms": "tablet",
+			"med_strength": "1,000",
+			"med_unit": "mg",
+			"route": "Oral",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"dispensable_drug_status_code": "Active"
+		}],
+		"images": [{
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/TEV10480.jpg",
+			"name": "TEV10480",
+			"alt_tag": "This medicine is a white, oval, film-coated, tablet imprinted with \"93\" and \"48\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/TEV1049Z.jpg",
+			"name": "TEV1049Z",
+			"alt_tag": "This medicine is a white, oval, film-coated, tablet imprinted with \"49\" and \"93\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/TEV7214Z.jpg",
+			"name": "TEV7214Z",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, tablet imprinted with \"9 3\" and \"72 14\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MYN71850.jpg",
+			"name": "MYN71850",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"MF  1\" and \"G\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MYN71860.jpg",
+			"name": "MYN71860",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"MF  2\" and \"G\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MYN71870.jpg",
+			"name": "MYN71870",
+			"alt_tag": "This medicine is a white, oblong, scored, film-coated, tablet imprinted with \"MF  3\" and \"G G\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MJR63260.jpg",
+			"name": "MJR63260",
+			"alt_tag": "This medicine is a white, round, coated, tablet imprinted with \"227\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MJR63270.jpg",
+			"name": "MJR63270",
+			"alt_tag": "This medicine is a white, round, coated, tablet imprinted with \"228\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MJR63280.jpg",
+			"name": "MJR63280",
+			"alt_tag": "This medicine is a white, oval, scored, coated, tablet imprinted with \"229 229\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/SDZ50500.jpg",
+			"name": "SDZ50500",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"GP 124\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/SDZ50510.jpg",
+			"name": "SDZ50510",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"GP  127\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/SDZ50520.jpg",
+			"name": "SDZ50520",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, tablet imprinted with \"GP 128\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MJR64340.jpg",
+			"name": "MJR64340",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"E  213\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MJR63440.jpg",
+			"name": "MJR63440",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"E  215\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MJR63450.jpg",
+			"name": "MJR63450",
+			"alt_tag": "This medicine is a white, oval, partially scored, film-coated, tablet imprinted with \"E 221\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/QLT44690.jpg",
+			"name": "QLT44690",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, tablet imprinted with \"44 69\" and \"V\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/QLT44670.jpg",
+			"name": "QLT44670",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"4467\" and \"V\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/QLT44680.jpg",
+			"name": "QLT44680",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"4468\" and \"V\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/ABC00472.jpg",
+			"name": "ABC00472",
+			"alt_tag": "This medicine is a white, oval, partially scored, film-coated, tablet imprinted with \"E 221\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/ABC00131.jpg",
+			"name": "ABC00131",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, tablet imprinted with \"GP 128\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/ABC00131.jpg",
+			"name": "ABC00131",
+			"alt_tag": "This medicine is a white, oval, partially scored, film-coated, tablet imprinted with \"E 221\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/HER01040.jpg",
+			"name": "HER01040",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, tablet imprinted with \"H 104\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/HER01030.jpg",
+			"name": "HER01030",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"H  103\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/GLN01590.jpg",
+			"name": "GLN01590",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"G  45\" and \"500\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/AUR00100.jpg",
+			"name": "AUR00100",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, tablet imprinted with \"1 4\" and \"A\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/HER01020.jpg",
+			"name": "HER01020",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"H  102\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/GLN01610.jpg",
+			"name": "GLN01610",
+			"alt_tag": "This medicine is a white, oblong, film-coated, tablet imprinted with \"G 45\" and \"1000\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/EON02150.jpg",
+			"name": "EON02150",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"A\" and \"13\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/CCA04350.jpg",
+			"name": "CCA04350",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"435\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/AMN02200.jpg",
+			"name": "AMN02200",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, blackberry, tablet imprinted with \"IP 220\" and \"10 00\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/SLC02480.jpg",
+			"name": "SLC02480",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"I45\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/SLC02490.jpg",
+			"name": "SLC02490",
+			"alt_tag": "This medicine is a white, oblong, film-coated, tablet imprinted with \"I46\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/SLC02500.jpg",
+			"name": "SLC02500",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, tablet imprinted with \"I 47\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/CAL03610.jpg",
+			"name": "CAL03610",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"SG\" and \"105\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/CAL03620.jpg",
+			"name": "CAL03620",
+			"alt_tag": "This medicine is a white, round, film-coated, blackberry, tablet imprinted with \"SG\" and \"106\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/CAL03630.jpg",
+			"name": "CAL03630",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, tablet imprinted with \"S G\" and \"1 07\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/AMN02190.jpg",
+			"name": "AMN02190",
+			"alt_tag": "This medicine is a white, round, film-coated, blackberry, tablet imprinted with \"IP  219\" and \"850\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/AMN02180.jpg",
+			"name": "AMN02180",
+			"alt_tag": "This medicine is a white, round, film-coated, blackberry, tablet imprinted with \"IP  218\" and \"500\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/SLC03200.jpg",
+			"name": "SLC03200",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"134\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/ING01540.jpg",
+			"name": "ING01540",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"G  10\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/ING01560.jpg",
+			"name": "ING01560",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, tablet imprinted with \"G 12\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MYN02340.jpg",
+			"name": "MYN02340",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"M\" and \"234\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/CCA03970.jpg",
+			"name": "CCA03970",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"397\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/CCA04740.jpg",
+			"name": "CCA04740",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, tablet imprinted with \"C 474\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/ZYD00290.jpg",
+			"name": "ZYD00290",
+			"alt_tag": "This medicine is a white, oval, film-coated, tablet imprinted with \"69\" and \"Z\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/ZYD00280.jpg",
+			"name": "ZYD00280",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"70\" and \"Z\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/ZYD00300.jpg",
+			"name": "ZYD00300",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, tablet imprinted with \"Z 71\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/ATX01900.jpg",
+			"name": "ATX01900",
+			"alt_tag": "This medicine is a white, oblong, film-coated, tablet imprinted with \"APO 500\" and \"MET\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/ATX01910.jpg",
+			"name": "ATX01910",
+			"alt_tag": "This medicine is a white, oblong, film-coated, tablet imprinted with \"APO 850\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/ATX01920.jpg",
+			"name": "ATX01920",
+			"alt_tag": "This medicine is a white, oval, scored, film-coated, tablet imprinted with \"APO 1000\".",
+			"dispensable_drug_id": "241223",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MET00080.jpg",
+			"name": "MET00080",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"A\" and \"12\".",
+			"dispensable_drug_id": "155744",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}, {
+			"path": "http://img.medscapestatic.com/pi/features/drugdirectory/octupdate/GLN01600.jpg",
+			"name": "GLN01600",
+			"alt_tag": "This medicine is a white, round, film-coated, tablet imprinted with \"G  45\" and \"850\".",
+			"dispensable_drug_id": "191479",
+			"monograph_ids": ["7061"],
+			"type": {
+				"name": "IMGIMPIMAGE",
+				"issearchable": false,
+				"isallornone": false,
+				"description": "Image and Imprint Image",
+				"idasintvalid": true
+			}
+		}],
+		"ndc": ["00093104801", "00093104810", "00093104898", "00093104901", "00093104910", "00093104998", "00093721401", "00093721410", "00093721498", "00378718505", "00378718605", "00378718705", "00440573900", "00440573901", "00440573905", "00440573981", "00440573985", "00440573990", "00440573992", "00440574500", "00440574501", "00440574505", "00440574581", "00440574585", "00440574590", "00440574592", "00440574600", "00440574601", "00440574605", "00440574681", "00440574685", "00440574690", "00440574692", "00781505001", "00781505005", "00781505010", "00781505061", "00781505101", "00781505105", "00781505261", "00904632661", "00904632761", "00904632861", "00904634314", "00904634318", "00904634325", "00904634340", "00904634352", "00904634353", "00904634354", "00904634360", "00904634380", "00904634389", "00904634393", "00904634440", "00904634452", "00904634453", "00904634489", "00904634493", "00904634540", "00904634552", "00904634589", "00904634593", "00904584914", "00904584918", "00603446921", "00603446928", "00603446932", "00603446721", "00603446728", "00603446732", "00603446821", "00603446828", "00603446832", "00904584940", "00904584952", "00904584953", "00904584954", "00904584989", "00904584993", "00904585040", "00904585052", "00904585053", "00904585089", "00904585093", "00904585140", "00904585152", "00904585189", "00904585193", "10544094790", "10544063030", "10544063090", "10544058960", "23155010306", "23155010310", "23155010401", "23155010405", "23155010406", "23155010410", "33358023400", "24658029005", "35356088630", "35356088660", "35356069160", "33358023430", "33358023460", "33358023630", "33358023660", "33358023730", "33358023760", "23155010201", "23155010205", "23155010206", "23155010210", "23155010301", "23155010305", "24658029012", "24658029018", "24658029027", "24658029036", "24658029046", "24658029060", "24658029090", "24658029205", "24658029218", "24658029260", "24658029290", "35356079230", "35356088690", "35356092290", "35356095930", "35356095960", "35356095990", "43353053060", "43353053080", "43353058992", "43353058994", "43353058996", "43353088553", "43353088560", "43353088573", "43353088580", "43353088586", "43353089430", "43547024810", "43547024811", "43547024850", "43547024910", "43547024911", "43547024950", "43547025010", "43547025011", "43547025050", "43547035710", "43547035711", "43547035750", "43547035810", "43547035850", "43547035910", "43547035950", "43063043030", "43063043060", "43063043090", "43063043093", "43063043094", "43063043098", "43353011480", "43063053986", "43063053990", "43063053993", "43063053994", "43353034092", "43353034094", "43353034096", "43353034453", "43353034460", "43353034480", "43353034492", "43353034930", "43353034945", "43353034953", "43353034960", "43353034973", "43353081160", "43353081180", "43353081192", "43353009880", "43353034030", "43353034053", "43353034060", "43353098230", "43353098253", "43353098260", "43353098280", "43353098292", "43353098294", "43353098296", "43353034070", "43353034075", "43353034080", "43353051445", "43353051453", "43353051460", "43353051473", "43353051480", "43353051486", "43353052060", "43353052080", "49999011660", "42291060510", "42291060512", "42291060518", "42291060527", "42291060536", "42291060545", "42291060560", "42291060590", "42291060610", "42291060618", "42291060627", "43353093630", "43353093645", "43353093673", "43353093686", "43353098730", "43353098745", "43353098753", "43353098760", "43353098773", "43353098780", "43353098786", "43547032010", "43547032011", "43547032050", "43547032110", "43547032150", "43547032210", "43547032250", "42806021305", "42806021310", "42806021501", "42806021505", "42806022105", "49999049530", "49999049560", "43353034980", "43353034986", "43353047730", "43353047753", "43353047760", "43353047770", "43353088545", "43063001201", "43063001260", "43063001286", "43063001290", "43063001293", "43063001294", "49483062001", "43063052720", "43063052730", "43063052760", "43063052790", "43063052793", "43063052794", "43353012830", "43353012845", "43353012853", "43353012860", "43353012873", "43353012880", "43353012886", "43353047780", "43353047792", "43353047794", "43353047796", "49483062050", "49483062101", "49483062150", "49483062201", "49483062250", "43353008260", "43353008280", "43353008292", "43353051430", "43353058930", "43353058953", "43353058960", "43353058970", "43353058975", "43353058980", "43353081153", "43353084230", "43353084253", "43353084260", "43353084270", "43353084280", "43353084294", "43353084296", "49999010600", "49999010601", "49999010628", "49999010630", "49999010660", "49999010690", "42291060690", "42291060710", "42291060718", "42291060760", "42291060790", "50742015410", "50742015490", "50742015501", "50742015505", "50742015510", "50742015590", "50742015601", "50742015605", "50742015610", "50742015690", "50742015401", "50742015405", "51079017201", "51079017220", "51079017301", "51079017308", "51079017401", "51079017420", "51079097217", "51079097219", "51079097230", "51079097256", "52959020700", "52959020728", "52959020730", "52959020760", "52959086090", "52959089601", "52959086030", "52959089660", "54868456100", "54868456101", "54868456102", "54868456103", "54868456104", "54868456400", "54868456401", "54868456402", "54868456404", "54868456405", "53746021801", "53746021805", "53746021810", "53746021901", "53746021905", "53746021910", "53746022001", "53746022005", "53746022010", "54569535300", "54569535304", "54569535306", "54569536004", "54569536005", "54569536006", "54569537300", "54569537302", "54569537303", "54569537304", "54569535302", "54569535303", "54569535305", "54569536000", "54569536003", "54868456600", "54868456601", "54868456602", "54868456603", "54868456604", "55700024830", "55700024860", "55700024890", "55154358604", "55154358607", "55154358704", "55154358707", "55289061514", "55289061530", "55289061560", "55289061586", "55289061590", "55289061593", "55289061594", "55289061598", "55154358804", "55154358807", "55289093430", "55289093460", "55289093493", "55289093494", "55289093498", "55289091930", "55289091960", "55289091990", "55289091993", "55289091994", "55289091998", "57664039751", "57664039753", "57664039758", "57664043551", "57664043553", "57664043558", "57664047451", "57664047453", "57664047458", "57664047488", "58864078930", "60687014301", "60687014311", "60687015501", "60687015511", "60687016201", "60687016211", "60429011318", "60429011360", "60429011390", "60429011136", "60429011145", "60429011160", "60429011190", "60429011201", "60429011205", "60429011218", "60429011227", "60429011260", "60429011290", "60429011305", "60429011310", "60760097360", "60760097398", "60760097460", "60760097490", "60760097560", "60760097590", "58864069330", "58864069360", "60505019000", "60505019001", "58864001528", "58864001530", "58864001560", "58864001590", "58517004090", "61442036101", "61442036105", "61442036110", "61442036201", "61442036205", "61442036301", "61442036305", "60429011101", "60429011110", "60429011112", "60429011118", "60429011127", "60505019004", "60505019008", "60505019100", "60505019101", "60505019104", "60505019108", "60505019200", "60505019201", "60505019204", "60505019208", "61919039760", "62584045201", "62584025901", "61919031360", "62584025911", "62584033201", "62584033211", "62584045211", "63629139501", "63629139502", "63629139503", "63629139601", "63629139602", "63629139701", "63629139702", "63629139703", "63629139704", "63629139705", "63739064010", "65162021810", "65162021811", "65162021850", "65162021910", "65162021911", "65162021950", "65162022010", "65162022011", "65162022050", "65084041618", "65084041620", "65862000805", "65862000899", "65862000901", "65862000905", "65862001001", "65862001005", "65862001046", "65862001099", "65862000801", "66267049360", "66336035860", "66336088430", "66336088460", "63739070210", "67544004760", "67544004770", "67544010753", "67544010760", "67544010780", "67544010792", "67544004775", "67544004780", "67544004790", "67544004792", "67544004794", "67544004796", "67877021705", "67877021710", "67544048653", "67544042192", "67877021805", "67877021810", "67877022105", "67877022110", "67544004730", "67544004753", "67544016330", "67544016345", "67544016353", "67544016360", "67544016380", "67544042160", "67544042180", "68382002801", "68382002805", "68382002810", "68382002901", "68382002905", "68382002910", "68382003001", "68382003005", "68382003010", "68382075801", "68382075805", "68382075810", "68382075901", "68382075905", "68382075910", "68382076001", "68382076005", "68382076010", "68462015901", "68462015905", "68462015910", "68462015918", "68462015990", "68462016001", "68462016005", "68462016010", "68462016018", "68462016090", "68462016101", "68462016105", "68462016110", "68462016118", "68462016190", "68645029059", "68645030059", "68645053959", "68645054459", "68645054559", "68645054659"],
+		"gp10_s": "2725005000",
+		"gp14_s": "27250050000320,27250050000340,27250050000350,27250050007520,27250050007530,27250050007560,27250050007570,27250050007580,27250050007590"
+	}
+}

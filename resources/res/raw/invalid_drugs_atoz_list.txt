@@ -1,0 +1,155 @@
+{
+  "code": 0,
+  "dataa": {
+    "docsMatched": 43731,
+    "docOffset": 0,
+    "suggestions": [],
+    "docss": [
+      {
+        "drug_id_s": "FDB_52",
+        "mono_id_s": "137",
+        "title": "vinblastine SULFATE",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-52-137/vinblastine-sulfate/details",
+        "status_code_s": "Active"
+      },
+      {
+        "drug_id_s": "FDB_53",
+        "mono_id_s": "854",
+        "title": "Vistaril Solution",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-53-854/vistaril-solution/details",
+        "status_code_s": "Inactive"
+      },
+      {
+        "drug_id_s": "FDB_55",
+        "mono_id_s": "812",
+        "title": "Wycillin 600,000 unit intramuscular suspension",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-55-812/wycillin-600000-unit-intramuscular-suspension/details",
+        "status_code_s": "Replaced"
+      },
+      {
+        "drug_id_s": "FDB_56",
+        "mono_id_s": "0",
+        "title": "Xylocaine",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-56/xylocaine/",
+        "status_code_s": "Active"
+      },
+      {
+        "drug_id_s": "FDB_57",
+        "mono_id_s": "6181",
+        "title": "Theramycin Z Solution",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-57-6181/theramycin-z-solution/details",
+        "status_code_s": "Inactive"
+      },
+      {
+        "drug_id_s": "FDB_58",
+        "mono_id_s": "9213",
+        "title": "Tears NATURALE-II",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-58-9213/tears-naturale-ii/details",
+        "status_code_s": "Active"
+      },
+      {
+        "drug_id_s": "FDB_59",
+        "mono_id_s": "0",
+        "title": "XYLOCAINE WITH EPINEPHRINE",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-59/xylocaine-with-epinephrine/",
+        "status_code_s": "Active"
+      },
+      {
+        "drug_id_s": "FDB_54",
+        "mono_id_s": "4049",
+        "title": "Voltaren tablet, delayed release (enteric coated)",
+        "istop_s": "true",
+        "url_s": "/drugs/2/drug-54-4049/voltaren-tablet-delayed-release-enteric-coated/details",
+        "status_code_s": "Inactive"
+      },
+      {
+        "drug_id_s": "FDB_13701",
+        "mono_id_s": "6133",
+        "title": "etoposide phosphate Solution, Reconstituted (Recon Soln)",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-13701-6133/etoposide-phosphate-solution-reconstituted-recon-soln/details",
+        "status_code_s": "Active"
+      },
+      {
+        "drug_id_s": "FDB_13703",
+        "mono_id_s": "0",
+        "title": "Axid AR tablet",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-13703/axid-ar-tablet/",
+        "status_code_s": "Inactive"
+      },
+      {
+        "drug_id_s": "FDB_13704",
+        "mono_id_s": "6133",
+        "title": "Etopophos",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-13704-6133/etopophos/details",
+        "status_code_s": "Active"
+      },
+      {
+        "drug_id_s": "FDB_13705",
+        "mono_id_s": "1136",
+        "title": "Camptosar",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-13705-1136/camptosar/details",
+        "status_code_s": "Active"
+      },
+      {
+        "drug_id_s": "FDB_419",
+        "mono_id_s": "9121",
+        "title": "Monurol",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-419-9121/monurol/details",
+        "status_code_s": "Active"
+      },
+      {
+        "drug_id_s": "FDB_420",
+        "mono_id_s": "0",
+        "title": "Hepatic-Aid II oral powder",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-420/hepatic-aid-ii--powder/",
+        "status_code_s": "Inactive"
+      },
+      {
+        "drug_id_s": "FDB_459",
+        "mono_id_s": "5249",
+        "title": "Children's Tasty Multivit/Iron Tablet, Chewable",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-459-5249/childrens-tasty-multivit-iron-tablet-chewable/details",
+        "status_code_s": "Inactive"
+      },
+      {
+        "drug_id_s": "FDB_413",
+        "mono_id_s": "159",
+        "title": "Epogen",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-413-159/epogen/details",
+        "status_code_s": "Active"
+      },
+      {
+        "drug_id_s": "FDB_414",
+        "mono_id_s": "0",
+        "title": "Dexatrim Caffeine-Free Max St tablet, extended release",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-414/dexatrim-caffeine-free-max-st-tablet-extended-release/",
+        "status_code_s": "Inactive"
+      },
+      {
+        "drug_id_s": "FDB_415",
+        "mono_id_s": "189",
+        "title": "Capzasin-P Cream",
+        "istop_s": "false",
+        "url_s": "/drugs/2/drug-415-189/capzasin-p-cream/details",
+        "status_code_s": "Inactive"
+      }
+    ]
+  },
+  "status": "ok"
+}

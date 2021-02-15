@@ -1,0 +1,320 @@
+{"code": 0,
+  "data": {
+    "rxform": {
+      "data": [{
+        "drug": "haloperidol decanoate",
+        "forms": [{
+          "form": "ampul",
+          "strengths": [{
+            "strength": "50 mg/ml",
+            "GPI": "59100010302010",
+            "Quantity": [{
+              "rank": 1,
+              "value": 1,
+              "PackageSize": 1,
+              "PackageUnit": "ML",
+              "display": "1 ML"
+            }, {
+              "rank": 2,
+              "value": 2,
+              "PackageSize": 1,
+              "PackageUnit": "ML",
+              "display": "2 ML"
+            }, {
+              "rank": 3,
+              "value": 3,
+              "PackageSize": 1,
+              "PackageUnit": "ML",
+              "display": "3 ML"
+            }],
+            "NDC": ["10147092103"],
+            "is_generic": true,
+            "AutoPackageSelect": false,
+            "PackageDescription": "AMPUL",
+            "PackageSize": [{
+              "PackageSize": 1,
+              "display": "1 ML",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 AMPUL"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 AMPUL"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 AMPUL"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 AMPUL"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 AMPUL"
+              }]
+            }]
+          }]
+        }, {
+          "form": "vial",
+          "strengths": [{
+            "strength": "50 mg/ml",
+            "GPI": "59100010302010",
+            "Quantity": [{
+              "rank": 1,
+              "value": 5,
+              "PackageSize": 5,
+              "PackageUnit": "ML",
+              "display": "5 ML"
+            }],
+            "NDC": ["63323046901", "63323046905"],
+            "is_generic": true,
+            "AutoPackageSelect": false,
+            "PackageDescription": "VIAL",
+            "PackageSize": [{
+              "PackageSize": 1,
+              "display": "1 ML",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 VIAL"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 VIAL"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 VIAL"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 VIAL"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 VIAL"
+              }]
+            }, {
+              "PackageSize": 5,
+              "display": "5 ML",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 VIAL"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 VIAL"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 VIAL"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 VIAL"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 VIAL"
+              }]
+            }]
+          }, {
+            "strength": "100 mg/ml",
+            "GPI": "59100010302020",
+            "Quantity": [{
+              "rank": 1,
+              "value": 1,
+              "PackageSize": 1,
+              "PackageUnit": "ML",
+              "display": "1 ML"
+            }, {
+              "rank": 2,
+              "value": 10,
+              "PackageSize": 1,
+              "PackageUnit": "ML",
+              "display": "10 ML"
+            }],
+            "NDC": ["63323047101"],
+            "is_generic": true,
+            "AutoPackageSelect": false,
+            "PackageDescription": "VIAL",
+            "PackageSize": [{
+              "PackageSize": 1,
+              "display": "1 ML",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 VIAL"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 VIAL"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 VIAL"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 VIAL"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 VIAL"
+              }]
+            }]
+          }]
+        }]
+      }, {
+        "drug": "haloperidol decanoate 100",
+        "forms": [{
+          "form": "ampul",
+          "strengths": [{
+            "strength": "100 mg/ml",
+            "GPI": "59100010302020",
+            "Quantity": [{
+              "rank": 1,
+              "value": 1,
+              "PackageSize": 1,
+              "PackageUnit": "ML",
+              "display": "1 ML"
+            }, {
+              "rank": 2,
+              "value": 2,
+              "PackageSize": 1,
+              "PackageUnit": "ML",
+              "display": "2 ML"
+            }],
+            "NDC": ["10147092205"],
+            "is_generic": true,
+            "AutoPackageSelect": false,
+            "PackageDescription": "AMPUL",
+            "PackageSize": [{
+              "PackageSize": 1,
+              "display": "1 ML",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 AMPUL"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 AMPUL"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 AMPUL"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 AMPUL"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 AMPUL"
+              }]
+            }]
+          }]
+        }]
+      }, {
+        "drug": "Haldol Decanoate 50",
+        "forms": [{
+          "form": "ampul",
+          "strengths": [{
+            "strength": "50 mg/ml",
+            "GPI": "59100010302010",
+            "Quantity": [{
+              "rank": 1,
+              "value": 1,
+              "PackageSize": 1,
+              "PackageUnit": "ML",
+              "display": "1 ML"
+            }],
+            "NDC": ["50458025303"],
+            "is_generic": false,
+            "AutoPackageSelect": false,
+            "PackageDescription": "AMPUL",
+            "PackageSize": [{
+              "PackageSize": 1,
+              "display": "1 ML",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 AMPUL"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 AMPUL"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 AMPUL"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 AMPUL"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 AMPUL"
+              }]
+            }]
+          }]
+        }]
+      }, {
+        "drug": "Haldol Decanoate 100",
+        "forms": [{
+          "form": "ampul",
+          "strengths": [{
+            "strength": "100 mg/ml",
+            "GPI": "59100010302020",
+            "Quantity": [{
+              "rank": 1,
+              "value": 1,
+              "PackageSize": 1,
+              "PackageUnit": "ML",
+              "display": "1 ML"
+            }],
+            "NDC": ["50458025414"],
+            "is_generic": false,
+            "AutoPackageSelect": false,
+            "PackageDescription": "AMPUL",
+            "PackageSize": [{
+              "PackageSize": 1,
+              "display": "1 ML",
+              "Quantity": [{
+                "rank": 1,
+                "value": 1,
+                "display": "1 AMPUL"
+              }, {
+                "rank": 2,
+                "value": 2,
+                "display": "2 AMPUL"
+              }, {
+                "rank": 3,
+                "value": 3,
+                "display": "3 AMPUL"
+              }, {
+                "rank": 4,
+                "value": 4,
+                "display": "4 AMPUL"
+              }, {
+                "rank": 5,
+                "value": 5,
+                "display": "5 AMPUL"
+              }]
+            }]
+          }]
+        }]
+      }],
+      "meta": {
+        "VendorResponseTime": 121
+      }
+    }
+  },
+  "status": "ok"
+}

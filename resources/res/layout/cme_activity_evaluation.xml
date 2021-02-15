@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:background="@color/activity_toolbar_background" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" android:elevation="4dp" app:theme="@style/MyToolbars"/>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="@+id/toolbar">
+        <WebView android:id="@+id/webActivityWebView" android:layout_width="match_parent" android:layout_height="match_parent"/>
+        <include android:gravity="center" android:layout_gravity="center" android:id="@+id/noNetworkView" android:background="@android:color/white" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/cme_no_network_view"/>
+        <ProgressBar android:id="@+id/progressBar" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" android:progressBarStyleInverse="?android:attr/progressBarStyleInverse"/>
+    </RelativeLayout>
+</LinearLayout>

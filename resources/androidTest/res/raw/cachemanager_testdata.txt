@@ -1,0 +1,5 @@
+articleUrl=http://www.medscape.com/viewarticle/123450
+articleTitle=Test Article
+drugContentId=123450
+drugTitle=Advil
+userGUID=a1b2c3d4

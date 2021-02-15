@@ -1,0 +1,5 @@
+package org.mockito;
+
+@Deprecated
+public class Matchers extends ArgumentMatchers {
+}

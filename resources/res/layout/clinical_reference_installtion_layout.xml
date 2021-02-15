@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <RelativeLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="160dp">
+            <TextView android:textSize="24sp" android:textStyle="bold" android:textColor="#de000000" android:gravity="center" android:id="@+id/offline_access" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/offline_access"/>
+            <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:textColor="#4a4a4a" android:gravity="center" android:id="@+id/TopTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:text="@string/clinical_reference_top_text" android:layout_below="@+id/offline_access" android:layout_centerHorizontal="true" android:lineSpacingExtra="3dp" android:layout_marginStart="45dp" android:layout_marginEnd="45dp"/>
+            <LinearLayout android:orientation="horizontal" android:id="@+id/ButtonLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:layout_below="@+id/TopTextView" android:layout_centerHorizontal="true">
+                <Button android:textColor="@color/white" android:gravity="center" android:id="@+id/downloadButton" android:background="@drawable/download_btn" android:padding="10dp" android:layout_width="150dp" android:layout_height="wrap_content" android:layout_marginRight="10dp" android:text="@string/button_download_text" android:textAllCaps="false"/>
+                <Button android:textColor="@color/black" android:layout_gravity="center" android:id="@+id/skipButton" android:background="@drawable/skip_btn" android:padding="10dp" android:layout_width="150dp" android:layout_height="wrap_content" android:layout_marginLeft="10dp" android:text="@string/button_skip_text" android:textAllCaps="false"/>
+            </LinearLayout>
+            <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:textColor="#000" android:gravity="center" android:id="@+id/BottomTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="45dp" android:layout_marginTop="20dp" android:layout_marginRight="45dp" android:text="@string/clinical_reference_bottom_text" android:layout_below="@+id/ButtonLayout" android:layout_centerHorizontal="true"/>
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>
